@@ -1,0 +1,3385 @@
+agency_id,route_id,route_short_name,route_long_name,route_type
+21,10,1013,Balassagyarmat - Romhány - Rétság - Budapest,3
+21,1000,4219,Kállósemjén - Nagykálló - Nyíregyháza,3
+21,1001,4220,Kállósemjén - Nagykálló - Nyíregyháza,3
+21,1002,4221,Pócspetri - Nagykálló - Nyíregyháza,3
+21,1003,4222,Nyírlugos - Nagykálló - Nyíregyháza,3
+21,1004,4223,Nyírbátor - Nyírlugos - Nagykálló,3
+21,1005,4224,Csenger - Szamosangyalos - Mátészalka - Nyíregyháza,3
+21,1006,4225,Debrecen - Téglás - Nagykálló - Nyíregyháza,3
+21,1007,4226,"Nagykálló, Ludastó - Nagykálló",3
+21,1008,4227,Perkedpuszta - Balkány,3
+21,1009,4229,"Abapuszta - Balkány, Nagymogyorós",3
+21,1010,4231,Érpatak - Újfehértó - Nyíregyháza,3
+21,1011,4232,Nyíradony - Nagykálló - Nyíregyháza,3
+21,1012,4235,Hajdúnánás - Kálmánháza - Nyíregyháza,3
+21,1013,4239,Tiszadob/Tiszaeszlár  - Nagycserkesz - Nyíregyháza,3
+21,1014,4240,Tiszadob - Tiszalök - Tiszavasvári - Nyíregyháza,3
+21,1015,4243,Gávavencsellő - Rakamaz - Nyírtelek - Nyíregyháza,3
+21,1016,4244,Tiszavasvári - Tiszalök - Tiszaeszlár - Rakamaz,3
+21,1017,4245,Gávavencsellő - Rakamaz - Tokaj,3
+21,1018,4246,Kemecse - Ibrány - Rakamaz,3
+21,1019,4247,"Tiszadob, Rejetanya - Tiszadob",3
+21,1021,4251,Szabolcsveresmart - Kisvárda,3
+21,1022,4254,Tiszamogyorós - Mándok - Kisvárda,3
+21,1023,4256,Záhony - Eperjeske - Mándok,3
+21,1024,4257,Záhony - Mándok,3
+21,1025,4258,Záhony - Tuzsér - Mándok,3
+21,1026,4259,Vásárosnamény - Aranyosapáti - Kisvárda,3
+21,1027,4261,Mátészalka - Vásárosnamény - Szabolcsbáka - Kisvárda,3
+21,1029,4263,Baktalórántháza - Kisvárda,3
+21,1030,4267,Kemecse - Székely - Kisvárda,3
+21,1031,4270,Gégény - Újdombrád - Kisvárda,3
+21,1033,4301,Lónya - Tiszaadony - Vásárosnamény,3
+21,1034,4303,Beregsurány - Barabás - Vásárosnamény - Nyíregyháza,3
+21,1035,4304,Debrecen - Nyíregyháza - Vásárosnamény - Beregsurány,3
+21,1037,4306,Fehérgyarmat - Tákos - Vásárosnamény,3
+21,1038,4310,Fehérgyarmat - Tarpa - Gulács - Vásárosnamény,3
+21,1040,4316,Mátészalka - Nagydobos - Olcsva - Vásárosnamény,3
+21,1042,4319,Nyírmada - Vásárosnamény,3
+21,1043,4321,Szamoskér - Nagydobos - Mátészalka,3
+21,1044,4323,Magosliget - Fehérgyarmat - Mátészalka - Debrecen,3
+21,1045,4324,[Csenger - Mátészalka]/Vállaj - Nyírbátor -  Debrecen,3
+21,1046,4325,Fehérgyarmat - Mátészalka,3
+21,1047,4326,Csenger - Szamosangyalos - Pátyod - Porcsalma - Mátészalka,3
+21,1048,4327,Csenger - Ura - Porcsalma - Mátészalka,3
+21,1049,4328,Nagyecsed - Nyírcsaholy - Mátészalka,3
+21,105,1301,Debrecen - Tiszafüred - Gyöngyös - Salgótarján,3
+21,1050,4329,Vállaj - Nyírcsaholy - Mátészalka,3
+21,1051,4332,Nyírbátor - Nyírmeggyes - Mátészalka,3
+21,1052,4335,Nyírkáta - Hodász - Őr - Mátészalka,3
+21,1053,4350,Beregsurány - Kisar - Fehérgyarmat,3
+21,1054,4352,Magosliget - Szatmárcseke - Fehérgyarmat,3
+21,1055,4355,Kispalád/Magosliget  - Nemesborzova/Mánd - Fehérgyarmat,3
+21,1056,4356,Kishódos - Vámosoroszi - Fehérgyarmat,3
+21,1057,4358,Csenger -  Vámosoroszi/Jánkmajtis - Fehérgyarmat,3
+21,1058,4360,Kishódos - Kisnamény - Fehérgyarmat,3
+21,1059,4365,Zajta/Csegöld - Csengersima - Csenger,3
+21,1060,4366,Hermánszeg - Cégénydányád - Fehérgyarmat,3
+21,1061,4367,Csenger - Porcsalma - Győrtelek - Fehérgyarmat,3
+21,1062,4368,Olcsvaapáti - Panyola - Fehérgyarmat,3
+21,1063,4369,Kántorjánosi - Nyírcsászári - Nyírbátor,3
+21,1064,4370,Vásárosnamény - Baktalórántháza - Nyírbátor,3
+21,1065,4371,Pócspetri - Máriapócs - Ófehértó - Baktalórántháza,3
+21,1066,4373,Mérk - Vállaj - Nyírbátor,3
+21,1067,4375,Penészlek/Nyírlugos - Nyírbéltek - Nyírbátor,3
+21,1068,4380,Balkány - Nyírmihálydi - Nyírbátor,3
+21,1069,4382,Pócspetri - Máriapócs - Nyírbátor,3
+21,1070,4400,Téglás - Hajdúhadház - Debrecen,3
+21,1071,4401,Szakoly - Téglás - Hajdúhadház - Debrecen,3
+21,1072,4402,Újfehértó - Hajdúhadház - Debrecen,3
+21,1073,4403,Mátészalka - Nyírbátor - Nyíradony - Debrecen,3
+21,1075,4405,Hajdúsámson - Debrecen,3
+21,1076,4406,Nyíradony - Hajdúsámson - Debrecen,3
+21,1077,4407,Debrecen - Nyíradony - Nyíracsád - Debrecen,3
+21,1078,4408,Hajdúhadház - Hajdúsámson - Martinka - Debrecen,3
+21,1079,4409,Hajdúsámson - Fényestelep - Hajdúhadház,3
+21,108,1305,Gyöngyös - Pásztó - Bátonyterenye - Salgótarján,3
+21,1080,4410,Nyíracsád - Vámospércs - Debrecen,3
+21,1081,4412,Encsencs - Nyírbéltek - Nyíracsád [ - Debrecen],3
+21,1082,4414,Nyíradony - Nyírbéltek - Penészlek - Fülöp - Vámospércs [ - Debrecen],3
+21,1083,4416,Létavértes - Bagamér - Vámospércs - Debrecen,3
+21,1084,4420,[Bagamér - ] Létavértes - Sáránd - Debrecen,3
+21,1085,4421,[Bagamér - ] Létavértes - Katihíd - Debrecen,3
+21,1086,4422,[Bagamér - ] Létavértes - Debrecen,3
+21,1087,4423,Pocsaj - Konyár - Debrecen,3
+21,1088,4424,Vámospércs - Bagamér - Létavértes,3
+21,1089,4430,Berettyóújfalu - Debrecen,3
+21,109,1306,Hatvan - Nagykökényes - Balassagyarmat,3
+21,1090,4431,Komádi - Berettyóújfalu [ - Debrecen],3
+21,1091,4432,Biharkeresztes - Körösszegapáti - Debrecen,3
+21,1092,4434,Biharkeresztes - Hencida - Debrecen,3
+21,1093,4438,Pocsaj - Hosszúpályi - Debrecen,3
+21,1094,4440,[Nagyrábé - ] Földes - Debrecen,3
+21,1095,4445,Hajdúszoboszló - Debrecen,3
+21,1096,4446,Püspökladány - Nádudvar - Hajdúszoboszló - Debrecen,3
+21,1097,4450,Debrecen - Nagyhegyes - Debrecen,3
+21,1098,4451,[Tiszacsege - ] Balmazújváros - Nagyhegyes - Debrecen,3
+21,1099,4452,Tiszacsege - Balmazújváros - Debrecen,3
+21,11,1020,Salgótarján - Mátraverebély - Budapest,3
+21,1100,4460,Hajdúböszörmény - Debrecen,3
+21,1101,4461,"Hajdúböszörmény, Bodaszőlő - Debrecen",3
+21,1103,4463,Polgár - Hajdúböszörmény - Debrecen,3
+21,1104,4464,Hajdúböszörmény - Bodaszőlő - Debrecen,3
+21,1105,4466,Hajdúnánás - Hajdúdorog - Debrecen,3
+21,1106,4467,Tiszavasvári - Hajdúnánás,3
+21,1108,4469,"Nyíracsád, Buzita - Nyíracsád",3
+21,1109,4472,Nyírábrány - Budaábrány - Nyírábrány,3
+21,111,1308,Gyöngyös - Herencsény - Balassagyarmat,3
+21,1110,4474,Nyírbátor - Penészlek - Nyírábrány,3
+21,1111,4475,Hajdúszoboszló - Nagyhegyes - Hajdúszoboszló [ - Debrecen],3
+21,1112,4476,Balmazújváros - Nagyhegyes - Hajdúszoboszló,3
+21,1113,4477,Balmazújváros - Nagyhegyes - Hajdúszoboszló [ - Debrecen],3
+21,1114,4478,Balmazújváros - Hajdúböszörmény,3
+21,1115,4479,"Hajdúböszörmény, Bodaszőlő - Hajdúböszörmény",3
+21,1116,4481,Téglás - Hajdúhadház - Hajdúböszörmény,3
+21,1117,4482,"Hajdúnánás - Görbeháza, Bagota - Polgár",3
+21,1118,4484,Egyek - Tiszacsege - Polgár - Tiszaújváros,3
+21,1120,4487,"Egyek, Belsőohat - Egyek - Tiszafüred",3
+21,1121,4488,Polgár - Hajdúdorog - Hajdúnánás,3
+21,1122,4489,"Egyek, Belsőohat - Egyek, Főtér",3
+21,1123,4491,Újfehértó - Hajdúdorog - Hajdúnánás,3
+21,1124,4500,Bojt - Hencida - Berettyóújfalu,3
+21,1125,4501,[Biharkeresztes - ] Nagykereki - Pocsaj - Berettyóújfalu,3
+21,1126,4502,[Debrecen - ] Vámospércs - Újléta - Létavértes,3
+21,1127,4505,Váncsod - Berettyóújfalu,3
+21,1128,4506,Biharkeresztes - Berettyóújfalu [ - Debrecen],3
+21,1129,4508,Létavértes - Pocsaj - Berettyóújfalu,3
+21,113,1343,Hajdúszoboszló - Debrecen - Füzesabony - Eger,3
+21,1130,4512,Szeghalom - Csökmő - Berettyóújfalu - Debrecen,3
+21,1131,4521,Püspökladány - Nagyrábé - Berettyóújfalu - Debrecen,3
+21,1132,4532,Nádudvar - Kaba - Berettyóújfalu,3
+21,1133,4533,"Kaba, vh. - Kaba, Cukorgyári ltp.",3
+21,1134,4536,Nagyrábé - Földes,3
+21,1135,4538,Püspökladány - Földes,3
+21,1136,4542,Hajdúszoboszló - Hajdúszovát - Derecske,3
+21,1137,4556,Bojt - Biharkeresztes,3
+21,1138,4557,Nagykereki(Nagyzomlin) - Biharkeresztes,3
+21,1139,4558,Ártánd - Biharkeresztes,3
+21,114,1344,Hajdúszoboszló - Debrecen - Mezőkövesd - Eger,3
+21,1140,4559,Told - Biharkeresztes,3
+21,1141,4561,Újiráz - Komádi - Körösszegapáti - Biharkeresztes,3
+21,1142,4562,"Komádi, Dobaipuszta - Komádi",3
+21,1144,4600,Zagyvarékas - Szolnok,3
+21,1145,4601,Jászberény - Jászalsószentgyörgy - Szolnok,3
+21,1146,4602,Gyöngyös - Jászberény - Szolnok,3
+21,1147,4603,Jászivány - Jászladány - Szolnok,3
+21,1148,4605,Besenyszög - Szolnok,3
+21,1149,4606,Tiszasüly - Nagykörű - Szolnok,3
+21,115,1346,Békéscsaba - Eger,3
+21,1150,4608,Tiszafüred - Kunhegyes - Szolnok,3
+21,1151,4609,Tiszafüred - Kunhegyes - Törökszentmiklós - Szolnok,3
+21,1152,4610,Törökszentmiklós - Szolnok,3
+21,1153,4611,Tiszapüspöki - Szolnok,3
+21,1154,4612,Tiszabő - Fegyvernek - Törökszentmiklós - Szolnok,3
+21,1155,4613,Tiszafüred - Abádszalók - Törökszentmiklós - Szolnok,3
+21,1156,4614,Tiszafüred - Kunhegyes - Szolnok,3
+21,1157,4616,Karcag - Kunhegyes - Szolnok,3
+21,1158,4617,Túrkeve - Kuncsorba - Szolnok,3
+21,1159,4618,Túrkeve - Mezőtúr - Törökszentmiklós - Szolnok,3
+21,116,1347,Salgótarján - Mátraterenye - Tarnalelesz - Eger,3
+21,1160,4619,Karcag - Kisújszállás - Szolnok,3
+21,1161,4620,Cibakháza - Martfű - Rákóczifalva - Szolnok,3
+21,1162,4621,Kunszentmárton - Tiszakürt - Cibakháza - Szolnok,3
+21,1163,4623,Kunszentmárton - Öcsöd - Martfű - Szolnok,3
+21,1164,4624,Mezőhék - Martfű,3
+21,1165,4630,Tiszavárkony - Tószeg - Szolnok,3
+21,1166,4632,Vezseny - Tiszavárkony - Szolnok,3
+21,1167,533,Jászkarajenő - Tiszavárkony - Szolnok,3
+21,1168,538,Tiszajenő - Köröstetétlen - Szolnok,3
+21,1169,537,Cegléd - Törtel - Szolnok / Jászkarajenő,3
+21,117,1348,Kecskemét - Eger,3
+21,1170,4638,Abony - Szolnok,3
+21,1171,534,Abony - Szolnok,3
+21,1172,4650,Pusztamonostor - Jászágó - Jászárokszállás  - Jászberény,3
+21,1173,4653,Gyöngyös - Vámosgyörk - Jászdózsa - Jászberény,3
+21,1174,4654,Tarnaörs - Jászdózsa - Jászberény,3
+21,1175,4655,Jászszentandrás - Jászapáti - Jászberény,3
+21,1177,4657,Jászivány - Jászapáti,3
+21,1178,4659,Jászalsószentgyörgy - Jászladány - Jászapáti - Jászberény,3
+21,1179,4660,Újszász - Jászalsószentgyörgy - Jásberény,3
+21,118,1349,Salgótarján - Nemti/Mátraterenye - Bükkszék - Eger,3
+21,1180,4662,Tiszasüly - Jászladány - Jászalsószentgyörgy - Jászberény,3
+21,1181,4663,Jászboldogháza-Jánoshida vá. - Jánoshida,3
+21,1182,523,Farmos - Portelek - Jászberény,3
+21,1183,499,Nagykáta - Jászberény,3
+21,1184,503,Szentmártonkáta - Jászfelsőszentgyörgy - Jászberény,3
+21,1185,4681,Hatvan - Jászfényszaru - Jászberény,3
+21,1186,4685,Jászfényszaru - Jászberény,3
+21,1187,4686,Hatvan - Boldog - Jászfényszaru - Jászberény,3
+21,1189,4700,Kunmadaras - Berekfürdő - Karcag,3
+21,119,1351,Salgótarján - Bátonyterenye - Pétervására - Eger,3
+21,1190,4701,Tiszafüred - Tiszaszentimre - Kunmadaras - Karcag,3
+21,1191,4702,Tiszafüred - Tiszaörs -Kunmadaras - Karcag,3
+21,1192,4704,Tilalmasi ÁG - Karcag,3
+21,1194,4710,Bucsa - Karcag,3
+21,1195,4715,Mezőtúr - Kisújszállás - Karcag,3
+21,1196,4720,Tiszabura - Kunhegyes - Kisújszállás - Karcag,3
+21,1198,4730,Tiszaderzs - Kunhegyes - Berekfürdő - Karcag,3
+21,1199,4731,"Abádszalók vá. - Abádszalók, aut.áll.",3
+21,12,1021,Salgótarján - Bátonyterenye - Pásztó - Budapest,3
+21,120,1352,Salgótarján - Recsk - Eger,3
+21,1200,4735,Szeghalom - Dévaványa - Kisújszállás,3
+21,1201,4738,Csorbai ÁG - Kisújszállás,3
+21,1204,4753,Tiszafüred (Kócsújfalu) - Tiszafüred,3
+21,1205,4755,Nagyiván - Tiszaörs - Tiszafüred,3
+21,1206,4757,Kunhegyes - Tiszaszentimre - Tiszafüred,3
+21,1207,4760,Kunhegyes - Tiszaroff - Tiszafüred,3
+21,1208,4770,Túrkeve - Mezőtúr,3
+21,1209,4772,Mezőtúr (Pusztabánréve) - Mezőtúr,3
+21,121,1354,Salgótarján - Bátonyterenye - Recsk - Eger,3
+21,1210,4775,Tiszaföldvár - Mezőtúr,3
+21,1211,4776,Kunszentmérton - Mesterszállás - Mezőhék - Mezőtúr,3
+21,1212,4777,Kecskemét - Lakitelek - Csépa - Kunszentmárton,3
+21,1213,4778,Kétpó - Mezőtúr,3
+21,1214,4780,Törökszentmiklós - Kuncsorba - Mezőtúr,3
+21,1215,4781,Csépa - Kunszentmárton,3
+21,1216,4782,Mesterszállás - Öcsöd - Kunszentmárton,3
+21,1217,4783,Lakitelek - Csépa - Kunszentmárton,3
+21,1219,4785,Tiszainoka - Tiszakürt - Kunszentmárton,3
+21,122,1362,Kecskemét - Jászberény - Heves - Eger,3
+21,1221,4790,"Törökszentmiklós, Ballatelep - Törökszentmiklós",3
+21,1222,4791,Pusztaszakállas - Törökszentmiklós,3
+21,1223,4792,Kétpó - Törökszentmiklós,3
+21,1224,4795,Martfű - Törökszentmiklós,3
+21,12249,1740,Pécs - Dombóvár - Siófok - Pécs,3
+21,1225,4796,Tiszapüspöki - Törökszentmiklós,3
+21,12252,1724,Keszthely - Sümeg - Sárvár - Sopron,3
+21,12253,3347,Hont - Drégelypalánk - Nagyoroszi - Patak,3
+21,12255,8403,"Oroszlány - Kecskéd - Tatabánya, Ipari Park - Tatabánya",3
+21,1226,4797,Kuncsorba - Örményes - Fegyvernek - Tiszabő,3
+21,12260,3432,Sarud - Poroszló - Mezőtárkány/Besenyőtelek - Füzesabony - Eger,3
+21,1227,4800,Békés - Békéscsaba,3
+21,1228,4801,Köröstarcsa - Békés - Békéscsaba,3
+21,1229,4805,Füzesgyramat - Szeghalom - Békés - Békéscsaba,3
+21,1230,4810,Körösújfalu - Bélmegyer - Békés - Békéscsaba,3
+21,1231,4812,Karcag - Szeghalom - Köröstarcsa - Mezőberény - Békéscsaba - Gyula,3
+21,1232,4813,Dévaványa - Mezőberény - Békéscsaba,3
+21,1233,4815,Gyomaendrőd - Mezőberény - Békéscsaba,3
+21,1234,4816,Vésztő - Szeghalom - Békés - Békéscsaba,3
+21,1235,4819,Sarkadkeresztúr - Doboz - Békéscsaba,3
+21,1236,4820,Doboz - Békéscsaba,3
+21,1237,4821,Szanazug - Doboz - Békéscsaba,3
+21,12377,5913,Törökkoppány - Tab - Kaposvár,3
+21,1239,4824,Szeghalom/Körösújfalu - Sarkad - Gyula - Békéscsaba,3
+21,1240,4825,Gyula - Békéscsaba,3
+21,1241,4826,Mezőkovácsháza - Kunágota - Medgyesegyháza - Gyula - Békéscsaba,3
+21,1242,4827,Battonya - Medgyesegyháza - Gyula - Békéscsaba,3
+21,1243,4828,Mezőkovácsháza - Lőkösháza - Elek - Békéscsaba,3
+21,1244,4829,Battonya - Medgyesegyháza - Pusztaottlaka - Békéscsaba,3
+21,12444,7230,Iván - Újkér - Lövő - Sopron,3
+21,12445,7227,Sárvár - Simaság - Sopron,3
+21,12447,7228,Répcelak - Simaság - Sopron,3
+21,12448,7164,Sárvár - Rábakecöl - Mihályi - Kapuvár,3
+21,12449,7165,Répcelak - Mihályi - Kapuvár,3
+21,1245,4830,Újkígyós - Szabadkígyós - Békéscsaba,3
+21,12450,7170,Répcelak - Dénesfa - Kapuvár,3
+21,12451,7220,Répcelak - Fertőszentmiklós/Röjtökmuzsaj - Sopron,3
+21,12453,7996,Celldömölk - Külsővat - Karakószörcsök,3
+21,12454,7993,Celldömölk - Külsővat - Nemesszalók - Pápa,3
+21,12456,7886,Jánosháza - Kamond - Kiscsősz,3
+21,12457,7751,Jánosháza - Hosztót - Sümeg,3
+21,12458,7781,Celldömölk - Jánosháza - Megyer - Zalaerdőd - Sümeg,3
+21,12459,7782,Jánosháza - Megyer - Sümeg,3
+21,1246,4831,Medgyesegyháza - Pusztaottlaka - Csabaszabadi - Békéscsaba,3
+21,12460,6213,Bérbaltavár - Pókaszepetk - Zalaegerszeg,3
+21,12461,6200,Lakhegy - Győrvár - Egervár - Zalaegerszeg,3
+21,12463,6898,Zalaegerszeg - Bagod - Katafa/Nádasd - Körmend,3
+21,12464,6580,Zalalövő - Őriszentpéter - Szentgyörgyvölgy - Csesztreg - Lenti,3
+21,12465,6277,Őriszentpéter - Zalalövő - Zalaegerszeg,3
+21,12466,715,Százhalombatta - Érd - Budapest,3
+21,1247,4832,Mezőhegyes - Medgyesegyháza - Békéscsaba,3
+21,12470,724,Pusztazámor - Sóskút - M7 - Budapest,3
+21,12471,725,Budapest - Diósd - Diósdliget - Budapest,3
+21,1248,4833,Békéssámson - Tótkomlós - Csanádapáca - Békéscsaba,3
+21,12488,5359,Szekszárd - Kalocsa - Kecskemét,3
+21,12489,5012,Földeák - Óföldeák - Maroslele - M43 - Szeged,3
+21,1249,4835,Orosháza - Csanádapáca - Békéscsaba - Gyula,3
+21,12490,8659,Komárom - Almásfüzitő,3
+21,12495,7057,Csorna - Kisbabot - Rábapatona - Győr,3
+21,125,1369,Nyíregyháza - Hajdúnánás - Tiszaújváros - Miskolc,3
+21,1250,4838,Gerendás - Csorvás - Békéscsaba,3
+21,12500,3975,Kesznyéten - Tiszaújváros,3
+21,12501,4018,Szentistván - Mezőkövesd - Eger,3
+21,12502,4153,Kazincbarcika - Mályinka - Sáta - Csokvaomány - Ózd,3
+21,12507,7013,Győrasszonyfa - Győrújbarát - Győr,3
+21,12508,7014,Pápateszér - Győrújbaráthegy - Győr,3
+21,1251,4839,Telekgerendás - Békéscsaba,3
+21,12510,7019,Töltéstava - Győr,3
+21,12511,7021,Mór - Kisbér - Győr,3
+21,12512,7067,Árpás - Dör - Csorna - Győr,3
+21,12513,7084,Csorna - Bősárkány - Lébény - Győr,3
+21,12516,8419,Esztergom - Bajna - Tatabánya - Oroszlány,3
+21,12517,7017,Mezőörs - Győrság - Pannonhalma - Nyúl,3
+21,1252,4840,Orosháza - Csorvás - Békéscsaba,3
+21,12528,228,Komárom - Komárno,3
+21,1253,4844,Kamut - Murony - Békéscsaba,3
+21,12530,8662,"Ács, cukrászda - Ács, általános iskola",3
+21,1254,4847,Kamut - Murony - Békés,3
+21,1255,4850,Szarvas - Kondoros - Békéscsaba,3
+21,1257,4855,Kunszentmárton - Szarvas - Békéscsaba - Gyula,3
+21,1258,4861,Bucsa - kertészsziget - Szeghalom,3
+21,1259,4863,Körösnagyharsány - Biharugra - Vésztő - Szeghalom,3
+21,126,1370,Nyíregyháza - Polgár - Miskolc,3
+21,1260,4866,Gyomaendrőd - Dévaványa - Szeghalom,3
+21,12601,332,Szob - Bernecebaráti - Rétság - Vác,3
+21,12602,337,Rétság - Felsőpetény - Penc - Vác,3
+21,12603,355,Drégelypalánk - Parassapuszta - Szob - Zebegény,3
+21,1261,4872,Újszalonta - Kötegyán - Sarkad - Gyula,3
+21,1262,4880,Vésztő - Doboz - Gyula,3
+21,12627,6216,Keszthely - Hévíz - Nagykapornak - Zalaegerszeg,3
+21,12628,6237,Keszthely - Zalaapáti - Pacsa - Bak - Zalaegerszeg,3
+21,1263,4881,Körösnagyharsány - Sarkadkeresztúr - Sarkad - Gyula,3
+21,12632,7987,Csorna - Szany - Pápa,3
+21,12633,7049,Gyömöre - Szerecseny - Csikvánd - Tét - Győr,3
+21,1264,4882,"Sarkad - Gyula, tüdőkórház - Gyula",3
+21,12645,6395,Sümeg - Zalaszántó - Hévíz - Keszthely,3
+21,12646,6391,Sümeg - Sümegcsehi/Mihályfa - Karmacs - Hévíz - Keszthely,3
+21,12647,6296,Sümeg - Sümegcsehi/Mihályfa - Zalaszentgrót - Pókaszepetk - Zalaegerszeg,3
+21,12648,5707,Dombóvár - Szászvár - Komló,3
+21,1265,4885,Geszt - Sarkadkeresztúr - Gyula - Békéscsaba,3
+21,1266,4890,Kétegyháza - Elek - Gyula,3
+21,1267,4892,Elek - Kétegyháza - Gyula,3
+21,1268,4894,Mezőkovácsaháza - Battonya - Lőkösháza - Elek - Gyula - Békéscsaba,3
+21,1270,4897,Újkígyós - Szabadkígyós - Gyula,3
+21,1271,4900,Medgyesegyháza - Kunágota - Mezőkovácsháza,3
+21,1272,4905,Mezőhegyes - Mezőkovácsháza,3
+21,1273,4907,"Mezőhegyes, kendergyár - Mezőhegyes",3
+21,1274,4908,"Mezőhegyes, 81-es major - Mezőhegyes",3
+21,1275,4930,Nagyszénás - Orosháza,3
+21,1276,4935,Kondoros - Nagyszénás - Orosháza,3
+21,12763,5425,Dunaszekcső - Bátaszék - Alsónána - Szekszárd,3
+21,12765,6088,Szigetvár - Istvándi - Barcs,3
+21,12766,6091,Felsőszentmárton - Szentborbás - Istvándi - Barcs,3
+21,12768,8354,Zazabánya - Oroszlány - Mór,3
+21,1277,4938,Gerendás - Csorvás - Orosháza,3
+21,12775,7024,Bakonyszombathely - Táp - Győr,3
+21,1278,4940,Gerendás - Csorvás,3
+21,1279,4945,Medgyesegyháza - Csanádapáca - Pusztaföldvár - Orosháza,3
+21,128,1372,Hajdúszoboszló - Debrecen - Polgár - Miskolc,3
+21,1280,4949,Battonya - Mezőkovácsháza - Magyarbánhegyes - Kaszaper - Orosháza,3
+21,1281,4950,Battonya - Mezőkovácsháza - Kaszaper - Orosháza,3
+21,1282,4953,Mezőhegyes - Tótkomlós - Orosháza,3
+21,1283,4955,Battonya - Mezőhegyes,3
+21,1284,4960,Békéssámson - Tótkomlós - Orosháza,3
+21,1285,4965,Fábiánsebestyén - Árpádhalom - Nagymágocs - Orosháza,3
+21,12851,8472,Kocs - Tata - Tatabánya,3
+21,1286,4966,Fábiánsebestyén - Gádoros - Orosháza,3
+21,12860,705,Adony - Ercsi - Százhalombatta - Budapest,3
+21,12865,8437,Bicske - Óbarok - Újbarok - Szár - Nagyegyháza - Tatabánya,3
+21,12867,8432,Bicske - Óbarok - Tatabánya,3
+21,1287,1432,Szarvas - Szeghalom - Debrecen,3
+21,12870,5502,Kecskemét - Dunaföldvár - Tamási - Dombóvár,3
+21,12871,5456,Pálfa (Felsőrácegres) - Bikács - Nagydorog - Paks,3
+21,12872,5447,Székesfehérvár/Simontornya - Nagydorog - Szekszárd,3
+21,12873,7521,Jenő - Várpalota,3
+21,12875,7303,Bakonycsernye - Zirc - Veszprém,3
+21,1288,4971,Gyomaendrőd - Szarvas,3
+21,12886,6782,Körmend - Vasvár - Kám - Rum - Sárvár,3
+21,129,1373,Gyula - Debrecen - Miskolc,3
+21,1290,4975,Csabacsűd - Szarvas,3
+21,1291,4976,Csabacsűd - Szarvas,3
+21,1292,4980,Orosháza - Nagyszénás - Szarvas,3
+21,1293,4985,Békésszentandrás - Szarvas,3
+21,1294,4990,Dévaványa - Gyomaendrőd - Orosháza - Szarvas,3
+21,1295,4994,Kondoros - Hunya - Gyomaendrőd,3
+21,1296,5000,Baks - Ópusztaszer - Dóc - Sándorfalva - Szeged,3
+21,1297,5001,Csongrád - Tömörkény - Csanytelek - Baks - Szeged,3
+21,1298,5002,Szeged - Sándorfalva - Szeged,3
+21,12981,1136,Komló - Bonyhád - Szekszárd - Budapest,3
+21,12983,3321,Nógrádkövesd - Szandaváralja - Balassagyarmat,3
+21,12984,5522,Mosdós/Szentivánpuszta - Dombóvár,3
+21,12986,7325,Siófok - Balatonalmádi - Veszprém,3
+21,12987,7324,Ságvár - Siófok - Balatonkenese - Veszprém,3
+21,12989,5870,Alsótapazd - Lad - Somogyapáti - Szigetvár,3
+21,1299,5003,Algyő - Szeged,3
+21,12990,5686,Nagykanizsa - Nagyatád - Kadarkűt - Szigetvár - Pécs,3
+21,12991,5689,Felsőszentmárton - Szigetvár - Pécs,3
+21,12992,5890,Lakócsa - Zádor - Szigetvár,3
+21,12993,6092,Villány - Siklós - Sellye - Kétújfalu - Barcs,3
+21,12994,6421,Nemesdéd - Pat - Miháld - Nagykanizsa,3
+21,12995,6429,Böhönye - Inke - Nagykanizsa,3
+21,13,1024,Hollókő - Pásztó - Budapest,3
+21,130,1374,Szeged - Békéscsaba - Debrecen - Miskolc,3
+21,1300,5004,Csongrád - Szentes - Mindszent - Hódmezővásárhely - Szeged,3
+21,13003,6238,Lenti - Páka - Gutorfölde - Bak - Zalaegerszeg,3
+21,13006,5458,Paks - Cece - Sárbogárd - Székesfehérvár,3
+21,1301,5005,Hódmezővásárhely - Szeged,3
+21,13010,5586,Ozora - Simontornya,3
+21,1302,5006,Adymajor - Algyő,3
+21,1303,5007,Szarvas - Szentes - Mindszent - Hódmezővásárhely - Szeged,3
+21,1304,5008,Békéscsaba - Tótkomlós - Békéssámson - Hódmezővásárhely - Szeged,3
+21,1306,5010,Csongrád - Szentes - Hódmezővásárhely - Szeged,3
+21,1307,5015,Makó - Kiszombor - Deszk - Szeged,3
+21,1308,5020,Battonya - Makó - Szeged,3
+21,1309,5022,Gyula - Battonya - Makó - Szeged,3
+21,131,1375,Szeged - Tiszafüred - Miskolc,3
+21,1310,5023,Mezőhegyes - Pitvaros - Csanádpalota - Makó - Szeged,3
+21,13108,5485,Kárász - Izmény - Nagymányok - Bonyhád,3
+21,1311,5024,Kübekháza - Szeged,3
+21,13112,432,Buják - Szirák - Aszód - Budapest,3
+21,1312,5025,Tiszasziget (Térvár) - Tiszasziget - Szeged,3
+21,1313,5030,"Röszke, határátkelőhely - Röszke - Szeged",3
+21,1314,5031,Mórahalom - Röszke - Szeged,3
+21,1315,5032,Zsombó - Forráskút - Üllés - Bordány - Zákányszék - Mórahalom - Szeged,3
+21,1316,5033,Ásotthalom - Kissor - Mórahalom - Szeged,3
+21,1317,5034,Ásotthalom (Gátsor) - Ásotthalom - Mórahalom - Szeged,3
+21,1318,5035,Baja - Mélykút - Mórahalom - Szeged,3
+21,1319,5036,Csipaki iskola - Mórahalom,3
+21,132,1376,Kecskemét - Jászberény - Mezőkövesd - Miskolc,3
+21,1322,5040,Ásotthalom - Mórahalom - Szeged,3
+21,1323,5041,Szeged - Domaszék - Szeged,3
+21,1324,5043,Bácsalmás - Kelebia - Öttömös - Szeged,3
+21,1326,5045,Pusztamérges - Öttömös - Ruzsa - Zákányszék - Szeged,3
+21,1327,5046,Kiskunhalas - Pusztamérges - Zákányszék - Szeged,3
+21,1328,5047,Pusztamérges - Ruzsa - Üllés - Szeged,3
+21,1329,5048,Dóc - Balástya - Forráskút - Üllés,3
+21,133,1377,Szolnok - Tiszafüred - Mezőkövesd - Miskolc,3
+21,1330,5049,Pusztamérges - Üllés - Szeged,3
+21,13304,8624,Komárom - Kisbér - Székesfehérvár,3
+21,13305,7069,"Kapuvár - Csorna - Győr, AUDI",3
+21,1331,5050,Üllés - Bordány - Szeged,3
+21,1332,5054,Kiskunmajsa - Üllés - Bordány - Szeged,3
+21,1333,5055,Kiskunmajsa - Forráskút - Zsombó - Szeged,3
+21,1334,5056,Kalocsa - Kiskunhalas - Kiskunmajsa - Szeged,3
+21,1335,5059,"Balástya, Zöldmező - Szatymaz - Szeged",3
+21,1336,5060,Zsombó - Szatymaz - Szeged,3
+21,1337,5062,Sándorfalva - Szatymaz - Szeged,3
+21,1338,5063,Csengele - Kistelek - Balástya - Szeged,3
+21,1339,5064,Baks - Kistelek - Szeged,3
+21,1340,5066,Kiskunmajsa - Kömpöc - Kistelek - Szeged,3
+21,1341,5070,Pusztaszer - Kistelek - Balástya - Szeged,3
+21,1342,5071,Csengele - Pusztaszer - Kistelek - Szeged,3
+21,1343,5206,Fegyvernek - Szolnok - Kecskemét,3
+21,1345,5100,Tiszaalpár -Csongrád (Bokros) - Csongrád,3
+21,1346,5105,Makó - Maroslele - Hódmezővásárhely - Csongrád,3
+21,1347,5107,Kettőshalom - Csongrád,3
+21,1348,5110,Tömörkény - Csanytelek - Felgyő - Csongrád - Szentes,3
+21,1349,5111,Maszlaghalom - Falgyő - Csongrád,3
+21,1350,5112,Szeged - Kistelek - Pusztaszer - Tömörkény - Csanytelek - Csongrád,3
+21,1351,5120,Szarvas - Cserebökény - Szentes - Szeged,3
+21,1352,5121,Nagytőke - Zalota - Szentes (Magyartés) - Szentes,3
+21,1353,5122,Kunszentmárton - Szentes - Szeged,3
+21,1354,5123,Kiskunhalas - Kiskunmajsa - Kiskunfélegyháza - Csongrád - Szentes,3
+21,1356,5125,Árpádhalom - Fábiánsebestyén - Szentes,3
+21,1357,5126,Orosháza - Nagyszénás - Gádoros - Eperjes - Fábiánsebestyén - Szentes,3
+21,1358,5127,Eperjes - Gádoros - Szentes,3
+21,1359,5128,Gyula - Orosháza - Derekegyháza - Szentes,3
+21,136,1380,Eger - Mezőkövesd - Miskolc,3
+21,1360,5129,Székkutas - Nagymágocs - Lapistó - Szentes,3
+21,1361,5130,Derekegyház (Tompahát) - Derekegyház - Szentes,3
+21,1362,5132,Orosháza - Nagymágocs - Derekegyház - Szentes,3
+21,1363,5140,Csongrád - Szentes,3
+21,1365,5143,Árpádhalom - Nagymágocs - Szentes,3
+21,1366,5150,Szentes - Szegvár - Mindszent - Mártély - Hódmezővásárhely,3
+21,1367,5160,Gyula - Békéscsaba - Orosháza - Székkutas - Hódmezővásárhely - Szeged,3
+21,1370,5165,Tótkomlós - Békéssámson - Erzsébettelek - Hódmezővásárhely,3
+21,1371,5167,Tótkomlós - Pitvaros - Makó - Hódmezővásárhely,3
+21,1372,5169,Makó - Óföldeák - Földeák - Hódmezővásárhely,3
+21,1373,5183,Igás - Makó,3
+21,1374,5184,Makó - Makó (Rákos) - Királyhegyes - Makó,3
+21,1376,5189,Gyula - Békéscsaba - Mezőheges - Makó - Szeged,3
+21,1377,5190,Nagylak - Magyarcsanád - Apátfalva - Makó - Szeged,3
+21,1378,5202,Köröstetétlen - Jászkarajenő - Tiszakécske - Szentkirály - Kecskemét,3
+21,1379,5203,Tiszakécske - Szentkirály/Lakitelek - Kecskemét,3
+21,138,1383,Eger - Bükkszentkereszt - Miskolc,3
+21,1380,5205,Szentkirály - Kecskemét,3
+21,1381,5207,Waldorf iskola - Kecskemét,3
+21,1382,5208,Gyula - Békéscsaba - Szarvas - Kecskemét,3
+21,1383,5210,Csépa - Tiszaug - Lakitelek - Kecskemét,3
+21,1384,5211,Martfű - Tiszaföldvár - Cserkeszőlő - Tiszakürt - Kecskemét,3
+21,1385,5212,Tiszaalpár - Lakitelek - Kecskemét,3
+21,1387,5214,Városföld - Kecskemét,3
+21,1388,5215,Kiskunfélegyháza - Kecskemét,3
+21,1389,5216,Bácsalmás - Kiskunhalas - Kiskunmajsa - Kecskemét,3
+21,139,1384,Salgótarján - Pétervására - Ózd - Miskolc,3
+21,1390,5217,Kiskunfélegyháza - Fülöpjakab - Kunszállás - Kecskemét,3
+21,1391,5218,Kaocsa - Kiskőrös - Kecskemét,3
+21,1392,5219,Baja - Kecel - Soltvadkert - Kecskemét,3
+21,1393,5220,Orgovány - Jakabszállás - Kecskemét,3
+21,1394,5221,Kelebia - Kiskunhalas - Kecskemét,3
+21,1395,5222,Móricgát - Bugac - Matkó - Kecskemét,3
+21,1396,5223,Helvécia - Kecskemét,3
+21,1397,5224,Ballószög - Kecskemét,3
+21,1398,5225,Izsák - Kecskemét,3
+21,1399,5226,Baja - Kiskőrös - Izsák - Kecskemét,3
+21,14,1031,Ózd - Bátonyterenye - Budapest,3
+21,140,1411,Debrecen - M3 - Miskolc - Ózd,3
+21,1400,5227,Dunaújváros/Kalocsa - Solt - Kecskemét,3
+21,1401,5228,Kerekegyháza - Hetényegyháza - Kecskemét,3
+21,1402,5229,Csengőd/Szabadszállás - Fülöpszállás - Kecskemét,3
+21,1403,5230,Fülöpháza - Kecskemét,3
+21,1404,5231,[Dunaföldvár - Dunaegyháza]/Szabadszállás - Fülöpháza - Kecskemét,3
+21,1405,5232,Kalocsa - Kiskőrös - Kecskemét,3
+21,1406,5233,Szabadszállás - Kerekegyháza - Kecskemét,3
+21,1407,5234,Dunavecse - Solt - Kecskemét,3
+21,1408,5235,Kunadacs - Kunbaracs - Kerekegyháza - Kecskemét,3
+21,1409,5237,Ladánybene - Kunbaracs - Kerekegyháza - Kecskemét,3
+21,1410,5238,Kunszentmiklós - Kekegegyháza - Kecskemét,3
+21,1411,5239,Kunszentmiklós - Fülöpszállás - Csengőd - Kecskemét,3
+21,1412,5240,Ladánybene - Méntelek - Kecskemét,3
+21,1413,5241,Szalkszentmárton - Kunszentmiklós - Ladánybene - Kecskemét,3
+21,1414,5242,Ladánybene - Lajosmizse - Kecskemét,3
+21,1415,5243,Kalocsa - Harta - Kecskemét,3
+21,1416,5244,"Helvécia, Szabó Sándor telep - Kadafalva - Kecskemét",3
+21,1417,5245,Örkény - Felsőlajos - Lajosmizse - Kecskemét,3
+21,1418,5247,Tiszakécske - Pereghalom - Tiszabög - Tiszakécske,3
+21,1420,5249,Köröstetétlen - Jászkarajenő - Tiszajenő-Vezseny vá. - Tiszabög - Tiszakécske,3
+21,1421,5250,"Ballószög - Helvécia - Kecskemét, Daimler 1. kapu",3
+21,1422,5251,"Kuskunfélegyháza, Kőrösi út - Kiskunfélegyháza",3
+21,1423,5252,Tiszakécske - Tiszaalpár - Kiskunfélegyháza,3
+21,1424,5253,Lakitelek - Tiszaalpár - Kiskunfélegyháza,3
+21,1425,5255,Szentes - Csongrád - Kiskunfélegyháza - Kecskemét,3
+21,1426,5256,Petőfiszállás - Kiskunfélegyháza,3
+21,1428,5258,"Kiskunfélegyháza, Szegedi u. - Kecskemét",3
+21,1429,5260,Pálmonostora - Kiskunfélegyháza,3
+21,1430,5261,Tömörkény - Petőfiszállás - Kiskunfélegyháza,3
+21,1432,5263,Tömörkény - Pálmonostora - Kiskunfélegyháza,3
+21,1433,5265,Szank - Kiskunmajsa - Kiskunfélegyháza,3
+21,1434,5266,Kiskunhalas - Móricgát - Kiskunfélegyháza,3
+21,1435,5267,Móricgát - Bugac - Kiskunfélegyháza,3
+21,1436,5268,"Kiskunfélegyháza, Ringhegy - Halesz - Kiskunfélegyháza",3
+21,1438,5270,Fülöpjakab - Kunszállás - Kiskunfélegyháza,3
+21,1439,5271,Szabadszállás - Izsák - Kunszállás - Kiskunfélegyháza,3
+21,144,1426,Eger - Mezőkövesd - Nyíregyháza,3
+21,1442,5274,"Bugac, erdészet - Szank - Kiskunmajsa",3
+21,1443,5275,Kiskőrös - Soltvadkert - Kiskunmajsa,3
+21,1444,5276,Szank - Bodoglár - Kiskunhalas,3
+21,1446,5278,Kiskunmajsa - Tázlár - Kiskunhalas,3
+21,1447,5279,Kecskemét - Kiskunmajsa - Kiskunhalas,3
+21,1448,5280,Kiskunmajsa - Kiskunhalas,3
+21,1449,5281,Szank - Kiskunmajsa - Kiskunhalas,3
+21,145,1427,Hatvan - Gyöngyös - Eger - Mezőkövesd - Nyíregyháza,3
+21,1450,5282,Pusztamérges - Balotaszállás - Kiskunhalas,3
+21,1451,5283,Pusztamérges - Kiskunmajsa (Gárgyán) - Zsana - Kiskunhalas,3
+21,1452,5284,Kiskunhalas - Tompa - Kelebia - Szeged,3
+21,1453,5285,Kelebia - Tompa - Kiskunhalas,3
+21,1454,5286,Jánoshalma - Kiskunhalas,3
+21,1455,5287,Bácsalmás - Mélykút - Jánoshalma - Kiskunhalas,3
+21,1456,5288,Tázlár - Kiskunhalas,3
+21,1457,5289,Kiskunhalas - Jánoshalma - Mélykút - Baja,3
+21,1458,5290,Kecel - Kiskunhalas,3
+21,146,1440,Békéscsaba - Gyula - Komádi - Debrecen,3
+21,1460,5292,Bácsalmás - Tataháza - Málykút - Kiskunhalas,3
+21,1461,5293,"Tompa, Bokréta óvoda - Kisszállási határ",3
+21,1462,5294,Tompa - Imremajor - Tompa,3
+21,1463,5295,Kalocsa - Kiskőrös - Kiskunhalas,3
+21,1464,5296,Bócsa (Fischerbócsa) - Soltvadkert - Kiskunhalas,3
+21,1465,5297,Kiskőrös - Kecel - Kiskunhalas,3
+21,14655,5327,Kelebia - Bácsalmás - Felsőszentiván - Baja,3
+21,14656,5328,Szeged - Mélykút - Jánoshalma - Baja,3
+21,14657,5329,Szeged - Mélykút - Bácsalmás - Bácsbokod - Baja,3
+21,1466,5298,Szabadszállás - Csengőd - Kiskőrös - Kiskunhalas,3
+21,14673,5434,Kárász - Izmény - Nagymányok - Bonyhád - Szekszárd,3
+21,14676,3923,Sárospatak - Cigánd - Lácacséke - Sátoraljaújhely,3
+21,14678,4007,Kács - Mezőkeresztes-Mezőnyárád vá. - Mezőkövesd,3
+21,1468,5300,Csikéria - Bácsalmás,3
+21,14683,7803,Bakonyjákó - Farkasgyepű - Városlőd - Kislőd - Ajka,3
+21,14686,6184,Balatonszentgyörgy - Szőcsénypuszta - Marcali,3
+21,14687,6193,Balatonszentgyörgy - Szegerdő - Szőkedencs,3
+21,14689,3753,"Miskolc, DIGÉP - Bükkszentkereszt - Répáshuta",3
+21,1469,5305,Katymár - Madaras - Bácsalmás,3
+21,14691,5412,Dunaföldvár - Bölcske - Paks - Szekszárd,3
+21,14692,5413,Cece - Németkér - Paks - Szekszárd,3
+21,14695,5491,Bonyhád - Tevel - Závod - Kisvejke - Bonyhád,3
+21,14696,5568,Tamási - Pincehely - Gyönk,3
+21,14697,5577,Értény - Nagykónyi - Iregszemcse,3
+21,14698,5578,Felsőnyék - Iregszemcse - Tab - Siófok,3
+21,147,1441,Szeged - Békéscsaba - Debrecen,3
+21,1470,5306,Bácsalmás - Jánoshalma - Hajós - Kalocsa,3
+21,1472,5310,Kalocsa - Fajsz - Baja,3
+21,1473,5311,Kunszentmiklós - Dunavecse - Solt - Kalocsa - Baja,3
+21,1474,5312,Dunapataj - Kalocsa - Baja,3
+21,1475,1577,Szentes - Csongrád - Kiskunfélegyháza - Baja - Pécs,3
+21,1476,5315,Császártöltés - Baja,3
+21,14761,3903,Pusztafalu - Hollóháza - Nyíri - Pálháza - Sátoraljaújhely,3
+21,1477,5316,Kalocsa - Hajós - Császártöltés - Baja,3
+21,1479,5320,Mélykút (Öregmajor) - Mélykút - Felsőszentiván - Baja,3
+21,1480,5321,Kiskunhalas - Jánoshalma - Felsőszentiván - Baja,3
+21,14803,1665,Pécs - Kaposvár - Balatonlelle/Marcali - Keszthely - Zalaegerszeg,3
+21,14804,3657,Pásztó - Mátraszentimre,3
+21,14805,3066,Mátraverebély (Szentkút) - Bátonyterenye - Salgótarján,3
+21,14806,1673,Pécs - Kaposvár - Keszthely - Szombathely,3
+21,14807,5646,Dunaszekcső - Mohács - Pécs,3
+21,14809,7810,Somlószőlős - Iszkáz - Karakószörcsök - Ajka,3
+21,1481,5322,Kelebia - Kiskunhalas,3
+21,14810,7602,Küngös - Balatonalmádi,3
+21,14814,6011,Barcs - Kaposvár - Dombóvár - Siófok,3
+21,14817,5932,Szigetvár - Sásd - Kaposvár,3
+21,1482,5323,Mélykút (Öregmajor) - Jánoshalma - Baja,3
+21,14824,7515,Csór-Nádasdladány vá. - Várpalota,3
+21,14825,7901,Szerecseny - Gecse - Vaszar - Pápa,3
+21,1483,5324,[Kiskunhalas - Jánoshalma]/Kisszállás - Mélykút - Felsőszentiván - Baja,3
+21,1484,5325,Bácsalmás - Bácsbokod - Baja,3
+21,1485,5326,Bácsalmás - Katymár - Baja,3
+21,14850,7406,Bakonyszentkirály - Bakonynáva/Csetény - Zirc,3
+21,14851,3741,Mezőcsát - Hejőbába - Miskolc,3
+21,14852,3874,Erdőbénye - Tokaj,3
+21,14853,7707,Ábrahámhegy - Badacsonytomaj - Káptalantóti - Gyulakeszi - Tapolca,3
+21,14854,4883,Gyomaendrőd - Szeghalom - Zsadány - Sarkad - Gyula,3
+21,14855,6365,Vállus - Várvölgy - Zalaszántó - Gyenesdiás,3
+21,1486,5330,Bácsszentgyörgy - Gara - Vaslút - Baja,3
+21,14860,3473,Füzesabony - Kápolna - Verpelét - Sirok - Eger,3
+21,14863,5429,Bonyhád - Mőcsény - Szálka - Szekszárd,3
+21,14864,7847,Pusztamiske - Devecser - Kolontár - Ajka,3
+21,1487,5331,Csátalja - Gara - Baja,3
+21,1488,5335,Hercegszántó (Hóduna) - Hercegszántó - Nagybaracska - Baja,3
+21,1489,5336,Újmohács - Nagybaracska - Baja,3
+21,14896,3719,Viszló - Rakaca - Baktakék - Szikszó - Miskolc,3
+21,14897,3976,Tiszakeszi - Mezőcsát,3
+21,14898,4193,Tólápa - Csokvaomány - Sajómercse - Putnok,3
+21,14899,1826,Dunaújváros - Perkáta - Székesfehérvár - Kisbér - Győr,3
+21,149,1443,Jászberény - Heves - Debrecen,3
+21,1490,5337,Dunafalva - Nagybaracska - Baja,3
+21,14904,7616,Balatonfőkajár - Berhida - Fűzfőgyártelep,3
+21,14905,7931,Dáka - Nóráp - Pápa,3
+21,14906,7006,Kisbajcs - Győr (Bácsa),3
+21,14907,7091,Mosonmagyaróvár - Lébény - Győr,3
+21,14909,5058,Solt/Kalocsa - Kiskőrös - Kiskunmajsa - Szeged,3
+21,1491,5338,Szeremle - Baja,3
+21,1492,5339,Újmohács - Homorúd - Hercegszántó - Nagybaracska - Baja,3
+21,1493,5340,Kecel - Kiskőrös,3
+21,1494,5341,Ágasegyháza - Izsák - Tabdi - Kiskőrös,3
+21,1495,5342,Balázspuszta - Fülöpszállás/Szabadszállás,3
+21,1497,5344,Kiskőrös - Akasztó - Csengőd - Tabdi - Kaskantyú - Kiskőrös,3
+21,1499,5346,Bócsa (Abonyimajor) - Soltvadkert - Kiskőrös,3
+21,1500,5349,Kalocsa - Kecel - Kiskőrös,3
+21,1501,5350,Solt - Akasztó - Kiskőrös,3
+21,1502,5351,Ökördi - Kiskőrös,3
+21,1503,5352,Soltszentimre/Fülöpszállás - Akasztó - Kiskőrös,3
+21,1504,5353,Szekszárd - Kalocsa,3
+21,15044,8271,Simontornya - Pusztaegres - Sárbogárd,3
+21,15045,7371,Taliándörögd - Tapolca,3
+21,15047,5016,Szeged - Deszk - Szeged,3
+21,1505,5354,Kalocsa - Kiskőrös - Izsák - Kecskemét,3
+21,1506,5355,Fajsz - Bátya - Kalocsa,3
+21,15092,4661,Tiszasüly - Jászkisér - Jászapáti,3
+21,15093,4786,Szelevény - Cserkeszőlő - Kunszentmárton,3
+21,151,1446,Nyíregyháza - Hajdúnánás - Debrecen,3
+21,1510,5360,Harta - Kalocsa,3
+21,1511,5362,Kunszentmiklós - Dunavecse - Solt - Kiskunhalas - Szeged,3
+21,1512,5364,Kunszentmiklós - Tass - Solt - Kalocsa,3
+21,1513,5365,Tass - Dunavecse - Kalocsa,3
+21,1514,5366,Felsőerek - Gombolyag - Szakmár - Kalocsa,3
+21,1515,5367,Dunapataj - Szelidi-tó - Szakmár - Kalocsa,3
+21,1516,5368,Dunatetétlen - Harta - Kalocsa,3
+21,1517,5369,Szeged - Kiskunmajsa (Gárgyán) - Kiskunhalas - Kecel - Kalocsa,3
+21,1518,5370,Császártöltés - Kalocsa,3
+21,1519,5371,Kecel - Császártöltés - Kalocsa,3
+21,152,1447,Salgótarján - Eger - Debrecen,3
+21,1520,5372,Öregcsertő - Kalocsa,3
+21,1521,5373,Homokmégy (Alsómégy) - Kalocsa,3
+21,1522,5375,Foktő - Kalocsa,3
+21,1523,5376,Dunapataj - Ordas - Kalocsa,3
+21,1525,5378,Kunpeszér - Kunszentmiklós,3
+21,15263,8663,"Komárom, Ipari Park - Ács",3
+21,1527,5380,Kerekegyháza - Kunszentmiklós,3
+21,1528,5381,Solt/Soltszentimre - Kunszentmiklós,3
+21,1529,5382,Újsolt - Dunaegyháza - Solt - Dunaföldvár,3
+21,153,1449,Sátoraljaújhely - Tokaj - Nyíregyháza - Debrecen,3
+21,1533,5386,"Solt, hartai útelágazás - Solt",3
+21,1534,5387,"Kunszentmiklós - Szabadszállás - Kecskemét, Daimler 1. kapu",3
+21,15372,1,Pápakovácsi elágazás - Veszprémi út - Autóbusz-állomás - Vasútállomás,3
+21,15373,2,Törzsökhegy - Autóbusz-állomás - Húskombinát - Vasútállomás,3
+21,15374,3,Tizedik utca - Március 15. tér - Korona utca - Vasútállomás,3
+21,15375,5,TÜZÉP - Rét utca - Termálfürdő - Autóbusz-állomás,3
+21,15376,7,Hirtenberger - Vízmű utca - Korona utca - Húskombinát - Vasútállomás,3
+21,15381,13,Borsosgyőr - Autóbusz-állomás,3
+21,15382,14,Kéttornyúlak - Autóbusz-álomás,3
+21,15383,15,Borsosgyőr - Kéttornyúlak,3
+21,15384,16,Tapolcafő - Autóbusz-állomás,3
+21,15386,1Y,Yanfeng - Autóbusz-állomás,3
+21,15396,1,Alsócsinger - Vasútállomás,3
+21,15397,4,TESCO - Hild park - Móra Ferenc utca - TESCO,3
+21,15398,10,Alsócsinger - Móra Ferenc utca,3
+21,15399,12,"Autóbusz-állomás - Tósokberénd, autóbusz-váróterem",3
+21,154,1450,Tiszaújváros - Polgár - Tiszacsege - Debrecen,3
+21,1540,5400,Paks - Tolna - Szekszárd,3
+21,15400,14,"Vasútállomás - Ajkarendek, Rendeki utca 2.",3
+21,15401,10Y,Alsócsinger - Móra Ferenc utca,3
+21,15402,5421,Harkány - Mohács - Bátaszék - Szekszárd,3
+21,15404,5438,Dombóvár - Hőgyész - Szekszárd,3
+21,15405,5439,Siófok - Tamási - Szekszárd - Baja,3
+21,15406,5441,Lengyel - Tevel - Zomba - Szekszárd,3
+21,1541,5402,Dombori - Fadd - Tolna - Szekszárd,3
+21,15410,5552,Tamási - Sárbogárd - Székesfehérvár,3
+21,15411,3081,Szügy - Balassagyarmat - Szécsény - Salgótarján,3
+21,15412,3322,Szügy - Balassagyarmat,3
+21,15413,5606,Kaposvár - Sásd - Pécs,3
+21,15414,5608,Siófok - Tamási - Dombóvár - Pécs,3
+21,15415,5623,Mágocs - Szászvár - Hosszúhetény - Pécs,3
+21,15416,5625,Bonyhád - Pécsvárad - Pécs,3
+21,15417,5626,Siófok - Tamási - Tevel/Zomba - Bonyhád - Pécs,3
+21,15418,5627,Székelyszaar - Pécsvárad - Pécs,3
+21,15419,5628,Görcsonydoboka - Erdősmecske - Pécsvárad - Pécs,3
+21,1542,5406,Bogyiszló - Tolna - Szekszárd,3
+21,15420,5631,Nagydorog - Szekszárd - Pécs,3
+21,15421,5634,Paks - Szekszárd - Pécs,3
+21,15422,5655,Újpetre - Egerág - Pécs,3
+21,15423,5656,Villány - Újpetre - Pécs,3
+21,15424,5658,Siklós- Újpetre - Pécs,3
+21,15425,5679,Pécsbagota - Szentlőrinc - Pellérd - Pécs,3
+21,15426,5682,Sellye/Vajszló - Magyarmecske - Baksa - Pécs,3
+21,15427,5690,Marcali - Kaposvár - Szentlőrinc - Pécs,3
+21,15428,5696,Szentkatalin - Szentlőrinc - Pécs,3
+21,15429,5698,Bakonya - Kővágószőlős - Pécs,3
+21,1543,5407,Fácánkert - Tolna - Szekszárd,3
+21,15433,5923,Szekszárd - Dombóvár - Kaposvár,3
+21,15434,5924,Mohács - Bonyhád - Dombóvár - Kaposvár,3
+21,15435,5931,Komló - Sásd - Kaposvár,3
+21,1544,5408,Mözs - Tolna,3
+21,15448,5259,Gátér - Kiskunfélegyháza,3
+21,15449,5348,Soltszentimre - Kaskantyú - Kiskőrös,3
+21,1545,5410,Dunaföldvár - Paks - Szekszárd,3
+21,15450,1512,Esztergom - Szentendre - Budapest - M5 - Szeged,3
+21,15455,5042,Baja - Bácsbokod - Bácsalmás - Kelebia - Szeged,3
+21,15456,5075,Kecskemét - Kiskunfélegyháza - Kistelek - Szeged,3
+21,15457,3494,Parádsasvár - Parád - Mátraballa - Pétervására,3
+21,15459,7068,Fertőd - Fertőszentmiklós - Kapuvár - Csorna - Győr,3
+21,1546,5411,Szekszárd (Keselyűs) - Szekszárd,3
+21,1547,5415,Bátaszék - Decs - Szekszárd,3
+21,15473,6007,Siójut - Balatonszabadi - Siófok,3
+21,1548,5420,Baja - Bátaszék - Szekszárd,3
+21,1549,5422,Baja - Bátaszék,3
+21,15492,553,Szolnok - Cegléd / Törtel - Kecskemét,3
+21,15493,5917,Siófok - Ságvár - Tab - Igal - Kaposvár,3
+21,15494,3739,Polgár - Tiszaújváros - Ónod - Nyékládháza - Miskolc,3
+21,15495,3968,Igrici - Hejőpapi - Nemesbikk - Tiszaújváros,3
+21,15496,3969,Igrici - Hejőszalonta - Hejőbába - Tiszaújváros,3
+21,15497,547,Csemő - Nagykőrös,3
+21,15498,581,Monor - Üllő - Budapest,3
+21,15502,782,Etyek - Biatorbágy - Páty - Budapest,3
+21,15506,6396,Nagykanizsa - Sármellék - Keszthely - Hévíz - Sümeg,3
+21,15508,7018,Veszprémvarsány - Pannonhalma,3
+21,15509,7229,Simaság - Sopron,3
+21,1551,5426,Bátaszék - Mórágy - Alsónána - Szekszárd,3
+21,15513,607,Újlengyel - Újhartyán - Inárcs - Budapest,3
+21,1552,5427,Szálka - Szekszárd,3
+21,15521,1,Balatonszéplak alsó v.mh. - Autóbusz-állomás,3
+21,15522,2,"Sóstó, kemping - Autóbusz-állomás",3
+21,15523,3,Volán-telep - Autóbusz-állomás,3
+21,15524,4,"Kiliti, Béke tér - Autóbusz-állomás",3
+21,15526,6,Somogyfok - Balatonszéplak alsó- Autóbusz-állomás,3
+21,15527,7,"Töreki, alsó - Autóbusz-állomás",3
+21,15529,1,Bélatelep - Turul utca - Vasútállomás,3
+21,1553,5430,Bonyhád - Kakasd - Szekszárd,3
+21,15530,2,Vasútállomás - Fű utca - Szent István utca - Vasútállomás,3
+21,15532,1,Henész - Autóbusz-állomás,3
+21,15535,4,Kivadár - Autóbusz-állomás,3
+21,15536,1,Szakközépiskola - Autóbusz-állomás - Arany János utca,3
+21,1554,5431,Dombóvár - Kurd - Bonyhád - Szekszárd,3
+21,1557,5435,Hőgyész - Zomba - Szekszárd,3
+21,1558,5436,Iregszemcse - Tamási - Hőgyész - Szekszárd,3
+21,1559,5440,Gyönk - Kölesd - Harc - Szekszárd,3
+21,1560,5445,Medina - Szedres - Szekszárd,3
+21,15604,112,Déri sétány - Szentistván - Dobó utcai forduló - Déri sétány,3
+21,15606,121,Déri sétány - Dobó utcai forduló - Szentistván - Déri sétány,3
+21,15607,4,Déri sétány - Mártonszállás - Déri sétány,3
+21,1561,5446,Simontornya - Gyönk - Kölesd - Szekszárd,3
+21,15611,68,Déri sétány - DÉLHÚS - Vaskúti úti laktanya forduló - Déri sétány,3
+21,15613,86,Déri sétány - DÉLHÚS  - Déri sétány,3
+21,15614,9,Déri sétány - Újváros - TESCO - Déri sétány,3
+21,15615,1,Szabadság tér - Volán-telep - Autóbusz-állomás - Szabadság tér,3
+21,15617,17,Lencsési lakótelep - Szabadság tér,3
+21,15618,17M,Lencsési lakótelep - Szabadság tér - Kórház,3
+21,15619,17V,Lencsési lakótelep - Szabadság tér - Autóbusz-állomás,3
+21,15620,20,Gerla - Autóbusz-állomás,3
+21,15621,3,Kossuth tér - Varságh utca - Szabadság tér - Autóbusz-állomás - Veres Péter utca,3
+21,15625,5,Mezőmegyer - Autóbusz-állomás,3
+21,15627,7,Lencsési lakótelep - Bánát utca - Petőfi liget - Autóbusz-állomás,3
+21,15628,7F,Autóbusz-állomás - Fényes - Szabadság tér - Autóbusz-állomás,3
+21,15629,8,Linamar - Autóbusz-állomás - Erdélyi sor,3
+21,1563,5448,Tengelic - Szedres - Szekszárd,3
+21,15630,8A,Erdélyi sor - Autóbusz-állomás - TESCO,3
+21,15631,8V,Varságh utca - Autóbusz-állomás - TESCO,3
+21,15633,1,Fürdő - Autóbusz-állomás,3
+21,15634,1,Kőkereszt - Piroska János tér - Autóbusz-állomás - Autóbusz-forduló,3
+21,15635,1A,Autóbusz-állomás - Autóbusz-forduló,3
+21,15636,3,Kőkereszt - Autóbusz-állomás - Rendelőintézet - Autóbusz-forduló,3
+21,15637,4,Dénesmajor - Gyulavári kastély - Vasútállomás,3
+21,15638,5,Hőforrás Üdülőszövetkezet - Várfürdő - Vasútállomás,3
+21,15639,1,Porcelángyár - Autóbusz-állomás - Tóalj utca - Kórház - Szántó Kovács János utca - Lőrinc pap utca - Volán-telep,3
+21,1564,5449,Veszprém - Enying - Paks,3
+21,15640,10,Autóbusz-állomás - Piactér - Tóalj utca - Kertváros,3
+21,15641,12,Porcelángyár - Malom - Tóalj utca - Kertváros,3
+21,15642,13,Porcelángyár - Kórház - László utca - Kincses temető,3
+21,15643,14,Porcelángyár - Vásártér - Mester utca - Kincses temető,3
+21,15644,16,Porcelángyár - Vásártér - Mester utca - Kincses temető,3
+21,15645,4,Porcelángyár - Visszhang utca - Tabáni piactér - Kincses temető,3
+21,15646,7,Kincses temető - Veres utca - Kórház - Szivárvány Otthon,3
+21,15647,9,Kincses temető - Veres utca - Kórház - Piactér - Serház tér - Mester utca - Kincses temető,3
+21,15648,5,Ipari park - MEDICOR - Justh Gyula utca - Autóbusz-állomás,3
+21,15649,1,Autóbusz-állomás - Röszkei út - Munkácsy utca - Nyár utca - Autóbusz-állomás,3
+21,1565,5450,Dunaföldvár - Bölcske - Paks,3
+21,15650,2,Gyökeres - Szentetornya - Autóbusz-állomás,3
+21,15651,2A,Gyökeres - Szentetornya - Autóbusz-állomás,3
+21,15652,4,Rákóczitelep - Autóbusz-állomás,3
+21,15653,4A,Rákóczitelep - Autóbusz-állomás,3
+21,15654,6,Autóbusz-állomás - Rákóczitelep - Autóbusz-állomás,3
+21,15655,7,Autóbusz-állomás - Gyökeres - Szentetornya - Autóbusz-állomás,3
+21,15656,7A,Rákóczitelep - Gyökeres - Autóbusz-állomás,3
+21,15659,1,Drahos István utca - Autóbusz-állomás,3
+21,1566,5451,Tengelic - Dunaszentgyörgy,3
+21,15660,3,Hékéd - Autóbusz-állomás - Drahos István utca,3
+21,15661,3A,Hékéd - Autóbusz-állomás,3
+21,15668,7836,Hévíz/Badacsonytomaj - Tapolca - Halimba - Ajka,3
+21,1567,5452,Tengelic - Biritópuszta - Paks,3
+21,15670,3491,Parádsasvár - Sirok - Bükkszék - Pétervására - Tarnalelesz,3
+21,15672,1,"Andráshida, sportpálya - Andráshida, Szentmártoni utca - Vasútállomás",3
+21,15673,2,Autóbusz-állomás - Csácsbozsok - Autóbusz-állomás,3
+21,15674,3,Pózva - Nekeresd - Vasútállomás,3
+21,15675,4,Botfa - Vasútállomás,3
+21,15676,5,Ságod - Új köztemető - Autóbusz-állomás,3
+21,15677,8,Kovács Károly tér - Kertváros - Kovács Károly tér,3
+21,15678,9,Kovács Károly tér/Vasútállomás - Páterdomb - TESCO - Vasútállomás/Kovács Károly tér,3
+21,15679,10,Vasútállomás - Kertváros - Csertán Sándor utca - Platán sor - Kovács Károly tér - Vasútállomás,3
+21,1568,5453,Kajdacs - Nagydorog,3
+21,15680,11,Vasútállomás - Széchenyi tér - Platán sor - Csertán Sándor utca - Kertváros - Vasútállomás,3
+21,15681,1A,"Andráshida, sportpálya - Andráshida, bolt - Autóbusz-állomás",3
+21,15682,1E,Andráshida - Kovács Károly tér - Vasútállomás,3
+21,15683,1U,"Vasútállomás - Andráshida, sportpálya - Hatház - Andráshida, bolt - Vasútállomás",3
+21,15684,1Y,"Vasútállomás - Apátfa - Hatház - Andráshida, Szentmártoni utca - Vasútállomás",3
+21,15685,24,Szenterzsébethegy - Autóbusz-állomás,3
+21,15686,26,Ebergény - Autóbusz-állomás,3
+21,15687,2A,"Autóbusz-állomás - Csácsbozsok, Damjanich utca - Autóbusz-állomás",3
+21,15688,2Y,Autóbusz-állomás - Csácsbozsok - Autóbusz-állomás,3
+21,15689,30,Kökényesmindszent - Bazita - Autóbusz-állomás,3
+21,1569,5454,Sárszentlőrinc - Nagydorog,3
+21,15690,3C,Pózva - Nekeresd - Vasútállomás,3
+21,15691,3Y,Pózva - Nekeresd - Vasútállomás,3
+21,15692,41,ADA - Flex B - Autóbusz-állomás,3
+21,15693,48,ADA - Flex B - Csertán Sándor utca - Olai bisztró,3
+21,15694,4A,Zalabesenyő - Vasútállomás,3
+21,15695,4E,Zalabesenyő - Bartók Béla utca - Vasútállomás,3
+21,15696,4U,Botfa - Zalabesenyő - Bartók Béla utca - Vasútállomás,3
+21,15697,4Y,Botfa - Zalabesenyő - Vasútállomás,3
+21,15698,5C,Ságod - Neszele - Autóbusz-állomás,3
+21,15699,5U,Ságod - Neszele - Vasútállomás,3
+21,157,1464,Nagykőrös - Szolnok,3
+21,1570,5455,Nagydorog - Paks,3
+21,15700,5Y,Ságod - Neszele - Új köztemető - Autóbusz-állomás,3
+21,15701,69,Andráshida - Hűtőipari Zrt. - Olai bisztró,3
+21,15702,8C,Kertváros - Széchenyi tér - Mártírok utca - Kertváros,3
+21,15703,8E,Kertváros - Erdész utca - Széchenyi tér - Erdész utca - Kertváros,3
+21,15704,9E,Szegfű út - Autóbuszállomás,3
+21,15705,9U,Kovács Károly tér/Vasútállomás - Páterdomb - TESCO - Vasútállomás/Kovács Károly tér,3
+21,15706,C1,Andráshida - Landorhegy - Kertváros,3
+21,15707,C2,Csácsbozsok - Kertváros - Landorhegy,3
+21,15708,C4,Botfa - Kertváros - Landorhegy,3
+21,15709,C5,Északi Ipari Park - Autóbusz-állomás,3
+21,15710,10C,Csertán Sándor utca - Gasparich utca - Kovács Károly tér - Göcseji utca - Csertán Sándor utca,3
+21,15711,10E,Autóbusz-állomás-Ganz Szakközépiskola,3
+21,15712,10Y,Vasútállomás - Kertváros - Csertán Sándor utca - Platán sor - Kovács Károly tér - Vasútállomás,3
+21,15713,11A,Vasútállomás - Széchenyi tér - Platán sor - Csertán Sándor utca - Kertváros - Vasútállomás,3
+21,15714,11Y,Vasútállomás - Széchenyi tér - Platán sor - Csertán Sándor utca - Kertváros - Vasútállomás,3
+21,15715,30C,Kökényesmindszent - Bazita - Autóbusz-állomás,3
+21,1572,5457,Cece - Németkér - Paks,3
+21,15739,535,Abony - Cegléd,3
+21,15747,6823,Mezőlak - Celldömölk,3
+21,15784,1,"Inota, Erőmű lakótelep - Jókai Mór utca",3
+21,15785,2,Szabadság tér - Viola utca - Szabadság tér,3
+21,15786,4,Vasútállomás - Tési domb,3
+21,15787,6,Tési domb - Jókai Mór utca,3
+21,15788,10,Kenyérgyár - Róbert Károly forduló,3
+21,15789,14,Tési domb - Szabadság tér,3
+21,15790,1Y,"Inota, Erőmű lakótelep - Jókai Mór utca",3
+21,15797,536,Törtel - Abony,3
+21,15798,3652,Hatvan - Nagyréde - Gyöngyös - Gyöngyössolymos,3
+21,15808,11,Vasútállomás - Kórház - Bánomi lakótelep - Bazilika - Lázár Vilmos utca - Vasútállomás,3
+21,15809,1,Vasútállomás - TESCO - Vasútállomás - Lázár Vilmos utca - Bazilika - Bánomi lakótelep - Kórház - Vasútállomás,3
+21,15810,43,Bánomi lakótelep - Vasútállomás - Kertváros - Vasútállomás - Bánomi lakótelep,3
+21,15811,21,Ipari park - Autóbusz-állomás,3
+21,15812,23,MOL városrész - Koppánymonostor,3
+21,15813,2T,Koppánymonostor - Autóbusz-állomás,3
+21,15814,2Y,Ipari park - Autóbusz-állomás,3
+21,15815,2,Koppánymonostor - Autóbusz-állomás,3
+21,15816,32,Koppánymonostor - MOL városrész,3
+21,15817,3,MOL városrész - Autóbusz-állomás,3
+21,15828,1T,Városi temető / Kamalduli remeteség - Volán-telep,3
+21,15829,1Y,Volán-telep - Határ út / Nyírjes dűlő - Volán-telep,3
+21,1584,5470,Zomba - Bonyhád (Tabód) - Bonyhád,3
+21,1585,5475,Bátaszék - Mőcsény - Bonyhád,3
+21,15850,1A,Vasútállomás - Veres Péter utca - Fellner Jakab úti forduló,3
+21,15851,1E,Vasútállomás - Fellner Jakab úti forduló - Tesco Áruház,3
+21,15853,1Y,Vasútállomás - Szélescsapás dűlő,3
+21,15854,1,Vasútállomás - Fellner Jakab úti forduló,3
+21,15855,21,Fellner Jakab út - Veres Péter utca - Vasútállomás,3
+21,15856,2A,Autóbusz-állomás - Fellner Jakab út,3
+21,15857,2B,Fellner Jakab út - Mezőgazdasági szakközépiskola - Kossuth tér - Fellner Jakab út,3
+21,15858,2M,Fellner Jakab út - Mezőgazdasági szakközépiskola - Fellner Jakab út,3
+21,15859,2,Vasútállomás - Fellner Jakab út,3
+21,1586,5476,Cikó - Bonyhád,3
+21,15861,3,Fényes fürdő - Autóbusz-állomás,3
+21,15863,5A,Autóbusz-állomás - Kertváros - Autóbusz-állomás,3
+21,15867,5,Fellner Jakab úti forduló - Kertváros - Fellner Jakab úti forduló,3
+21,15868,7K,Agostyán - Kossuth tér,3
+21,15869,7,Agostyán - Autóbusz-állomás,3
+21,15872,8A,Autóbusz-állomás - Autóbusz-állomás,3
+21,15874,8,Fellner Jakab úti forduló - Újhegy - Fellner Jakab úti forduló,3
+21,1589,5490,Lengyel - Bonyhád,3
+21,159,1467,Hatvan - Jászfényszaru - Jászberény - Szolnok,3
+21,1590,5495,Závod - Tevel - Bonyhád,3
+21,1591,5496,Szakály-Hőgyész vá. - Kalaznó - Tevel - Bonyhád,3
+21,15917,24,Autóbusz-állomás - Ipari kikötő,3
+21,15918,25,"Északi Ipari Park - Római körút - Autóbusz-állomás - Békeváros, Szabadság út",3
+21,15919,27,Északi Ipari Park / Lánczos Kornél utca - Autóbusz-állomás,3
+21,15920,28,"Északi Ipari Park / Lánczos Kornél utca - Békeváros, Hajnal út",3
+21,15922,2,Papírgyár - Autóbusz-állomás - Dózsa Mozi - Autóbusz-állomás - Papírgyár,3
+21,15924,33,"Pálhalma - Római körút - Autóbusz-állomás - Bercsényi Miklós utca - Békeváros, Hajnal út",3
+21,15926,3,Papírgyár - Római körút - Papírgyár,3
+21,15928,44,"Papírgyár - Autóbusz-állomás - Bercsényi Miklós utca - Békeváros, Szabadság út",3
+21,1593,5503,Tamási - Dombóvár,3
+21,15931,5,Kertváros - Bercsényi Miklós utca - Autóbusz-állomás - Római körút - Venyimi út - Újtelep - Bagolyvár - Vasútállomás - Volán-telep,3
+21,15932,8,Kokszvegyészet - Autóbusz-állomás - Dózsa Mozi - Kokszvegyészet,3
+21,15934,10,Orsovai utca - Szedreskerti lakónegyed,3
+21,15935,11A,Sóstói bevásárlóközpont - Csapó utca,3
+21,15936,11G,Ikarus 3. porta - Autóbusz-állomás,3
+21,15937,12A,Sóstói bevásárlóközpont - Csapó utca,3
+21,15938,12Y,Bárándi utca - Autóbusz-állomás,3
+21,15939,12,Sóstói bevásárlóközpont - Szedreskerti lakónegyed,3
+21,1594,5505,Várong - Nak - Kocsola - Dombóvár,3
+21,15940,13G,Babér utca - Tejüzem - Autóbusz-állomás,3
+21,15941,13Y,Zsurló utca - Autóbusz-állomás,3
+21,15942,14G,Köfém lakótelep - Autóbusz-állomás,3
+21,15943,14,Köfém lakótelep - Szedreskerti lakónegyed,3
+21,15945,15Y,Logisztikai központ - Csapó utca,3
+21,15946,15,"Amerikai fasor, forduló - Csapó utca",3
+21,15948,16,Babér utca - Szedreskerti lakónegyed,3
+21,15949,17,Köfém lakótelep - Csapó utca,3
+21,1595,5510,Gyulaj - Kurd - Dombóvár,3
+21,15950,22,Kisfalud - Jancsár utca,3
+21,15951,23E,Videoton - Jancsár utca,3
+21,15952,23,Videoton Ipari Park - Jancsár utca,3
+21,15953,24,Zsolnai út/Nagyszombat utca - Jancsár utca,3
+21,15954,25,Nyitrai utca/Zobori út - Jancsár utca,3
+21,15955,26A,Kassai utca/Nagyszombati utca - Videoton - Jancsár utca,3
+21,15956,26G,Autóbusz-állomás - Videoton,3
+21,15958,26,Béla utca - Jancsár utca,3
+21,15959,27,Európa Ipari Park - Autóbusz-állomás,3
+21,1596,5515,Csikóstőttős - Dombóvár,3
+21,15960,29,Jancsár utca - Hübner András utca - Jancsár utca,3
+21,15961,31E,Videoton - Vasútállomás,3
+21,15962,31,Béla utca - Vasútállomás,3
+21,15963,32,Kassai utca/Nagyszombati utca - Vasútállomás,3
+21,15964,33,Vasútállomás - Fecskeparti lakótelep - Vasútállomás,3
+21,15966,35,Zone Bevásárlópark - Vasútállomás,3
+21,15968,38,Videoton Ipari Park - Vasútállomás,3
+21,15969,42,Börgönd - Csapó utca,3
+21,15970,43,Csapó utca - Kórház - Csapó utca,3
+21,15971,44,Csapó utca - Kórház - Csapó utca,3
+21,15972,M26,Európa Ipari Park - Videoton,3
+21,1598,5524,Várong - Szakcs - Alsóhetény - Dombóvár,3
+21,1599,5550,Pincehely - Tamási,3
+21,16,1034,Jósvafő - Ózd - Bátonyterenye - Budapest,3
+21,160,1468,Eger - Tiszafüred - Szolnok,3
+21,1600,5551,Fürged - Ozora - Pincehely - Tamási,3
+21,16009,1G,Vasútállomás - Remeteségpuszta - Fellner Jakab úti forduló,3
+21,1601,5555,Cece - Simontornya - Kisszékely - Pincehely - Tamási,3
+21,16010,1YG,Vasútállomás - Remeteségpuszta - Szélescsapás,3
+21,16014,6833,Kerta - Kamond - Boba - Celldömölk,3
+21,16015,7773,Zalaerdőd - Dabronc - Szalapa - Sümeg,3
+21,16016,3712,Homrogd - Abaújlak - Abaújszolnok - Szikszó - Miskolc,3
+21,16018,4214,Dombrád - Nagyhalász - Kemecse - Nyíregyháza,3
+21,16019,4233,Sényő - Nyírpazony - Nyíregyháza,3
+21,1602,5556,Nagyszékely - Pincehely - Tamási,3
+21,16020,4234,Baktalórántháza - Nyírpazony - Nyíregyháza,3
+21,16021,4253,Tiszamogyorós - Kisvárda - Nyíregyháza,3
+21,16022,4322,Csenger - Pátyod - Porcsalma - Mátészalka,3
+21,16023,4330,Vállaj - Mátészalka,3
+21,16024,4331,Nyírkáta - Hodász - Nyírmeggyes - Mátészalka,3
+21,16025,4333,Nagyecsed - Mátészalka,3
+21,16026,4334,Baktalórántháza - Mátészalka,3
+21,16027,4353,Magosliget - Kölcse - Fehérgyarmat,3
+21,16028,4361,Kishódos - Csegöld - Fehérgyarmat,3
+21,1603,5560,Pincehely - Keszőhidegkút-Gyönk vá. - Gyönk ,3
+21,16033,4607,Szajol - Szolnok,3
+21,16034,751,Zichyőjfalu - Agárd - Dinnyés - Székesfehérvár,3
+21,16035,1C,Kenessey Albert Kórház - Vasútállomás,3
+21,1604,5561,Miszla - Udvari - Gyönk,3
+21,1605,5562,Cece/Paks - Nagydorog - Kölesd - Gyönk,3
+21,16069,3492,Pétervására - Mátraballa - Mátraháza - Gyöngyös,3
+21,1607,5566,Hőgyész - Gyönk,3
+21,1608,5569,Gyönk - Regöly - Tamási,3
+21,1609,5570,Felsőnyék - Magyarkeszi - Iregszemcse - Tamási,3
+21,161,1469,Mátraháza - Gyöngyös - Jászberény - Szolnok,3
+21,1610,5572,Fürged - Fornád - Tamási,3
+21,16107,3454,Egerszalók - Eger,3
+21,1611,5573,Iregszemcse - Újireg - Nagykónyi,3
+21,1612,5574,Hékútpuszta - Iregszemcse,3
+21,16129,1,Autóbusz-állomás - Horvátnádalja - Autóbusz-állomás,3
+21,1613,5575,Törökkoppány - Értény - Tamási,3
+21,16130,2,Autóbusz-állomás - TESCO hipermarket - Bartók lakótelep - Autóbusz-állomás,3
+21,16131,1A,Autóbusz-állomás - Felsőberkifalu - Autóbusz-állomás,3
+21,16132,1B,Autóbusz-állomás - Horvátnádalja - Felsőberkifalu - Autóbusz-állomás,3
+21,16133,2A,Autóbusz-állomás - Bartók lakótelep - TESCO hipermarket - Autóbusz-állomás,3
+21,16137,4237,Fehérgyarmat - Mátészalka - Jármi - Nyíregyháza,3
+21,16139,111,Vasútállomás - Kórház - Bánomi lakótelep - Bazilika - Lázár Vilmos utca - Vasútállomás - TESCO - Vasútállomás,3
+21,16147,5647,Mohács - M60 - Pécs,3
+21,16149,1499,Zalaegerszeg - Siófok - Kecskemét - Békéscsaba,3
+21,16157,5601,"Abaliget - Orfű, camping - Orfű - Pécs",3
+21,16161,3671,Jászberény - Gyöngyös,3
+21,16163,4413,Debrecen - Nyírmártonfalva - Debrecen,3
+21,16166,4320,Porcsalma - Mátészalka,3
+21,16167,3628,Mátrai Erőmű Zrt. - Gyöngyös - Rózsaszentmárton - Petőfibánya - Vörösmajor - Hatvan,3
+21,16168,4887,Békés - Gyula,3
+21,16170,4779,Kétpó - Kuncsorba - Mezőtúr,3
+21,16173,1,Vegyiművek - Tallinn városrész,3
+21,16174,1A,Ipari park (BSM) - Tallinn városrész,3
+21,16175,1Y,Cukorgyári lakótelep - Tallinn városrész,3
+21,16176,2,Cukorgyári lakótelep - Tallinn városrész,3
+21,16177,2Y,Cukorgyári lakótelep - Tallinn városrész,3
+21,16178,3,Kőrösi út - Tallinn városrész,3
+21,16179,4A,Széchenyi lakótelep - Autóbusz-állomás - Várkonyi tér - Széchenyi lakótelep,3
+21,1618,5600,Abaliget - Orfű - Pécs,3
+21,16180,6,Alamand dűlő - Vasútállomás,3
+21,16181,6Y,Holt-Tiszapart - Vasútállomás,3
+21,16182,7,Vasútállomás - Szandaszőlős - Vasútállomás,3
+21,16183,7Y,Tóth Árpád út - Vasútállomás,3
+21,16184,8,Vasútállomás - Szandaszőlős - Vasútállomás,3
+21,16185,8Y,Tóth Árpád út - Vasútállomás,3
+21,16186,9,Béke Tsz. - Szolnok ispán körút,3
+21,16187,10,Szolnok ispán körút - TIGÁZ - Volánbusz - Interspar - Szolnok ispán körút,3
+21,16188,11,Mester út - Vásárcsarnok - Volánbusz,3
+21,16189,12,Szolnok ispán körút - Interspar - Volánbusz - TIGÁZ - Szolnok ispán körút,3
+21,1619,5602,Magyarhertelend - Orfű - Pécs,3
+21,16190,13,Vegyiművek - Vasútállomás,3
+21,16191,13Y,Vegyiművek - Alcsi Mezőgazdasági Zrt. - Vasútállomás,3
+21,16193,15,"Tiszaliget, Campus - Vasútállomás",3
+21,16194,16,Volánbusz - Vasútállomás,3
+21,16195,17,Vasútállomás - Family Center - Vasútállomás,3
+21,16196,20,Kőrösi út - Tallinn városrész,3
+21,16197,21,Tallinn városrész - Vásárcsarnok - Volánbusz,3
+21,16198,23,Cukorgyári lakótelep - Kassai út,3
+21,16199,24,Vasútállomás - Széchenyi lakótelep - Autóbusz-állomás - Vasútállomás,3
+21,162,1486,Pécs - Baja - Szeged - Békéscsaba,3
+21,1620,5603,Bakóca - Abaliget - Pécs,3
+21,16200,24A,Vasútállomás - Autóbusz-állomás - Széchenyi lakótelep - Vasútállomás,3
+21,16201,27,Vasútállomás - Tóth Árpád út - Vasútálomás,3
+21,16202,28,Vasútállomás - Tóth Árpád út - Vasútálomás,3
+21,16203,31,Volánbusz - Tallinn városrész,3
+21,16204,32,Eagle Ottawa - Szolnok ispán körút,3
+21,16205,33,Ipari park (Stadler) - Széchenyi lakótelep,3
+21,16206,34,Vegyiművek - Ipari park - Széchenyi lakótelep,3
+21,16207,34A,Cukorgyári lakótelep - Széchenyi lakótelep,3
+21,16208,34B,Repülőtér - Széchenyi lakótelep,3
+21,16209,34E,Vegyiművek - Széchenyi lakótelep,3
+21,1621,5605,Gödre/Szágy - Sásd - Oroszló - Pécs,3
+21,16210,34Y,Kőrösi út - Széchenyi lakótelep,3
+21,16211,34,Széchenyi lakótelep - Vegyiművek,3
+21,16212,37,Repülőtér - Tallinn városrész,3
+21,16213,38,Tóth Árpád út - Vasútállomás,3
+21,16214,41,Széchenyi lakótelep - Repülőtér,3
+21,16215,42,Jubileum tér - Nagysándor József út,3
+21,16216,43,Szabadság tér - Városi Kollégium,3
+21,16217,2,Tihaméri malom - Szalapart út,3
+21,16218,2A,Tihaméri malom - Szalapart út,3
+21,1622,5610,Komló - Mánfa - Pécs,3
+21,16220,5,Agroker - TESCO áruház,3
+21,16221,5A,Tihaméri malom - TESCO áruház,3
+21,16223,6,Tihaméri malom - Lajosváros,3
+21,16224,7,Vécsey-völgy - Baktai út,3
+21,16227,11,"Felnémet, Béke út - Lajosváros",3
+21,16229,12,TESCO áruház - Lajosváros,3
+21,1623,5611,Dombóvár - Szászvár - Komló - Pécs,3
+21,16230,112,Ipari park - TESCO áruház,3
+21,16232,13,TESCO áruház - Lajosváros,3
+21,16233,14,BERVA - Pásztorvölgy - Lajosváros,3
+21,16234,14E,BERVA - Lajosváros,3
+21,16236,17,TESCO áruház - Vasútállomás,3
+21,16238,1,Electrolux - Vasútállomás - Szent István körút - Platán utca - Autóbusz-állomás - Hatvani út,3
+21,1624,5612,"Komló - Mánfa - Pécs, Finn utca",3
+21,16240,2A,Szent István körút - Rét utca - Kórház - Autóbusz-állomás,3
+21,1625,5620,Komló - Hosszúhetény - Pécs,3
+21,16253,1,Seregély utca - Bugáth Pál Kórház - Aranysas utca - Pesti úti lakótelep - TESCO,3
+21,16254,1/A,Seregély utca - Vasútállomás - Aranysas utca - Pesti úti lakótelep - TESCO,3
+21,1626,5624,Szekszárd - Bonyhád - Szászvár - Pécs,3
+21,16260,1,KÁTISZ - Nagyvénkert - Autóbusz-állomás - Vasútállomás,3
+21,16261,1/A,Nagyvénkert - Kórház - Autóbusz-állomás - Vasútállomás,3
+21,16262,2,Magyarka - Kutatóintézet - Autóbusz-állomás,3
+21,16263,2/A,Kutatóntézet - Autóbusz-állomás,3
+21,16264,3,Nagyvénkert - Autóbusz-állomás - Vasútállomás,3
+21,16265,4,Autóbusz-állomás - Vasútállomás,3
+21,16266,1,Örvény - Alumíniumgyár - Deák tér - Autóbusz-állomás,3
+21,16267,1,Autóbusz-állomás - Akác úti ABC - Kossuth tér - Akác úti ABC - Autóbusz-állomás,3
+21,16268,1,Nagy út - Kastélyotthon,3
+21,16269,1/A,ABC - Vasútállomás - Kastélyotthon,3
+21,1627,5630,Szekszárd - Bonyhád - Pécsvárad - Pécs,3
+21,16270,2/A,Vasútállomás - Nagy út,3
+21,16271,3,Vasútállomás - Hunyadi utca - Időskorúak otthona,3
+21,16272,3752,Tiszaújváros - Muhi - Sajópetri - Kistokaj -TAKATA - Miskolc,3
+21,16274,2,Fűzfőgyártelep - Irinyi iskola - Vasútállomás - Fűzfőgyártelep,3
+21,16275,3,Fűzfőgyártelep - Irinyi iskola - Mámatető - Tobruk - Fűzfőgyártelep,3
+21,16276,4,Fűzfőgyártelep - Irinyi iskola - Mámatető - Tobruk - Irinyi iskola - Fűzfőgyártelep,3
+21,16277,5,Fűzfőgyártelep - Tobruk - Vasútállomás - Mámatető - Tobruk - Irinyi iskola - Fűzfőgyártelep,3
+21,16278,6,Fűzfőgyártelep - Vasútállomás - Mámatető - Tobruk - Irinyi iskola - Fűzfőgyártelep,3
+21,1630,5635,Romonya - Nagykozár - Pécs,3
+21,1631,5636,Pécsvárad - Romonya - Pécs,3
+21,1632,5637,Kátoly - Pécsvárad - Romonya - Pécs,3
+21,1633,5639,Belvárdgyula/Szederkény - Romonya - Pécs,3
+21,1634,5640,Szederkény - Magyarsarlós - Pécs,3
+21,1635,5642,Szederkény - Birján - Kozármisleny - Pécs,3
+21,1636,5643,Pécsvárad - Szederkény - Pécs,3
+21,16362,4236,Nyíregyháza - Nyírpazony - Kabalás - Nyíregyháza,3
+21,16363,5109,Kunszentmárton - Csongrád - Szeged,3
+21,1637,5645,Mohács - Szederkény - Pécs,3
+21,1638,5650,Pécs - [M60-M6]/Mohács - Baja,3
+21,16399,3436,Kisköre - Tiszanána - Kömlő - Maklár - Eger,3
+21,164,1503,Zalaegerszeg - Pécs - Baja - Szeged,3
+21,16400,3691,Mátrai Erőmű Zrt. - Gyöngyössolymos - Gyöngyös - Gyöngyöstarján,3
+21,16404,4503,"Pocsaj-Esztár, vá. - Esztár - Pocsaj, aut.ford.",3
+21,1641,5660,Túrony - Garé - Pogány - Pécs,3
+21,16410,20,"Ajka, autóbusz-állomás - Ajka (Padragkút), felső",3
+21,16411,1,Újtelep - Óváros - Lakótelep - Hajóállomás - Autóbusz-állomás - Óváros - Volán-telep,3
+21,16412,2,Volán-telep - Óváros - Autóbusz-állomás - Hajóállomás - Lakótelep - Óváros - Újtelep,3
+21,16413,3,Autóbusz-állomás - Kiserdő - Strandok - Balatonarács - Óváros - Autóbusz-állomás,3
+21,16414,4,Autóbusz-állomás - Óváros - Balatonarács - Strandok - Kiserdő - Autóbusz-állomás,3
+21,16415,5,Autóbusz-állomás - Illés utca - Noszlopy utca - Autóbusz-állomás,3
+21,16416,6,Autóbusz-állomás - Illés utca - Balatonarács - Kiserdő - Autóbusz-állomás,3
+21,16417,7,Autóbusz-állomás - Kiserdő - Balatonarács - Illés utca - Autóbusz-állomás,3
+21,1642,5661,Kásád - Siklós - Siklós (Máriagyűd) - Túrony - Pécs,3
+21,16426,1B,Újtelep - Óváros - Lakótelep - Hajóállomás - Autóbusz-állomás,3
+21,16427,2B,Autóbusz-állomás - Hajóállomás - Lakótelep - Óváros - Újtelep,3
+21,16428,1,"Gyenesdiás, sportpálya - Rákóczi tér - Autóbusz-állomás",3
+21,16429,2,Autóbusz-állomás - Fodor utca - Autóbusz-állomás,3
+21,1643,5662,Siklós - Harkány - Túrony - Pécs,3
+21,16430,3,Autóbusz-állomás - Szendrey-telep - Autóbusz-állomás,3
+21,16431,5,Kárpát utca - Rákóczi tér - Autóbusz-állomás,3
+21,16433,C5,TESCO - Autóbusz-állomás,3
+21,16436,2,Gyár utca - Autóbusz-állomás,3
+21,16437,3,"Lentihegy, Fekete ház - Autóbusz-állomás",3
+21,16439,35,Máhomfa - Autóbusz-állomás,3
+21,1644,5663,Siklósbodony - Garé - Pécs,3
+21,16440,90,Lentiszombathely - Autóbusz-állomás,3
+21,16441,94,Autóbusz-állomás - Bárszentmihályfa/Lentikápolna - Autóbusz-állomás,3
+21,16445,2,Autóbusz-végállomás - Városháza - Károly út - Moson - Vasútállomás,3
+21,16448,4A,Autóbusz-végállomás - Városháza - Kossuth Lajos utca - Vasútállomás,3
+21,1645,5666,Kökény - Pécs,3
+21,16450,4,Tündérfátyol utca - Duna lakópark - Evangélikus templom - Vasútállomás,3
+21,16451,5A,Tündérfátyol utca - Duna lakópark - Ujhelyi iskola - Evangélikus templom - Autóbusz-végállomás,3
+21,16455,5,Tündérfátyol utca - Duna lakópark - Ujhelyi iskola - Evangélikus templom - Vasútállomás,3
+21,1646,5667,Gyód - Keszü - Pécs,3
+21,16467,1R,Vasútállomás - Fellner Jakab út,3
+21,16468,3692,Mátrai Erőmű Zrt. - Markaz - Domoszló - Vécs,3
+21,16469,3693,Mátrai Erőmű Zrt. - Visonta - Gyöngyös,3
+21,1647,5670,Baksa - Görcsöny - Pécs,3
+21,16470,3694,Mátrai Erőmű Zrt. - Abasár - Gyöngyös,3
+21,16471,3695,Mátrai Erőmű Zrt. - Ludas - Tarnaméra - Heves,3
+21,16472,3696,"Mátrai Erőmű Zrt. - Visonta, bánya irodaház - Gyöngyös",3
+21,16473,3697,Mátrai Erőmű Zrt. - Pálosvörösmart - Gyöngyössolymos - Gyöngyös - Atkár - Adács,3
+21,16474,3698,"Ecséd - Rózsaszentmárton - Gyöngyöspata - Gyöngyös - Visonta, bánya irodaház",3
+21,16479,3226,Vörösmajor - Palotás - Buják,3
+21,1648,5671,Siklós - Harkány - Görcsöny - Pécs,3
+21,16485,1H,Hirtenberger - Autóbusz-állomás,3
+21,16486,4A,Autóbusz-állomás - Huszár lakótelep - Kórház - Autóbusz-állomás,3
+21,16487,4B,Autóbusz-állomás - Kórház - Huszár lakótelep - Autóbusz-állomás,3
+21,16488,6A,Autóbusz-állomás - Tizedik utca - Gyimóti út - Autóbusz-állomás,3
+21,16489,6B,Autóbusz-állomás - Gyimóti út - Tizedik utca - Autóbusz-állomás,3
+21,1649,5672,Siklós - Kisdér - Baksa - Pécs,3
+21,16498,4248,Nyíregyháza - Bánfibokor - Cigánybokor - Nyíregyháza,3
+21,16499,3930,Sárospatak - Sátoraljaújhely - Pálháza - Telkibánya,3
+21,165,1504,Pécs - Mohács - Baja - Szeged,3
+21,1650,5673,Kórós - Vajszló - Baksa - Pécs,3
+21,16500,4026,Csincse - Mezőkeresztes - Mezőkövesd,3
+21,1651,5676,Drávafok - Sellye - Vajszló - Baksa - Pécs,3
+21,16514,7A,Helyi autóbusz-állomás - Kórház - Fáy körút - Kórház - Helyi autóbusz-állomás - Uzoni iskola,3
+21,16515,19,Ipari park - Kotyháza - TESCO - Helyi autóbusz-állomás - Somoskő - Salgóbánya,3
+21,16516,58,Helyi autóbusz-állomás - Szerpentin út - Idegér - Helyi autóbusz-állomás,3
+21,16518,1,Szorospatak - Alsó-Katalin - Nagybátony vasútállomás,3
+21,16519,3C,"Jászai úti iskola - Nagybátony, Ózdi út 10.",3
+21,1652,5677,Felsőszentmárton - Sellye - Baksa - Pécs,3
+21,16520,4238,Encsencs - Nyírlugos - Nagykálló - Nyíregyháza,3
+21,16521,1,Zagyvaróna - Helyi autóbusz-állomás,3
+21,16522,1A,Uzoni iskola - Helyi autóbusz-állomás - Zagyvaróna,3
+21,16523,2A,Somlyóbánya - Helyi autóbusz-állomás,3
+21,16524,2C,Somlyóbánya - Füleki úti körforgalom - Helyi autóbusz-állomás,3
+21,16525,2T,"Somlyóbánya, üdülőtelep - Helyi autóbusz-állomás",3
+21,16526,3,Hősök út - TESCO - Helyi autóbusz-állomás,3
+21,16527,3C,Hősök út - Gorkijtelep - Eperjestelep - Helyi autóbusz-állomás,3
+21,16528,4,Baglyasalja - Helyi autóbusz-állomás,3
+21,16529,4A,Hősök út - TESCO - Baglyasalja,3
+21,1653,5678,Pécs - Bicsérd - Pellérd - Pécs,3
+21,16530,5,Helyi autóbusz-állomás - Idegér - Helyi autóbusz-állomás,3
+21,16531,6,Helyi autóbusz-állomás - Campingtelep,3
+21,16532,7,Helyi autóbusz-állomás - Losonci út - Fáy körút - Kórház - Helyi autóbusz-állomás,3
+21,16533,7B,Helyi autóbusz-állomás - Kórház - Fáy körút - Losonci út - Helyi autóbusz-állomás,3
+21,16534,7C,Uzoni iskola - Helyi autóbusz-állomás - Losonci út - Fáy körút - Losonci út - Helyi autóbusz-állomás,3
+21,16535,8,Helyi autóbusz-állomás - Szerpentin út - Helyi autóbusz-állomás,3
+21,16536,9,Ipari park - Kotyháza - TESCO - Helyi autóbusz-állomás,3
+21,16537,11,Somoskőújfalu - Helyi autóbusz-állomás,3
+21,16538,11A,Somoskő - Országhatár - Helyi autóbusz-állomás,3
+21,16539,11B,Salgóbánya - Somoskő - Helyi autóbusz-állomás,3
+21,1654,5680,Baksa - Szabadszentkirály - Pécs,3
+21,16540,11Y,Hősök út - TESCO - Helyi autóbusz-állomás - Somoskőújfalu,3
+21,16541,13,Ipari park - TESCO - Helyi autóbusz-állomás - Zagyvaróna,3
+21,16542,14,Baglyasalja - Helyi autóbusz-állomás - Zagyvaróna,3
+21,16543,27A,Helyi autóbusz-állomás - Kórház - Fáy körút - Kórház - Somlyóbánya - Helyi autóbusz-állomás,3
+21,16544,36,Campingtelep - Helyi autóbusz-állomás - TESCO - Gorkijtelep - Hősök út,3
+21,16545,46,Campingtelep - Helyi autóbusz-állomás - Baglyasalja,3
+21,16546,61,Zagyvaróna - Campingtelep,3
+21,16547,63,Hősök út - Csokonai út - Helyi autóbusz-állomás - Campingtelep,3
+21,16548,63S,Hősök út - Sugár út - Csokonai út - TESCO - Helyi autóbusz-állomás - Campingtelep,3
+21,16549,1,Kenessey Albert Kórház - Vasútállomás,3
+21,1655,5681,Siklós - Kisdér - Baksa - Pécs,3
+21,16550,1A,Kenessey Albert Kórház - Autóbusz-állomás,3
+21,16551,2,Vasútállomás / Kenessey Albert Kórház - Ruhagyár,3
+21,16552,2C,Ruhagyár / MAHLE Kft. - Autóbusz-állomás,3
+21,16553,3,Szabó Lőrinc iskola - Bremas Kft. / Kábelgyár / Vasútállomás,3
+21,16554,3B,Vasútállomás - Szabó Lőrinc iskola,3
+21,16555,3C,Kábelgyár - Ruhagyár,3
+21,16556,4,Kenessey Albert Kórház - Bremas Kft. / Kábelgyár,3
+21,16557,5B,Kenessey Albert Kórház - Szabó Lőrinc iskola,3
+21,16558,6,Autóbusz-állomás / Kenessey Albert Kórház - Bremas Kft. - Volán-telep / Huszár Aladár úti forduló,3
+21,16559,7,Kenessey Albert Kórház - Szabó Lőrinc iskola - Kenessey Albert Kórház,3
+21,1656,5683,Drávakeresztúr/Drávasztára - Sellye - Szentlőrinc - Pécs,3
+21,16560,7A,Kenessey Albert Kórház - Huszár Aladár úti forduló,3
+21,16561,7B,Kenessey Albert Kórház - Ruhagyár - Kenessey Albert Kórház,3
+21,16562,7D,Szabó Lőrinc Iskola - Civitas Fortissima tér,3
+21,16563,8,Kenessey Albert Iskola - Szabó Lőrinc iskola - Ruhagyár - Autóbusz-állomás,3
+21,16564,8A,MAHLE Kft. - Szabó Lőrinc Iskola - Autóbusz-állomás,3
+21,16565,8C,Kenessey Albert Kórház- Szabó Lőrinc Iskola / Volán-telep,3
+21,16566,9,Kenessey Albert Kórház - Szabó Lőrinc iskola - Ruhagyár - Kenessey Albert Kórház,3
+21,16567,9A,Autóbusz-állomás - Szabó Lőrinc iskola - Ruhagyár - Káblegyár - Vasútállomás - Autóbusz-állomás,3
+21,16568,9B,Autóbusz-állomás - Szabó Lőrinc Iskola - Ruhagyár - Kenessey Albert Kórház,3
+21,16569,2,"Maconka, újtelep - Nagybátony vasútállomás",3
+21,16570,3,Kisterenye vasútállomás - Maconka - Nagybátony - Szorospatak,3
+21,16571,3A,Jászai úti iskola - Kisterenye - Maconka - Nagybátony - Szorospatak,3
+21,16572,11,Szupatak - Kisterenye vasútállomás,3
+21,16573,11A,Szupatak - Jászai úti iskola - Kisterenye vasútállomás,3
+21,1658,5685,Szigetvár - Pécs,3
+21,1660,5687,Nagykanizsa - Barcs - Pécs,3
+21,1661,5688,Nagykanizsa - Csurgó - Nagyatád - Barcs - Pécs,3
+21,1665,5700,Sásd - Komló (Sikonda)/Mecsekpölöske - Komló,3
+21,1666,5701,Sásd - Bodolyabér - Komló (Sikonda)/Mecsekpölöske - Komló,3
+21,1667,5702,Dombóvár - Kisvaszar - Sásd - Komló,3
+21,1669,5704,Varga - Sásd,3
+21,167,1506,Hévíz - Siófok/Bonyhád - Szekszárd - Baja - Szeged,3
+21,1670,5706,Magyaregregy - Szászvár - Mágocs - Sásd,3
+21,1672,5708,Alsómocsolád - Mágocs,3
+21,1673,5709,Vázsnok - Sásd,3
+21,1674,5710,Bonyhád - Szászvár - Komló,3
+21,1675,5716,Pécsvárad - Komló,3
+21,1676,5717,Zengővárkony - Pécsvárad,3
+21,1677,5718,Erdősmecske - Pécsvárad,3
+21,1678,5721,Hetvehely - Sásd,3
+21,1679,5722,Hetvehely - Mindszentgodisa - Bodolyabér - Komló,3
+21,168,1507,Győr - Székesfehérvár - Szeged,3
+21,1680,5723,"Bakóca - Godisa, vá. - Magyarhertelend - Komló (Sikonda)/Mecsekpölöske - Komló",3
+21,1681,5516,Bakóca - Sárd - Dombóvár,3
+21,1682,5730,"Bakóca - Godisa, vá.",3
+21,1683,5740,Gödre - Szágy - Sásd - Komló,3
+21,1685,5805,Bátaszék - Dunaszekcső - Mohács,3
+21,1686,5809,Pécsvárad - Somberek - Mohács,3
+21,1687,5811,Erdőfű - Kölked - Mohács,3
+21,1688,5813,Harkány - Villány - Lippó - Mohács,3
+21,1689,5814,Majs - Nagynyárád - Bóly,3
+21,1690,5815,Harkány - Villány - Bóly - Mohács,3
+21,1691,5816,Szigetvár - Villány - Mohács,3
+21,1692,5817,Magyarbóly - Villány - Mohács,3
+21,16927,4622,Rákóczifalva - Szolnok,3
+21,16928,4794,Cibakháza - Martfű - Törökszentmiklós,3
+21,1693,5819,Berkesd - Pécsvárad - Szederkény - Mohács,3
+21,1694,5821,Kisnyárád - Mohács,3
+21,1695,5825,Pécsvárad - Hímesháza - Mohács,3
+21,16953,5638,Mohács - Pécsvárad - Romonya - Pécs,3
+21,16954,1,Hosszú-völgy - Autóbusz-állomás,3
+21,16955,2,Palánk - Autóbusz-állomás,3
+21,16956,3,Autóbusz-állomás - Tolnatej Zrt. - Autóbusz-állomás,3
+21,16957,4,Bottyán-hegy - TESCO áruház,3
+21,16958,5,Baranya-völgy - Autóbusz-állomás,3
+21,16959,6,Tót-völgy - Autóbusz-állomás,3
+21,1696,5830,Villány - Göntérpuszta/Nagytótfalu - Siklós - Harkány,3
+21,16960,7,TESCO áruház - Autóbusz-állomás,3
+21,16961,8,Palánk - Műszergyár - Szőlőhegy,3
+21,16962,9,Jobbparászta - TESCO áruház,3
+21,16963,2A,Palánk - Autóbusz-állomás,3
+21,16964,2Y,Palánk - Autóbusz-állomás,3
+21,16965,3A,Tolnatej Zrt. - Autóbusz-állomás,3
+21,16966,4A,Bottyán-hegy - TESCO áruház,3
+21,16967,4Y,Bottyán-hegy - TESCO áruház,3
+21,16968,5Y,Baranya-völgy - Autóbusz-állomás,3
+21,16969,6Y,Tót-völgy - Autóbusz-állomás,3
+21,1697,5831,Beremend - Magyarbóly - Villány,3
+21,16970,7A,TESCO áruház - Autóbusz-állomás,3
+21,16971,7B,TESCO áruház - Autóbusz-állomás,3
+21,16972,8A,Palánk - Műszergyár - Szőlőhegy,3
+21,16973,8B,Szőlőhegy - TESCO áruház,3
+21,16974,88,(Palánk - ) Műszergyár - TESCO áruház,3
+21,16975,89,(Palánk - ) Műszergyár - TESCO áruház,3
+21,16976,9Y,Jobbparászta - TESCO áruház,3
+21,16977,98,Jobbparászta - Műszergyár - TESCO áruház,3
+21,16978,1,"Majos, alsó - Autóbusz-állomás",3
+21,16979,2,Hidas-Bonyhád vasútállomás - Autóbusz-állomás,3
+21,1698,5832,Drávacsehi - Matty - Siklós,3
+21,16980,5,Autóbusz-állomás - Fáy lakótelep - Autóbusz-állomás,3
+21,16981,6,Autóbusz-állomás - Szecska lakótelep - Autóbusz-állomás,3
+21,16987,6A,Autóbusz-állomás - Fáy lakótelep - Szecska lakótelep - Autóbusz-állomás,3
+21,1699,5833,Kásád - Beremend - Old - Siklós,3
+21,16993,1,Miklósvár - Mező utca,3
+21,16995,1,Zobák-akna - Autóbusz-állomás,3
+21,16996,2,"Mecsekjánosi, vasútállomás - Autóbusz-állomás",3
+21,16997,4,"Sikonda, Vadásztanya - Autóbusz-állomás",3
+21,16998,5,Dávidföld - Autóbusz-állomás,3
+21,16999,6,Körtvélyes - Mecsekfalu - Autóbusz-állomás,3
+21,1700,5834,Drávacsehi - harkány,3
+21,17000,7,Körtvélyes - Autóbusz-állomás,3
+21,17001,8,Autóbusz-állomás - Kenderföld - Somág - Szilvás - Autóbusz-állomás,3
+21,17002,9,Temető - Autóbusz-állomás,3
+21,17003,12,Kórház - Autóbusz-állomás,3
+21,17004,13,Kökönyös - Autóbusz-állomás,3
+21,17005,15,Autóbusz-állomás - Kökönyös - Dávidföld - Autóbusz-állomás,3
+21,17006,16,MOM  - Autóbusz-állomás,3
+21,17007,113,Kökönyös - Zobák-akna,3
+21,17008,2A,Kisbattyán - Mecsekjánosi - Autóbusz-állomás,3
+21,17009,2K,"Mecsekjánosi, kertészet - Autóbusz-állomás",3
+21,1701,5835,Harkány - Siklós,3
+21,17010,78B,Autóbusz-állomás - Somág - Szilvás - Kökönyös - Körtvélyes,3
+21,17011,87,Autóbusz-állomás - Somág - Szilvás - Kökönyös - Körtvélyes,3
+21,17012,8A,Autóbusz-állomás - Szilvás - Somág - Autóbusz-állomás,3
+21,17013,8B,Autóbusz-állomás - Somág - Szilvás - Autóbusz-állomás,3
+21,17014,2,Üdülőtelep - MOFA - Autóbusz-állomás,3
+21,17015,4,Üdülőtelep - Hímesházi elágazás - Autóbusz-állomás,3
+21,17016,1,Autóbusz-állomás - Máriagyűd - Autóbusz-állomás,3
+21,17017,1,Autóbusz-állomás - Szent István lakótelep - Autóbusz-állomás,3
+21,17018,2,"Becefa, forduló - Zsibót, harangláb - Autóbusz-állomás",3
+21,17019,1A,Táncsics Mihály utca - Szent István lakótelep - Autóbusz-állomás,3
+21,17020,2A,"Autóbusz-állomás - József Attila utca - Becefa, forduló - Zsibót, harangláb - Autóbusz-állomás",3
+21,17021,1,Lajvér - Kövesd - Vasútállomás - Autóbusz-váróterem,3
+21,17022,4161,Mályinka - Dédestapolcsány - Csokvaomány - Bükkmogyórosd - Ózd,3
+21,17023,4241,Tiszalök - Tiszadob - Polgár,3
+21,1704,5841,Vejti - Vajszló,3
+21,1706,5843,Sósvertike - Sellye,3
+21,1707,5844,Drávasztára - Sellye,3
+21,1708,5845,Sellye - Vajszló,3
+21,17085,407,Hatvan - Tura - Bag - Aszód - Gödöllő,3
+21,17086,410,Hatvan - Gödöllő - Budapest,3
+21,17087,428,Erdőkürt/Erdőtarcsa - Kálló - Kartal - Aszód,3
+21,17088,432,Buják - Szirák - Aszód - Budapest,3
+21,17089,434,Buják - Szirák - Aszód - Budapest,3
+21,1709,5850,Felsőszentmárton - Sellye,3
+21,17090,3463,Liszkó - Kőkútpuszta - Sirok,3
+21,17091,3699,Mátrai Erőmű Zrt. - Abasár - Gyöngyös,3
+21,17092,5076,Kecskemét - Daimler 1. kapu - Kiskunfélegyháza - Kistelek/M5 - Szeged,3
+21,17093,5209,Szarvas - Kunszentmárton - Csépa - Tiszaug - Kecskemét,3
+21,171,1510,Pápa - Veszprém - Székesfehérvár - Solt - Szeged,3
+21,1710,5852,Királyegyháza - Marócsa - Sellye,3
+21,1711,5853,Kórós - Vajszló,3
+21,1712,5854,Harkány - Siklós (Máriagyűd) - Siklós,3
+21,1713,5855,Rádfalva - Harkány - Siklós,3
+21,1714,5856,Nagymányok - Komló - Pécs - Siklós,3
+21,1716,5871,Vásárosbéc - Somogyapáti - Szigetvár,3
+21,1717,5875,Boldogasszonyfa (Terecseny) - Ibafa - Szentlászló - Szigetvár,3
+21,1718,5881,Szentkatalin - Bükkösd - Szentlőrinc,3
+21,1719,5885,Szentlőrinc - Szentdénes - Bánfa - Szigetvár,3
+21,172,1513,Balatonfüred - Balatonalmádi - Solt - Szeged,3
+21,1720,5886,"Pécsbagota - Szentlőrinc, Tarcsapuszta - Szigetvár",3
+21,1721,5887,Szentegát (Kárászpuszta) - Szentegát - Szigetvár,3
+21,17218,4242,Nyíregyháza - Halmosbokor - Nyíregyháza,3
+21,1722,5888,Királyegyháza (Csobokapuszta) - Szentlőrinc,3
+21,17221,2,"Palin, futballpálya - Magyar utca - Kalmár utca",3
+21,17222,4,"Kiskanizsa, Bornemissza utca - Városkapu körút",3
+21,17223,6,"Kiskanizsa, Rozmaring utca - Gépgyár - Eötvös tér - Hevesi Sándor utca - Városkapu körút",3
+21,17224,8,"Miklósfa, Szentendrey Edgár utca - Ligetváros - Köztemető - Napraforgó tér",3
+21,17225,10,"Nagyfakos, alsó - Bagola, autóbusz-forduló - Kalmár utca",3
+21,17226,14,Ligetváros - Köztemető - Városkapu körút,3
+21,17227,16,"Bajcsa, vízmű - Kiskanizsa, temető - Autóbusz-állomás",3
+21,17228,18,Vasútállomás - Kalmár utca,3
+21,17229,20,Kalmár utca - Napraforgó tér - Kalmár utca,3
+21,17230,21,Kalmár utca - Napraforgó tér - Kalmár utca,3
+21,17231,4A,"Kiskanizsa, Bornemissza utca - Autóbusz-állomás",3
+21,17232,4Y,"Kiskanizsa, Bornemissza utca - Autóbusz-állomás",3
+21,17233,6A,"Kiskanizsa, temető - Rózsa utca - Városkapu körút",3
+21,17234,6C,Kalmár utca - Eötvös tér - Balatoni utca - Városkapu körút,3
+21,17235,6Y,"Kiskanizsa, Rozmaring utca - Kiskanizsa, Homokkomáromi utca - Gépgyár - Eötvös tér - Hevesi Sándor utca - Városkapu körút",3
+21,17236,8Y,"Miklósfa, Szentendrey Edgár utca - Ligetváros - Köztemető - Napraforgó tér",3
+21,17237,C3,Autóbusz-állomás - Eötvös tér - Fortuna - Városkapu körút,3
+21,17238,C5,Napraforgó tér - Autóbusz-állomás,3
+21,17239,C7,Bornemissza utca - Kalmár utca - Napraforgó tér,3
+21,1724,5895,Kisdobsza - Merenye - Pettend - Szigetvár,3
+21,17240,C9,Napraforgó tér - 7. számú főút - Városkapu körút,3
+21,17241,10Y,"Nagyfakos, alsó - Bagola, autóbusz-forduló - Kalmár utca",3
+21,17242,14C,Városkapu körút - Kórház utca - Csengery utca - Rózsa utca - Városkapu körút,3
+21,17243,14Y,Ligetváros - Köztemető - Városkapu körút,3
+21,17244,16A,"Kiskanizsa, temető - Autóbusz-állomás",3
+21,17245,20Y,Kalmár utca - Napraforgó tér - Balatoni utca - Kalmár utca,3
+21,17246,21E,Kalmár utca - Ady utca - Csengery utca - Napraforgó tér - Kalmár utca,3
+21,17247,21Y,Kalmár utca - Balatoni utca - Napraforgó tér - Kalmár utca,3
+21,17248,41E,"Cserháti Szakközépiskola - Ady utca - Kiskanizsa, Bornemissza utca",3
+21,17249,C33,Vasútállomás - Ady utca - Deák tér - Hevesi Sándor utca - Városkapu körút,3
+21,17250,C91,Napraforgó tér - Balatoni utca - Városkapu körút,3
+21,17252,1A,"Újváros, Nép utca - Belváros - Kálvária utca - Marcalváros",3
+21,17253,1,"Újváros, Nép utca - Belváros - Kálvária utca - Marcalváros - Ménfőcsanak - Gyirmót",3
+21,17254,2B,"Révai Miklós utca -  Egyetem - Sziget - Zrínyi utca - Zöld utca, Szőnyi Márton utca",3
+21,17255,2,"Zöld utca, Szőnyi Márton utca - Zrínyi utca - Révai Miklós utca",3
+21,17256,5B,Kismegyer - Agroker - Raktárváros - Révai Miklós utca,3
+21,17257,5R,Kismegyer - Raktárváros - Révai Miklós utca,3
+21,17258,5,Kismegyer - Révai Miklós utca,3
+21,17259,6,Kismegyer - Belváros - Városrét - Dunakapu tér - Egyetem - Sárás - Szitásdomb,3
+21,1726,5900,Ecseny - Somogygeszti - Kaposvár,3
+21,17260,7,Virágpiac - Adyváros - Szabadhegy - Fehérvári út - Révai Miklós utca,3
+21,17261,8,Likócs - Állatkert - Gyárváros - Révai Miklós utca,3
+21,17262,9A,Virágpiac - Adyváros - Kollégium - Virágpiac,3
+21,17263,9,"Szent István út, iparkamara - Adyváros - Kollégium - Városrét - Dunakapu tér - Egyetem - Mobilis",3
+21,17265,11,"Bácsa, Ergényi lakótelep - Egyetem - Sziget - Belváros - Adyváros - Marcalváros",3
+21,17266,12A,"Audi-gyár, 8-as porta - Kandó utca - Révai Miklós utca",3
+21,17267,12,"Audi-gyár, 5-ös porta - Kandó utca - Révai Miklós utca",3
+21,17268,14B,"Liget utca, Nyár utca - Sziget - Belváros - Gyárváros - Adyváros - Nádorvárosi köztemető - Marcalváros",3
+21,17269,14,"Liget utca, Nyár utca - Sziget - Belváros - Gyárváros - Adyváros - Marcalváros",3
+21,1727,5905,Balatonmáriafürdő - Fonyód - Mernye - Kaposvár,3
+21,17270,15A,"Audi-gyár, 5-ös porta - Gyárváros - Révai Miklós utca",3
+21,17271,15,Révai Miklós utca - Adyváros - Ipari park - Audi-gyár - Gyárváros - Révai Miklós utca,3
+21,17272,17B,"Révai Miklós utca - Fehérvári út - Szabadhegy, Új köztemető - Adyváros - Virágpiac",3
+21,17273,17,Révai Miklós utca - Fehérvári út - Szabadhegy - Adyváros - Virágpiac,3
+21,17274,19A,Virágpiac - Kollégium - Adyváros - Virágpiac,3
+21,17275,19,Egyetem - Sziget - Belváros - Kollégium - Adyváros - Révai Miklós utca,3
+21,17276,20Y,"Audi-gyár, 8-as porta - Gyárváros - Adyváros - Ménfőcsanak, Győri út",3
+21,17277,20,"Audi-gyár, 8-as porta - Gyárváros - Adyváros - Zöld utca, Soproni út",3
+21,17278,21B,"Győri út - Ménfőcsanak, Új élet út - Marcalváros - Nádor tér - Révai Miklós utca",3
+21,17279,21,"Új élet út - Ménfőcsanak, Győri út - Marcalváros - Nádor tér - Révai Miklós utca",3
+21,1728,5906,Siófok - Balatonszárszó - Látrány - Kaposvár,3
+21,17280,22A,Marcalváros - Révai Miklós utca,3
+21,17281,22B,"Győzelem utca - Ménfőcsanak, Győri út - Új élet út - Marcalváros - Révai Miklós utca",3
+21,17282,22Y,"Ménfőcsanak, Győzelem utca - Marcalváros - Révai Miklós utca",3
+21,17283,22,"Ménfőcsanak, Győri út - Marcalváros - Révai Miklós utca",3
+21,17284,23,"Győrszentiván, Kálmán Imre út - Gyárváros - Adyváros - Marcalváros",3
+21,17285,24,"Audi-gyár, 5-ös porta - Adyváros - Marcalváros",3
+21,17286,25,Ipari Park - Adyváros - Marcalváros,3
+21,17287,30A,"Győrszentiván, Kálmán Imre út - Révai Miklós utca",3
+21,17288,30Y,"Győrszentiván, Kálmán Imre út - Ipari park - AUDI gyár - Gyárváros - Révai Miklós utca",3
+21,17289,30,"Homoksor - Győrszentiván, Kálmán Imre út - Révai Miklós utca",3
+21,1729,5910,Gadács - Igal - Ráksi - Kaposvár,3
+21,17290,31A,"Győrszentiván, Homoksor - Révai Miklós utca",3
+21,17291,31,"Kálmán Imre út - Győrszentiván, Homoksor - Révai Miklós utca",3
+21,17295,37T,Zechmeister utca - Adyváros - Nádorvárosi köztemető - Marcalváros,3
+21,17296,37,Gyirmót - Ménfőcsanak - Nádorvárosi köztemető - Adyváros - Révai Miklós utca,3
+21,17297,38,Ipari park - Szabadhegy - Adyváros - Révai Miklós utca,3
+21,17298,41,"Honvédség - Adyváros - Zöld utca, Soproni út",3
+21,17299,42,Honvédség - Belváros - Marcalváros,3
+21,1730,5912,Fiad - Igal - Kaposvár,3
+21,1731,5914,Tab - Törökkoppány - Igal - Kaposvár,3
+21,17310,1,Lővér szálló - Alsólővér - Jereván lakótelep,3
+21,17311,2,Lővér szálló - Felsőlővér - Jereván lakótelep,3
+21,17312,3Y,Brennbergbánya - Kertváros - Ady Endre út - Jereván lakótelep,3
+21,17313,3,Brennbergbánya - Kertváros - Bánfalvi út - Lackner Kristóf utca,3
+21,17314,4,Ágfalvi úti lakótelep - Baross út - Lackner Kristóf utca,3
+21,17315,5A,"Ipar körút, vámudvar - Csengery utca - Jereván lakótelep",3
+21,17316,5B,"Jereván lakótelep - Híd utca - Balfi út - Balfi út - Pihenőkereszt lakópark - Ipar körút, vámudvar",3
+21,17317,5T,"Győri út, AlphApark - Csengery utca - Autóbusz-állomás",3
+21,17318,5Y,"Ipar körút, AWF Kft. - Híd utca - Jereván lakózelep",3
+21,17319,5,"Ipar körút, AWF Kft. - Csengery utca - Jereván lakótelep",3
+21,1732,5916,Siófok - Tab - Igal - Kaposvár,3
+21,17320,6,Tómalomfürdő - Híd utca - Jereván lakótelep,3
+21,17321,7A,"Csengery utca, Király Jenő utca - Híd utca - Jereván lakótelep",3
+21,17322,7B,"Csengery utca, Király Jenő utca - Híd utca - Virágvölgy - Jereván lakótelep",3
+21,17323,7,"Csengery utca, Király Jenő utca - Kórház - Híd utca - Jereván lakótelep",3
+21,17325,10Y,"Kertváros, Hajnal tér - Ady Endre út - Jereván lakótelep",3
+21,17326,10,Kertváros felső - Bánfalvi út - Jereván lakótelep,3
+21,17327,11A,Jereván lakótelep - Faraktár utca - Csengery utca - Thököly tér,3
+21,17328,11Y,Keleti rendező - Thököly tér,3
+21,17329,11,Thököly tér - Kórház - Csengery utca - Faraktár utca - Jereván lakótelep,3
+21,1733,5918,Zimány - Kaposvár,3
+21,17330,12A,"Kőszegi út, Sarudi utca - József Attila lakótelep - Lackner Kristóf utca",3
+21,17332,12,"Kőszegi út, Sarudi utca - József Attila lakótelep - Jereván lakótelep",3
+21,17333,13B,Sopronkőhida - Tómalomfürdő - Híd utca - Jereván lakótelep,3
+21,17335,13,Sopronkőhida - Híd utca - Jereván lakótelep,3
+21,17338,16,Ágfalvi úti lakótelep - Baross út - Lackner Kristóf utca,3
+21,17339,17,Keleti rendező - Csengery utca - Jereván lakótelep,3
+21,1734,5920,Baté - Taszár - Kaposvár,3
+21,17340,20,"Győri út, Erzsébet kórház - Csengery utca - Jereván lakótelep",3
+21,17341,21A,Lackner Kristóf utca - Bánfalvi út - Ágfalvi úti lakótelep,3
+21,17343,22,"Ipar körút, vámudvar - Csengery utca - Bánfalvi út - Ágfalvi úti lakótelep",3
+21,17344,27B,"Csengery utca, Király Jenő utca - Kórház - Híd utca - Aranyhegyi lakópark - Virágvölgy - Jereván lakótelep",3
+21,17345,27,"Csengery utca, Király Jenő utca - Kórház - Híd utca - Aranyhegyi lakópark - Jereván lakótelep",3
+21,1735,5922,Igal - Gölle - Baté - Kaposvár,3
+21,1736,5925,Dombóvár - Mosdós - Kaposvár,3
+21,1737,5928,Kercseliget - Mosdós - Taszár - Kaposvár,3
+21,17373,4019,Miskolc - Mezőkeresztes - Szentistván - Mezőkövesd,3
+21,17376,8442,Oroszlány - Kecskéd - Tatabánya,3
+21,17379,3777,Boldva - Sajókeresztúr - Miskolc,3
+21,1738,5930,Sásd - Gödre - Szentbalázs - Kaposvár,3
+21,1739,5935,Bőszénfa - Gálosfa - Szentbalázs - Kaposvár,3
+21,174,1515,Parádfürdő - Gyöngyös - Jászberény - Szolnok - Szeged,3
+21,1740,5940,Bőszénfa - Simonfa - Kaposvár,3
+21,1741,5942,Szentborbás - Szigetvár - Simonfa - Kaposvár,3
+21,17411,1051,Ózd - Eger - Budapest,3
+21,17416,7044,Győr - Győrújbarát - Győr,3
+21,17419,3713,Irota - Homrogd - Tomor - Lak - Edelény,3
+21,1742,5946,Szilvásszentmárton - Szenna - Kaposvár,3
+21,17420,3714,Sajósenye - Sajópálfala - Sajóvámos - Miskolc,3
+21,17421,7355,Veszprém - Tihany - Veszprém,3
+21,17425,5044,Pusztamérges - Öttömös - Ruzsa - Zákányszék - Mórahalom - Szeged,3
+21,17426,300,Vác - Dunakeszi - Budapest,3
+21,17427,302,Vác - Dunakeszi - Budapest,3
+21,17428,303,Vác - Dunakeszi - Budapest,3
+21,17429,306,"Dunakeszi, Horányi rév - Dunakeszi, Auchan - Budapest",3
+21,1743,5950,Kaposmérő - Kaposvár,3
+21,17430,305,"Dunakeszi, Horányi rév - Dunakeszi, Auchan - Budapest",3
+21,17431,301,"Göd - Dunakeszi, Barátság utca - Budapest",3
+21,17432,308,Budapest - Fót - Dunakeszi - Budapest,3
+21,17433,309,Budapest - Fót - Dunakeszi - Budapest,3
+21,17434,311,Budapest - Dunakeszi - Fót - Budapest,3
+21,17435,310,Budapest - Dunakeszi - Fót - Budapest,3
+21,17436,312,Nézsa - Penc - Rád - Budapest,3
+21,17437,313,Püspökszilágy - Vácrátót - Őrbottyán - Budapest,3
+21,17438,314,Vác - Vácduka - Vácrátót - Őrbottyán - Budapest,3
+21,17439,315,Püspökszilágy - Váchartyán - Őrbottyán - Budapest,3
+21,1744,5960,Kadarkút - Kaposmérő - Kaposvár,3
+21,17440,316,Bercel/Nógrádkövesd - Acsa - Galgagyörk - Őrbottyán - Budapest,3
+21,17441,317,Gödöllő - Mogyoród - Fót - Budapest,3
+21,17442,318,Galgamácsa - Veresegyház - Fót - Budapest,3
+21,17443,319,Galgamácsa - Veresegyház - Fót - Budapest,3
+21,17444,320,Mogyoród - Fót - Budapest,3
+21,17445,321,Mogyoród - Hungaroring - Budapest,3
+21,17446,371,Fót - Dunakeszi - Vác,3
+21,17447,326,Gödöllő - Mogyoród - Fót - Dunakeszi,3
+21,17448,324,Gödöllő - Mogyoród - Fót - Dunakeszi,3
+21,17449,325,Gödöllő - Mogyoród - Fót - Dunakeszi,3
+21,1745,5962,Visnye - Kadarkút - Kaposvár,3
+21,17450,330,Felsőpetény - Ősagárd - Nőtincs - Vác,3
+21,17451,331,Diósjenő - Nógrád - Vác,3
+21,17452,329,Rétság - Felsőpetény - Vác,3
+21,17453,333,Kosd - Vác,3
+21,17454,334,Galgaguta - Nézsa - Penc - Vác,3
+21,17455,335,Szirák - Galgaguta - Legénd - Vác,3
+21,17456,336,Rétság - Alsópetény - Vác,3
+21,17457,338,Galgagyörk - Acsa - Penc - Vác,3
+21,17458,339,Püspökszilágy - Váchartyán - Vácduka - Vác,3
+21,17459,342,Aszód - Galgamácsa - Őrbottyán - Vác,3
+21,1746,5964,Barcs - Lad - Kadarkút - Kaposvár,3
+21,17460,347,Aszód - Galgamácsa - Váchartyán - Vác,3
+21,17461,343,Csörög - Szód - Vác,3
+21,17462,344,Csörög - Szód - Vác,3
+21,17463,345,Göd - Vác,3
+21,17464,350,Szob - Márianosztra - Kóspallag - Vác,3
+21,17465,351,Királyrét - Szokolya - Vác,3
+21,17466,352,Királyrét - Szokolya - Kismaros,3
+21,17467,353,Kóspallag - Kismaros,3
+21,17468,354,Szob - Márianosztra,3
+21,17469,356,Tésa - Vámosmikola,3
+21,1747,5966,Barcs - Nagyatád - Kadarkút - Kaposvár,3
+21,17470,400,Tura - Bag - Gödöllő - Budapest,3
+21,17471,402,Tura - Bag - Gödöllő - Budapest,3
+21,17473,414,Jászfényszaru - Boldog - Hatvan - Budapest,3
+21,17474,440,Tóalmás - Gödöllő - Budapest,3
+21,17475,412,Hatvan - Gödöllő - Budapest,3
+21,17476,424,Erdőkürt - Kálló - Verseg - Aszód - Gödöllő - Budapest,3
+21,17477,422,Erdőkürt - Kálló - Verseg - Aszód - Gödöllő - Budapest,3
+21,17478,441,Jászfényszaru - Gödöllő - Budapest,3
+21,17479,442,Jászfényszaru - Gödöllő - Budapest,3
+21,1748,5969,Nagybajom/Kadarkút - Rinyakovácsi - Kiskorpád - Kaposvár,3
+21,17480,484,Dány - Isaszeg - Pécel - Budapest,3
+21,17481,480,Budapest (Cinkota) - Nagytarcsa - Budapest (Cinkota),3
+21,17482,430,Bér - Szirák - Aszód - Budapest,3
+21,17483,438,Bér - Szirák - Aszód - Budapest,3
+21,17484,437,Bér/Buják - Vanyarc - Aszód - Budapest,3
+21,17485,436,Bér/Buják - Vanyarc - Aszód - Budapest,3
+21,17486,435,Buják - Szirák - Aszód - Budapest,3
+21,17487,439,Hollókő - Palotás - Aszód - Budapest,3
+21,17488,426,Erdőkürt/Erdőtarcsa - Kálló - Kartal - Gödöllő,3
+21,17489,482,Nagytarcsa - Budapest (Rákoscsaba) - Nagytarcsa,3
+21,1749,5970,Böhönye - Nagybajom - Kaposfő - Kaposvár,3
+21,17490,405,Hatvan - Tura - Bag - Aszód - Gödöllő,3
+21,17491,406,Hatvan - Tura - Bag - Aszód - Gödöllő,3
+21,17492,444,Jászfényszaru - Vácszentlászló - Gödöllő,3
+21,17493,447,Kóka - Dány - Isaszeg - Gödöllő,3
+21,17494,397,Őrbottyán - Veresegyház - Szada - Budapest,3
+21,17495,396,Őrbottyán - Veresegyház - Szada - Budapest,3
+21,17496,399,Őrbottyán - Veresegyház - Szada - Budapest,3
+21,17497,398,Őrbottyán - Veresegyház - Szada - Budapest,3
+21,17498,395,"Veresegyház, Hegyek - Ivacsok - Csonkás - Veresegyház, Ligetek",3
+21,17499,455,Vác - Vácrátót - Veresegyház - Gödöllő,3
+21,175,1516,Tiszafüred - Kisújszállás - Szarvas - Szeged,3
+21,17500,391,"Veresegyház, Misszió - Hegyek - Ivacsok - Veresegyház, Misszió",3
+21,17501,393,"Veresegyház, Misszió - Erdőkertes - Veresegyház, Misszió",3
+21,17502,392,"Veresegyház, Ivacsok - Csonkás - Ligetek - Veresegyház, Ivacsok",3
+21,17503,452,Váckisújfalu - Őrbottyán - Veresegyház - Gödöllő,3
+21,17504,454,Váckisújfalu - Őrbottyán - Veresegyház - Gödöllő,3
+21,17505,450,Váckisújfalu - Őrbottyán - Veresegyház - Gödöllő,3
+21,17506,461,Galgamácsa - Aszód - Gödöllő,3
+21,17507,453,Galgamácsa - Erdőkertes - Veresegyház - Gödöllő,3
+21,17508,451,Gödöllő - Veresegyház - Erdőkertes - Veresegyház - Gödöllő,3
+21,17509,394,Püspökhatvan - Galgamácsa - Őrbottyán - Veresegyház - Csomád,3
+21,17510,408,Hatvan - Tura - Bag - Aszód - Gödöllő,3
+21,17511,457,Iklad - Aszód,3
+21,17512,458,Aszód - Bag - Domony - Aszód,3
+21,17513,459,Iklad - Domony - Aszód,3
+21,17514,460,Balassagyarmat - Acsa - Aszód,3
+21,17515,409,Hatvan - Tura - Bag - Aszód - Gödöllő,3
+21,17516,445,Zsámbok - Tura,3
+21,17517,448,Kistarcsa - Gödöllő - Dány,3
+21,17518,580,Monor - Üllő - Budapest,3
+21,17519,576,Budapest - Vecsés - Gyál - Vecsés - Budapest,3
+21,1752,5976,Balatonszentgyörgy - Balatonmáriafürdő - Marcali - Böhönye - Kaposvár,3
+21,17520,577,Budapest - Vecsés - Gyál - Vecsés - Budapest,3
+21,17521,608,Újlengyel - Újhartyán - Inárcs - Budapest,3
+21,17522,609,Dabas - Ócsa - Felsőpakony - Gyál,3
+21,17523,575,Budapest - Ecser - Maglód - Gyömrő - Maglód - Ecser - Budapest,3
+21,17524,505,Monor - Gyömrő - Maglód - Budapest,3
+21,17525,506,Monor - Gyömrő - Maglód - Budapest,3
+21,17526,504,Monor - Gyömrő - Budapest - Kistarcsa,3
+21,17527,510,Gyömrő - Maglód - 31-es út - Budapest,3
+21,17528,512,Péteri - Hosszúberek-Péteri v.mh.,3
+21,17529,514,Felsőfarkasd - Gomba - Monor,3
+21,1753,5980,Újvárfalva - Bodrog - Kaposvár,3
+21,17530,516,Pánd - Gomba - Monor,3
+21,17531,515,Pánd - Gomba - Monor,3
+21,17532,517,Nagykáta - Pánd - Monor,3
+21,17533,518,Nagykáta - Pánd - Monor,3
+21,17534,513,Sülysáp - Úri - Felsőfarkasd - Gomba - Monor,3
+21,17535,585,Nyáregyháza - Vasad - Monor,3
+21,17536,586,Nyáregyháza - Vasad - Monor,3
+21,17537,589,Felsőnyáregyháza - Nyáregyháza - Felsőnyáregyháza,3
+21,17538,587,Csévharaszt - Monor,3
+21,17539,588,Felsőnyáregyháza - Monorierdő,3
+21,1754,5982,Osztopán - Alsóbogát - Somogyjád - Kaposvár,3
+21,17540,591,Újlengyel - Nyáregyháza - Pilis,3
+21,17541,590,Újlengyel - Nyáregyháza - Pilis,3
+21,17542,488,Sülysáp - Úri,3
+21,17543,486,Szentlőrinckáta - Tápiószentmárton/Tóalmás - Tápiószecső - Budapest,3
+21,17544,485,Szentlőrinckáta - Tápiószentmárton/Tóalmás - Tápiószecső - Budapest,3
+21,17545,489,Kóka - Sülysáp,3
+21,17546,496,Szentlőrinckáta - Tóalmás - Tápiószecső,3
+21,17547,494,"Tápiószecső, Magdolnatelep - Tápiószecső",3
+21,17548,493,"Tápiószecső, Magdolnatelep - Tápiószecső",3
+21,17549,495,Tápióság - Tápiószecső,3
+21,1755,5984,Marcali - Pusztakovácsi - Bodrog - Kaposvár,3
+21,17550,497,Nagykáta - Tápióbicske - Tápióság - Tápiószecső,3
+21,17551,501,Szentmártonkáta - Nagykáta,3
+21,17552,491,Nagykáta/Szentlőrinckáta - Tóalmás - Kóka - Sülysáp,3
+21,17553,502,Szentlőrinckáta - Nagykáta,3
+21,17554,500,Tápiószentmárton - Nagykáta,3
+21,17555,498,Jászberény - Nagykáta,3
+21,17556,557,"Cegléd, Volánbusz telep - Posta - Cegléd, aut.áll.",3
+21,17557,522,"Cegléd, Ipari Park - Cegéd, aut.áll.",3
+21,17558,539,"Cegléd, CAT lakótelep - Posta - Cegléd, aut.áll.",3
+21,17559,520,Nagykáta - Tápiószentmárton - Cifrakert - Cegléd,3
+21,1756,5985,Osztopán - Alsóbogát - Somogyjád - Kaposvár,3
+21,17560,521,Nagykáta - Tápiószentmárton - Tápiószőlős - Cegléd,3
+21,17561,525,Nagykáta - Farmos - Újszilvás - Tápiószőlős - Cegléd,3
+21,17562,527,Nagykáta - Farmos - Újszilvás - Tápiószőlős - Cegléd,3
+21,17563,528,Nagykáta - Farmos - Újszilvás - Tápiószőlős - Cegléd,3
+21,17564,529,Nagykáta - Farmos - Újszilvás - Tápiószőlős - Cegléd,3
+21,17565,526,Nagykáta - Farmos - Újszilvás - Tápiószőlős - Cegléd,3
+21,17566,524,Nagykáta - Farmos - Újszilvás - Tápiószőlős - Cegléd,3
+21,17567,553,Szolnok - Cegléd/Törtel - Kecskemét,3
+21,17568,541,Tiszajenő-Vezseny vá. - Jászkarajenő - Törtel - Cegléd,3
+21,17569,540,Tiszajenő-Vezseny vá. - Jászkarajenő - Törtel - Cegléd,3
+21,1757,5986,Marcali - Somogyvár/Pusztakovácsi - Somogyjád - Kaposvár,3
+21,17570,542,Tiszajenő-Vezseny vá. - Jászkarajenő - Törtel - Cegléd,3
+21,17571,531,Újszász - Abony - Újszilvás - Cegléd,3
+21,17572,552,Cegléd - Nagykőrös - Kecskemét,3
+21,17573,550,Cegléd - Nagykőrös - Kecskemét,3
+21,17574,551,Cegléd - Nagykőrös - Kecskemét,3
+21,17575,558,"Csemő, Hantháza - Csemő - Cegléd",3
+21,17576,556,Nyársapát - Cegléd,3
+21,17577,546,Tiszakécske - Nagykőrös,3
+21,17578,560,"Csemő, Hantháza - Ereklyés - Csemő - Cegléd",3
+21,17579,561,"Csemő, Hantháza - Ereklyés - Csemő - Cegléd",3
+21,1758,5987,Fonyód - Lengyeltóti - Kaposvár,3
+21,17580,559,Lajosmizse - Csemő - Cegléd,3
+21,17581,555,Kalocsa - Kiskőrös - Kecskemét - Cegléd,3
+21,17582,562,"Cegléd, Ugyeri szőlők - Cegléd",3
+21,17583,564,Albertirsa - Ceglédbercel - Cegléd,3
+21,17584,565,Albertirsa - Ceglédbercel - Budai út - Cegléd,3
+21,17585,566,Albertirsa - Ceglédbercel - Budai út - Cegléd,3
+21,17586,543,Törtel - Nagykőrös,3
+21,17587,544,Kocsér - Kutyakaparó Csárda - Nagykőrös,3
+21,17588,545,Kocsér - Nagykőrös,3
+21,17589,548,"Nagykőrös, Csongrádi úti iskola - Nagykőrös, Szabadság tér",3
+21,1759,5988,Fonyód - Balatonboglár - Somogyjád - Kaposvár,3
+21,17590,549,"Nagykőrös, Szabadság tér - Nagykőrös, vá.",3
+21,17591,567,"Albertirsa, vá. - ABC - Galamb u. - Albertirsa, vá.",3
+21,17592,568,"Albertirsa, vá. - ABC - Galamb u. - Albertirsa, vá.",3
+21,17593,569,Mikebuda - Albertirsa,3
+21,17594,570,Dánszentmiklós - Albertirsa,3
+21,17595,627,Dabas - Alsónémedi - Budapest,3
+21,17596,628,Kerekegyháza - Tatárszentgyörgy - Dabas - Budapest,3
+21,17597,626,Dabas - Alsónémedi - Budapest,3
+21,17598,629,Kunpeszér - Dabas - Budapest,3
+21,17599,619,"Dabas, Kossuth Zs. Szakközépiskola - Dabas (Sári), okmányhivatal",3
+21,176,1517,Eger - Heves - Jászapáti - Szolnok - Csongrád/Kiskunfélegyháza - Szeged,3
+21,1760,5989,Somogyvámos - Somogyjád - Kaposvár,3
+21,17600,623,"Dabas, Kossuth Zs. Szakközépiskola - Dabas (Sári), okmányhivatal",3
+21,17601,622,"Dabas, Kossuth Zs. Szakközépiskola - Dabas (Sári), okmányhivatal",3
+21,17602,620,"Dabas, Kossuth Zs. Szakközépiskola - Dabas (Sári), okmányhivatal",3
+21,17603,621,"Dabas, Kossuth Zs. Szakközépiskola - Dabas (Sári), okmányhivatal",3
+21,17604,624,"Dabas, Kossuth Zs. Szakközépiskola - Dabas (Sári), okmányhivatal",3
+21,17605,630,Bugyi - Alsónémedi - Budapest,3
+21,17606,631,Bugyi - Alsónémedi - Budapest,3
+21,17607,632,Bugyi - Budapest,3
+21,17608,633,Alsónémedi - Dunaharaszti - Budapest,3
+21,17609,635,Ócsa - Budapest,3
+21,1761,5991,Igal - Somodor - Mernye - Kaposvár,3
+21,17610,636,Ócsa - Alsónémedi - Budapest,3
+21,17611,611,Dabas - Inárcs - Kakucs - Újhartyán - Újlengyel,3
+21,17612,617,"Sári-Besnyő - Dabas, vá.",3
+21,17613,618,"Sári-Besnyő - Dabas, vá.",3
+21,17614,610,Újlengyel - Újhartyán - Dabas,3
+21,17615,615,Táborfalva - Örkény,3
+21,17616,614,Lajosmizse - Hernád - Dabas,3
+21,17617,640,Bugyi - Dabas,3
+21,17618,641,Örkény - Dabas - Ócsa,3
+21,17619,642,Ócsa - Újhartyán,3
+21,1762,5996,Kadarkút - Rinyakovácsi - Nagybajom,3
+21,17620,595,Monor - Pilis - Újlengyel - Dabas,3
+21,17621,612,Dabas - Örkény - Pusztavacs - Dánszentmiklós,3
+21,17622,643,Ócsa - Bugyi,3
+21,17623,644,Ürbő - Bugyi,3
+21,17624,645,Kiskunlacháza - Bugyi,3
+21,17625,660,Dömsöd - Szigethalom - Budapest,3
+21,17626,654,Tass - Kunszentmiklós - Budapest,3
+21,17627,655,Délegyháza - Taksony - Dunaharaszti - Budapest,3
+21,17628,661,Makád - Ráckeve - Áporka - Budapest,3
+21,17629,690,Szigethalom - Halásztelek - Budapest,3
+21,17630,688,Szigethalom - Halásztelek - Budapest,3
+21,17631,691,Szigethalom - Szigetszentmiklós - Budapest (Kelenföld),3
+21,17632,689,Szigethalom - Szigetszentmiklós - Budapest (Kelenföld),3
+21,17633,673,Tököl - Szigethalom - Szigetszentmiklós - Budapest,3
+21,17634,674,Tököl - Szigethalom - Szigetszentmiklós - Budapest,3
+21,17635,684,"Szigethalom - Csépi út - Szigetszentmiklós, városháza",3
+21,17636,676,Makád - Szigethalom - Szigetszentmiklós - Budapest,3
+21,17637,675,Makád - Szigethalom - Szigetszentmiklós - Budapest,3
+21,17639,682,"Szigetszentmiklós, városháza - Boglya utca - Ádám Jenő sétány - Szigetszentmiklós, városháza",3
+21,17640,683,"Szigetszentmiklós, városháza - Boglya utca - Ádám Jenő sétány - Szigetszentmiklós, városháza",3
+21,17641,693,"Szigethalom, aut.áll. - Nyár u. - Szigethalom, aut.áll.",3
+21,17642,663,Taksony - Szigethalom,3
+21,17643,694,"Szigethalom, aut.áll. - Tököil parkerdő - Nyár u. - Csillag u. - Szigethalom, aut.áll.",3
+21,17644,692,"Szigethalom, aut.áll. - Tököil parkerdő - Nyár u. - Csillag u. - Szigethalom, aut.áll.",3
+21,17645,696,"Szigethalom, aut.áll. - Tököil parkerdő - Nyár u. - Csillag u. - Szigethalom, aut.áll.",3
+21,17646,695,"Szigethalom, aut.áll. - Tököil parkerdő - Nyár u. - Csillag u. - Szigethalom, aut.áll.",3
+21,17647,664,Délegyháza - Szigethalom,3
+21,17648,667,Dömsöd - Áporka - Szigethalom,3
+21,17649,668,Dömsöd - Áporka - Szigethalom,3
+21,1765,6008,Tab - Ádánd - Balatonszabadi - Siófok,3
+21,17650,649,Apaj - Dömsöd,3
+21,17651,646,Dömsöd - Tass - Kunszentmiklós,3
+21,17652,665,Ráckeve - Kiskunlacháza - Szigethalom,3
+21,17653,652,Áporka - Délegyháza - Dunavarsány - Majosháza,3
+21,17654,647,Kiskunlacháza - Apaj - Kunszentmiklós,3
+21,17655,669,Dömsöd - Apaj - Kiskunlacháza - Ráckeve,3
+21,17656,670,Kiskunlacháza - Ráckeve,3
+21,17657,648,"Kiskunlacháza, Dunapart - Kiskunlacháza, vá.",3
+21,17658,671,Dömsöd - Kiskunlacháza - Ráckeve,3
+21,17659,697,Lórév - Makád - Szigetbecse - Ráckeve,3
+21,17660,698,Lórév - Ráckeve,3
+21,17661,708,Százhalombatta - Érd - Budapest,3
+21,17662,712,Százhalombatta - Érd - Budapest,3
+21,17663,710,Százhalombatta - Érd - Budapest,3
+21,17664,709,Százhalombatta - Érd - Budapest,3
+21,17665,720,Érd - Diósd - Budapest,3
+21,17666,722,Pusztazámor - Sóskút - Érd - Budapest,3
+21,17667,731,"Érd - Érd, Riminyáki utca - M7 - Budapest",3
+21,17668,732,"Érd, aut.áll/Budapest - Érd, Bem tér - Érd, Iparos u. - Budapest/Érd, Bem tér",3
+21,17669,734,"Érd - Érd, Lőcsei u. - M7 - Budapest",3
+21,1767,6010,Iregszemcse - Nagyberény - Siófok,3
+21,17670,735,"Érd - Érd, Riminyáki u. - M7 - Budapest",3
+21,17671,736,"Érd - Érd, Ürmös u. - M7 - Budapest",3
+21,17672,699,"Érd - Budatétény - Budapest, Csepel",3
+21,17674,702,Bicske - Vál - Baracska - Martonvásár,3
+21,17675,700,"Érd - Budapest, Budatétény",3
+21,17676,703,Gyúró - Tordas - Martonvásár,3
+21,17677,741,Tárnok - Érd,3
+21,17678,742,Tárnok - Érd,3
+21,17679,744,"Érd, aut.áll./Érd, TESCO - Fehérvári út - Kossuth L. u. - Érd, aut.áll./Érd, TESCO ",3
+21,1768,6015,Tab - Ságvár - Siófok,3
+21,17680,745,"Érd, aut.áll./Érd, TESCO - Fehérvári út - Kossuth L. u. - Érd, aut.áll./Érd, TESCO ",3
+21,17681,755,Érd - Törökbálint - Budaörs,3
+21,17682,756,Százhalombatta - Érd - Törökbálint - Budaörs - Budapest,3
+21,17685,760,Bicske - Etyek - Biatorbágy - Budaörs - Budapest,3
+21,17686,763,Etyek - Biatorbágy - Budapest,3
+21,17687,762,"Sóskút - Biatorbágy, vá. - Budapest",3
+21,17688,767,Tatabánya - Bicske - Etyek - Biatorbágy - Budapest,3
+21,17689,778,Zsámbék - Budajenő - Páty - Biatorbágy - Budapest,3
+21,1769,6016,Tab - Lulla - Balatonendréd - Zamárdi - Siófok,3
+21,17690,784,Bicske - Zsámbék - Budapest,3
+21,17691,786,Tardos - Tarján - Zsámbék - Budapest,3
+21,17692,788,Herceghalom - Zsámbék - Budapest,3
+21,17693,791,Herceghalom - Zsámbék - Budapest,3
+21,17694,770,Kisbér - Tatabánya - Zsámbék - M1 - Budapest,3
+21,17695,777,Nyergesújfalu - Bajna - Gyermely - Zsámbék - M1 - Budapest,3
+21,17696,787,Bajót - Nagysáp - Bajna - Zsámbék - Budapest,3
+21,17697,774,Nagysáp - Bajna - Zsámbék - M1 - Budapest,3
+21,17698,783,Gyermely - Zsámbék - Páty - Budapest,3
+21,17699,785,Gyermely - Zsámbék - Páty - Budapest,3
+21,177,1518,Szolnok - Kunszentmárton - Csongrád - Szeged,3
+21,1770,6018,Fiad - Törökkoppány - Tab - Siófok,3
+21,17700,781,Gyermely - Zsámbék - Páty - Budapest,3
+21,17701,775,Gyermely - Zsámbék - M1 - Budapest,3
+21,17702,789,Zsámbék - Perbál - Budajenő - Budapest,3
+21,17703,795,Zsámbék - Perbál - Budajenő - Budapest,3
+21,17704,794,Zsámbék - Perbál - Budajenő - Budapest,3
+21,17705,793,Zsámbék - Perbál - Budajenő - Budapest,3
+21,17706,799,Pilisvörösvár - Piliscsaba - Zsámbék - Budapest,3
+21,17707,798,Pilisvörösvár - Piliscsaba - Zsámbék - Budapest,3
+21,17708,815,Süttő - Nyergesújfalu - Dorog - Pilisvörösvár - Budapest,3
+21,17709,800,Esztergom - Dorog - Piliscsaba - Pilisvörösvár - Budapest,3
+21,17710,832,Piliscsaba - Pilisszentiván - Solymár - Budapest,3
+21,17711,830,Pilisszántó - Pilisvörösvár - Pilisszentiván - Solymár - Budapest,3
+21,17712,820,Pilisszántó - Pilisvörösvár - Budapest,3
+21,17713,840,Pilisborosjenő - Üröm - Budapest,3
+21,17714,861,Dobogókő - Pilisszentkereszt - Pomáz,3
+21,17715,860,Dobogókő - Pilisszentkereszt - Pomáz,3
+21,17716,855,Csobánka - Pomáz,3
+21,17718,856,Pilisvörösvár - Csobánka - Pomáz,3
+21,17719,869,"Budapest, Heltai Jenő tér - Szentendre, Püspökmajori lakótelep - Budapest, Heltai Jenő tér",3
+21,1772,6035,Bálványos - Szántódrév - Siófok,3
+21,17720,880,Esztergom - Visegrád - Szentendre - Budapest,3
+21,17721,882,Esztergom - Visegrád - Szentendre - Budapest,3
+21,17722,889,Esztergom - Visegrád - Szentendre - Budapest,3
+21,17723,884,Esztergom - Visegrád - Szentendre - Budapest,3
+21,17724,883,Esztergom - Visegrád - Szentendre - Budapest,3
+21,17725,872,"Budapest - Szentendre, Püspökmajori lakótelep - Budapest",3
+21,17726,895,Szigetmonostor - Surány - Tahitótfalu - Szentendre - Budapest,3
+21,17727,893,Szigetmonostor - Surány - Tahitótfalu - Szentendre - Budapest,3
+21,17728,875,"Szentendre. Ösvény utca - Szentendre, Püspökmajori lakótelep - Szentendre, aut.áll.",3
+21,17729,873,"Szentendre, Ösvény utca - Szentendre, aut.áll.",3
+21,1773,6038,Kötcse - Balatonföldvár - Siófok,3
+21,17730,871,Pilisszentlászló - Szentendre - Leányfalu,3
+21,17731,870,Pilisszentlászló - Szentendre,3
+21,17732,868,Dömörkapu - Szentendre,3
+21,17733,874,"Szentendre, aut.áll. - Skanzen - Sportpálya - Szentendre, aut.áll.",3
+21,17734,878,"Szentendre, aut.áll. - Skanzen - Sportpálya - Szentendre, aut.áll.",3
+21,17735,876,"Szentendre, aut.áll. - Skanzen - Sportpálya - Szentendre, aut.áll.",3
+21,17736,879,"Szentendre, aut.áll. - Skanzen - Sportpálya - Szentendre, aut.áll.",3
+21,17737,898,Kisoroszi - Tahitótfalu - Szentendre,3
+21,17738,890,Váci rév - Tahitótfalu - Szentendre - Budapest,3
+21,1774,6040,Fonyód - Balatonboglár - Siófok,3
+21,17740,469,Autóbusz-állomás - Máriabesnyő - Klapka utca - Autóbusz-állomás,3
+21,17741,468,Autóbusz-állomás - Máriabesnyő - Klapka utca - Autóbusz-állomás,3
+21,17742,470,Autóbusz-állomás - Királytelep - Babati utca - Autóbusz-állomás,3
+21,17743,471,Autóbusz-állomás - Királytelep - Babati utca - Autóbusz-állomás,3
+21,17744,472,Autóbusz-állomás - Királytelep - Babati utca - Autóbusz-állomás,3
+21,17745,473,Autóbusz-állomás - Királytelep - Babati utca - Autóbusz-állomás,3
+21,17746,475,Hegy utca - Mátyás király utca - Autóbusz-állomás,3
+21,17747,466,Gödöllői Gépgyár - Vasútállomás - Autóbusz-állomás,3
+21,17748,478,Autóbusz-állomás - Üzleti Park - Tessedik Sámuel utca - Autóbusz-állomás,3
+21,17749,477,Autóbusz-állomás - Üzleti Park - Tessedik Sámuel utca - Autóbusz-állomás,3
+21,1775,6041,Barcs - Nagyatád - Kaposvár - Látrány - Siófok,3
+21,17750,474,Autóbusz-állomás - Klapka utca - Királytelep - Autóbusz-állomás,3
+21,17751,479,Autóbusz-állomás - Haraszti ipari terület - Autóbusz-állomás,3
+21,17752,476,Autóbusz-állomás - Hegy utca - Királytelep - Autóbusz-állomás,3
+21,17753,360,Kórház - Nagymező utca - Szérűskert,3
+21,17754,361,Kórház - Nagymező utca - Szérűskert,3
+21,17756,363,Sejce lakótelep - Gombás - Autóbusz-állomás,3
+21,17757,364,Autóbusz-állomás - Kórház - Március 15. tér - Autóbusz-állomás,3
+21,17758,365,Autóbusz-állomás - Március 15. tér - Kórház - Autóbusz-állomás,3
+21,17759,366,Alsóváros - Deákvár - Gombási út,3
+21,1776,6042,Marcali - Fonyód - Siófok,3
+21,17768,507,Vasútállomás - Jászai Mari tér - Vasútállomás - Óvoda - Kistói út - Mátra utca - Egészségház - Vasútállomás,3
+21,17769,746,Minaret - Autóbusz-állomás - TESCO,3
+21,17771,4271,Kisvárda - Dombrád - Nyíregyháza,3
+21,17772,57,Körtvélyes - Dávidföld - Autóbusz-állomás,3
+21,17773,578,Budapest - Vecsés - Gyál - Vecsés - Budapest,3
+21,17774,532,Tiszakécske - Tiszajenő - Szolnok,3
+21,17776,4864,Komádi - Zsadány - Szeghalom - Gyomaendrőd,3
+21,17777,4009,Tiszaújváros - Mezőcsát - Mezőkeresztes - Mezőkövesd,3
+21,17779,727,Budapest - Diósd - Diósdliget - Budapest,3
+21,17780,733,"Érd, aut.áll/Budapest - Érd, Bem tér - Érd, Iparos u. - Budapest/Érd, Bem tér",3
+21,17782,21A,Autóbusz-állomás - Török Ignác utca - Autóbusz-állomás,3
+21,17784,389,"Veresegyház, medveotthon - Veresegyház, központ",3
+21,17785,446,Kóka - Dány - Isaszeg - Gödöllő,3
+21,17786,3889,Sárospatak - Kenézlő - Viss - Zalkod - Kenézlő - Sárospatak,3
+21,17787,1216,Zalaszentgrót - Sümeg - Tapolca - Veszprém - Budapest,3
+21,17788,748,Vereb - Kápolnásnyék - Sukoró - Székesfehérvár,3
+21,1779,6056,Iregszemcse - Tengőd - Tab,3
+21,1780,6058,Bedegkér - Tengőd - Tab,3
+21,1781,6070,Andocs - Kapoly - Tab,3
+21,1782,6071,Fonyód - Balatonboglár - Karád - Andocs - Tab,3
+21,1783,6081,Balatonszentgyörgy - Marcali - Nagyatád - Barcs,3
+21,1784,6085,Lad - Homokszentgyörgy - Kálmáncsa - Barcs,3
+21,17861,749,Kápolnásnyék - Sukoró - Székesfehérvár,3
+21,17863,707,Székesfehérvár - Sukoró - Velence - Sukoró - Székesfehérvár,3
+21,17864,759,Martonvásár - Velence - Gárdony - Székesfehérvár,3
+21,1787,6096,Csurgó - Bélavár - Babócsa - Barcs,3
+21,17871,704,Martonvásár - Ercsi - Százhalombatta,3
+21,1788,6100,Böhönye - Segesd - Nagyatád,3
+21,1789,6102,Nagybajom - Kutas - Beleg - Nagyatád,3
+21,1790,6104,Somogyszob - Bolhás - Nagyatád,3
+21,17901,404,Hatvan - Tura - Bag - Aszód - Gödöllő,3
+21,1792,6115,Barcs - Lábod - Nagyatád,3
+21,1793,6116,Beleg - Kutas - Lábod - Nagyatád,3
+21,1794,6117,Babócsa - Háromfa - Nagyatád,3
+21,1795,6119,Tarany - Nagyatád,3
+21,1796,6120,Somogybükkösd/[Őrtilos - Gyékényes] - Csurgó - Nagyatád,3
+21,1798,6130,Böhönye - Vése - Csurgó,3
+21,1799,6134,Szenta - Csurgó,3
+21,18,1037,Apc - Hatvan - Budapest,3
+21,1802,6160,Balatonmáriafürdő - Kéthely - Marcali,3
+21,1803,6161,Somogyszentpál - Kéthely - Marcali,3
+21,18039,5416,Sárpilis/Bátaszék - Várdomb - Szekszárd - Sárpilis - Bátaszék,3
+21,1804,6162,Zalaegerszeg - Hévíz - Keszthely - Balatonszentgyörgy - Marcali,3
+21,18040,5417,"Sárpilis - Decs - Szekszárd - Szekszárd, szőlőhegy - Decs/Várdomb - Sárpilis",3
+21,18041,5418,"Szekszárd - Szekszárd, szőlőhegy - Őcsény - Szekszárd",3
+21,18052,3026,Kazár - Mátraszele - Bárna,3
+21,18053,3046,Kazár - Vizslás-Újlak - Bátonyterenye (Kisterenye),3
+21,18054,3641,Heréd - Kerekharaszt - Hatvan,3
+21,1806,6166,Sávoly - Vörs - Balatonmáriafürdő - Marcali,3
+21,18061,7045,Kajárpéc - Felpéc - Gyömöre,3
+21,1807,6170,Kürtöspuszta - Pusztakovácsi - Marcali,3
+21,1808,6175,Balatonboglár - Lengyeltóti - Táska - Marcali,3
+21,1809,6176,Balatonboglár - Öreglak - Kürtöspuszta/Marcali,3
+21,18092,1014,Hont - Nagyoroszi - Rétság - Budapest,3
+21,1810,6179,Vityapusza - Somogyvár - Szetseytanya - Marcali,3
+21,1811,6180,Nagybajom - Böhönye - Mesztegnyő - Marcali,3
+21,1812,6185,Varászló - Böhönye - Szőcsénypuszta - Marcali,3
+21,18136,678,"Szigetszentmiklós, városháza - Bíró Lajos utca - Horgász utca - Szigetszentmiklós, városháza",3
+21,1814,6188,Zalakaros - Szőkedencs - Somogysámson - Horvátkút - Marcali,3
+21,1815,6189,Sávoly - Szőcsénypuszta - Nemesdéd - Vése,3
+21,1816,6190,Szőcsénypuszta - Horvátkút - Marcali,3
+21,1817,6191,Balatonszentgyörgy - Szőkedencs,3
+21,1819,6195,Balatonlelle - Ordacsehi - Fonyód,3
+21,182,1524,Pécs - Baja - Kecskemét,3
+21,1820,6196,Nikla - Lengyeltóti - Fonyód,3
+21,1823,6201,Telekes - Győrvár - Zalaegerszeg,3
+21,1825,6205,Nemesapáti/Zalaegerszeg - Pethőhenye - Alibánfa - Zalaegerszeg,3
+21,1826,6210,Pókaszepetk - Zalaegerszeg,3
+21,18263,8228,Siófok - Enying - Sárbogárd - Dunaújváros,3
+21,18264,764,"Biatorbágy, Tópark - Budapest, Őrmező",3
+21,18265,2,Vasútállomás - Rákóczi tér - Földműves utca - Bánomi lakótelep - Rákóczi tér - Vasútállomás,3
+21,18266,43F,Földműves utca - Vasútállomás - Kertváros - Vasútállomás - Földműves utca,3
+21,18267,4811,Komádi - Körösújfalu - Vésztő,3
+21,1827,6211,Zalaszentgrót - Pókaszepetk - Zalaegerszeg,3
+21,18274,656,Délegyháza - Taksony - Dunaharaszti - Budapest,3
+21,1830,6214,Pókaszepetk - Bezeréd - Nagykapornak - Zalaegerszeg,3
+21,1831,6215,Nagykapornak - Zalaegerszeg,3
+21,1833,6217,Zalaszentgrót - Zalaszentlászló - Zalacsány - Nagykapornak - Zalaegerszeg,3
+21,1835,6219,Pacsa - Pölöske - Bucsuszentlászló - Alsónemesapáti - Zalaegerszeg,3
+21,1836,6220,Pacsa - Nemesrádó - Nagykapornak - Zalaegerszeg,3
+21,1837,6221,Kisbucsa - Nemesapáti - Alsónemesapáti - Zalaegerszeg,3
+21,1838,6222,Zalakomár - Zalakaros - Pacsa - Nagykapornak/Bak - Zalaegerszeg,3
+21,1839,6223,Szentpéterúr - Zalaigrice - Pacsa,3
+21,1840,6225,Zalaapáti - Gétye/Dióskál - Pacsa,3
+21,1841,6226,Nagykanizsa - Zalakaros - Pacsa - Zalaegerszeg,3
+21,1842,6230,Keszthely - Zalaapáti - Pacsa - Pölöske - Alsónemesapáti - Zalaegerszeg,3
+21,1843,6231,Keszthely - Zalaapáti - Pacsa - Nagykapornak - Alsónemesapáti - Zalaegerszeg,3
+21,1844,6235,Bak - Sárhida - Csatár - Bocfölde - Zalaegerszeg,3
+21,1846,6239,Dobri/Lenti - Csömödér - Nova - Nagylengyel - Zalaegerszeg,3
+21,1847,6240,Bánokszentgyörgy - Bak - Zalaegerszeg,3
+21,1848,6241,Lenti - Nova - Bak - Zalaegerszeg,3
+21,1849,6242,Lenti - Nova - Zalatárnok - Gellénháza - Zalaegerszeg,3
+21,1850,6243,Szentpéterfölde/Páka - Gutorfölde - Bak - Zalaegerszeg,3
+21,1851,6244,Borsfa - Oltárc - Várfölde - Bánokszentgyörgy,3
+21,1852,6245,Nagykanizsa - Letenye - Bánokszentgyörgy - Bak - Zalaegerszeg,3
+21,18520,5272,"Orgovány, Lőtér v.mh. - Orgovány, aut.ford.",3
+21,18523,706,Áruház - Sinatelep - Vásártér - Áruház - Vasútállomás,3
+21,1853,6246,Nagykanizsa - Hahót - Bak - Zalaegerszeg,3
+21,1854,6247,Nagykaizsa - Letenye - Bázakerettye - Borsfa - Bak - Zalaegerszeg,3
+21,1855,6248,Lenti - Petrikeresztúr - Gellénháza - Zalaegerszeg,3
+21,1856,6250,Szentkozmadombja - Gellénháza - Zalaegerszeg,3
+21,1857,6255,Szilvágy - Becsvölgye - Csonkahegyhát - Zalaegerszeg,3
+21,1859,6258,Velemér - Szentgyörgyvölgy - Csonkahegyhát - Zalaegerszeg,3
+21,186,1528,Fonyód - Siófok - Dunaföldvár - Kecskemét,3
+21,1862,6262,Lenti - Zalabaksa - Csonkahegyhát - Zalaegerszeg,3
+21,1863,6268,Becsvölgye - Gellénháza - Zalaegerszeg,3
+21,1865,6275,Zalaegerszeg - Boncodfölde - Zalacséb - Zalaháshágy - Vaspör - Bagod - Zalaegerszeg,3
+21,1867,6278,Zalalövő - Boncodfölde/Bagod - Zalaegerszeg,3
+21,1868,6282,Vaspör - Zalaháshágy - Zalalövő,3
+21,1869,6283,Csöde - Zalalövő,3
+21,187,1529,Balatonfüred - Veszprém - Székesfehérvár - Kecskemét,3
+21,1870,6287,Lenti - Zalalövő - Zalaegerszeg,3
+21,1871,6292,Andrásfa - Nagykutas - Zalaegerszeg,3
+21,1873,6303,Tekenye - Zalaszentgrót,3
+21,1874,6306,Keszthely - Hévíz - Zalacsány - Zalaszentgrót,3
+21,1875,6307,Keszthely - Szentgyörgyvár - Zalacsány - Zalaszentgrót,3
+21,1876,6308,Keszthely - Zalaapáti - Zalacsány,3
+21,18762,11Y,"Bácsa, Ergényi lakótelep - Belváros - Adyváros - Marcalváros",3
+21,18763,23A,"Ipar utca, Volán-telep - Adyváros - Marcalváros",3
+21,18764,26,Ipari Park - Szabadhegy - Marcalváros,3
+21,18766,28,LOC2 logisztikai csarnok - LOC1 - Ipari Park - Adyváros - Marcalváros,3
+21,18767,29,Egyetem - Sziget - Révai Miklós utca,3
+21,18768,30B,"Győrszentiván, Kálmán Imre út - Ipari Park - Révai Miklós utca",3
+21,18769,38A,Ipari park - Szabadhegy - Adyváros - Révai Miklós utca,3
+21,1877,6310,Keszthely - Hévíz - Zalaapáti - Zalacsány - Zalaszentlászló - Zalaszentgrót,3
+21,18779,1,Köztemető - Németfalu - Vasútállomás,3
+21,1878,6315,Zalaszentgrót (Zalakoppány) - Zalaszentgrót,3
+21,18780,2,Köztemető - Szigetkert - Bánlak - Újtelep - Vasútállomás,3
+21,18781,3,Vasútállomás - Németfalu - Daru - Vasútállomás,3
+21,18782,1,Vasútállomás - Autóbusz-állomás - Kösely Zrt.,3
+21,18783,1A,Vasútállomás - Autóbusz-állomás,3
+21,18784,2,Vasútállomás - Hőforrás utca - Autóbusz-állomás,3
+21,18785,2A,Autóbusz-állomás - Hétvezér telep - Autóbusz-állomás,3
+21,18786,23,"Szent Flórián tér, autóbusz-váróterem - Mátyás király utca - Autóbusz-állomás",3
+21,18787,3,Vasútállomás - Márka ABC - Építők útja - Autóbusz-állomás,3
+21,18788,3B,Vasútállomás - Táncsics utca - Márka ABC - Autóbusz-állomás,3
+21,18789,4,"Herbolya, tervtáró - Autóbusz-állomás",3
+21,1879,6316,Keszthely - Hévíz - Zalaapáti - Zalaszentgrót (Zalakoppány) - Zalaszentgrót,3
+21,18790,42,"Szent Flórián tér, autóbusz-váróterem - Mátyás király utca - Vájár út",3
+21,18791,4B,"Herbolya, tervtáró - Munkás út - Autóbusz-állomás",3
+21,18792,4C,"Kertváros, Vájár út - Autóbusz-állomás",3
+21,18793,9,Autóbusz-állomás - Pincesor - Autóbusz-állomás,3
+21,18795,2,Ruhagyár - Kórház,3
+21,18796,20,Szentsimon - Autóbusz-állomás - Kórház,3
+21,18797,20A,Szentsimon - Autóbusz-állomás,3
+21,18798,21,Ruhagyár - Március 15. utca - Autóbusz-állomás,3
+21,1880,6320,Zalaszentgrót - Türje - Zalabér - Zalaszentgrót,3
+21,18800,26,Somsály - Nyárjasalja út - Autóbusz-állomás - Kórház,3
+21,18801,2A,Ruhagyár - Autóbusz-állomás,3
+21,18804,4,Új köztemető - Vasútállomás - Autóbusz-állomás - Kórház,3
+21,18805,7,Szenna - Vasútállomás - Autóbusz-állomás,3
+21,18806,74,Új köztemető - Szenna - Autóbusz-állomás - Kórház,3
+21,18807,8,Susa - Uraj - Autóbusz-állomás - Kórház,3
+21,1882,6350,Tapolca - Várvölgy - Keszthely - Hévíz,3
+21,18828,1,Tiszaszederkény - Autóbusz-állomás,3
+21,18829,1A,Tiszaszederkény - Fizikoterápiai intézet - Autóbusz-állomás,3
+21,1883,6355,Hévíz - Keszthely,3
+21,18830,2,Tiszapart városrész - Autóbusz-állomás,3
+21,18831,3,Dózsa György utca - JABIL - Autóbusz-állomás,3
+21,1884,6360,Balatongyörök - Keszthely - Hévíz,3
+21,18843,1410,Debrecen - Tiszaújváros - Miskolc - Ózd,3
+21,18844,3763,Kazincbarcika - Miskolc,3
+21,18845,3764,Kazincbarcika - Sajóbábony - Sajóecseg - Miskolc,3
+21,18846,3766,Kazincbarcika - Sajószentpéter -  Miskolc,3
+21,18847,3767,Kaincbarcika (Herbolya) - Sajószentpéter - Miskolc,3
+21,18849,1578,Kehidakustány - Keszthely - Balatonlelle - Kaposvár - Pécs,3
+21,1885,6361,Tapolca - Balatonederics - Balatongyörök - Keszthely - Hévíz,3
+21,18850,1579,Badacsony - Keszthely - Balatonlelle - Kaposvár - Pécs,3
+21,18851,5668,Boda - Gyód - Pécs,3
+21,1886,6364,Tapolca/Balatonfüred - Szigliget - Keszthely - Hévíz,3
+21,1888,5974,Keszthely - Balatonszentgyörgy - Böhönye - Kaposvár,3
+21,1889,6192,Keszthely - Balatonszentgyörgy - Szőkedencs,3
+21,1890,6370,Zalaapáti - Hévíz - Keszthely,3
+21,1891,6372,Felsőpáhok (Zalaköszvényes) - Hévíz,3
+21,1892,6373,Balatonszentgyörgy - Keszthely - Hévíz,3
+21,1893,6375,Balatonmagyaród/Zalaszabar - Alsópáhok - Hévíz - Keszthely,3
+21,1894,6377,Sármellék - Zalavár - Zalaszabar - Dióskál - Zalaszentmárton - Pacsa,3
+21,1895,6383,"Hévíz, aut.áll. - Hévíz, Móricz Zsigmond lakótelep - Hévíz, aut.áll.",3
+21,1896,6384,Nemesbük - Hévíz - Keszthely,3
+21,1897,6386,Zalaszentgrót - Óhíd - Karmacs - Hévíz - Keszthely,3
+21,1898,6387,Zalaszentgrót - Zalaszentlászló - Karmacs - Hévíz - Keszthely,3
+21,1899,6390,Karmacs - Hévíz - Keszthely,3
+21,19,1039,Gyöngyöspata - Ecséd - Hatvan - Budapest,3
+21,1902,6398,Rezi - Keszthely,3
+21,1903,6400,Kacorlak - Gelse - Újudvar - Nagykanizsa,3
+21,1904,6401,Pacsa/Orosztony - Gelse - Nagykanizsa,3
+21,1906,6403,Nagybakónak - Kisrécse - Nagyrécse - Nagykanizsa,3
+21,1908,6405,Balatonmagyaród - Zalakaros - Galambok - Nagykanizsa,3
+21,1910,6415,Keszthely - Hévíz - Zalaapáti/Sármellék - Zalaszabar - Zalakaros - Nagykanizsa,3
+21,1911,6043,Keszthely - Balatonszentgyörgy - Zalakaros - Nagykanizsa,3
+21,1915,6420,Zalakaros - Miháld - Nagykanizsa,3
+21,19156,6218,Lenti - Zalaegerszeg - Keszthely - Balatonszentgyörgy,3
+21,19165,490,Zsámbok - Tóalmás - Kóka - Sülysáp,3
+21,19166,492,Zsámbok - Tóalmás - Kóka - Sülysáp,3
+21,19167,487,Szentlőrinckáta - Tóalmás - Tápiószecső,3
+21,1917,6186,Zalakaros - Nemesvid - Marcali,3
+21,19180,1448,Salgótarján - Eger - Tiszafüred - Debrecen,3
+21,19181,15Y,"Tiszaliget, Campus - Vasútállomás",3
+21,1919,5972,Nagykanizsa - Iharosberény - Böhönye - Kaposvár,3
+21,192,1535,Jászberény/Szolnok - Kecskemét - Baja - Pécs,3
+21,1920,6122,Nagykanizsa - Iharosberény - Csurgó - Nagyatád,3
+21,1921,6428,Murakeresztúr - Nagykanizsa,3
+21,19215,1189,Hévíz - Keszthely - Balatonfüred - Veszprém - Budapest,3
+21,19216,1215,Tapolca - Veszprém - Várpalota - Székesfehérvár - Budapest,3
+21,19217,7398,Sümeg - Ajka - Veszprém - Székesfehérvár,3
+21,19218,8082,Balatonfüred - Veszprém/Berhida - Várpalota - Székesfehérvár,3
+21,19219,8411,Esztergom - Tát - Tatabánya,3
+21,19220,8512,Dorog - Kesztölc - Dorog - Esztergom,3
+21,19221,862,Esztergom - Pilisszentlélek - Dobogókő - Pilisszentkereszt - Pomáz,3
+21,19222,831,Pilisszántó - Pilisvörösvár - Pilisszentiván - Solymár,3
+21,19223,821,Pilisszántó - Pilisvörösvár - Budapest,3
+21,19224,848,Pilisborosjenő - Üröm - Budapest,3
+21,19229,1B,"Nép utca - Újváros, temető - Beláros - Marcalváros - Ménfőcsanak - Gyirmót",3
+21,1924,6138,Nagykanizsa - Porrog - Csurgó,3
+21,1925,6435,Letenye - Szepetnek - Nagykanizsa,3
+21,1926,6440,Letenye - Sormás - Nagykanizsa,3
+21,1927,6445,Lispeszentadorján - Bázakerettye - Borsfa - Letenye - Nagykanizsa,3
+21,1928,6446,Lenti - Csömödér - Bázakerettye - Nagykanizsa,3
+21,19286,3093,Karancskeszi - Etes - Salgótarján,3
+21,1930,6448,Lenti - Nova - Csömödér - Bázakerettye - Nagykanizsa,3
+21,1932,6454,Lenti - Tormafölde/Tornyiszentmiklós - Letenye - Nagykanizsa,3
+21,19335,10,Tündérfátyol utca - Ujhelyi iskola - Evangélikus templom - Moson - Vasútállomás,3
+21,1934,6456,Lenti - Tornyiszentmiklós - Letenye - Nagykanizsa,3
+21,1935,6457,Lenti - Lovászi - Tormafölde - Páka - Lenti,3
+21,1936,6458,Zalaegerszeg - Bak - Letenye - Molnári - Nagykanizsa,3
+21,19368,5428,Mőcsény - Bátaapáti - Mórágy - Alsónána - Szekszárd,3
+21,19370,27Y,Boldogasszonyi utca - Aranyhegy - Táncsics utca - Jereván lakótelep,3
+21,1938,6462,Börzönce/Gelse - Pölöskefő - Kacorlak - Nagykanizsa,3
+21,1939,6465,Zalaszentbalázs - Homokkomárom - Nagykanizsa,3
+21,1940,6470,Hahót (Fakospuszta) - Zalaszentbalázs - Nagykanizsa,3
+21,1941,6472,Orosztony - Gelse - Zalaszentbalázs - Nagykanizsa,3
+21,1942,6506,Borsfa - Bázakerettye - Kistolmács - Letenye,3
+21,1943,6520,Kerkaszentkirály - Csörnyeföld - Muraszemenye - Letenye,3
+21,1944,6521,Bánokszentgyörgy - Lasztonya - Bázakerettye - Csörnyeföld - Letenye,3
+21,1946,6553,Nova - Csömödér - Lenti,3
+21,1947,6560,Bázakerettye - Páka - Csömödér - Lenti,3
+21,1948,6565,Bödeháza - Rédics - Lenti,3
+21,1949,6570,Bajánsenye - Magyarföld - Ramocsa - Csesztreg - Lenti,3
+21,1950,6576,Magyarföld - Ramocsa - Csesztreg - Rédics - Lenti,3
+21,1951,6577,Szilvágy - Zalabaksa - Csesztreg - Lenti,3
+21,19522,6374,Siófok - Balatonboglár - Balatonszentgyörgy - Keszthely,3
+21,19523,7939,Pápa - Dáka - Nagyalásony - Pápasalamon - Pápa,3
+21,19524,44,Flex B - Flex A - Kertváros,3
+21,19525,30A,Bazita elágazó II. - Alsóerdő - Autóbusz-állomás,3
+21,19526,1044,Fallóskút - Mátraszentimre - Mátraháza - Gyöngyös - Budapest,3
+21,19527,1066,Karcag - Abádszalók - Heves - Gyöngyös - Budapest,3
+21,1953,6585,Zalalövő - Szilvágy - Zalabaksa - Lenti,3
+21,1954,6600,Gencsapáti - Perenye - Szombathely,3
+21,1955,6602,Bozsok - Velem - Lukácsháza - Gencsapáti - Szombathely,3
+21,1956,6604,Kőszeg - Lukácsháza - Perenye - Szombathely,3
+21,1957,6605,Kőszeg - Lukácsháza - Szombathely,3
+21,1958,6610,Kőszegpaty - Vasasszonyfa - Söpte - Szombathely,3
+21,1959,6611,Peresznye - Bük - Csepreg - Kőszegpaty - Szombathely,3
+21,1961,6616,Bükfürdő - Csepreg - Szombathely,3
+21,1962,6617,Bükfürdő - Meszlen - Vassurány - Szombathely,3
+21,1963,6620,Pósfa - Szeleste - Ölbő/Acsád - Vát - Szombathely,3
+21,1964,6623,Répcelak - Hegyfalu - Répceszentgyörgy - Pósfa - Szombathely,3
+21,1965,6628,Sárvár - Ölbő - Pósfa/Szombathely,3
+21,1966,6630,Sárvár - Ikervár - Vép - Szombathely,3
+21,1967,6632,Sárvár - Vát - Szombathely,3
+21,1968,6635,Szombathely - Vép - Szombathely,3
+21,1969,6640,Kám - Rum - Szombathely,3
+21,1970,6645,Meggyeskovácsi - Rum - Szombathely,3
+21,1971,6646,Karakó - Vashosszúfalu - Bögöte - Hosszúpereszteg - Kám,3
+21,1972,6648,Nagytilaj - Kám - Rum - Szombathely,3
+21,1974,6653,Gyanógeregye - Sorokpolány - Szombathely,3
+21,1975,6654,Vasvár - Egyházashollós - Sorokpolány - Szombathely,3
+21,19750,1428,Nyíregyháza - Hajdúnánás - Eger,3
+21,19751,3412,Ózd - Bélapátfalva - Eger,3
+21,19752,3435,Felsőtárkány - Eger - Füzesabony,3
+21,19753,3562,Tiszafüred - Kömlő - Heves,3
+21,1976,6655,Vasvár - Sorokpolány - Szombathely,3
+21,1977,6660,Körmend - Ják - Balogunyom - Körmend,3
+21,1978,6663,Szentpéterfa - Ják - Szombathely,3
+21,1979,6680,Pronóapáti - Nárai - Szombathely,3
+21,19796,5013,Makó - Maroslele - M43 - Szeged,3
+21,19797,5017,Mezőhegyes - Csanádpalota - Makó - M43 - Szeged,3
+21,19798,5018,Gyula - Battonya - Mezőhegyes - Makó - M43 - Szeged,3
+21,19799,5019,Battonya - Mezőhegyes - Tótkomlós - Makó - Maroslele - M43 - Szeged,3
+21,1980,6686,Szombathely - Bucsu - Felsőcsatár - Pornóapáti - Szombathely,3
+21,19800,5187,Nagylak - Magyarcsanád - Makó - M43 - Szeged,3
+21,19801,5188,Pitvaros - Nagylak - Makó - Maroslele - M43 - Szeged,3
+21,19802,6163,Nagykanizsa - Balatonmáriafürdő - Zalakaros - Marcali,3
+21,19806,4154,Ózd - Csokvaomány - Sáta - Tardona - Kazincbarcika,3
+21,1981,6690,Bucsu - Torony - Szombathely,3
+21,1982,6700,Horvátzsidány - Kőszeg,3
+21,1983,6702,Bükfürdő - Csepreg - Zsira - Peresznye - Kőszeg,3
+21,1984,6703,Zsira - Peresznye - Kőszeg - Szombathely,3
+21,1985,6706,Újkér - Simaság - Tormásliget - Csepreg - Kőszeg,3
+21,1986,6708,Bükfürdő - Csepreg - Kőszeg - Bozsok,3
+21,1987,6710,Kőszegpaty - Pusztacsó - Kőszeg,3
+21,1988,6728,Bozsok - Velem - Kőszegdoroszló - Cák - Kőszeg,3
+21,1990,6740,Tompaládony - Hegyfalu - Sárvár,3
+21,1992,6742,Bük - Répceszentgyörgy - Hegyfalu - Sárvár,3
+21,1994,6744,Csepreg - Bükfürdő - Bő - Tompaládony - Sárvár,3
+21,1995,6745,Bükfürdő - Sárvár,3
+21,1996,6748,Simaság - [Nagygeresd - Vasegerszeg]/Tompaládony - Sárvár,3
+21,1997,6749,Simaság - Bükfürdő - Csepreg - Kőszeg,3
+21,1998,6751,Nemesládony - Uraiújfalu - Sárvár,3
+21,1999,6753,Répcelak - Vámoscsalád - Uraiújfalu - Sárvár,3
+21,20,1045,Kékestető - Mátraháza - Gyöngyös - Budapest,3
+21,2000,6754,Vámoscsalád - Répcelak - Uraiújfalu - Sárvár,3
+21,2001,6755,Nemesládony - Nagygeresd - Hegyfalu - Répcelak,3
+21,20014,1M,Vasútállomás - Mosoni posta - Városháza - MOFÉM - Autóbusz-végállomás,3
+21,20015,2G,Vasútállomás - Mosoni posta - Károly út - Kossuth Lajos Gimnázium - Autóbusz-végállomás,3
+21,2003,6759,Pápoc - Kenyeri - Ostffyasszonyfa - Sárvár,3
+21,2004,6760,Celldömölk - Nagysimonyi - Sárvár,3
+21,2005,6770,Káld - Vásárosmiske - Gérce - Sárvár,3
+21,20056,22,Vasútállomás - Kalmár utca - Kórház utca - Napraforgó tér - Kalmár utca,3
+21,20057,22Y,Vasútállomás - Kalmár utca - Kórház utca - Balatoni utca - Napraforgó tér - Kalmár utca,3
+21,2006,6773,Cselldömölk - Vásárosmiske - Sárvár,3
+21,2007,6774,Bögöte - Hosszúpereszteg - Káld - Sárvár,3
+21,20070,7B,Vasútállomás - Bartók Béla utca - Autóbusz-végállomás,3
+21,2008,6775,Kám - Szemenye - Bejcgyertyános - Sárvár,3
+21,20083,4651,Jászágó - Pusztamonostor - Jászberény,3
+21,2009,6780,Ikervár/Csénye - Sárvár,3
+21,201,1547,Kecskemét - Paks - Szekszárd,3
+21,2010,6781,Rábatöttös - Rum - Ikervár - Sárvár,3
+21,2011,6784,Porpác - Bögöt - Csénye - Sárvár,3
+21,2012,6790,Pósfa - Szeleste - Ölbő - Sárvár,3
+21,2014,6811,Pápoc - Kenyeri - Ostffyasszonyfa/Vönöck - Celldömölk,3
+21,2015,6812,Celldömölk - Kemenesszentmárton - Kemenesmihályfa - Celldömölk,3
+21,2016,6815,Répcelak - Kenyeri - Kemenesmihályfa - Celldömölk,3
+21,2017,6816,Répcelak - Beled - Kenyeri - Celldömölk,3
+21,2018,6819,Szergény - Vönöck - Celldömölk,3
+21,2019,6832,Keléd - Jánosfa - Izsákfa - Celldömölk,3
+21,20199,8041,Sárbogárd - Sárszentágota - Aba - Bodakajtor - Székesfehérvár,3
+21,20207,13,Alma utcai iskola - Sóstói úti kórház,3
+21,20208,2,"Borbánya, Csárda utca - Autóbusz-állomás",3
+21,2021,6836,Keléd - Jánosháza - Borgáta - Köcsk - Celldömölk,3
+21,2022,6840,Nemeskeresztúr - Jánosháza - Duka,3
+21,20225,7092,Mosonújhely - Lébény,3
+21,20237,5442,Gyönk - Hőgyész - Zomba - Szekszárd,3
+21,2025,6851,Püspökmolnári - Rábahídvég - Vasvár,3
+21,2026,6854,Bejcgyertyános - Egervölgy - Kám - Vasvár,3
+21,2027,6860,Győrvár - Pácsony - Olaszfa - Oszkó - Vasvár,3
+21,2028,6861,Csipkerek - Nagytilaj - Csehi - Oszkó - Vasvár,3
+21,2029,6871,Sárfimizdó - Gersekarát - Telekes - Győrvár - Vasvár,3
+21,2030,6874,Sárfimizdó - Gersekarát - Vasvár,3
+21,2031,6876,Körmend - Hegyháthodász - Sárfimizdó - Vasvár,3
+21,2032,6885,Egyházashollós - Körmend,3
+21,2033,6886,Sorokpolány/Egyházasrádóc - Nemesrempehollós - Körmend,3
+21,2034,6887,Vasvár - Egyházashollós - Körmend,3
+21,20350,1172,Kaposvár - Igal - Tab - Siófok - Budapest,3
+21,20351,1729,Dunaföldvár - Enying - Veszprém - Pápa,3
+21,20352,1840,Siófok - Székesfehérvár - Csákvár - Tatabánya,3
+21,20359,1302,Balatonlelle - Siófok - M7 - M0 - M3 - Salgótarján,3
+21,2036,6892,Döröske - Katafa - Körmend,3
+21,20360,1402,Fonyód - Siófok - M7 - M0 - M3 - Gyöngyös - Eger,3
+21,20362,6030,Kőröshegy - Szántódrév - Siófok,3
+21,20363,6051,Kötcse - Balatonföldvár - Siófok - Ádánd - Tab,3
+21,20364,6053,Ádánd - Siófok - Zamárdi - Balatonendréd - Tab,3
+21,20365,6103,Hévíz - Balatonmáriafürdő - Marcali - Nagyatád,3
+21,20366,1631,Győr - Zirc - Veszprém - Balatonfüred - Keszthely,3
+21,20368,7676,Dörgicse - Pécsely - Tótvázsony - Balatonfüred,3
+21,20369,7683,Tihany - Dörgicse - Balatonfüred,3
+21,2037,6896,Telekes - Gersekarát - Halastó - Körmend,3
+21,2039,6900,Szőce - Nádasd - Körmend,3
+21,2040,6902,Bajánsenye - Őriszentpéter - Pankasz - Zalalövő - Szőce - Körmend,3
+21,2042,6904,Őriszentpéter - Vadása-tó - Körmend,3
+21,2043,6909,Ispánk - Őriszentpéter,3
+21,2045,6912,Halogy - Nádasd - Körmend,3
+21,2047,6920,Csákánydoroszló - Kemestaródfa - Körmend,3
+21,2048,6921,Őriszentpéter - Pankasz - Csákánydoroszló - Körmend,3
+21,2049,6931,Pinkamindszent - Vasalja - Körmend,3
+21,205,1562,Zalaegerszeg - Nagyatád - Pécs,3
+21,2051,6933,Szentgotthárd - Rábagyarmat - Vasszentmihály - Körmend,3
+21,20514,11,Vásárhelyi úti lakótelep - Szedreskerti lakónegyed,3
+21,20515,6A,MAHLE Kft. - Autóbusz-állomás,3
+21,20517,13A,Babér utca - Csapó utca,3
+21,20518,36,Hernád utca - Vasútállomás,3
+21,2052,6940,Egyházasrádóc - Rádóckölked - Körmend,3
+21,2053,6960,Gasztony - Szentgotthárd,3
+21,2054,6970,Bajánsenye - Őriszentpéter - Csörötnek - Szentgotthárd,3
+21,20542,13,Babér utca - Szedreskerti lakónegyed,3
+21,2055,6971,Rátót - Rábagyarmat - Szentgotthárd,3
+21,20550,20,Köfém lakótelep - Jancsár utca,3
+21,2056,6973,Velemér - Őriszentpéter,3
+21,2058,6976,Orfalu - Farkasfa - Máriaújfalu - Szentgotthárd,3
+21,20586,14,"Kiliti, Szeptember 6. tér - Autóbusz-állomás - Balatonszéplak alsó v.mh.",3
+21,20587,24,"Kiliti, Béke tér - Autóbusz-állomás - Sóstó, kemping",3
+21,2059,6977,Kétvölgy - Máriaújfalu - Szentgotthárd,3
+21,206,1563,Győr - Mór - Székesfehérvár - Siófok - Pécs,3
+21,2060,6979,Szidahegy/Ipari Park - Szentgotthárd,3
+21,2061,6990,Felsőszölnök - Alsószölnök - Szentgotthárd,3
+21,2062,7002,Vámosszabadi - Győr,3
+21,2063,7003,Győr - Vének - Nagybajcs - Vámosszabadi - Győr,3
+21,2064,7004,Győr - Vámosszabadi - Nagybajcs - Vének - Győr,3
+21,2065,7005,Vének - Nagybajcs - Győr,3
+21,20657,508,Monor - Gyömrő - Maglód - Budapest,3
+21,20658,509,Gyömrő - Maglód - 31-es út - Budapest,3
+21,2066,7007,Nagyszentjános - Gönyű - Győr,3
+21,2067,7008,Gönyű - Győr,3
+21,2068,7009,Nagyszentjános - Gönyű - Győr,3
+21,20684,5332,Csátalja - Gara - Vaskút - Bátmonostor - Baja,3
+21,20688,5,"Kiliti, Béke tér - Szépvölgyi utca - Autóbusz-állomás",3
+21,20689,8,Somogyfok - Szépvölgyi utca - Autóbusz-állomás,3
+21,2069,7010,Bábolna - Rétalap - Győr,3
+21,20690,3A,Autóbusz-állomás - Sziget utca - Autóbusz-állomás,3
+21,20691,14A,"Kiliti, Szeptember 6. tér - Autóbusz-állomás",3
+21,20695,3488,Fedémes - Pétervására - Tarnalelesz - Eger,3
+21,207,1564,Pápa - Veszprém - Dombóvár - Pécs,3
+21,2070,7012,Mezőörs - Rétalap - Bőny - Győr,3
+21,20713,1,Repülőtér - Autóbusz-állomás,3
+21,20714,10,"Nyírszőlős, Pannónia utca - Vasútállomás - Örökösföld",3
+21,20715,10A,"Nyírszőlős, Pannónia utca - Vasútállomás",3
+21,20716,10J,"Nyírszőlős, Pannónia utca - Jókaitelep - Vasútállomás - Örökösföld",3
+21,20717,11,Egyház utca - Örökösföld,3
+21,20718,12,Vasúti aluljáró - Vasútállomás - Sóstói úti kórház,3
+21,20719,12A,Vasútállomás - Jósaváros,3
+21,2072,7020,Bakonyszombathely - Kisbér - Mezőörs - Győr,3
+21,20720,13Y,Alma utcai iskola - Kistelekiszőlő - Sóstói úti kórház,3
+21,20721,14,Sóstóhegy vasútállomás - Vasútállomás,3
+21,20722,14F,Sóstóhegy vasútállomás - Jósaváros,3
+21,20723,17,Szélsőbokori út - Rendelőintézet - Örökösföld,3
+21,20724,17Y,Szélsőbokori út - Búza tér - Rendelőintézet - Örökösföld,3
+21,20725,18,Örökösföld - Jósaváros - Vasútállomás,3
+21,20726,18G,Család utca 108. - Jósaváros - Vasútállomás,3
+21,20727,1A,Vásártér - Autóbusz-állomás,3
+21,20728,20,Vasútállomás - Búza tér - Törzs utca - Örökösföld - Család utca - Országzászló tér - Vasútállomás,3
+21,20729,21,Vasútállomás - Országzászló tér - Család utca - Örökösföld - Törzs utca - Búza tér - Vasútállomás,3
+21,2073,7022,Bakonyszombathely - Kisbér - Mezőörs - Győr,3
+21,20730,22,Alma utcai iskola - Autóbusz-állomás,3
+21,20731,24,Kistelekiszőlő - Autóbusz-állomás - Sóstói úti kórház,3
+21,20732,27,Szélsőbokori út - Búza tér - Jósaváros - Sóstói úti kórház,3
+21,20733,3,"Rozsrét, autóbusz-forduló - Kistelekiszőlő - Autóbusz-állomás - Sóstói úti kórház",3
+21,20734,30,"Rozsrét, autóbusz-forduló - Autóbusz-állomás - Sóstói úti kórház",3
+21,20735,30A,"Rozsrét, autóbusz-forduló - Autóbusz-állomás",3
+21,20736,3A,"Rozsrét, autóbusz-forduló - Kistelekiszőlő - Autóbusz-állomás",3
+21,20737,4,"Oros, Takarék köz - Autóbusz-állomás",3
+21,20738,44,"Oros, Magyar utca 5. - Örökösföld - Jósaváros - Vasútállomás",3
+21,20739,4Y,"Oros, temető - Autóbusz-állomás",3
+21,2074,7023,Tápszentmiklós - Nyalka - Győr,3
+21,20740,5,Sósótói úti kórház - Jósaváros - Örökösföld,3
+21,20741,55,Sóstógyógyfürdő - Örökösföld,3
+21,20742,5A,Jósaváros - Örökösföld,3
+21,20744,7,Jósaváros - Vasútállomás,3
+21,20745,8,Sóstógyógyfürdő - Sóstói úti kórház - Vasútállomás,3
+21,20746,8A,Sóstói úti kórház - Vasútállomás,3
+21,20748,9,Huszártelep - Vasútállomás,3
+21,20749,90,"Révész-Michelin logisztikai központ - Ipari park, Electrolux - Autóbusz-állomás - Sóstói úti kórház",3
+21,20750,90E,"Ipari park, Electrolux - Autóbusz-állomás",3
+21,20751,91,"Ipari park, Electrolux - Autóbusz-állomás",3
+21,20752,92,LEGO - Jósavárosi piac - Sóstói úti kórház,3
+21,20753,93,LEGO - Vasútállomás - Örökösföld,3
+21,20754,93E,LEGO - Vasútállomás,3
+21,20755,94,Michelin - Sóstói úti kórház - Jósavárosi piac,3
+21,20756,95,Michelin - Autóbusz-állomás - Örökösföld,3
+21,20757,95L,LEGO - Michelin - Autóbusz-állomás - Örökösföld,3
+21,20758,96,Alma utcai iskola - Ipari utca - Autóbusz-állomás,3
+21,20759,97,"Ipari park, Sematic - Örökösföld",3
+21,2076,7025,Tápszentmiklós - Győrság - Győr,3
+21,20761,H30,Oláhrét - Butykasor - Újsortanya - Rozsrét - Autóbusz-állomás,3
+21,20762,H31,Oláhrét - Butykasor - Autóbusz-állomás,3
+21,20763,H32,Nagyszállás - Nyírjes - Autóbusz-állomás,3
+21,20764,H35,Felsősima - Polyákbokor - Alsóbadúr - Autóbusz-állomás,3
+21,20765,H40,Sulyánbokor - Kazárbokor - Rókabokor - Antalbokor - Autóbusz-állomás,3
+21,2078,7029,Bakonyszentlászló - Bakonypéterd - Veszprémvarsány - Sikátor,3
+21,2079,7030,Győrasszonyfa - Ravazd - Pannonhalma - Győr,3
+21,2080,7031,Sikátor - Veszprémvarsány - Lázi - Ravazd - Győr,3
+21,2081,7032,Bakonyszentlászló - Románd - Ravazd - Győr,3
+21,2082,7033,Fenyőfő/[Zirc - Dudar] - Bakonyszentlászló - Románd - Lázi - Győr,3
+21,2083,7034,Győújbaráthegy - Győr,3
+21,2084,7035,Nyúl - Győrújbarát - Győr,3
+21,2085,7036,Győrújbaráthegy - Győr,3
+21,2086,7038,Mórichida/Tét - Koroncó - Győr,3
+21,2087,7039,"Kajárpác/Győrújbaráthegy - Győr, AUDI",3
+21,2088,7040,Bakonytamási - Gic - Sokorópátka - Tényő - Győr,3
+21,2089,7041,Kajárpéc - Felpéc - Győr,3
+21,209,1566,Kecskemét - Kalocsa - Pécs,3
+21,2090,7042,[Gecse - Gyömöre]/Mórichida - Tét - Győr,3
+21,2091,7043,Koroncó - Győr,3
+21,2092,7046,Gecse - Szerecseny - Gyömöre - Tét - Győr,3
+21,2093,7047,Gyömöre - Csikvánd - Tét - Szerecseny/Győr,3
+21,2094,7048,Csikvánd - Gyarmat - Tét - Győr,3
+21,2096,7050,Vág - Szany - Tét - Győr,3
+21,2097,7051,Csorna - Szany - Tét - Győr,3
+21,2098,7052,Szany/Csorna - Egyed - Tét - Győr,3
+21,2099,7053,Csorna - Rábacsécsény - Tét - Győr,3
+21,21,1046,Bükkszék - Recsk - Mátraháza - Gyöngyös - Budapest,3
+21,21009,4504,Pocsaj - Szentpéterszeg - Berettyóújfalu,3
+21,2101,7055,Rábapatona - Ikrény - Győr,3
+21,2102,7056,Csorna - Egyed - Kisbabot - Enese - Győr,3
+21,2103,7058,Rábapatona - Ikrény - Győr,3
+21,2104,7059,Kisbabot - Bágyogszovát - Győr,3
+21,2105,7060,Csorna - Bodonhely - Kisbabot - Győr,3
+21,2106,7061,Beled - Szil - Csorna - Győr,3
+21,2107,7063,Egyed/Rábacsanak - Rábapordány - Csorna - Győr,3
+21,2108,7065,Árpás - Mórichida - Kisbabot - Enese - Győr,3
+21,2109,7070,Csorna - Kóny - Enese - Győr,3
+21,211,1568,Kiskőrös - Dunaföldvár - Szekszárd - Pécs,3
+21,2110,7071,Sopron - Kapuvár - Csorna - Győr,3
+21,2111,7072,Sopron - Petőháza - Kapuvár - Csorna - Győr,3
+21,2112,7073,Sopron - Fertőd - Kapuvár - Csorna - Győr,3
+21,21129,74A,Szabadság tér - Autóbusz-állomás - Veres Péter utca - Kolozsvári utca - Lencsés,3
+21,2113,7074,Kapuvár - Magyarkeresztúr - Bogyoszló - Csorna - Győr,3
+21,21130,74B,Szabadság tér - Autóbusz-állomás - Kolozsvári utca - Veres Péter utca - Lencsés,3
+21,21131,8MJ,Volán-telep - Linamar / Autóbusz-állomás,3
+21,21132,1,Szénáskert utca - Vasútállomás,3
+21,2114,7075,Földsziget - Bősárkány - Barbacs - Győr,3
+21,2115,7076,Kapuvár - Babót - Győr,3
+21,21154,10,Volán-telep / Zone Bevásárlópark - Békeváros - Római körút - Autóbusz-állomás - Magyar út - Újtelep,3
+21,21155,12,Békeváros - Autóbusz-állomás - Vasmű tér - Római körút - Magyar út - Köztemető,3
+21,21156,13,Pálhalma - TESCO - Béke körút - Dózsa Mozi - Autóbusz-állomás - Béke körút - TESCO - Pálhalma,3
+21,21157,14,"Papírgyár - Autóbusz-állomás - Békeváros, Szabadság út",3
+21,21158,30,Vasútállomás - Kórház - Feketehegy - Kórház - Vasútállomás,3
+21,21159,40,Csapó utca - Szalontai utca/Székely utca,3
+21,2116,7077,Csorna - Földsziget - Bősárkány - Lébény - Győr,3
+21,21160,41,Csapó utca - Kórház - Vasútállomás - Rádió utca - Csapó utca,3
+21,2118,7079,Beled - Bogyoszló - Csorna - Győr,3
+21,2119,7080,Csorna - Bősárkány - Tárnokréti - Enese - Győr,3
+21,212,1569,Ajka - Kaposvár - Pécs,3
+21,2120,7082,Börcs - Győr,3
+21,2121,7083,Mecsér - Kunsziget - Öttevény - Győr,3
+21,2122,7085,Lébény - Mosonszentmiklós - Győr,3
+21,2123,7086,Mosonmagyaróvár - Győr,3
+21,21234,26C,Csala - Autóbusz-állomás,3
+21,21235,37A,Sajó utca/Farkasvermi utca - Autóbusz-állomás,3
+21,2124,7087,Mecsér - Dunaszeg - Győr,3
+21,21241,5621,"Komló, Móricz utca - Hosszúhetény - Pécs",3
+21,2125,7088,Darnózseli - Lipót - Hédervár - Győr,3
+21,21260,4230,"Balkány, Nagymogyorós - Balkány",3
+21,21261,4250,Nagykálló - Napkor - Nyíregyháza,3
+21,21262,4290,Téglás - Szakoly - Balkány - Nagykálló - Nyíregyháza,3
+21,21263,4291,Nyírlugos - Nyíradony - Nagykálló - Nyíregyháza,3
+21,21264,4336,Szamosszeg - Tunyogmatolcs - Kocsord - Mátészalka,3
+21,21265,4381,Nyíregyháza - Nagykálló - Máriapócs - Pócspetri - Nagykálló - Nyíregyháza,3
+21,2127,7090,Mosonmagyaróvár - Darnózseli - Ásványráró - Győr,3
+21,21276,3626,Verseg - Kálló - Erdőtarcsa - Heréd - Hatvan,3
+21,2128,7098,Mosonmagyaróvár - Darnózseli - Dunaszeg - Győr,3
+21,2129,7099,Mosonmagyaróvár - Darnózseli - Dunaszentpál - Dunaszeg - Győr,3
+21,2130,7106,Cakóháza - Markotabödöge - Csorna,3
+21,2131,7107,Rábcakapi - Markotabödöge - Enese - Csorna,3
+21,2132,7108,Mórichida - Enese - Maglóca - Csorna,3
+21,21320,3406,"Mezőkövesd - Novaj - Ostoros - Eger, TESCO",3
+21,21321,3405,Felsőtárkány - Eger - Füzesabony,3
+21,21325,7A,Vécsey-völgy - Baktai út,3
+21,21326,113,TESCO áruház - Lajosváros,3
+21,21327,16,"Lajosváros - Tihaméri malom - Autóbusz-állomás - Felnémet, Béke út",3
+21,21328,914,BERVA - Felnémet - Autóbusz-állomás - Lajosváros,3
+21,2133,7110,Mórichida - Kisbabot - Bágyogszovát - Csorna,3
+21,2135,7115,Árpás - Egyed - Dör - Csorna,3
+21,21354,3,Bervai út - Felnémet - Lajosváros,3
+21,21355,3A,TESCO áruház - Lajosváros,3
+21,21356,4,BERVA - Felnémet - Autóbusz-állomás - Lajosváros,3
+21,2136,7116,Szany - Sobor - Egyed - Dör - Csorna,3
+21,21379,5,Éltes Mátyás iskola - Autóbusz-állomás,3
+21,2138,7118,Szil - Vág - Szany - Csorna,3
+21,2140,7122,Sobor - Szany - Csorna,3
+21,2142,7127,Szany - Vág - Csorna,3
+21,21422,58B,Körtvélyes - Nagyrét utca - Dávidföld - Autóbusz-állomás - Szilvás - Somág - Autóbusz-állomás,3
+21,21423,58,Körtvélyes - Nagyrét utca - Dávidföld - Autóbusz-állomás - Szilvás - Autóbusz-állomás,3
+21,21424,85,Szilvás - Somág - Autóbusz-állomás - Dávidföld - Nagyrét utca - Körtvélyes,3
+21,21425,1115,Kiskunhalas - Kiskőrös - Kunszentmiklós - Budapest,3
+21,21426,653,(Kiskunhalas - Kiskőrös) / Tass - Kunszentmiklós - Budapest,3
+21,21427,3414,Felsőtárkány - Eger - Andornaktálya - Maklár,3
+21,2143,7135,[Szany - Rábasebes]/Kemenesszentpéter - Vág - Szil - Csorna,3
+21,2144,7138,Vág/Beled - Szil - Csorna,3
+21,2145,7139,Farád - Csorna,3
+21,2146,7140,Beled - Magyarkeresztúr - Bogyoszló - Csorna,3
+21,2147,7146,Tárnokréti - Földsziget - Bősárkány - Csorna,3
+21,2148,7155,Tőzeggyármajor - Osli - Kapuvár,3
+21,2149,7157,Szárföld - Veszkény - Kapuvár,3
+21,2150,7158,Öntésmajor - Veszkény - Kapuvár,3
+21,2151,7160,Magyarkeresztúr - Kapuvár,3
+21,2155,7173,Beled - Dénesfa - Himod - Kapuvár,3
+21,2156,7176,Iván - Dénesfa - Beled - Kapuvár,3
+21,2158,7192,Cirák - Fertőszentmiklós - Petőháza - Kapuvár,3
+21,2159,7196,Petőháza/Fertőszentmiklós - Kapuvár,3
+21,2160,7205,Fertő-tó - Fertőrákos - Sopron,3
+21,21604,4101,Farkaslyuk - Ózd,3
+21,21605,4102,Ózd - Hangony - Kissikátor - Domaháza,3
+21,21606,4104,Ózd - Bánréve - Putnok - Ragály - Aggtelek,3
+21,21607,1,Kórház - Autóbusz-állomás,3
+21,21608,12,Kórház - Autóbusz-állomás - Március 15. utca - Autóbusz-állomás - Kórház,3
+21,21609,23,"Bolyki Tamás Általános Iskola - Autóbusz-állomás - Petőfi tér - Center, forduló",3
+21,2161,7207,Rábakecöl - Kapuvár - Nagycenk - Sopron,3
+21,21610,3,"Center, forduló - Autóbusz-állomás - Kórház",3
+21,21611,46,Somsály - Autóbusz-állomás - Új köztemető,3
+21,21612,47,Autóbusz-állomás - Szenna - Új köztemető - Autóbusz-állomás,3
+21,21613,6,Somsály - Nyárjasalja utca - Autóbusz-állomás,3
+21,21614,68,Susa - Uraj - Autóbusz-állomás - Somsály,3
+21,21615,76,Somsály - Autóbusz-állomás - Szenna,3
+21,21616,78,Autóbusz-állomás - Szenna - Susa - Uraj - Szenna - Autóbusz-állomás,3
+21,2162,7208,Petőháza - Fertőhomok - Sopron,3
+21,2163,7210,Kapuvár - Fertőd - Sopron,3
+21,21639,8Y,Likócs - Állatkert - Gyárváros - Munkácsy Mihály utca,3
+21,2164,7211,Mosonmagyaróvár - Csorna - Kapuvár - Sopron,3
+21,21640,12Y,"Audi-gyár, 5-ös porta - Kandó utca - Belváros - Egyetem",3
+21,21641,13B,Pinnyéd - Sziget - Belváros - Gyárváros - Adyváros - Nádorvárosi köztemető - Marcalváros,3
+21,21642,13,Pinnyéd - Sziget - Belváros - Gyárváros - Adyváros - Marcalváros,3
+21,21643,14A,"Liget utca, Nyár utca - Sziget - Belváros - Gyárváros - Adyváros - Marcalváros",3
+21,21644,16,Keverőtelep - Vízmű - Autóbusz-állomás - Adyváros - Marcalváros,3
+21,21645,18,Munkácsy Mihály utca - Korányi Frigyes tér - Révai Miklós utca,3
+21,2165,7212,Győr - Csorna - Kapuvár - Balf - Sopron,3
+21,2166,7213,Kapuvár - Fertőd - Kapuvár,3
+21,2167,7214,Sopron - Fertőszentmiklós - Sopron,3
+21,2168,7216,Szakony - Lövő - Csapod - Sopron,3
+21,21683,657,Délegyháza - Dunavarsány - Taksony - Budapest,3
+21,21684,658,Kunszentmiklós - Délegyháza - Dunavarsány - Taksony - Dunaharaszti - Budapest,3
+21,21685,659,Kunszentmiklós - Délegyháza - Dunavarsány - Taksony - Dunaharaszti - Budapest,3
+21,21686,679,Budapest - Soroksár - Dunaharaszti - M51 - M5 - Budapest,3
+21,21687,681,Budapest - Soroksár - Dunaharaszti - M51 - M5 - Budapest,3
+21,21688,680,Budapest - Soroksár - Dunaharaszti - M51 - M5 - Budapest,3
+21,2169,7218,Nagycenk - Sopron,3
+21,21694,19,Déri sétány - Dobó utcai forduló - Szentistván - Déri sétány - Újváros - TESCO - Déri sétány,3
+21,21695,29,Déri sétány - Újváros - TESCO - Déri sétány - Szentistván - Dobó utcai forduló - Déri sétány,3
+21,21696,3,Déri sétány - Gólyasor - Déri sétány,3
+21,2170,7219,Cirák - Répceszemere - Ebergőc - Sopron,3
+21,2173,7225,Lövő - Nagylózs - Pereszteg - Sopron,3
+21,2178,7235,Szakony - Sopronhorpács - Lövő - Sopron,3
+21,2180,7242,Harka - Sopron,3
+21,21809,1620,Zalaegerszeg - Sümeg - Pápa - Győr,3
+21,2181,7246,Ágfalva - Sopron,3
+21,21810,1658,Veszprém - Balatonfüred - Keszthely - Zalaegerszeg - Lenti,3
+21,21811,1758,Tatabánya - Veszprém - Balatonfüred,3
+21,21812,6777,Zalabér-Batyk vá. - Szajki tavak - Káld - Sárvár,3
+21,21813,7848,Celldömölk - Jánosháza - Ajka,3
+21,21816,5703,Komló - Orfű - Komló,3
+21,2182,7252,Tejfalusziget - Dunakiliti - Mosonmagyaróvár,3
+21,2183,7253,Mosonmagyaróvár - Tejfalusziget - Dunasziget - Mosonmagyaróvár,3
+21,21835,3056,Mátranovák - Bátonyterenye - Salgótarján,3
+21,21836,3067,Csécse - Pásztó - Salgótarján,3
+21,21837,3152,Szuha - Bátonyterenye,3
+21,21838,3153,Szuha (Mátraalmás) - Mátramindszent - Nemti - Dorogháza - Bátonyterenye,3
+21,21839,3154,Szuha - Mátramindszent - Dorogháza - Bátonyterenye,3
+21,2184,7254,Tejfalusziget - Dunasziget - Halászi - Mosonmagyaróvár,3
+21,21840,3156,Mátranovák - Nemti - Bátonyterenye,3
+21,21841,3241,Pásztó - Kozárd - Ecseg - Csécse - Pásztó,3
+21,21842,3261,Buják - Szurdokpüspöki - Pásztó,3
+21,21843,3262,Erdőkürt - Vanyarc - Szirák - Szarvasgede - Pásztó,3
+21,21844,3263,Vanyarc - Bér - Kisbágyon - Pásztó,3
+21,21845,3265,Mátraszőlős- Pásztó,3
+21,21846,3266,Vanyarc - Erdőkürt - Kálló - Palotás - Csécse - Pásztó,3
+21,21847,3323,Balassagyarmat - Bercel - Vanyarc - Bér,3
+21,21848,3324,Becske - Nógrádkövesd - Romhány - Rétság,3
+21,21849,3607,Szentkút - Pásztó - Apc - Hatvan,3
+21,2185,7255,Rajka - Dunasziget - Mosonmagyaróvár,3
+21,2186,7256,Hédervár - Lipót - Mosonmagyaróvár,3
+21,2187,7258,Ásványráró - Darnózseli - Lipót - Mosonmagyaróvár,3
+21,21876,25,Alma utcai iskola - Örökösföld - Északi körút - Vasútállomás,3
+21,21877,26,Szélsőbokori út - Vasútállomás,3
+21,21878,900,Vasútállomás - Bessenyei tér - Sóstógyógyfürdő - Örökösföld - Vasútállomás,3
+21,21879,9B,Örökösföld - Michelin - Huszártelep,3
+21,2188,7270,Ásványráró - Darnózseli - Mosonmagyaróvár,3
+21,2189,7273,Ásványráró - Darnózseli - Máriakálnok - Mosonmagyaróvár,3
+21,2190,7275,Novákpuszta - Kimle - Mosonmagyaróvár,3
+21,2192,7281,Albertkázmérpuszta - Jánossomorja - Mosonmagyaróvár,3
+21,2193,7284,Mosonszolnok - Mosonmagyaróvár,3
+21,21932,7372,Tapolca - Kapolcs - Veszprém,3
+21,2194,7285,Mosonszentmiklós - Mosonmagyaróvár,3
+21,2195,7286,Csorna - Búsárkány - Jánossomorja - Mosonmagyaróvár,3
+21,2196,7287,Kapuvár - Csorna - Mosonszolnok - Mosonmagyaróvár,3
+21,2197,7292,Csemezpuszta - Hegyeshalom - Mosonmagyaróvár,3
+21,2198,7294,Rajka - Mosonmagyaróvár,3
+21,21985,3136,,3
+21,21986,GYU5,,3
+21,2199,7300,Zirc - Veszprém,3
+21,2200,7301,Dudar - Bakonyoszlop - Zirc - Veszprém,3
+21,2202,7304,Bakonynána - Zirc - Veszprém,3
+21,2203,7305,Bakonyszentkirály - Dudar - Zirc - Veszprém,3
+21,2204,7306,Bakonyél - Zirc - Veszprém,3
+21,2205,7307,Porva - Zirc - Veszprém,3
+21,2206,7308,Bakonyszentkirály - Dudar - Zirc - Veszprém,3
+21,2207,7309,Pétfürdő - Hajmáskér - Veszprém,3
+21,2208,7311,Várpalota - Hajmáskér - Veszprém,3
+21,2209,7314,Pétfürdő/Várpalota - Öskü - Hajmáskér - Veszprém,3
+21,221,1592,Győr - Veszprém - Siófok - Kaposvár,3
+21,2210,7315,Székesfehérvár - Várpalota - Veszprém,3
+21,2211,7316,Balatonfőkajár - Berhida - Sóly - Veszprém,3
+21,2212,7317,Várpalota - Berhida - Veszprém,3
+21,2213,7318,Fűzfőgyártelep - Berhida - Veszprém,3
+21,2214,7319,Ősi - Berhida - Veszprém,3
+21,2215,7320,Balatonfűzfő - Veszprém,3
+21,2216,7321,Enying - Balatonvilágos - Veszprém,3
+21,2217,7322,Balatonakarattya - Balatonfűzfő - Veszprém,3
+21,2218,7323,Küngös - Balatonfűzfő - Veszprém,3
+21,222,1593,Tapolca - Veszprém - Siófok - Kaposvár,3
+21,2221,7326,Balatonalmádi - Fűzfőgyártelep - Veszprém,3
+21,2223,7332,Fűzfőgyártelep - Balatonalmádi - Veszprém,3
+21,2224,7333,Balatonalmádi - Veszprém,3
+21,2225,7335,Balatonalmádi (Káptalanfüred) - Balatonalmádi - Veszprém,3
+21,2227,7341,Fűzfőgyártelep - Balatonalmádi - Felsőörs - Veszprém,3
+21,2228,7342,Alsóörs - Felsőörs - Veszprém,3
+21,2229,7345,Balatonfüred - Felsőörs - Veszprém,3
+21,2230,7346,Balatonfüred - Csopak - Veszprém,3
+21,2231,7348,Dörgicse - Balatonfüred - Veszprém,3
+21,2232,7350,Balatonfüred - Csopak - Veszprém,3
+21,2234,7352,Balatonfüred - Csopak - Veszprém,3
+21,2235,7353,Balatonfüred - Csopak - Veszprém,3
+21,2237,7357,Tapolca - badacsonytomaj - Balatonfüred - Veszprém,3
+21,2238,7358,Dörgicse - Balatonfüred - Veszprém,3
+21,2239,7360,Pula - Nagyvázsony - Veszprém,3
+21,2240,7361,Veszprémfajsz - Nemesvámos - Veszprém,3
+21,2242,7363,Balatonfüred - Nemesvámos - Veszprém,3
+21,2243,7364,Balatonfüred - Tótvázsony - Veszprém,3
+21,2244,7367,Zánka-Köveskál vá. - Nagyvázsony - Veszprém,3
+21,2245,7369,Tapolca - Zánka-Köveskál vá. - Veszprém,3
+21,2246,7370,Tapolca - Pula - Veszprém,3
+21,2247,7376,Ajka - Pula - Veszprém,3
+21,2248,7380,Csehbánya/Szentgál - Herend - Veszprém,3
+21,2249,7381,Hárskút - Veszprém,3
+21,2250,7382,Hárskút - Herend,3
+21,2251,7383,Veszprém - Herend - Szentgál,3
+21,2253,7386,Ajka - Úrkút - Szentgál - Veszprém,3
+21,2254,7387,Vindornyaszőlős - Sümeg - Veszprém,3
+21,2255,7391,Pápa - Bakonyjákó - Városlőd - Veszprém,3
+21,2256,7396,Ajka - Városlőd - Veszprém,3
+21,2257,7397,[Tapolca - Nyírád]/[Sümeg - Devecser] - Ajka - Városlőd - Veszprém,3
+21,2259,7400,Bakonyszentkirály - Zirc,3
+21,2261,7405,Zirc - Dudar - Bakonyszentkirály - Zirc,3
+21,2263,7410,Bakonycsernye - Szápár - Dudar - Zirc,3
+21,2264,7412,Jásd - Szápár - Zirc,3
+21,2265,7416,Bakonynána - Dudar - Zirc,3
+21,2266,7418,"Olaszfalu, Felsőperepuszta - Zirc",3
+21,2267,7420,Bakonybél - Lókút - Zirc,3
+21,2268,7426,Porva - Zirc,3
+21,2270,7437,"Olaszfalu, Felsőperepuszta - Zirc - Dudar",3
+21,2271,7442,Fenyőfő - Bakonyszentlászló - Veszprémvarsány,3
+21,2272,7501,Szápár - Jásd - Tés - Várpalota,3
+21,2274,7528,Berhida - Ősi - Várpalota,3
+21,2275,7530,Berhida (Peremarton) - Várpalota,3
+21,2276,7531,Pétfürdő - Várpalota,3
+21,2277,7532,Ősi - Berhida - Várpalota,3
+21,2278,7533,Balatonfőkajár - Berhida - Várpalota,3
+21,2279,7534,Balatonfűzfő - Berhida - Várpalota,3
+21,228,1621,Tapolca - Sümeg - Zalaegerszeg,3
+21,2280,7536,Királyszentistván - Berhida - Várpalota,3
+21,2281,7538,Fűzfőgyártelep - Papkeszi - Berhida (Peremarton) - Várpalota,3
+21,2283,7542,Balatonfőkajár - Berhida,3
+21,2284,7600,Fűzfőgyártelep - Balatonalmádi,3
+21,2285,7612,Hajmáskér - Sóly/Vilonya - Fűzfőgyártelep,3
+21,229,1622,Szombathely - Körmend - Zalaegerszeg,3
+21,2290,7653,Fűzfőgyártelep - Balatonalmádi - Alsóörs - Balatonfüred,3
+21,2291,7654,Fűzfőgyártelep - Balatonalmádi - Balatonfüred,3
+21,2294,7671,Kővágóörs - Révfülöp - Balatonakali-Dörgicse vá. - Balatonfüred,3
+21,2295,7673,Nagyvázsony - Tótvázsony - Pécsely - Balatonfüred,3
+21,2296,7674,Ajka - Nagyvázsony - Balatonfüred,3
+21,2297,7675,Nagyvázsony - Tótvázsony - Balatonfüred,3
+21,2298,7682,Balatonakali-Dörgicse vá. - Pécsely - Balatonfüred,3
+21,2299,7686,Tótvázsony - Balatonfüred,3
+21,23,1049,Eger - Verpelét - Gyöngyös - Budapest,3
+21,2300,7700,Devecser - Nyirád - Tapolca,3
+21,2301,7701,Pápa - Nagyalásony - Devecser - Tapolca,3
+21,2303,7703,Balatonhenye - Révfülöp - Tapolca,3
+21,2304,7704,Révfülöp - Köveskál - Tapolca,3
+21,2305,7705,Balatonhenye/Révfülöp - Köveskál - Kővágóörs - Tapolca,3
+21,2306,7706,Zánka-Köveskál vá. - Köveskál - Tapolca,3
+21,2307,7709,Salföld - Ábrahámhegy - Nemesgulács - Tapolca,3
+21,2308,7710,Kővágóörs - Révfülöp - Badacsonytördemic-Szigliget vá. - Tapolca,3
+21,2309,7711,Tapolca - Szigliget - Tapolca,3
+21,2310,7721,Hévíz - Keszthely - Tapolca,3
+21,2311,7722,Tapolca - Sümeg - Hévíz - Keszthely - Tapolca,3
+21,2312,7730,Lesencefalu - Lesencetomaj - Tapolca,3
+21,2313,7736,Sümeg - Uzsa - Tapolca,3
+21,2314,7742,Sáska - Tapolca - Monostorapáti,3
+21,2315,7744,Balatonhenye - Kővágóörs - Zánka-Révfülöp vá.,3
+21,2316,7746,Salföld - Ábrahámhegy - Badacsonytördemic,3
+21,2318,7752,Kamond - Kerta - Karakószörcsök - Hosztót - Sümeg,3
+21,2319,7753,Dabrony - Somlóvásárhely - Jánosháza - Sümeg,3
+21,232,1625,Veszprém - Tapolca - Keszthely - Zalaegerszeg,3
+21,2320,7754,Pápa - Karakószörcsök - Sümeg,3
+21,2321,7755,Nyirád - Csabrendek (Nagytárkány) - Sümeg,3
+21,2322,7757,Tapolca - Sümeg,3
+21,2323,7759,Sümeg - Sümegprága - Sümeg,3
+21,2324,7770,Szalapa - Mihályfa - Sümeg,3
+21,2325,7771,Vindornyaszőlős - Nagygörbő - Sümeg,3
+21,2328,7801,Magyarpolány - Ajka,3
+21,2329,7802,Csehbánya - Városlőd - Ajka,3
+21,2330,7804,Balatonfüred - Veszprém - Balatonfüred,3
+21,2331,7805,Devecser - Székipuszta - Ajka,3
+21,2332,7806,Doba - Devecser - Ajka,3
+21,2333,7807,Adorjánháza - Devecser - Ajka,3
+21,2334,7808,Dabrony - Devecser - Ajka,3
+21,2335,7809,Oroszi - Ajka,3
+21,2336,7811,Sümeg - Devecser - Székipuszta - Ajka,3
+21,2337,7820,Úrkút - Ajka,3
+21,2339,7832,Nagyvázsony - Öcs - Ajka,3
+21,2340,7834,Nyirád - Halimba - Ajka,3
+21,2342,7840,Somlójenő - Devecser - Ajka,3
+21,2343,7841,Sümeg - Cabrendek - Nagytárkány - Sümeg,3
+21,2344,7842,Sümeg - Devecser - Ajka,3
+21,2345,7843,Karakószörcsök - Kisberzseny - Devecser - Ajka,3
+21,2346,7844,Kisberzseny - Devecser - Ajka,3
+21,2347,7846,Ajka - Somlójenő - Kisberzseny - Kamond,3
+21,2348,7852,Dabrony - Somlószőlősi elágazás - Ajka,3
+21,2349,7853,Doba - Devecser - Ajka,3
+21,2353,7888,Kamond - Boba - Adorjánháza - Külsővat,3
+21,2355,7902,Szerecseny - Takácsi - Pápa,3
+21,2356,7904,Gecse - Vaszar - Takácsi - Pápa,3
+21,2357,7908,Gecse - Vaszar - Pápa,3
+21,2359,7912,Nagydém - Lovászpatona - Vanyola - Pápa,3
+21,2360,7914,Győr - Tét - Lovászpatona - Vanyola - Pápa,3
+21,2361,7918,Veszprémvarsány - Bakonytamási - Csót - Pápa,3
+21,2362,7920,Ugod - Nagytevel - Pápa,3
+21,2363,7922,Zirc - Bakonybél - Ugod - Pápa,3
+21,2365,7926,Döbrönte - Ganna - Pápa,3
+21,2366,7927,Farkasgyepű - Döbrönte - Pápa,3
+21,2367,7928,Kup - Ganna - Pápa,3
+21,2368,7929,Badacsony - Noszlop - Pápa,3
+21,2370,7932,Ajka - Noszlop - Pápa,3
+21,2371,7934,Devecser - Noszlop - Pápa,3
+21,2372,7936,Sümeg - Devecser - Pápa - Csorna,3
+21,2373,7940,Dabrony - Dáka - Pápa,3
+21,2374,7941,Balatonfüred - Veszprém - Pápa,3
+21,2375,7942,Révfülöp - Tapolca - Dabrony - Pápa,3
+21,2376,7943,Székesfehérvár - Várpalota - Veszprém - Pápa,3
+21,2377,7944,Marcalgergelyi - Dáka - Pápa,3
+21,2378,7950,Nemesszalók - Pápa,3
+21,2379,7952,Pápa - Dáka - Pápadereske - Pápa,3
+21,238,1636,Bükfürdő - Szombathely - Vasvár - Keszthely,3
+21,2380,7953,Karakószörcsök - Vinár/Nemesszalók - Pápa,3
+21,2381,7956,Külsővat - Nemesszalók - Pápa,3
+21,2382,7958,Mihályháza - Mezőlaki elágazás - Pápa,3
+21,2384,7963,Kemenesszentpéter - Pápa,3
+21,2385,7972,Mihályháza - Mátyusháza - Pápa,3
+21,2386,7974,Nemesgörzsöny - Pápa,3
+21,2388,7982,Csikvánd - Marcaltő - Pápa,3
+21,2389,7983,Kemenesszentpéter - Marcaltő - Pápa,3
+21,239,1639,Győr - Sárvár/Pápa - Zalaegerszeg - Lenti,3
+21,2390,7986,Szany - Malomsok - Marcaltő - Pápa,3
+21,2391,7991,Nagydém - Lovászpatona - Tét,3
+21,2392,7992,Bakonytamási - Bakonyság,3
+21,2395,7997,Külsővat - Karakószörcsök,3
+21,2396,7998,Szerecseny - Gyarmat - Csikvánd - Marcaltő,3
+21,2397,8000,Csákvár - Zámoly - Székesfehérvár,3
+21,2398,8001,Mór - Csókakő - Csákberény - Zámoly - Székesfehérvár,3
+21,24,1050,Miskolc - Mezőkövesd - Eger - Gyöngyös - Budapest,3
+21,240,1641,Pécs - Kaposvár/Nagyatád - Nagykanizsa - Lenti/Zalaegerszeg,3
+21,2400,8010,Lovasberény - Pátka - Székesfehérvár,3
+21,2401,8011,Bicske - Alcsútdoboz - Lovasberény - Székesfehérvár,3
+21,2402,8013,Vál - Alcsútdoboz - Lovasberény - Székesfehérvár,3
+21,2403,718,Kápolnásnyék - Vereb - Lovasberény - Székesfehérvár,3
+21,2404,749,Sukoró - Pákozd - Székesfehérvár,3
+21,2405,758,Vereb - Kápolnásnyék - Sukoró - Székesfehérvár,3
+21,2406,749,Gyúró - Martonvásár - Kápolnásnyék - Székesfehérvár,3
+21,2407,759,Martonvásár - Agárd - Székesfehérvár,3
+21,2408,747,Székesfehérvár - Sukoró - Velence - Agárd - Székesfehérvár,3
+21,2409,750,Pusztaszabolcs - Velence - Székesfehérvár,3
+21,241,1642,Sopron - Szombathely - Zalaegerszeg - Nagykanizsa - Pécs,3
+21,2411,8030,Seregélyes - Székesfehérvár,3
+21,2412,8032,Szabadegyháza - Seregélyes - Székesfehérvár,3
+21,2413,8033,Dunaújváros - Perkáta - Seregélyes - Székesfehérvár,3
+21,2414,8035,Sárosd - Seregélyes - Székesfehérvár,3
+21,2415,8037,Mezőfalva - Sárosd - Székesfehérvár,3
+21,2416,8039,Sárbogárd - Nagylók - Sárosd - Seregélyes - Székesfehérvár,3
+21,2417,8040,Sárbogárd - Sárszentágota - Aba - Székesfehérvár,3
+21,2418,8046,Előszállás - Alap - Sárbogárd - Székesfehérvár,3
+21,242,1643,Bükfürdő - Szombathely - Őriszentpéter - Lenti,3
+21,2420,8048,Pálfa - Vajta - Sárbogárd - Székesfehérvár,3
+21,2421,8049,Sáregres - Sárbogárd - Székesfehérvár,3
+21,2422,8050,Szabadbattyán - Székesfehérvár,3
+21,2423,8055,Káloz - Szabadbattyán - Székesfehérvár,3
+21,2424,8060,Polgárdi - Szabadbattyán - Székesfehérvár,3
+21,2425,8062,Kisláng - Polgárdi - Székesfehérvár,3
+21,2426,8065,Enying - Lepsény - Székesfehérvár,3
+21,2427,8066,Simontornya - Enying - Székesfehérvár,3
+21,2428,8067,Szabadhídvég - Dég - Enying - Székesfehérvár,3
+21,2429,8068,Füle - Polgárdi - Székesfehérvár,3
+21,2430,8069,Úrhida - Sárpentele - Székesfehérvár,3
+21,2431,8070,Jenő - Nádasdladány - Székesfehérvár,3
+21,2433,8078,Ősi - Jenő - Székesfehérvár,3
+21,2435,8086,Isztimér - Székesfehérvár,3
+21,2436,8090,Sárkeresztes - Székesfehérvár,3
+21,2437,8092,Kincsesbánya - Székesfehérvár,3
+21,2438,8093,Bakonycsernye - Bodajk - Székesfehérvár,3
+21,2440,8095,Söréd - Magyaralmás - Székesfehérvár,3
+21,2441,8096,Kisbér - Mór - Székesfehérvár,3
+21,2442,8097,Mór - Csókakő - Székesfehévrár,3
+21,2443,8099,Csákberény - Söréd - Székesfehérvár,3
+21,2444,8106,Etyek - Alcsótdoboz - Bicske,3
+21,2447,8117,Etyek - Alcsútdoboz - Tabajd,3
+21,2448,8120,Csákvár - Bicske,3
+21,2449,8128,Vasztély - Csabdi - Bicske,3
+21,245,1652,Szeged - Baja - Szekszárd - Kaposvár,3
+21,2451,716,Zichyújfalu - Gárdony - Velence,3
+21,2454,718,Vereb - Kápolnásnyék - Pettend,3
+21,2455,750,Velence - Gárdony - Agárd - Gárdony - Velence,3
+21,2459,703,Gyúró - Tordas - Martonvásár,3
+21,246,1660,Sopron - Kőszeg - Szombathely,3
+21,2463,702,Bicske - Vál - Baracska - Martonvásár,3
+21,2465,8200,Dunaföldvár - Dunaújváros,3
+21,2466,8201,Kisapostag - Dunaújváros,3
+21,2467,8203,Dunavecse - Solt - Dunaföldvár - Dunaújváros,3
+21,2468,8205,Solt - Dunaföldvár - Dunaújváros,3
+21,2469,8206,Újsolt - Solt - Dunaújváros,3
+21,247,1662,Sopron - Csepreg - Szombathely,3
+21,2470,8207,Akasztó - Solt - Dunaújváros,3
+21,2471,8211,Paks - Bölcske - Dunaújváros,3
+21,2472,8216,Nagykarácsony - Dunaföldvár - Dunaújváros,3
+21,2473,8217,Előszállás - Daruszentmiklós - Dunaújváros,3
+21,2474,8219,Dunaújváros - Baracs - Dunaújváros,3
+21,2475,8220,Nagysismánd - Mezőfalva - Nagyvenyim - Dunaújváros,3
+21,2476,8221,Előszállás - Daruszentmiklós - Dunaújváros,3
+21,2477,8226,Szabadhídvég - Dég - Sárbogárd - Mezőfalva - Dunaújváros,3
+21,2478,8227,Sárbogárd - Kislók - Mezőfalva - Dunaújváros,3
+21,2479,8229,Mélykút - Pálhalma - Dunaújváros,3
+21,248,1663,Győr - Pápa - Sárvár - Szombathely,3
+21,2480,8230,Szabadegyháza - Perkáta - Dunaújváros,3
+21,2481,8234,Besnyő - Pusztaszabolcs - Adony,3
+21,2482,8236,Besnyő - Iváncsa - Dunaújváros,3
+21,2484,8238,Martonvásár - Ercsi - Adony - Dunaújváros,3
+21,2485,8240,Ercsi - Adony - Dunaújváros,3
+21,2486,8244,Kulcs - Rácalmás - Dunaújváros,3
+21,2489,8255,Alsószentiván - Alap - Sárbogárd,3
+21,249,1664,Tapolca - Sümeg - Sárvár - Szombathely,3
+21,2491,8264,Sáregres - Pálfa - Cece - Sárbogárd,3
+21,2494,8272,Szabadhídvég - Dég - Pusztaegres - Sárbogárd,3
+21,2495,8274,Siófok - Szabadhídvég - Dég - Pusztaegres - Sárbogárd,3
+21,2496,8276,Káloz - Pusztaegres - Sárbogárd,3
+21,2497,8280,Sárkeresztúr - Sárszentágota - Sárbogárd,3
+21,2499,8310,Simontornya - Dég - Enying,3
+21,25,1052,Eger - Gyöngyös - Hatvan - Gödöllő - Budapest,3
+21,250,1666,Nagykanizsa - Pacsa - Keszthely - Hévíz - Szombathely,3
+21,2500,8320,Szabadhídvég - Dég - Enying,3
+21,2501,8321,Felsőnyék - Szabadhídvég - Enying - Lepsény,3
+21,2503,8325,Kisláng - Mátyásdomb - Enying - Siófok,3
+21,2504,8326,Siófok - Balatonvilágos - Enying,3
+21,2507,8355,Mór - Pusztavám - Mór,3
+21,2509,8360,Csákberény - Csókakő - Bodajk - Mór,3
+21,251,1667,Nagykanizsa - Zalaegerszeg - Vasvár - Szombathely,3
+21,2510,8365,Isztimér - Kincsesbánya - Mór,3
+21,2511,8370,Bakonycsernye - Balinka - Mór,3
+21,2512,8373,Zirc - Bakonycsernye - Mór,3
+21,2513,8381,Nagyveleg - Mór,3
+21,2514,8384,Kisbér - Csatka - Bakonycsernye,3
+21,2516,8400,Tata - Tatabánya,3
+21,2517,8401,Esztergom - Dunaalmás - Tata - Tatabánya,3
+21,2518,8406,Tata - Tardos - Tarján - Tatabánya,3
+21,2519,8410,Héreg - Tarján - Tatabánya,3
+21,252,1668,Pécs - Kaposvár - Zalaegerszeg - Szombathely,3
+21,2520,8421,Esztergom - Dorog - Bajna - Tatabánya,3
+21,2521,8422,Esztergom - Bajna - Szomor - Tarján - Tatabánya,3
+21,2522,8423,Zsámbék - Szomor - Tarján - Tatabánya,3
+21,2524,8435,Bicske - Újbarok - Szár - Tatabánya,3
+21,2525,8436,Tatabánya - Szárliget - Tatabánya,3
+21,2527,8441,Várgesztes - Környe - Tatabánya,3
+21,2528,8443,Oroszlány - Környe - Tatabánya,3
+21,2529,8460,Oroszlány - Kecskéd/Majk - Környe - Tatabánya,3
+21,253,1669,Szombathely - Körmend - Lenti,3
+21,2530,8462,Oroszlány - Kecskéd/Majk - Tatabánya - Tata - Komárom,3
+21,2531,8464,Kisbér - Oroszlány/Kömlőd - Környe - Tatabánya,3
+21,2532,8471,Bana - Bábolna - Nagyigmánd - Tata - Tatabánya,3
+21,2533,8479,Ács - Komárom - Tata - Tatabánya,3
+21,2534,8494,Bajna - Epöl - Piliscsaba - Bajna,3
+21,2539,8503,Dobogókő - Pilisszentlélek - Esztergom,3
+21,254,1670,Zalaegerszeg - Sárvár,3
+21,2540,8504,Piliscsaba - Piliscsév - Kesztölc - Esztergom,3
+21,2541,8510,Piliscsév/Piliscsaba - Kesztölc - Dorog - Esztergom,3
+21,2542,8515,Esztergom - Dorog - Csolnok - Dorog - Esztergom,3
+21,2543,8516,Pilisvörösvár - Piliscsaba - Dág - Csolnok - Esztergom,3
+21,2544,8518,Esztergom - Dorog - Sárisáp - Tokod - Esztergom,3
+21,2545,8519,Esztergom - Dorog - Esztergom,3
+21,2546,8520,Piliscsaba - Sárisáp - Tokod - Esztergom,3
+21,2547,8525,Epöl - Bajna - Tokod - Esztergom,3
+21,2549,8535,Mogyorósbánya - Tát - Esztergom,3
+21,255,1671,Pápa - Sárvár - Szombathely,3
+21,2550,8539,Süttő - Lábatlan - Nyergesújfalu - Tokodaltáró - Esztergom,3
+21,2551,8540,Dunaalmás - Nyergesújfalu - Tokodaltáró - Esztergom,3
+21,2552,8541,Szomor - Tokod - Esztergom,3
+21,2553,8542,Sárisáp - Tokod - Esztergom,3
+21,2554,8543,Komárom - Dunaalmás - Tát - Esztergom,3
+21,2555,8544,Süttő - Nyergesújfalu - Mogyorósbánya - Dorog/Tát - Esztergom,3
+21,2556,8546,Epöl - Nagysáp - Nyergesújfalu,3
+21,2557,8547,Úny - Sárisáp - Tát - Nyergesújfalu - Lábatlan,3
+21,2558,8548,Mogyorósbánya - Nyergesújfalu,3
+21,2559,8549,Tardos - Nyergesújfalu,3
+21,2560,8560,Kisbér - Császár - Dad - Oroszlány,3
+21,2562,8562,Szákszend - Bokod - Oroszlány,3
+21,2563,8570,Dad - Bokod - Oroszlány,3
+21,2564,8574,Tata - Kömlőd - Dad - Oroszlány,3
+21,2565,8587,Tata - Környe - Kecskéd - Oroszlány,3
+21,2566,8594,Környe - Dad - Kömlőd - Környe,3
+21,2567,8600,Bábolna - Tárkány - Kisbér,3
+21,2568,8618,Bábolna - Kisbér - Aka,3
+21,2569,8621,Tárkány - Ászár - Kisbér - Bakonyszombathely,3
+21,257,1702,Tatabánya/Oroszlány - Kisbér - Győr,3
+21,2570,8623,Réde - Bakonybánk - Hánta - Kisbér,3
+21,2571,8627,Bársonyos - Ászár - Kisbér,3
+21,2572,8636,Réde - Bakonybánk - Ácsteszér,3
+21,2577,8653,Neszmély - Almásfüzitő,3
+21,2578,8656,Mocsa - Almásfüzitő,3
+21,2579,8660,Komárom - Almásfüzitő - Tata,3
+21,2580,8661,Ács - Komárom - Almásfüzitő,3
+21,2582,8670,Bőny - Bana - Nagyigmánd - Komárom,3
+21,2583,8671,Kisbér - Ete - Nagyigmánd - Komárom,3
+21,2584,8672,Súr - Ácsteszér - Bakonyszombathely - Kisbér,3
+21,2585,8673,Súr - Kisbér - Tárkány - Nagyigmánd - Komárom,3
+21,2586,8682,Bana - Tárkány - Nagyigmánd - Komárom,3
+21,2588,8687,Bábolna - Nagyigmánd - Ács - Komárom,3
+21,2589,8697,Komárom - Nagyigmánd - Bábolna - Csép - Kisbér,3
+21,2590,8700,Süttő - Tata,3
+21,2591,8706,Dunaszentmiklós - Szomód - Tata,3
+21,2592,8716,Baj - Tata,3
+21,2594,8726,Naszály - Dióspuszta - Tata,3
+21,2595,8727,Komárom - Grébicspuszta - Naszály/Dióspuszta - Tata,3
+21,2597,8736,Kisbér - Szákszend - Bábolna/Nagyigmánd - Tata,3
+21,2598,8738,Székszend - Nagyigmánd,3
+21,2599,8740,Komárom - Mocsa - Tata,3
+21,26,1053,Miskolc - Lillafüred - Bükkszentkereszt - Eger - Budapest,3
+21,2600,8741,Almásfüzitő - Naszály - Tata,3
+21,261,1706,Solt - Dunaújváros - Székesfehérvár - Győr,3
+21,2613,5021,Gyula - Békéscsaba - Makó - Szeged,3
+21,2614,7313,Székesfehérvár - Várpalota - Öskü - Hajmáskér - Veszprém,3
+21,2615,5392,Kunszentmiklós - Szalkszentmárton - Dunavecse - Dunaújváros,3
+21,2616,8202,Dunaföldvár - Dunaegyháza - Dunavecse - Dunaújváros,3
+21,2618,7812,Karakószörcsök - Devecser - Ajka,3
+21,2619,5840,Zaláta - Vajszló - Siklós,3
+21,262,1707,Pécs - Szekszárd - Székesfehérvár - Győr,3
+21,263,1708,Balatonfüred - Veszprém - Zirc - Győr,3
+21,2639,1040,Gyöngyös - Hatvan - Gödöllő - Budapest,3
+21,2640,1080,Kecskemét - Lajosmizse - Dabas - Budapest,3
+21,2649,1254,Kisbér - Mór - Bicske - Budapest,3
+21,2652,4157,Mezőkövesd - Eger - Ózd,3
+21,2653,4411,Szakoly - Nyíradony,3
+21,2655,5264,Szank - Jászszentlászló - Kiskunfélegyháza,3
+21,2656,5800,Erdősmecske - Palotabozsok - Mohács,3
+21,2657,7105,Csorna - Kóny - Markotabödöge - Győrsövényház - Győr,3
+21,266,1711,Ajka - Pápa - Győr,3
+21,267,1712,Keszthely - Hévíz - Pápa - Győr,3
+21,269,1714,Hévíz - Tapolca - Ajka - Pápa - Győr,3
+21,27,1054,Jósvafő - Kazincbarcika - Szilvásvárad - Eger - Budapest,3
+21,270,1715,Szombathely - Csorna - Győr,3
+21,271,1717,Révfülöp - Tapoca - Ajka - Pápa - Győr,3
+21,273,1719,Celldömölk - Kenyeri - Répcelak - Sopron,3
+21,274,1720,Veszprém - Pápa - Fertőd - Sopron,3
+21,275,1721,Esztergom - Komárom - Győr,3
+21,276,1722,Balatonfüred - Veszprém - Pápa - Sopron,3
+21,277,1723,Balatonfüred - Veszprém - Pápa - Csorna - Sopron,3
+21,278,1725,Kaposvár - Keszthely - Sümeg - Sopron,3
+21,2780,3044,Mizserfa - Kazár - Salgótarján,3
+21,2781,4123,Égerszög - Perkupa - Varbóc,3
+21,2786,3808,Tokaj - Tarcal - Tállya - Abaújszántó - Encs,3
+21,2787,3885,Tokaj - Olaszliszka-Tolcsva vá. - Sárazsadány - Sárospatak,3
+21,2789,3952,Hajdúnánás - Polgár - Tiszaújváros,3
+21,279,1726,Nagykanizsa - Zalaegerszeg - Kőszeg - Sopron,3
+21,2791,4228,Újfehértó - Nagykálló,3
+21,2794,7224,Beled - Cirák - Csapod - Sopron,3
+21,2795,719,Dinnyés - Agárd - Gárdony,3
+21,2796,7413,Jásd - Szápár - Bakonynána - Dudar - Zirc,3
+21,2799,8517,Esztergom - Dorog - Csolnok - Sárisáp - Tokod - Esztergom,3
+21,280,1727,Tapolca - Szombathely - Kőszeg,3
+21,2800,8666,Komárom/Bábolna - Ács - Jegespuszta,3
+21,2804,3341,Ipolyszög - Balassagyarmat - Patvarc,3
+21,2809,4658,Jászárokszállás - Jászdózsa - Jászapáti,3
+21,281,1728,Balatonfüred - Balatonalmádi - Veszprém - Győr,3
+21,2810,7388,Ajka - Úrkút - Szentgál - Veszprém,3
+21,2812,4047,Berente - Kazincbarcika,3
+21,2814,7302,Bakonyság - Zirc - Veszprém,3
+21,2817,6603,Kőszeg - Szombathely,3
+21,2818,7328,Fűzfőgyártelep - Balatonalmádi - Felsőörs - Veszprém,3
+21,2820,7389,Ajka - Herend - Veszprém,3
+21,2829,4425,Bagamér - Létavértes - Sáránd - Berettyóújfalu,3
+21,2830,4436,Konyár - Derecske - Berettyóújfalu,3
+21,2831,4490,"Egyek, Félhalom - Egyek, Telekháza",3
+21,2832,4453,[Tiszacsege - ] Balmazújváros - Nagyhegyes - Debrecen,3
+21,2833,7054,Szany - Kisbabot - Enese - Győr,3
+21,2834,7209,Kapuvár - Fertőd - Balf - Sopron,3
+21,2836,7231,Répcevis - Sopronhorpács - Újkér - Sopron,3
+21,284,1731,Baja - Szekszárd - Enying - Veszprém,3
+21,285,1732,Hévíz - Keszthely - Várvölgy - Tapolca - Veszprém,3
+21,2879,1794,Nagykanizsa - Keszthely - Sümeg - Győr,3
+21,288,1735,Nagykanizsa - Hévíz - Balatonfüred - Veszprém,3
+21,2881,7366,Monostorapáti - Nagyvázsony - Veszprém,3
+21,289,1736,Nagykanizsa - Keszthely - Veszprém,3
+21,291,1738,Zalaegerszeg - Sümeg - Tapolca,3
+21,293,1742,Pécs - Kaposvár - Siófok - Veszprém,3
+21,294,1784,Esztergom - Tatabánya - Veszprém - Ajka,3
+21,295,1786,Lenti - Zalaegerszeg - Sümeg - Ajka,3
+21,298,1803,Kalocsa - Solt - Dunaújváros - Székesfehérvár,3
+21,300,1806,Szombathely - Zalaegerszeg - Keszthely - Balatonfüred - Veszprém,3
+21,302,1808,Zalaegerszeg - Veszprém - Székesfehérvár,3
+21,303,1809,Zirc - Dudar - Bakonycsernye - Székesfehérvár,3
+21,306,1822,Sopron - Győr - Kisbér - Mór - Székesfehérvár,3
+21,307,1823,Veszprém - Székesfehérvár - Dunaújváros,3
+21,308,1824,Komárom - Tatabánya - Székesfehérvár - Dunaújváros,3
+21,310,1841,Dunaújváros - Székesfehérvár - Tatabánya - Tata,3
+21,311,1842,Hévíz - Siófok - Székesfehérvár - Tatabánya,3
+21,312,1843,Pécs - Szekszárd - Székesfehérvár - Tatabánya,3
+21,313,1844,Keszthely - Balatonfüred - Székesfehérvár - Tatabánya,3
+21,314,1845,Székesfehérvár - Oroszlány - Kecskéd/Majk - Tatabánya,3
+21,315,1848,Kőszeg - Szombathely - Pápa - Tatabánya,3
+21,316,1850,Bükfürdő - Kapuvár - Csorna - Győr - Bábolna - Tatabánya,3
+21,317,1851,Pápa - Kisbér - Tatabánya - Esztergom,3
+21,318,1852,Győr - Bábolna/Gönyű - Komárom - Tatabánya - Oroszlány,3
+21,319,1853,Balatonfüred - Veszprém - Székesfehérvár - Zsámbék - Esztergom,3
+21,32,1063,Jászárokszállás - Csány - Hatvan - Budapest,3
+21,33,1067,Heves - Erdőtelek - M3 - Budapest,3
+21,34,1068,Tiszafüred - Heves - Gyöngyös - Budapest,3
+21,35,1069,Tiszafüred - Abádszalók - Heves - Gyöngyös - Budapest,3
+21,3590,1175,Nagyatád - Kadarkút - Kaposvár - Mernye - Budapest,3
+21,36,1070,Jászszentandrás - Jászberény - Budapest,3
+21,37,1075,Tiszafüred - Abádszalók - Tiszanána - Heves - Jászberény - Budapest,3
+21,38,1076,Jászszentandrás - Jászapáti - Jászberény - Gödöllő - Budapest,3
+21,39,1077,Szolnok - Nagykörű - Jászberény - Budapest,3
+21,399,428,Erdőkürt / Erdőtarcsa - Kálló - Kartal - Aszód,3
+21,40,1078,Jászalsószentgyörgy - Jászberény - Budapest,3
+21,406,409,Hatvan - Tura - Bag - Aszód - Gödöllő,3
+21,42,1081,Tiszakécske - Kecskemét - Lajosmizse - Dabas - Budapest,3
+21,4354,6425,Gyékényes - Surd - Nagykanizsa,3
+21,44,1085,Gyula - Békéscsaba - Szarvas - Kecskemét - Budapest,3
+21,45,1087,Orosháza - Szarvas - Kecskemét - Budapest,3
+21,4682,4564,Biharugra - Magyarhomorog - Berettyóújfalu,3
+21,4683,4565,Biharugra - Körösszegapáti - Berettyóújfalu,3
+21,4684,7037,Szany - Csikvánd - Tét - Győr,3
+21,4685,7089,Lébény-Mosonszentmiklós vá. - Mosonújhely - Mecsér,3
+21,4686,7103,Kisbabot - Enese - Győr,3
+21,4687,7193,Cirák - Petőháza - Fertőszentmiklós - Fertőd - Kapuvár,3
+21,4688,7282,Jánossomorja - Mosonmagyaróvár,3
+21,4689,5674,Veajszló - Siklósbodony - Baksa - Pécs,3
+21,4690,6905,Őriszentpéter - Zalalövő - Körmend,3
+21,4694,3711,Irota - Tomor - Edelény - Miskolc,3
+21,4695,3737,Tiszaújváros - Ónod - Sajólád - Miskolc,3
+21,4697,3809,Arka - Abaújszántó - Abaújkér - Encs,3
+21,4698,3810,Boldogkőváralja - Abaújszántó - Encs,3
+21,4699,3819,Hernádpetri - Pusztaradvány - Novajidrány - Encs,3
+21,4700,3869,Sárospatak (Végardó) - Sárospatak,3
+21,4701,3872,Révleányvár - Ricse - Pácin - Sárospatak,3
+21,4702,3878,Révleányvár - Ricse - Cigánd - Sárospatak,3
+21,4703,3879,Révleányvár - Cigánd - Tiszakarád - Sárospatak,3
+21,4704,3901,Hollóháza - Nyíri - Nagyhuta - Pálháza - Kovácsvágás - Sátoraljaújhely,3
+21,4705,3909,Sátoraljaújhely - Kácsárd - Sátoraljaújhely,3
+21,4706,3919,Felsőberecki - Alsóberecki - Sátoraljaújhely,3
+21,4707,3924,Révleányvár - Ricse - Nagyrozvágy - Sátoraljaújhely,3
+21,4708,3964,Mezőcsát - Oszlár - Tiszaújváros,3
+21,4710,4057,Serényfalva - Putnok - Kazincbarcika,3
+21,4711,4058,Mályinka - Kazinbarcika - Berente,3
+21,4712,4059,Nekézseny - Dédestapolcsány - Berente,3
+21,4713,4061,Nekézseny - Mályinka - Dédestapolcsány - Kazincbarcika - Berente,3
+21,4715,4078,Aggtelek - Imola - Ragály - Kazincbarcika,3
+21,4716,4079,Aggtelek - Imola - Ragály - Kazincbarcika,3
+21,4717,4121,Debréte - Rakaca - Martonyi - Szalonna,3
+21,4720,4098,Berente - Sajószentpéter (Dusnok),3
+21,4721,4194,Szilvásvárad - Nekézseny - Sáta - Putnok,3
+21,4726,7174,Fertőd/Fertőszentmiklós - Kapuvár,3
+21,4729,4212,Ibrány - Nyírszőlős - Nyíregyháza,3
+21,4730,4433,Debrecen - M35 autópálya - Berettyóújfalu (Berettyószentmárton),3
+21,4731,4473,Kaba - Hajdúszoboszló,3
+21,4732,4522,Püspökladány - Szerep - Nagyrábé - Berettyóújfalu,3
+21,4734,6072,Balatonföldvár - Bálványos - Pusztaszemes - Tab,3
+21,4736,6101,Siófok - Marcali - Nagyatád,3
+21,4737,6139,Nagykanizsa - Surd - Gyékényes - Csurgó,3
+21,4738,7708,Révfülöp - Ábrahámhegy - Badacsonytomaj - Nemesgulács - Tapolca,3
+21,4739,5314,"Kalocsa - Fajsz - Baja, Délhús Rt.",3
+21,4740,5304,Madaras - Bácsalmás - Tataháza,3
+21,4748,4459,"Hajdúböszörmény, Külső-Újvárosi u. - Debrecen",3
+21,4750,8402,"Tata - Tatabánya, Ipari Park - Tatabánya",3
+21,4751,5580,Tab - Daránypuszta - Iregszemcse - Tamási,3
+21,4752,5061,Szeged - Szatymaz - Szeged,3
+21,48,1090,Hódmezővásárhely - Szentes - Kiskunfélegyháza - Kecskemét - Budapest,3
+21,49,1092,Battonya - Orosháza - Szentes - Kecskemét - Budapest,3
+21,50,1094,Makó - Hódmezővásárhely - Szentes - Budapest,3
+21,54,1110,Baja - Kalocsa - Solt - Budapest,3
+21,55,1111,Jánoshalma - Kalocsa - Solt - Budapest,3
+21,56,1113,Bácsalmás - Baja - Kalocsa - Solt - Budapest,3
+21,58,1120,Dunaújváros - Adony - Ercsi - Budapest,3
+21,59,1121,Szekszárd - Tolna - Bölcske - Dunaújváros - Budapest,3
+21,591,3015,Szilaspogony - Cered - Salgótarján,3
+21,592,3022,Istenmezeje - Cered - Salgótarján,3
+21,593,3024,Bárna - Salgótarján,3
+21,594,3030,Mátraterenye (Nádújfalu) - Mátranovák - Salgótarján,3
+21,595,3034,Parádfürdő - Mátraszele - Salgótarján,3
+21,596,3036,Mátraterenye - Nemti - Szuha,3
+21,598,3045,Mátraszele - Mizserfa - Kazár - Vizslás - Salgótarján,3
+21,599,3051,Szuha - Mátramindszent - Dorogháza - Bátonyterenye - Salgótarján,3
+21,60,1125,Szekszárd - Paks - Dunaföldvár - Dunaújváros - Budapest,3
+21,600,3052,Sziuha - Dorogháza/Mátramindszent - Bátonyterenye - Salgótarján,3
+21,601,3055,Bátonyterenye (Nagybátony) - Salgótarján,3
+21,602,3058,Bátonyterenye (Maconka) - Salgótarján,3
+21,603,3060,Szurdokpüspöki - Pásztó - Bátonyterenye - Salgótarján,3
+21,604,3061,Buják - Pásztó - Bátonyterenye - Salgótarján,3
+21,605,3062,Vanyarc - Szirák - Pásztó - Salgótarján,3
+21,607,3064,Lőrinci - Pásztó - Tar - Salgótarján,3
+21,608,3065,Pásztó - Mátraszőlős - Bátonyterenye - Salgótarján,3
+21,609,3070,Pásztó - Tar - Kisbárkány - Lucfalva - Salgótarján,3
+21,610,3072,Pásztó - Szécsény - Ságújfalu - Salgótarján,3
+21,611,3075,Szécsény - Nógrádmegyer - Salgótarján,3
+21,612,3080,Balassagyarmat - Szécsény - Ságújfalu - Salgótarján,3
+21,613,3082,Nógrádszakál - Szécsény - Ludányhalászi - Salgótarján,3
+21,614,3084,Balassagyarmat - Litke - Karancskeszi - Salgótarján,3
+21,615,3090,Ipolytarnóc - Karancskeszi - Salgótarján,3
+21,616,3092,Etes - Salgótarján,3
+21,617,3094,Karancsberény - Salgótarján,3
+21,618,3108,Mátraszele - Kazár - Bátonyterenye,3
+21,62,1131,Harkány - Mohács - Szekszárd - Dunaújváros - Budapest,3
+21,620,3166,Mátraverebély (Szentkút) - Bátonyterenye,3
+21,626,3220,Vanyarc - Szirák - Zagyvaszántó - Jobbágyi/Apc - Pásztó,3
+21,628,3235,Bokor - Ecseg - Pásztó,3
+21,629,3240,Bokor - Csécse - Pásztó,3
+21,63,1134,Siklós - Pécs - Szekszárd - Dunaújváros - Budapest,3
+21,631,3258,Galgaguta - Becske,3
+21,632,3259,Galgaguta - Nógrádkövesd - Szécsénke,3
+21,634,3271,Berkenye - Nógrád - Rétság - Romhány,3
+21,635,328,Dejtár - Rétság - Tolmács - Vác,3
+21,637,3286,Tolmács - Rétság - Bánk,3
+21,638,3294,Nagyoroszi - Horpács,3
+21,639,3305,Hugyag - Őrhalom - Balassagyarmat,3
+21,640,3308,Szécsény - Csitár - Nógrádmarcal - Balassagyarmat,3
+21,641,3312,Nógrádmarcal - Szügy - Balassagyarmat,3
+21,642,3313,Rétság - Balassagyarmat - Patvarc - Szügy,3
+21,643,3314,Galibapuszta - Balassagyarmat,3
+21,644,3315,Pásztó - Herencsény - Balassagyarmat,3
+21,645,3318,Herencsény - Magyarnándor - Csesztve - Balassagyarmat,3
+21,646,3320,Szandaváralja - Magyarnándor - Balassagyarmat,3
+21,647,3325,Magyarnándor - Mohora - Csesztve - Balassagyarmat,3
+21,648,3326,Nógrádsáp - Nógrádkövesd - Bercel - Balassagyarmat,3
+21,649,3327,Rétság - Romhány - Becske,3
+21,651,3329,Rétság - Szente/Kisecset - Magyarnándor - Balassagyarmat,3
+21,652,3332,Magyarnándor - Romhány - Érsekvadkert - Balassagyarmat,3
+21,653,3334,Bercel - Bánk - Rétság - Balassagyarmat,3
+21,654,3336,Felsőpetény - Balassagyarmat,3
+21,655,3340,Rétság - Érsekvadkert - Balassagyarmat,3
+21,656,3342,Rétság - Horpács - Dejtár/Ipolyvece - Balassagyarmat,3
+21,657,3343,Rétság - Nagyoroszi/Pusztaberki - Balassagyarmat,3
+21,658,3344,Parassapuszta - Ipolyvece - Balassagyarmat,3
+21,659,3345,Rétság - Nagyoroszi - Balassagyarmat,3
+21,66,1173,Tamási - Enying - Székesfehérvár - Budapest,3
+21,660,3346,Rétság - Drégelypalánk/Hont - Balassagyarmat,3
+21,661,3355,Hollókő - Nagylóc - Szécsény,3
+21,662,3360,Rimóc - Szécsény,3
+21,663,3365,Nógrádsipek - Varsány - Rimóc - Szécsény,3
+21,664,3400,Bekölce - Egercsehi - Eger,3
+21,665,3402,Balaton - Bélapátfalva - Szarvaskő - Eger,3
+21,666,3403,Balaton - Bekölce - Eger,3
+21,667,3404,Borsodnádasd - Bekölce - Balaton - Mikófalva - Eger,3
+21,668,3408,Kazincbarcika - Szilvásvárad - Eger,3
+21,669,3409,Borsodnádasd - Bekölce - Eger,3
+21,67,1174,Kaposvár - Igal - Siófok - Székesfehérvár - Budapest,3
+21,670,3410,"Ózd - Bélapátfalva - Eger, Tompa utca",3
+21,671,3411,Nagyvisnyó/Ózd - Bélapátfalva - Eger,3
+21,672,3415,Szomolya - Noszvaj - Eger,3
+21,673,3416,Mezőkövesd - Bogács - Eger,3
+21,674,3417,Bükkzsérc - Noszvaj - Eger,3
+21,675,3418,Mezőkövesd - Szomolya - Eger,3
+21,676,3419,Mezőkövesd - Novaj - Eger,3
+21,677,3420,Novaj - Ostoros - Eger,3
+21,678,3423,Egerfarmos/Mezőtárkány - Füzesabony - Kerecsend/Maklár - Eger,3
+21,679,3424,Egerfarmos/Mezőtárkány - Füzesabony - Kerecsend/Maklár - Eger,3
+21,68,1176,Kaposvár - Igal - Tab/Kereki - Budapest,3
+21,681,3426,Egerfarmos - Füzesabony - Maklár - Eger,3
+21,682,3430,Tiszanána - Füzesabony - Kerecsend - Eger,3
+21,683,3431,Tiszafüred - Poroszló - Tiszanána - Kerecsend/Maklár - Eger,3
+21,684,3433,Kisköre - Tiszanána - Kömlő - Kerecsend - Eger,3
+21,685,3434,Heves - Kömlő - Füzesabony - Eger,3
+21,686,3440,Kápolna - Kerecsend - Eger,3
+21,687,3441,Pély - Heves - Kápolna - Eger,3
+21,688,3442,Heves - Kápolna - Eger,3
+21,689,3443,Jászberény - Jászapáti - Heves - Kápolna - Eger,3
+21,69,1177,Barcs - Nagyatád - Marcali - Siófok - Budapest,3
+21,690,3444,Heves - Boconád - Tarnabod - Kápolna - Eger,3
+21,691,3445,Gyöngyös - Kápolna - Eger,3
+21,692,3446,Tófalu - Kápolna - Eger,3
+21,693,3448,Nagykökényes - Hatvan - Eger,3
+21,694,3450,Kerecsend - Demjén - Eger,3
+21,695,3455,Verpelét - Eger,3
+21,696,3456,Erdőtelek - Kál-Kápolna vá. - Tófalu - Liszkó/Verpelét - Eger,3
+21,697,3457,Gyöngyös - Domoszló - Tarnaszentmária - Verpelét - Eger,3
+21,698,3458,Vécs - Kisnána - Tófalu - Verpelét - Eger,3
+21,7,1010,Salgótarján - Szécsény - Balassagyarmat - Budapest,3
+21,70,1183,Nagykanizsa - Zalakaros - Budapest,3
+21,700,3462,Pétervására - Terpes - Bükkszék - Verpelét - Eger,3
+21,701,3469,Egerszólát - Eger,3
+21,702,3470,Resck-Parádfürdő vá. - Sirok - Eger,3
+21,703,3471,Gyöngyös - Mátraháza - Parád - Eger,3
+21,704,3472,Parádsasvár - Parád - Sirok - Eger,3
+21,705,3474,Pétervására - Mátraballa - Sirok - Eger,3
+21,706,3476,Ivád - Pétervására - Bükkszék - Sirok - Eger,3
+21,707,3478,Szederkénypuszta - Váraszó - Pétervására,3
+21,708,3479,Szederkénypuszta - Pétervására - Tarnalelesz - Eger,3
+21,709,3480,Egerbakta - Eger,3
+21,71,1184,Lenti - Letenye - Nagykanizsa - Budapest,3
+21,710,3481,Pétervására - Tarnalelesz - Egercsehi - Eger,3
+21,711,3482,Szederkénypuszta - Pétervására - Sirok - Eger,3
+21,712,3483,Szederkénypuszta - Pétervására - Szajla - Bükkszék - Eger,3
+21,713,3484,Pétervására - Tarnalelesz - Eger,3
+21,714,3485,Hevesaranyos - Bekölce - Mikófalva - Bélapátfalva,3
+21,715,3486,Csokvaomány - Lénárddaróc - Csernely - Szilvásvárad,3
+21,717,3489,Kisfüzes - Pétervására,3
+21,718,3490,Kőkútpuszta - Sirok - Bükkszék - Pétervására,3
+21,72,1185,Bajánsenye - Zalalövő - Zalaegerszeg - Sármellék - Budapest,3
+21,720,3500,Egerfarmos - Füzesabony,3
+21,721,3511,Egerfarmos - Mezőtárkány - Füzesabony,3
+21,723,3550,Kál-Kápolna vá. - Heves,3
+21,724,3560,Pély - Heves,3
+21,725,3561,Kisköre - Kömlő - Heves,3
+21,726,3565,Parádsasvár - Parád - Recsk,3
+21,727,3566,Bodony - Parád - Recsk,3
+21,728,3567,Parádhuta - Parád - Recsk,3
+21,729,3568,Parádsasvár - Parád - Bodony,3
+21,730,3569,Parádsasvár - Parád - Parádhuta,3
+21,731,3600,Petőfibánya - Lőrinci - Hatvan,3
+21,732,3601,Apc - Petőfibánya - Hatvan,3
+21,733,3602,Petőfibánya - Hatvan,3
+21,734,3603,Vörösmajor - Selyp - Gyöngyöspata/Apc,3
+21,735,3604,Apc - Petőfibánya - Hatvan - Gyöngyös - Eger,3
+21,736,3605,Kozárd - Selyp - Hatvan,3
+21,737,3610,Szűcsi - Rózsaszentmárton - Ecséd - Hatvan,3
+21,738,3612,Hatvan - Csány - Gyöngyös,3
+21,74,1188,Bajánsenye - Zalalövő - Zalaegerszeg - Hévíz - Budapest,3
+21,741,3622,Boldog - Hatvan,3
+21,742,3623,Kálló - Verseg - Fenyőharaszt - Hatvan,3
+21,743,3624,Buják - Erdőtarcsa/Bér - Verseg - Nagykökényes - Heréd - Hatvan,3
+21,747,3640,Kerekharaszt - Hatvan,3
+21,748,348,Vác - Aszód - Hatvan,3
+21,749,3650,Mátrafüred - Gyöngyössolymos - Gyöngyös,3
+21,75,1190,Hévíz - Keszthely - Balatonfüred - Balatonalmádi - Budapest,3
+21,751,3655,Mátraszentimre - Kékestető - Mátraháza - Gyöngyös,3
+21,752,3656,Bükkszék - Parád - Mátraháza - Gyöngyös,3
+21,753,3660,Eger - Verpelét - Domoszló - Gyöngyös,3
+21,754,3661,Gyöngyös - Abasár - Visonta - Halmajugra,3
+21,755,3662,Vécs - Domoszló - Abasár - Gyöngyös - Mátrai Erőmű Zrt.,3
+21,756,3663,Visonta - Gyöngyös,3
+21,757,3664,Gyöngyös - Abasár - Pálosvörösmart - Mátrafüred - Gyöngyös,3
+21,758,3665,Heves - Ludas - Detk - Visonta - Gyöngyös,3
+21,759,3666,Heves - Karácsond - Gyöngyös,3
+21,76,1193,Lenti - Pacsa - Keszthely/Sármellék - Budapest,3
+21,760,3667,Jászberény - Jászárokszállás - Zaránk - Boconád - Eger,3
+21,762,3669,Jászberény - Heves,3
+21,763,3670,Heves - Zaránk - Vámosgyörk - Gyöngyös,3
+21,764,3673,Vámosgyörk - Gyöngyös - Mátrafüred,3
+21,766,3675,Hatvan - Hort - Gyöngyös,3
+21,767,3676,Ecséd - Hort - Gyöngyös,3
+21,768,3677,Apc - Petőfibánya - Szűcsi - Gyöngyös,3
+21,769,3678,Hatvan - Vörösmajor - Petőfibánya - Rózsaszentmárton - Gyöngyös,3
+21,77,1194,Zalaszentgrót - Keszthely - Budapest,3
+21,770,3679,Apc - Lőrinci - Hatvan - Gyöngyös,3
+21,771,3680,Rózsaszentmárton - Gyöngyöspata - Gyöngyöstarján - Gyöngyös,3
+21,772,3681,Károlytáró - Gyöngyösoroszi - Gyöngyös,3
+21,774,3683,"Feldebrő - Aldebrő - Kápolna - Visonta, bánya irodaház",3
+21,775,3684,Nagyút - Kál - Verpelét - Mátrai Erőmű Zrt.,3
+21,776,3685,Nagyfüged - Tarnaméra - Tarnaörs,3
+21,779,3688,Visznek - Jászárokszállás - Adács - Gyöngyös,3
+21,78,1201,Tihany - Balatonfüred - Balatonalmádi - Budapest,3
+21,780,3689,Tarnabod - Heves,3
+21,781,3700,Szirmabesenyő - Miskolc,3
+21,782,3701,Szirmabesenyő - Miskolc,3
+21,783,3702,Sajókeresztúr - Szirmabesenyő - Miskolc,3
+21,784,3703,Bódvaszilas - Edelény - Sajóecseg - Miskolc,3
+21,785,3704,Jósvafő - Edelény - Sajószentpéter - Miskolc,3
+21,786,3705,Boldva - Sajósenye - Sajóvámos - Szirmabesenyő - Miskolc,3
+21,787,3706,Sajóvámos - Sajópálfala - Arnót - Miskolc,3
+21,788,3707,Hidvégardó - Bódvaszilas - Edelény - Miskolc,3
+21,789,3708,Debréte - Szalonna - Edelény - Sajószentpéter - Miskolc,3
+21,790,3709,Debréte - Szalonna - Edelény - Miskolc,3
+21,791,3710,Homrogd - Szikszó - Miskolc,3
+21,792,3715,Aszaló - Szikszó - Miskolc,3
+21,793,3716,Baktakék - Szikszó - Miskolc,3
+21,794,3717,Viszló - Krasznokvajda - Gagybátor - Abaújlak - Abaújszolnok - Homrogd - Miskolc,3
+21,795,3718,Pamlény - Perecse - Homrogd - Miskolc,3
+21,796,3720,Hernádvécse - Szalaszend - Encs - Szikszó - Miskolc,3
+21,797,3721,Felsődobsza - Szentistvánbaksa - Halmaj - Szikszó - Miskolc,3
+21,798,3722,Encs - Baktakék - Szikszó - Miskolc,3
+21,799,3723,Hidasnémeti - Gönc - Encs - Szikszó - Miskolc,3
+21,8,1011,Litke - Szécsény - Balassagyarmat - Budapest,3
+21,800,3724,Onga (Ócsanálos) - Onga - Miskolc,3
+21,801,3726,Gesztely (Újharangod) - Gesztely - Miskolc,3
+21,802,3727,Gesztely - Hernádkak - Onga - Miskolc,3
+21,803,3728,Hernádvécse - Szemere - Encs - Miskolc,3
+21,804,3729,Sátoraljaújhely - Sárospatak - Miskolc,3
+21,805,3730,Szerencs - Gesztely -  Megyaszó - Miskolc,3
+21,806,3731,Tiszaújváros - Kesznyéten - Hernádnémeti - Bőcs vá. - Gesztely - Miskolc,3
+21,807,3732,Újcsanálos - Gesztely - Miskolc,3
+21,808,3733,Tiszaújváros - Kesznyéten - Hernádnémeti - Bőcs vá. - Sajólád - Miskolc,3
+21,809,3734,Tiszaújváros - Ónod - Sajólád -  Miskolc,3
+21,81,1204,Zirc - Bakonycsernye - Székesfehérvár - Budapest,3
+21,810,3735,Muhi - Ónod - Alsózsolca - Miskolc,3
+21,811,3736,Ónod - Alsózsolca - Miskolc,3
+21,812,3738,Sajópetri - Kistokaj - Miskolc,3
+21,813,3740,Mályi - Miskolc,3
+21,814,3742,Nemesbikk - Hejőkeresztúr - Miskolc,3
+21,815,3743,Mezőcsát - Miskolc,3
+21,816,3744,Polgár - Tiszaújváros - Ónod - Nyékládháza - Miskolc,3
+21,817,3745,Tiszaújváros - Nyékládháza - Miskolc,3
+21,818,3746,Bogács - Mezőkövesd - Miskolc,3
+21,819,3747,Mezőcsát - Gelej - Bükkábrány - Miskolc,3
+21,82,1205,Székesfehérvár - Budapest,3
+21,820,3748,Kács - Emőd - Miskolc,3
+21,821,3749,Mezőkövesd - Bükkábrány - Miskolc,3
+21,822,3750,Borsodgeszt - Emőd - Mályi - Miskolc,3
+21,823,3751,Kisgyőr (Mocsolyástelep) - Harsány - Miskolc,3
+21,824,3754,Varbó - Sajószentpéter - Sajóbábony/Miskolc,3
+21,825,3755,Répáshuta - Bükkszentkereszt - Miskolc,3
+21,826,3756,Kazincbarcika - Sajószentpéter - Varbó - Miskolc (Diósgyőr),3
+21,827,3757,Sajóbábony - Sajókeresztúr - Szirmabesenyő - Miskolc,3
+21,829,3760,Sajóbábony - Miskolc,3
+21,830,3761,Alacska - Sajószentpéter - Miskolc,3
+21,831,3765,Kazincbarcika - Sajószentpéter - Sajóbábony - Miskolc,3
+21,833,3769,Rudabánya - Kazincbarcika - Miskolc,3
+21,834,3770,Borsodnádasd - Ózd - Putnok - Kazincbarcika - Miskolc,3
+21,836,3772,Boldva - Edelény - Kazincbarcika,3
+21,837,3773,Ózd - Putnok - Kazincbarcika,3
+21,838,3774,Imola - Múcsony - Edelény - Sajószentpéter - Miskolc,3
+21,839,3775,Szalonna - Edelény - Sajószentpéter - Miskolc,3
+21,84,1212,Hévíz - Keszthely - Tapolca - Veszprém - Budapest,3
+21,840,3776,Balajt - Edelény - Borsodszirák - Sajóecseg - Sajókeresztúr - Miskolc,3
+21,841,3785,Kesznyéten - Hernádnémeti-Bőcs vá.,3
+21,843,3788,"Tiszalúc, aut.ford. - Tiszalúc,vá.",3
+21,844,3793,Szendrő - Edelény - Sajóbábony,3
+21,845,3795,Balajt - Edelény - Hangács - Sajóecseg - Sajóbábony,3
+21,846,3797,Sajósenye - Szirmabesenyő - Sajókeresztúr - Sajóecseg - Sajóbábony,3
+21,847,3798,Hangács - Boldva,3
+21,848,3801,Szemere - Méra - Encs,3
+21,849,3802,Abaújdevecser - Encs,3
+21,850,3803,Encs (Fügöd) - Encs,3
+21,851,3804,Hejce - Abaújkér - Encs - Abaújdevecser,3
+21,853,3806,Szerencs - Tállya - Abaújszántó - Encs,3
+21,854,3807,Tokaj - Tarcal - Mád - Szerencs,3
+21,855,3811,Pamlény - Krasznokvajda - Baktakék - Encs,3
+21,856,3812,Kány - Krasznokvajda - Baktakék - Encs,3
+21,857,3815,Csenyéte - Baktakék - Encs,3
+21,858,3816,Hernádbűd - Hernádszentandrás - Ináncs - Encs,3
+21,859,3821,Regéc - Korlát - Vizsoly - Novajidrány - Encs,3
+21,860,3822,Hernádszurdok - Hidasnémeti,3
+21,861,3823,Tornyosnémeti - Hidasnémeti,3
+21,862,3824,Hidasnémeti - Gönc - Regéc - Boldogkőváralja - Abaújszántó,3
+21,863,3825,Vilmány - Hejce - Göncruszka - Gönc - Hidasnémeti,3
+21,864,3826,Kéked - Gönc - Hidasnémeti,3
+21,866,3829,Felsődobsza - Szentistvánbaksa - Halmaj,3
+21,867,3830,Csenyéte - Felsőgagy - Baktakék - Halmaj,3
+21,868,3831,Pamlény - Krasznokvajda - Kány,3
+21,869,3851,Abaújszántó - Golop - Szerencs,3
+21,87,1229,Pápa - Farkasgyepű - Veszprém - Budapest,3
+21,870,3852,Szerencs - Mezőzombor - Mád - Mezőzombor - Szerencs,3
+21,871,3853,Tokaj - Csobaj - Prügy - Szerencs,3
+21,872,3855,Taktaharkány - Prügy - Szerencs,3
+21,873,3859,Taktaszada - Bekecs - Szerencs,3
+21,874,3860,Golop - Legyesbénye - Bekecs - Szerencs,3
+21,875,3868,Olaszliszka-Tolcsva vá. - Erdőbénye - Baskó - Tolcsva/Abaújszántó,3
+21,876,3870,Pálháza - Sátoraljaújhely - Sárospatak,3
+21,877,3871,Pálháza - Sátoraljaújhely - Sárospatak,3
+21,878,3873,Révleányvár - Zemplénagárd - Ricse - Pácin - Sárospatak,3
+21,879,3875,Bodroghalom - Vajdácska - Sárospatak,3
+21,880,3880,Cigánd - Tiszakarád - Sárospatak,3
+21,881,3881,Sátoraljaújhely - Tokaj - Nyíregyháza,3
+21,882,3882,Györgytarló - Sárospatak,3
+21,883,3883,Viss - Zalkod - Kenézlő - Sárospatak,3
+21,884,3884,Háromhuta (Újhuta) - Komlóska - Olaszliszka-Tolcsva vá. - Sárazsadány - Sárospatak,3
+21,885,3886,Makkoshotyka - Hercegkút - Sárospatak,3
+21,886,3887,Nyíregyháza - Kisvárda - Cigánd - Ricse - Révleányvár,3
+21,887,3888,Kisvárda - Ricse - Cigánd - Tiszakarád - Sárospatak,3
+21,888,3890,Olaszliszka - Olaszliszka-Tolcsva vá.,3
+21,889,3891,Háromhuta (Újhuta) - Komlóska - Olaszliszka-Tolcsva vá.,3
+21,890,3892,Bodrogkeresztúr - Tokaj,3
+21,891,3900,Hollóháza - Nagyhuta - Pálháza - Kovácsvágás - Sátoraljaújhely,3
+21,892,3907,Széphalom - Sátoraljaújhely,3
+21,894,3920,Kisrozvágy - Nagyrozvágy - Tiszakarád - Bodroghalom - Sátoraljaújhely,3
+21,895,3925,Révleányvár - Ricse - Nagyrozvágy - Bodroghalom - Sátoraljaújhely,3
+21,896,3929,Kéked - Hidasnémeti - Telkibánya - Pálháza - Sátoraljaújhely,3
+21,899,3960,Görbeháza - Polgár - Tiszaújváros,3
+21,9,1012,Salgótarján - Nógrádmegyer - Budapest,3
+21,902,3963,Ároktő - Mezőcsát - Oszlár - Tiszaújváros,3
+21,903,3965,Mezőcsát - Tiszatarján - Tiszaújváros,3
+21,904,3966,Igrici - Hejőpapi - Nemesbikk - Tiszaújváros,3
+21,905,3967,Hejőkeresztúr/Igrici - Hejőbába - Tiszaújváros,3
+21,906,3970,Tiszaújváros MOL - Sajóörös - Tiszaújváros,3
+21,907,3971,Sajólád - Muhi - Tiszaújváros,3
+21,909,3974,"Tiszalúc,aut.ford. - Tiszaújváros,aut.áll.",3
+21,910,4001,Cserépváralja - Tard - Mezőkövesd,3
+21,912,4006,"Sály, Latorpuszta - Mezőkeresztes-Mezőnyárád vá. - Mezőkövesd",3
+21,913,4008,Tiszaújváros - Mezőkeresztes - Mezőkövesd,3
+21,914,4010,Mezőcsát - Tiszadorogma - Négyes - Mezőkövesd,3
+21,915,4012,Cserépváralja - Tard - Noszvaj - Eger,3
+21,916,4013,Egerfarmos - Szihalom - Mezőkövesd,3
+21,917,4014,Mezőkövesd - Füzesabony - Maklár - Eger,3
+21,918,4015,Mezőkövesd - Eger,3
+21,919,4016,Mezőkövesd - Szomolya,3
+21,920,4017,Szentistván - Mezőkövesd,3
+21,921,4021,Mezőcsát - Mezőkeresztes - Mezőkövesd - Eger,3
+21,922,4023,Bükkzsérc - Cserépfalu - Mezőkövesd,3
+21,924,4028,Mezőkeresztes - Mezőkeresztes-Mezőnyárád vá.,3
+21,925,4030,Mezőcsát - Gelej - Mezőkeresztes - Mezőkövesd,3
+21,926,4040,Edelény - Múcsony - Kazincbarcika,3
+21,927,4041,Rakaca - Meszes - Edelény - Kazincbarcika,3
+21,928,4043,Abod (Királykút) - Balajt - Edelény - Kazincbarcika,3
+21,929,4044,Hangács - Edelény - Kazincbarcika,3
+21,93,1251,Pápa - Bakonybél - Zirc - Bakonycsernye - Budapest,3
+21,930,4045,Berente (Hőerőmű) - Kazincbarcika,3
+21,932,4048,Berente - Kazincbarcika,3
+21,933,4049,Varbó - Kondó - Sajólászlófalva - Sajószentpéter - Berente,3
+21,934,4050,Varbó - Kondó - Sajószentpéter - Kazincbarcika,3
+21,935,4051,Alacska - Sajószentpéter,3
+21,936,4052,Tardona - Kazincbarcika - Berente,3
+21,937,4060,Mályinka - Dédestapolcsány - Sajókaza - Kazincbarcika,3
+21,938,4062,Sajóvelezd - Putnok - Kazincbarcika - Berente,3
+21,939,4063,Gömörszőlős - Putnok - Kazincbarcika - Berente,3
+21,94,1253,Mór - Bicske - Budapest,3
+21,940,4065,Putnok - Sajógalgóc - Sajóivánka - Kazincbarcika,3
+21,941,4066,Sajógalgóc - Sajókaza - Sajóivánka - Kazincbarcika,3
+21,942,4067,Sajókaza - Kazincbarcika - Berente,3
+21,943,4069,Kazincbarcika - Sajókaza - Szuhakálló - Kazincbarcika,3
+21,944,4070,Szuhafő - Kurityán - Berente/Kazincbarcika,3
+21,945,4075,Aggtelek - Felsőnyárád - Berente/Kazincbarcika,3
+21,947,4080,Kánó - Rudabánya - Rudolftelep - Kazincbarcika,3
+21,948,4081,Aggtelek - Jósvafő-Aggtelek vá. - Rudabánya - Kazincbarcika - Berente,3
+21,949,4082,Meszes - Szalonna - Rudabánya - Kazincbarcika/Berente,3
+21,950,4083,Viszló - Rakaca - Szendrő - Rudabánya - Kazincbarcika,3
+21,951,4084,Jósvafő-Aggtelek vá. - Ormosbánya - Kazincbarcika,3
+21,952,4092,Szendrő - Galvány - Abod - Edelény,3
+21,953,4093,Szendrő - Edelény,3
+21,954,4094,Irota - Tomor - Edelény,3
+21,955,4095,Kánó - Alsótelekes - Rudabánya - Edelény,3
+21,956,4108,Perkupa - Szőlősardó - Kánó - Rudabánya,3
+21,957,4120,Szendrő - Rudabánya,3
+21,958,4124,Tornabarakony - Bódvaszilas - Bódvarákó,3
+21,959,4125,Aggtelek - Jósvafő - Szögliget - Jósvafő-Aggtelek vá.,3
+21,96,1257,Kisbér - Oroszlány - Budapest,3
+21,961,4132,Varbóc - Perkupa (Dobódél),3
+21,962,4136,Tornaszentjakab - Tornanádaska - Bódvaszilas - Perkupa,3
+21,963,4140,Jósvafő - Aggtelek - Ragály - Putnok - Bánréve - Ózd,3
+21,964,4145,Putnok - Sajónémeti - Ózd,3
+21,965,4147,Putnok - Királd - Ózd,3
+21,966,4148,Putnok - Borsodbóta - Ózd,3
+21,968,4150,Uppony - Királd - Ózd,3
+21,969,4151,Putnok - Sáta - Ózd,3
+21,970,4155,Sáta - Ózd,3
+21,971,4158,Farkaslyuk - Ózd,3
+21,972,4160,Mályinka - Dédestapolcsány - Csokvaomány - Csernely - Ózd,3
+21,976,4180,Borsodnádasd - Arló - Ózd,3
+21,978,4185,Borsodszentgyörgy - Ózd,3
+21,979,4186,Domaháza - Kissikátor - Hangony - Ózd,3
+21,980,4188,Zubogy - Felsőnyárád - Alsószuha - Putnok,3
+21,981,4195,Lénárddaróc - Királd - Putnok,3
+21,983,4200,Tiszabercel - Nagyhalász - Nyíregyháza,3
+21,984,4201,Gávavencsellő - Ibrány - Nyíregyháza,3
+21,985,4202,Beszterec - Nyíregyháza,3
+21,986,4203,Dombrád - Nagyhalász - Nyíregyháza,3
+21,987,4204,Székely - Demecser - Nyírbogdány,3
+21,988,4205,Sényő - Nyírtura - Nyíregyháza,3
+21,989,4206,Baktalórántháza - Székely - Nyíregyháza,3
+21,990,4207,Mátészalka - Baktalórántháza - Nyíregyháza,3
+21,991,4208,Kisvárda - Nyíregyháza,3
+21,992,4209,Fehérgyarmat - Vásárosnamény - Nyíregyháza,3
+21,993,4210,Kisvárda - Baktalórántháza - Nyíregyháza,3
+21,994,4211,Tarpa - Vásárosnamény - Nyíregyháza,3
+21,995,4213,Fehérgyarmat/Nagyecsed  - Mátészalka - Nyíregyháza,3
+21,996,4215,Baktalórántháza - Apagy - Nyíregyháza,3
+21,997,4216,Tiszabecs - Fehérgyarmat - Mátészalka - Nyíregyháza,3
+21,998,4217,Csenger - Mátészalka - Nyíregyháza,3
+21,999,4218,Fehérgyarmat - Mátészalka - Nyíregyháza,3
