@@ -1,0 +1,43 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: '0 5 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  fetchGTFS:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      # Runs a single command using the runners shell
+      - name: Install dependencies
+        run: sudo apt update&&sudo apt install -y git unzip wget
+
+      # Runs a set of commands using the runners shell
+      - name: Fetch GTFS Archive
+        run: wget http://opendata.menetrendek.hu/public_gtfs/volanbusz_gtfs.zip -O /tmp/gtfs.zip
+      - name: Extract GTFS
+        run: | 
+          unzip -o /tmp/gtfs.zip
+          rm shapes.txt
+      - name: Remove GTFS archive
+        run: rm /tmp/gtfs.zip
+      - name: Add updated files    
+        run: |
+           git config user.name "GH Runner"
+           git add *
+           git commit -m "$(TZ=UTC LC_TIME=C date)"||echo "no change from previous state"
+           git push
