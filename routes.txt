@@ -2119,7 +2119,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1977,6660,Körmend - Ják - Balogunyom - Körmend,3
 21,1978,6663,Szentpéterfa - Ják - Szombathely,3
 21,1979,6680,Pronóapáti - Nárai - Szombathely,3
-21,19796,5013,Makó - Maroslele - M43 - Szeged,3
+21,19796,5013,,3
 21,19797,5017,Mezőhegyes - Csanádpalota - Makó - M43 - Szeged,3
 21,19798,5018,Gyula - Battonya - Mezőhegyes - Makó - M43 - Szeged,3
 21,19799,5019,Battonya - Mezőhegyes - Tótkomlós - Makó - Maroslele - M43 - Szeged,3
