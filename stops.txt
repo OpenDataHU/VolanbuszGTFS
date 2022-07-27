@@ -40394,7 +40394,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 719124,Hatzel tér,47.949981,21.719903,,
 719125,Luther tér,47.952516,21.718500,,
 719126,Pitypang utca,47.929708,21.754882,,
-719127,"Borbánya, iskola",47.932470,21.757392,,
 719128,"Borbánya, Lakatos utca",47.930529,21.760410,,
 719129,"Borbánya, Csárda utcai forduló",47.928274,21.763132,,
 719130,"Borbánya, Lakatos utca",47.930657,21.760394,,
