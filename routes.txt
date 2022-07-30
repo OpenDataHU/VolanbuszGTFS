@@ -3005,7 +3005,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,593,3024,Bárna - Salgótarján,3
 21,594,3030,Mátraterenye (Nádújfalu) - Mátranovák - Salgótarján,3
 21,595,3034,Parádfürdő - Mátraszele - Salgótarján,3
-21,596,3036,Mátraterenye - Nemti - Szuha,3
 21,598,3045,Mátraszele - Mizserfa - Kazár - Vizslás - Salgótarján,3
 21,599,3051,Szuha - Mátramindszent - Dorogháza - Bátonyterenye - Salgótarján,3
 21,60,1125,Szekszárd - Paks - Dunaföldvár - Dunaújváros - Budapest,3
