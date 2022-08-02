@@ -889,7 +889,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15858,2M,Fellner Jakab út - Mezőgazdasági szakközépiskola - Fellner Jakab út,3
 21,15859,2,Vasútállomás - Fellner Jakab út,3
 21,1586,5476,Cikó - Bonyhád,3
-21,15861,3,Fényes fürdő - Autóbusz-állomás,3
 21,15863,5A,Autóbusz-állomás - Kertváros - Autóbusz-állomás,3
 21,15867,5,Fellner Jakab úti forduló - Kertváros - Fellner Jakab úti forduló,3
 21,15868,7K,Agostyán - Kossuth tér,3
@@ -2189,7 +2188,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2034,6887,Vasvár - Egyházashollós - Körmend,3
 21,20350,1172,Kaposvár - Igal - Tab - Siófok - Budapest,3
 21,20351,1729,Dunaföldvár - Enying - Veszprém - Pápa,3
-21,20352,1840,Siófok - Székesfehérvár - Csákvár - Tatabánya,3
 21,20359,1302,Balatonlelle - Siófok - M7 - M0 - M3 - Salgótarján,3
 21,2036,6892,Döröske - Katafa - Körmend,3
 21,20360,1402,Fonyód - Siófok - M7 - M0 - M3 - Gyöngyös - Eger,3
@@ -2493,7 +2491,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2190,7275,Novákpuszta - Kimle - Mosonmagyaróvár,3
 21,2192,7281,Albertkázmérpuszta - Jánossomorja - Mosonmagyaróvár,3
 21,2193,7284,Mosonszolnok - Mosonmagyaróvár,3
-21,21932,7372,Tapolca - Kapolcs - Veszprém,3
 21,2194,7285,Mosonszentmiklós - Mosonmagyaróvár,3
 21,2195,7286,Csorna - Búsárkány - Jánossomorja - Mosonmagyaróvár,3
 21,2196,7287,Kapuvár - Csorna - Mosonszolnok - Mosonmagyaróvár,3
@@ -2768,7 +2765,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2511,8370,Bakonycsernye - Balinka - Mór,3
 21,2512,8373,Zirc - Bakonycsernye - Mór,3
 21,2513,8381,Nagyveleg - Mór,3
-21,2514,8384,Kisbér - Csatka - Bakonycsernye,3
 21,2516,8400,Tata - Tatabánya,3
 21,2517,8401,Esztergom - Dunaalmás - Tata - Tatabánya,3
 21,2518,8406,Tata - Tardos - Tarján - Tatabánya,3
