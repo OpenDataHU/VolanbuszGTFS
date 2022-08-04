@@ -2498,6 +2498,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2196,7287,Kapuvár - Csorna - Mosonszolnok - Mosonmagyaróvár,3
 21,2197,7292,Csemezpuszta - Hegyeshalom - Mosonmagyaróvár,3
 21,2198,7294,Rajka - Mosonmagyaróvár,3
+21,21983,3895,,3
+21,21984,3896,,3
 21,21985,3136,,3
 21,2199,7300,Zirc - Veszprém,3
 21,2200,7301,Dudar - Bakonyoszlop - Zirc - Veszprém,3
