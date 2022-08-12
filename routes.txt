@@ -2500,7 +2500,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2198,7294,Rajka - Mosonmagyaróvár,3
 21,21983,3895,,3
 21,21984,3896,,3
-21,21985,3136,,3
+21,21985,3136,Mátraterenye - Nemti - Szuha,3
 21,2199,7300,Zirc - Veszprém,3
 21,2200,7301,Dudar - Bakonyoszlop - Zirc - Veszprém,3
 21,2202,7304,Bakonynána - Zirc - Veszprém,3
@@ -3009,7 +3009,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,598,3045,Mátraszele - Mizserfa - Kazár - Vizslás - Salgótarján,3
 21,599,3051,Szuha - Mátramindszent - Dorogháza - Bátonyterenye - Salgótarján,3
 21,60,1125,Szekszárd - Paks - Dunaföldvár - Dunaújváros - Budapest,3
-21,600,3052,Sziuha - Dorogháza/Mátramindszent - Bátonyterenye - Salgótarján,3
+21,600,3052,Szuha - Dorogháza/Mátramindszent - Bátonyterenye - Salgótarján,3
 21,601,3055,Bátonyterenye (Nagybátony) - Salgótarján,3
 21,602,3058,Bátonyterenye (Maconka) - Salgótarján,3
 21,603,3060,Szurdokpüspöki - Pásztó - Bátonyterenye - Salgótarján,3
