@@ -710,7 +710,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1544,5408,Mözs - Tolna,3
 21,15448,5259,Gátér - Kiskunfélegyháza,3
 21,15449,5348,Soltszentimre - Kaskantyú - Kiskőrös,3
-21,1545,5410,Dunaföldvár - Paks - Szekszárd,3
+21,1545,5410,,3
 21,15450,1512,Esztergom - Szentendre - Budapest - M5 - Szeged,3
 21,15455,5042,Baja - Bácsbokod - Bácsalmás - Kelebia - Szeged,3
 21,15456,5075,Kecskemét - Kiskunfélegyháza - Kistelek - Szeged,3

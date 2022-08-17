@@ -41008,8 +41008,10 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 734429,"Rétság, tolmácsi elágazás",47.918897,19.118473,,
 734430,"Rétság, tolmácsi elágazás",47.918810,19.118522,,
 734443,"Debrecen, autóbusz-állomás",47.525470,21.618016,,5263
+734543,"Szekszárd, posta",46.350807,18.701985,,
 734621,"Eger, Vécsey-völgy",47.911052,20.393790,,
 734627,"Gödöllő, Haraszti utca 5.",47.611208,19.330539,,
+736018,"Pásztó, Zsigmond Király Általános Iskola",47.922331,19.695018,,
 7572,"Tab, autóbusz-állomás",46.733924,18.039051,1,
 7744,"Sopron, autóbusz-állomás",47.688386,16.586079,1,
 7844,"Győr, autóbusz-állomás",47.681048,17.636449,1,
