@@ -720,7 +720,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1547,5415,Bátaszék - Decs - Szekszárd,3
 21,15473,6007,Siójut - Balatonszabadi - Siófok,3
 21,1548,5420,Baja - Bátaszék - Szekszárd,3
-21,1549,5422,Baja - Bátaszék,3
+21,1549,5422,,3
 21,15492,553,Szolnok - Cegléd / Törtel - Kecskemét,3
 21,15493,5917,Siófok - Ságvár - Tab - Igal - Kaposvár,3
 21,15494,3739,Polgár - Tiszaújváros - Ónod - Nyékládháza - Miskolc,3

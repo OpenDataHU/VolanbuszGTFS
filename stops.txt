@@ -41012,6 +41012,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 734621,"Eger, Vécsey-völgy",47.911052,20.393790,,
 734627,"Gödöllő, Haraszti utca 5.",47.611208,19.330539,,
 736018,"Pásztó, Zsigmond Király Általános Iskola",47.922331,19.695018,,
+736165,"Szekszárd, Liszt Ferenc tér",46.348519,18.702293,,
 7572,"Tab, autóbusz-állomás",46.733924,18.039051,1,
 7744,"Sopron, autóbusz-állomás",47.688386,16.586079,1,
 7844,"Győr, autóbusz-állomás",47.681048,17.636449,1,
