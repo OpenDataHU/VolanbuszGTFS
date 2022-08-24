@@ -1247,7 +1247,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1681,5516,Bakóca - Sárd - Dombóvár,3
 21,1682,5730,"Bakóca - Godisa, vá.",3
 21,1683,5740,Gödre - Szágy - Sásd - Komló,3
-21,1685,5805,Bátaszék - Dunaszekcső - Mohács,3
+21,1685,5424,,3
 21,1686,5809,Pécsvárad - Somberek - Mohács,3
 21,1687,5811,Erdőfű - Kölked - Mohács,3
 21,1688,5813,Harkány - Villány - Lippó - Mohács,3
@@ -1476,6 +1476,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,17376,8442,Oroszlány - Kecskéd - Tatabánya,3
 21,17379,3777,Boldva - Sajókeresztúr - Miskolc,3
 21,1738,5930,Sásd - Gödre - Szentbalázs - Kaposvár,3
+21,17385,5403,,3
 21,1739,5935,Bőszénfa - Gálosfa - Szentbalázs - Kaposvár,3
 21,174,1515,Parádfürdő - Gyöngyös - Jászberény - Szolnok - Szeged,3
 21,1740,5940,Bőszénfa - Simonfa - Kaposvár,3
@@ -1888,7 +1889,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,18039,5416,Sárpilis/Bátaszék - Várdomb - Szekszárd - Sárpilis - Bátaszék,3
 21,1804,6162,Zalaegerszeg - Hévíz - Keszthely - Balatonszentgyörgy - Marcali,3
 21,18040,5417,"Sárpilis - Decs - Szekszárd - Szekszárd, szőlőhegy - Decs/Várdomb - Sárpilis",3
-21,18041,5418,"Szekszárd - Szekszárd, szőlőhegy - Őcsény - Szekszárd",3
 21,18052,3026,Kazár - Mátraszele - Bárna,3
 21,18053,3046,Kazár - Vizslás-Újlak - Bátonyterenye (Kisterenye),3
 21,18054,3641,Heréd - Kerekharaszt - Hatvan,3
@@ -2242,7 +2242,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,20688,5,"Kiliti, Béke tér - Szépvölgyi utca - Autóbusz-állomás",3
 21,20689,8,Somogyfok - Szépvölgyi utca - Autóbusz-állomás,3
 21,2069,7010,Bábolna - Rétalap - Győr,3
-21,20690,3A,Autóbusz-állomás - Sziget utca - Autóbusz-állomás,3
 21,20691,14A,"Kiliti, Szeptember 6. tér - Autóbusz-állomás",3
 21,20695,3488,Fedémes - Pétervására - Tarnalelesz - Eger,3
 21,207,1564,Pápa - Veszprém - Dombóvár - Pécs,3
@@ -2509,8 +2508,21 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2205,7307,Porva - Zirc - Veszprém,3
 21,2206,7308,Bakonyszentkirály - Dudar - Zirc - Veszprém,3
 21,2207,7309,Pétfürdő - Hajmáskér - Veszprém,3
+21,22079,5404,,3
 21,2208,7311,Várpalota - Hajmáskér - Veszprém,3
+21,22080,5405,,3
+21,22081,5414,,3
+21,22082,5423,,3
+21,22083,11,Hosszú-völgy - Autóbusz-állomás - Újváros - Műszergyár - Palánk,3
+21,22084,12,Baka István Általános Iskola - Holub József utca - Jobbparászta,3
+21,22085,13,Autóbusz-állomás - Tolnatej Zrt. - Wesselényi utca - Bottyán-hegy,3
+21,22086,14,TESCO áruház - Béri Balogh Ádám utca - Bottyán-hegy,3
+21,22087,16,Palánk - Jobbparászta - Autóbusz-állomás - Tót-völgy,3
+21,22088,18,Tót-völgy - Siófoki útelágazás (Bor utca),3
+21,22089,19,Jobbparászta - Műszergyár - TESCO áruház,3
 21,2209,7314,Pétfürdő/Várpalota - Öskü - Hajmáskér - Veszprém,3
+21,22090,1,Üdülőtelep - Autóbusz-állomás,3
+21,22091,21,,3
 21,221,1592,Győr - Veszprém - Siófok - Kaposvár,3
 21,2210,7315,Székesfehérvár - Várpalota - Veszprém,3
 21,2211,7316,Balatonfőkajár - Berhida - Sóly - Veszprém,3
@@ -2914,6 +2926,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,294,1784,Esztergom - Tatabánya - Veszprém - Ajka,3
 21,295,1786,Lenti - Zalaegerszeg - Sümeg - Ajka,3
 21,298,1803,Kalocsa - Solt - Dunaújváros - Székesfehérvár,3
+21,299,1804,,3
 21,300,1806,Szombathely - Zalaegerszeg - Keszthely - Balatonfüred - Veszprém,3
 21,302,1808,Zalaegerszeg - Veszprém - Székesfehérvár,3
 21,303,1809,Zirc - Dudar - Bakonycsernye - Székesfehérvár,3
