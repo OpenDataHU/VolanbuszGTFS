@@ -2252,7 +2252,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,20716,10J,"Nyírszőlős, Pannónia utca - Jókaitelep - Vasútállomás - Örökösföld",3
 21,20717,11,Egyház utca - Örökösföld,3
 21,20718,12,Vasúti aluljáró - Vasútállomás - Sóstói úti kórház,3
-21,20719,12A,Vasútállomás - Jósaváros,3
 21,2072,7020,Bakonyszombathely - Kisbér - Mezőörs - Győr,3
 21,20720,13Y,Alma utcai iskola - Kistelekiszőlő - Sóstói úti kórház,3
 21,20721,14,Sóstóhegy vasútállomás - Vasútállomás,3
@@ -2523,6 +2522,11 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2209,7314,Pétfürdő/Várpalota - Öskü - Hajmáskér - Veszprém,3
 21,22090,1,Üdülőtelep - Autóbusz-állomás,3
 21,22091,21,,3
+21,22095,3877,,3
+21,22096,25A,,3
+21,22097,29E,,3
+21,22098,918,,3
+21,22099,920,,3
 21,221,1592,Győr - Veszprém - Siófok - Kaposvár,3
 21,2210,7315,Székesfehérvár - Várpalota - Veszprém,3
 21,2211,7316,Balatonfőkajár - Berhida - Sóly - Veszprém,3
