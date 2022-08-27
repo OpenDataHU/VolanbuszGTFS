@@ -894,6 +894,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15867,5,Fellner Jakab úti forduló - Kertváros - Fellner Jakab úti forduló,3
 21,15868,7K,Agostyán - Kossuth tér,3
 21,15869,7,Agostyán - Autóbusz-állomás,3
+21,15871,88,Fellner Jakab úti forduló - Güntner Kft. - Újhegy - Fellner Jakab úti forduló,3
 21,15872,8A,Autóbusz-állomás - Autóbusz-állomás,3
 21,15874,8,Fellner Jakab úti forduló - Újhegy - Fellner Jakab úti forduló,3
 21,1589,5490,Lengyel - Bonyhád,3
@@ -1271,22 +1272,15 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16960,7,TESCO áruház - Autóbusz-állomás,3
 21,16961,8,Palánk - Műszergyár - Szőlőhegy,3
 21,16962,9,Jobbparászta - TESCO áruház,3
-21,16963,2A,Palánk - Autóbusz-állomás,3
 21,16964,2Y,Palánk - Autóbusz-állomás,3
-21,16965,3A,Tolnatej Zrt. - Autóbusz-állomás,3
 21,16966,4A,Bottyán-hegy - TESCO áruház,3
-21,16967,4Y,Bottyán-hegy - TESCO áruház,3
-21,16968,5Y,Baranya-völgy - Autóbusz-állomás,3
 21,16969,6Y,Tót-völgy - Autóbusz-állomás,3
 21,1697,5831,Beremend - Magyarbóly - Villány,3
 21,16970,7A,TESCO áruház - Autóbusz-állomás,3
-21,16971,7B,TESCO áruház - Autóbusz-állomás,3
-21,16972,8A,Palánk - Műszergyár - Szőlőhegy,3
 21,16973,8B,Szőlőhegy - TESCO áruház,3
 21,16974,88,(Palánk - ) Műszergyár - TESCO áruház,3
 21,16975,89,(Palánk - ) Műszergyár - TESCO áruház,3
 21,16976,9Y,Jobbparászta - TESCO áruház,3
-21,16977,98,Jobbparászta - Műszergyár - TESCO áruház,3
 21,16978,1,"Majos, alsó - Autóbusz-állomás",3
 21,16979,2,Hidas-Bonyhád vasútállomás - Autóbusz-állomás,3
 21,1698,5832,Drávacsehi - Matty - Siklós,3
@@ -1317,7 +1311,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,17012,8A,Autóbusz-állomás - Szilvás - Somág - Autóbusz-állomás,3
 21,17013,8B,Autóbusz-állomás - Somág - Szilvás - Autóbusz-állomás,3
 21,17014,2,Üdülőtelep - MOFA - Autóbusz-állomás,3
-21,17015,4,Üdülőtelep - Hímesházi elágazás - Autóbusz-állomás,3
 21,17016,1,Autóbusz-állomás - Máriagyűd - Autóbusz-állomás,3
 21,17017,1,Autóbusz-állomás - Szent István lakótelep - Autóbusz-állomás,3
 21,17018,2,"Becefa, forduló - Zsibót, harangláb - Autóbusz-állomás",3
@@ -1764,7 +1757,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1768,6015,Tab - Ságvár - Siófok,3
 21,17680,745,"Érd, aut.áll./Érd, TESCO - Fehérvári út - Kossuth L. u. - Érd, aut.áll./Érd, TESCO ",3
 21,17681,755,Érd - Törökbálint - Budaörs,3
-21,17682,756,Százhalombatta - Érd - Törökbálint - Budaörs - Budapest,3
 21,17685,760,Bicske - Etyek - Biatorbágy - Budaörs - Budapest,3
 21,17686,763,Etyek - Biatorbágy - Budapest,3
 21,17687,762,"Sóskút - Biatorbágy, vá. - Budapest",3
@@ -2529,7 +2521,12 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,22099,920,,3
 21,221,1592,Győr - Veszprém - Siófok - Kaposvár,3
 21,2210,7315,Székesfehérvár - Várpalota - Veszprém,3
+21,22101,650,,3
+21,22107,530,,3
+21,22108,651,,3
+21,22109,672,,3
 21,2211,7316,Balatonfőkajár - Berhida - Sóly - Veszprém,3
+21,22110,738,,3
 21,2212,7317,Várpalota - Berhida - Veszprém,3
 21,2213,7318,Fűzfőgyártelep - Berhida - Veszprém,3
 21,2214,7319,Ősi - Berhida - Veszprém,3
@@ -2956,7 +2953,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,37,1075,Tiszafüred - Abádszalók - Tiszanána - Heves - Jászberény - Budapest,3
 21,38,1076,Jászszentandrás - Jászapáti - Jászberény - Gödöllő - Budapest,3
 21,39,1077,Szolnok - Nagykörű - Jászberény - Budapest,3
-21,399,428,Erdőkürt / Erdőtarcsa - Kálló - Kartal - Aszód,3
 21,40,1078,Jászalsószentgyörgy - Jászberény - Budapest,3
 21,406,409,Hatvan - Tura - Bag - Aszód - Gödöllő,3
 21,42,1081,Tiszakécske - Kecskemét - Lajosmizse - Dabas - Budapest,3
