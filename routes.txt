@@ -1263,23 +1263,17 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1695,5825,Pécsvárad - Hímesháza - Mohács,3
 21,16953,5638,Mohács - Pécsvárad - Romonya - Pécs,3
 21,16954,1,Hosszú-völgy - Autóbusz-állomás,3
-21,16955,2,Palánk - Autóbusz-állomás,3
 21,16956,3,Autóbusz-állomás - Tolnatej Zrt. - Autóbusz-állomás,3
 21,16957,4,Bottyán-hegy - TESCO áruház,3
-21,16958,5,Baranya-völgy - Autóbusz-állomás,3
 21,16959,6,Tót-völgy - Autóbusz-állomás,3
 21,1696,5830,Villány - Göntérpuszta/Nagytótfalu - Siklós - Harkány,3
 21,16960,7,TESCO áruház - Autóbusz-állomás,3
 21,16961,8,Palánk - Műszergyár - Szőlőhegy,3
 21,16962,9,Jobbparászta - TESCO áruház,3
-21,16964,2Y,Palánk - Autóbusz-állomás,3
 21,16966,4A,Bottyán-hegy - TESCO áruház,3
 21,16969,6Y,Tót-völgy - Autóbusz-állomás,3
 21,1697,5831,Beremend - Magyarbóly - Villány,3
 21,16970,7A,TESCO áruház - Autóbusz-állomás,3
-21,16973,8B,Szőlőhegy - TESCO áruház,3
-21,16974,88,(Palánk - ) Műszergyár - TESCO áruház,3
-21,16975,89,(Palánk - ) Műszergyár - TESCO áruház,3
 21,16976,9Y,Jobbparászta - TESCO áruház,3
 21,16978,1,"Majos, alsó - Autóbusz-állomás",3
 21,16979,2,Hidas-Bonyhád vasútállomás - Autóbusz-állomás,3
@@ -1310,7 +1304,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,17011,87,Autóbusz-állomás - Somág - Szilvás - Kökönyös - Körtvélyes,3
 21,17012,8A,Autóbusz-állomás - Szilvás - Somág - Autóbusz-állomás,3
 21,17013,8B,Autóbusz-állomás - Somág - Szilvás - Autóbusz-állomás,3
-21,17014,2,Üdülőtelep - MOFA - Autóbusz-állomás,3
 21,17016,1,Autóbusz-állomás - Máriagyűd - Autóbusz-állomás,3
 21,17017,1,Autóbusz-állomás - Szent István lakótelep - Autóbusz-állomás,3
 21,17018,2,"Becefa, forduló - Zsibót, harangláb - Autóbusz-állomás",3
@@ -2476,7 +2469,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2187,7258,Ásványráró - Darnózseli - Lipót - Mosonmagyaróvár,3
 21,21876,25,Alma utcai iskola - Örökösföld - Északi körút - Vasútállomás,3
 21,21877,26,Szélsőbokori út - Vasútállomás,3
-21,21878,900,Vasútállomás - Bessenyei tér - Sóstógyógyfürdő - Örökösföld - Vasútállomás,3
 21,21879,9B,Örökösföld - Michelin - Huszártelep,3
 21,2188,7270,Ásványráró - Darnózseli - Mosonmagyaróvár,3
 21,2189,7273,Ásványráró - Darnózseli - Máriakálnok - Mosonmagyaróvár,3
