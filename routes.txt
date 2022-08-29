@@ -1109,7 +1109,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16400,3691,Mátrai Erőmű Zrt. - Gyöngyössolymos - Gyöngyös - Gyöngyöstarján,3
 21,16404,4503,"Pocsaj-Esztár, vá. - Esztár - Pocsaj, aut.ford.",3
 21,1641,5660,Túrony - Garé - Pogány - Pécs,3
-21,16410,20,"Ajka, autóbusz-állomás - Ajka (Padragkút), felső",3
 21,16411,1,Újtelep - Óváros - Lakótelep - Hajóállomás - Autóbusz-állomás - Óváros - Volán-telep,3
 21,16412,2,Volán-telep - Óváros - Autóbusz-állomás - Hajóállomás - Lakótelep - Óváros - Újtelep,3
 21,16413,3,Autóbusz-állomás - Kiserdő - Strandok - Balatonarács - Óváros - Autóbusz-állomás,3
@@ -1647,7 +1646,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,17582,562,"Cegléd, Ugyeri szőlők - Cegléd",3
 21,17583,564,Albertirsa - Ceglédbercel - Cegléd,3
 21,17584,565,Albertirsa - Ceglédbercel - Budai út - Cegléd,3
-21,17585,566,Albertirsa - Ceglédbercel - Budai út - Cegléd,3
 21,17586,543,Törtel - Nagykőrös,3
 21,17587,544,Kocsér - Kutyakaparó Csárda - Nagykőrös,3
 21,17588,545,Kocsér - Nagykőrös,3
@@ -2072,7 +2070,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,19522,6374,Siófok - Balatonboglár - Balatonszentgyörgy - Keszthely,3
 21,19523,7939,Pápa - Dáka - Nagyalásony - Pápasalamon - Pápa,3
 21,19524,44,Flex B - Flex A - Kertváros,3
-21,19525,30A,Bazita elágazó II. - Alsóerdő - Autóbusz-állomás,3
 21,19526,1044,Fallóskút - Mátraszentimre - Mátraháza - Gyöngyös - Budapest,3
 21,19527,1066,Karcag - Abádszalók - Heves - Gyöngyös - Budapest,3
 21,1953,6585,Zalalövő - Szilvágy - Zalabaksa - Lenti,3
@@ -2175,7 +2172,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,20350,1172,Kaposvár - Igal - Tab - Siófok - Budapest,3
 21,20351,1729,Dunaföldvár - Enying - Veszprém - Pápa,3
 21,20352,1840,Siófok - Székesfehérvár - Csákvár - Tatabánya,3
-21,20359,1302,Balatonlelle - Siófok - M7 - M0 - M3 - Salgótarján,3
 21,2036,6892,Döröske - Katafa - Körmend,3
 21,20360,1402,Fonyód - Siófok - M7 - M0 - M3 - Gyöngyös - Eger,3
 21,20362,6030,Kőröshegy - Szántódrév - Siófok,3
@@ -2443,9 +2439,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2181,7246,Ágfalva - Sopron,3
 21,21810,1658,Veszprém - Balatonfüred - Keszthely - Zalaegerszeg - Lenti,3
 21,21811,1758,Tatabánya - Veszprém - Balatonfüred,3
-21,21812,6777,Zalabér-Batyk vá. - Szajki tavak - Káld - Sárvár,3
 21,21813,7848,Celldömölk - Jánosháza - Ajka,3
-21,21816,5703,Komló - Orfű - Komló,3
 21,2182,7252,Tejfalusziget - Dunakiliti - Mosonmagyaróvár,3
 21,2183,7253,Mosonmagyaróvár - Tejfalusziget - Dunasziget - Mosonmagyaróvár,3
 21,21835,3056,Mátranovák - Bátonyterenye - Salgótarján,3
@@ -2648,7 +2642,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2365,7926,Döbrönte - Ganna - Pápa,3
 21,2366,7927,Farkasgyepű - Döbrönte - Pápa,3
 21,2367,7928,Kup - Ganna - Pápa,3
-21,2368,7929,Badacsony - Noszlop - Pápa,3
 21,2370,7932,Ajka - Noszlop - Pápa,3
 21,2371,7934,Devecser - Noszlop - Pápa,3
 21,2372,7936,Sümeg - Devecser - Pápa - Csorna,3
@@ -3221,7 +3214,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,815,3743,Mezőcsát - Miskolc,3
 21,816,3744,Polgár - Tiszaújváros - Ónod - Nyékládháza - Miskolc,3
 21,817,3745,Tiszaújváros - Nyékládháza - Miskolc,3
-21,818,3746,Bogács - Mezőkövesd - Miskolc,3
 21,819,3747,Mezőcsát - Gelej - Bükkábrány - Miskolc,3
 21,82,1205,Székesfehérvár - Budapest,3
 21,820,3748,Kács - Emőd - Miskolc,3
