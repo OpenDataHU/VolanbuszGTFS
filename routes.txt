@@ -2339,7 +2339,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2121,7083,Mecsér - Kunsziget - Öttevény - Győr,3
 21,2122,7085,Lébény - Mosonszentmiklós - Győr,3
 21,2123,7086,Mosonmagyaróvár - Győr,3
-21,21234,26C,Csala - Autóbusz-állomás,3
+21,21234,26C,Depónia - Csala - Autóbusz-állomás,3
 21,21235,37A,Sajó utca/Farkasvermi utca - Autóbusz-állomás,3
 21,2124,7087,Mecsér - Dunaszeg - Győr,3
 21,21241,5621,"Komló, Móricz utca - Hosszúhetény - Pécs",3
