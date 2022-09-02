@@ -292,7 +292,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,12516,8419,Esztergom - Bajna - Tatabánya - Oroszlány,3
 21,12517,7017,Mezőörs - Győrság - Pannonhalma - Nyúl,3
 21,1252,4840,Orosháza - Csorvás - Békéscsaba,3
-21,12528,228,Komárom - Komárno,3
 21,1253,4844,Kamut - Murony - Békéscsaba,3
 21,12530,8662,"Ács, cukrászda - Ács, általános iskola",3
 21,1254,4847,Kamut - Murony - Békés,3
