@@ -41036,7 +41036,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 736969,Dunaharaszti elágazás (Némedi út),47.347273,19.117012,,
 736988,"Encs, autóbusz-állomás",48.328440,21.118127,,2656
 737048,"Zsámbok, Szőlő utca",47.536871,19.616046,,
-737069,"Cegléd, Kossuth Gimnázium",47.164982,19.837061,,
+737124,"Cegléd, Kossuth Gimnázium",47.164689,19.836865,,
 7572,"Tab, autóbusz-állomás",46.733924,18.039051,1,
 7744,"Sopron, autóbusz-állomás",47.688386,16.586079,1,
 7844,"Győr, autóbusz-állomás",47.681048,17.636449,1,
