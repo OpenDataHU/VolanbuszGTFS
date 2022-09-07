@@ -743,6 +743,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1553,5430,Bonyhád - Kakasd - Szekszárd,3
 21,15530,2,Vasútállomás - Fű utca - Szent István utca - Vasútállomás,3
 21,15532,1,Henész - Autóbusz-állomás,3
+21,15533,2,Zrínyi utca - Posta,3
+21,15534,3,Kossuth utca 13. - Autóbusz-állomás - Zrínyi utca,3
 21,15535,4,Kivadár - Autóbusz-állomás,3
 21,15536,1,Szakközépiskola - Autóbusz-állomás - Arany János utca,3
 21,1554,5431,Dombóvár - Kurd - Bonyhád - Szekszárd,3
@@ -2501,7 +2503,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,22108,651,,3
 21,22109,672,,3
 21,2211,7316,Balatonfőkajár - Berhida - Sóly - Veszprém,3
-21,22110,738,,3
+21,22110,738,Favágó utca (Teleki iskola) - Bem tér - Dévai utca - Autóbusz-állomás,3
 21,2212,7317,Várpalota - Berhida - Veszprém,3
 21,22125,613,,3
 21,2213,7318,Fűzfőgyártelep - Berhida - Veszprém,3
