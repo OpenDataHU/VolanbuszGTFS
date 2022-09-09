@@ -2510,6 +2510,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2214,7319,Ősi - Berhida - Veszprém,3
 21,2215,7320,Balatonfűzfő - Veszprém,3
 21,2216,7321,Enying - Balatonvilágos - Veszprém,3
+21,22160,7543,,3
 21,2217,7322,Balatonakarattya - Balatonfűzfő - Veszprém,3
 21,2218,7323,Küngös - Balatonfűzfő - Veszprém,3
 21,222,1593,Tapolca - Veszprém - Siófok - Kaposvár,3
