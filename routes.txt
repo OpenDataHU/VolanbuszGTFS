@@ -2064,6 +2064,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1949,6570,Bajánsenye - Magyarföld - Ramocsa - Csesztreg - Lenti,3
 21,1950,6576,Magyarföld - Ramocsa - Csesztreg - Rédics - Lenti,3
 21,1951,6577,Szilvágy - Zalabaksa - Csesztreg - Lenti,3
+21,19522,6374,Siófok - Balatonboglár - Balatonszentgyörgy - Keszthely,3
 21,19523,7939,Pápa - Dáka - Nagyalásony - Pápasalamon - Pápa,3
 21,19524,44,Flex B - Flex A - Kertváros,3
 21,19526,1044,Fallóskút - Mátraszentimre - Mátraháza - Gyöngyös - Budapest,3
