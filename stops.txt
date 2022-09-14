@@ -29,7 +29,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 13672,"Tiszalök, autóbusz-váróterem",48.016168,21.375018,1,
 13816,"Vásárosnamény, vasútállomás",48.127352,22.305440,1,
 13860,"Záhony, vasútállomás",48.401228,22.182254,1,
-14038,"Hódmezővásárhely, autóbusz-állomás",46.415571,20.328818,1,
+14038,"Hódmezővásárhely, autóbusz-állomás",46.415798,20.329430,1,
 1418,"Balatonalmádi, autóbusz-állomás",47.030277,18.015144,1,
 14186,"Csongrád, autóbusz-állomás",46.708704,20.147670,1,
 14383,"Makó, autóbusz-állomás",46.219771,20.476672,1,
@@ -24582,7 +24582,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 599319,"Székkutas, ABC",46.505491,20.539423,,
 599320,"Székkutas, Szőkehalmi iskola",46.521348,20.568989,,
 599321,"Székkutas, Szőkehalmi iskola",46.520179,20.567211,,
-599324,"Hódmezővásárhely, autóbusz-állomás",46.415571,20.328818,,14038
+599324,"Hódmezővásárhely, autóbusz-állomás",46.415798,20.329430,,14038
 599325,"Hódmezővásárhely, Porcelángyár",46.409897,20.368072,,
 599326,"Hódmezővásárhely, Porcelángyár",46.409910,20.368631,,
 599327,"Hódmezővásárhely, 28-as km-kő (4421. sz. út)",46.410524,20.387706,,
@@ -35301,6 +35301,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 616977,"Hódmezővásárhely, Nádor utca",46.413389,20.350844,,
 616978,"Hódmezővásárhely, Liszt Ferenc utca",46.411196,20.327274,,
 616980,"Hódmezővásárhely, Kertváros",46.404005,20.297838,,
+616982,"Hódmezővásárhely, autóbusz-állomás",46.415581,20.328835,,
 617083,"Makó, református templom",46.227743,20.481121,,
 617084,"Makó, Hosszú utca",46.230748,20.489879,,
 617112,"Győr (Ipari Park), Körtefa utca Doka Kft.",47.682383,17.710322,,
