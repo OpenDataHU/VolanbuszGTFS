@@ -382,7 +382,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,130,1374,Szeged - Békéscsaba - Debrecen - Miskolc,3
 21,1300,5004,Csongrád - Szentes - Mindszent - Hódmezővásárhely - Szeged,3
 21,13003,6238,Lenti - Páka - Gutorfölde - Bak - Zalaegerszeg,3
-21,13006,5458,Siófok - Enying - Paks - Tolna - Szekszárd,3
+21,13006,5458,Paks - Cece - Sárbogárd - Székesfehérvár,3
 21,1301,5005,Hódmezővásárhely - Szeged,3
 21,13010,5586,Ozora - Simontornya,3
 21,1302,5006,Adymajor - Algyő,3
