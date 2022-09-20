@@ -35149,7 +35149,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 616353,"Csongrád, Hársfa utca",46.707551,20.156610,,
 616354,"Csongrád, Muskátli utca",46.708287,20.160531,,
 616356,"Csongrád, autóbusz-forduló",46.706340,20.168661,,
-616371,"Szentes, autóbusz-állomás",46.650946,20.259980,,
 616372,"Szentes, Arany János utca",46.655565,20.257905,,
 616374,"Szentes, Totózó",46.651643,20.264774,,
 616376,"Szentes, vasútállomás",46.657728,20.272109,,
@@ -35213,7 +35212,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 616844,"Csongrád, Hársfa utca",46.707559,20.156528,,
 616845,"Csongrád, Muskátli utca",46.708101,20.161196,,
 616846,"Csongrád, Rendelőintézet",46.705102,20.163321,,
-616857,"Szentes, autóbusz-állomás",46.650897,20.259943,,
+616857,"Szentes, autóbusz-állomás",46.650930,20.259964,,
 616859,"Szentes, Arany János utca",46.656356,20.257662,,
 616861,"Szentes, kórház",46.661511,20.255720,,
 616862,"Szentes, Boros Sámuel utca",46.666436,20.252819,,
@@ -35296,7 +35295,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 616977,"Hódmezővásárhely, Nádor utca",46.413389,20.350844,,
 616978,"Hódmezővásárhely, Liszt Ferenc utca",46.411196,20.327274,,
 616980,"Hódmezővásárhely, Kertváros",46.404005,20.297838,,
-616982,"Hódmezővásárhely, autóbusz-állomás",46.415581,20.328835,,
 617083,"Makó, református templom",46.227743,20.481121,,
 617084,"Makó, Hosszú utca",46.230748,20.489879,,
 617112,"Győr (Ipari Park), Körtefa utca Doka Kft.",47.682383,17.710322,,
@@ -41068,6 +41066,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 737173,"Érd, Festő utca",47.407539,18.869444,,
 737636,"Bonyhád, autóbusz-állomás",46.297673,18.534335,,
 737661,"Makó, autóbusz-állomás",46.219410,20.476397,,14383
+737725,"Hódmezővásárhely, autóbusz-állomás",46.415798,20.329430,,
 737745,"Székesfehérvár, autóbusz-állomás",47.188699,18.409320,,599
 7572,"Tab, autóbusz-állomás",46.733924,18.039051,1,
 7744,"Sopron, autóbusz-állomás",47.688386,16.586079,1,
