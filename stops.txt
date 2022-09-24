@@ -15982,7 +15982,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 590096,"Csorvás, autóbusz-váróterem",46.633704,20.830049,,
 590097,"Medgyesbodzás, községháza",46.517163,20.961343,,
 590098,"Mezőkovácsháza, Reformátuskovácsháza",46.414063,20.891093,,
-590099,"Mezőkovácsháza, autóbusz-váróterem",46.407124,20.927429,,9188
+590099,"Mezőkovácsháza, autóbusz-állomás",46.407124,20.927429,,9188
 590100,"Magyarbánhegyes, vasútállomás",46.451218,20.969304,,
 590101,"Csabaszabadi, autóbusz-váróterem",46.574374,20.955302,,
 590102,"Békéscsaba, Madách utca",46.660383,21.071117,,
@@ -41091,7 +41091,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 8941,"Gyula, autóbusz-állomás",46.642332,21.271968,1,
 901,"Kápolnásnyék, vasútállomás",47.245858,18.692642,1,
 9050,"Kondoros, autóbusz-váróterem",46.760238,20.796158,1,
-9188,"Mezőkovácsháza, autóbusz-váróterem",46.407124,20.927429,1,
+9188,"Mezőkovácsháza, autóbusz-állomás",46.407124,20.927429,1,
 9326,"Szarvas, autóbusz-állomás",46.860202,20.554977,1,
 9735,"Kalocsa, autóbusz-állomás",46.522400,18.983276,1,
 9775,"Kecel, autóbusz-váróterem",46.526161,19.250480,1,
