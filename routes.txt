@@ -2914,7 +2914,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,310,1841,Dunaújváros - Székesfehérvár - Tatabánya - Tata,3
 21,311,1842,Hévíz - Siófok - Székesfehérvár - Tatabánya,3
 21,312,1843,Pécs - Szekszárd - Székesfehérvár - Tatabánya,3
-21,313,1844,Keszthely - Balatonfüred - Székesfehérvár - Tatabánya,3
 21,314,1845,Székesfehérvár - Oroszlány - Kecskéd/Majk - Tatabánya,3
 21,315,1848,Kőszeg - Szombathely - Pápa - Tatabánya,3
 21,316,1850,Bükfürdő - Kapuvár - Csorna - Győr - Bábolna - Tatabánya,3
@@ -3165,7 +3164,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,775,3684,Nagyút - Kál - Verpelét - Mátrai Erőmű Zrt.,3
 21,776,3685,Nagyfüged - Tarnaméra - Tarnaörs,3
 21,779,3688,Visznek - Jászárokszállás - Adács - Gyöngyös,3
-21,78,1201,Tihany - Balatonfüred - Balatonalmádi - Budapest,3
 21,780,3689,Tarnabod - Heves,3
 21,781,3700,Szirmabesenyő - Miskolc,3
 21,782,3701,Szirmabesenyő - Miskolc,3
