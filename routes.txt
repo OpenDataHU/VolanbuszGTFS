@@ -198,7 +198,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1198,4730,Tiszaderzs - Kunhegyes - Berekfürdő - Karcag,3
 21,1199,4731,"Abádszalók vá. - Abádszalók, aut.áll.",3
 21,12,1021,Salgótarján - Bátonyterenye - Pásztó - Budapest,3
-21,120,1352,Salgótarján - Recsk - Eger,3
 21,1200,4735,Szeghalom - Dévaványa - Kisújszállás,3
 21,1201,4738,Csorbai ÁG - Kisújszállás,3
 21,1204,4753,Tiszafüred (Kócsújfalu) - Tiszafüred,3
@@ -207,7 +206,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1207,4760,Kunhegyes - Tiszaroff - Tiszafüred,3
 21,1208,4770,Túrkeve - Mezőtúr,3
 21,1209,4772,Mezőtúr (Pusztabánréve) - Mezőtúr,3
-21,121,1354,Salgótarján - Bátonyterenye - Recsk - Eger,3
 21,1210,4775,Tiszaföldvár - Mezőtúr,3
 21,1211,4776,Kunszentmérton - Mesterszállás - Mezőhék - Mezőtúr,3
 21,1212,4777,Kecskemét - Lakitelek - Csépa - Kunszentmárton,3
@@ -1106,7 +1104,9 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,164,1503,Zalaegerszeg - Pécs - Baja - Szeged,3
 21,16400,3691,Mátrai Erőmű Zrt. - Gyöngyössolymos - Gyöngyös - Gyöngyöstarján,3
 21,16404,4503,"Pocsaj-Esztár, vá. - Esztár - Pocsaj, aut.ford.",3
+21,16408,16,"Ajka, autóbusz-állomás - Ajka, noszlopi elágazás",3
 21,1641,5660,Túrony - Garé - Pogány - Pécs,3
+21,16410,20,"Ajka, autóbusz-állomás - Ajka (Padragkút), felső",3
 21,16411,1,Újtelep - Óváros - Lakótelep - Hajóállomás - Autóbusz-állomás - Óváros - Volán-telep,3
 21,16412,2,Volán-telep - Óváros - Autóbusz-állomás - Hajóállomás - Lakótelep - Óváros - Újtelep,3
 21,16413,3,Autóbusz-állomás - Kiserdő - Strandok - Balatonarács - Óváros - Autóbusz-állomás,3
@@ -2020,7 +2020,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,19166,492,Zsámbok - Tóalmás - Kóka - Sülysáp,3
 21,19167,487,Szentlőrinckáta - Tóalmás - Tápiószecső,3
 21,1917,6186,Zalakaros - Nemesvid - Marcali,3
-21,19180,1448,Salgótarján - Eger - Tiszafüred - Debrecen,3
 21,19181,15Y,"Tiszaliget, Campus - Vasútállomás",3
 21,1919,5972,Nagykanizsa - Iharosberény - Böhönye - Kaposvár,3
 21,192,1535,Jászberény/Szolnok - Kecskemét - Baja - Pécs,3
@@ -2042,7 +2041,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1926,6440,Letenye - Sormás - Nagykanizsa,3
 21,1927,6445,Lispeszentadorján - Bázakerettye - Borsfa - Letenye - Nagykanizsa,3
 21,1928,6446,Lenti - Csömödér - Bázakerettye - Nagykanizsa,3
-21,19286,3093,Karancskeszi - Etes - Salgótarján,3
 21,1930,6448,Lenti - Nova - Csömödér - Bázakerettye - Nagykanizsa,3
 21,1932,6454,Lenti - Tormafölde/Tornyiszentmiklós - Letenye - Nagykanizsa,3
 21,19335,10,Tündérfátyol utca - Ujhelyi iskola - Evangélikus templom - Moson - Vasútállomás,3
@@ -2864,7 +2862,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,276,1722,Balatonfüred - Veszprém - Pápa - Sopron,3
 21,277,1723,Balatonfüred - Veszprém - Pápa - Csorna - Sopron,3
 21,278,1725,Kaposvár - Keszthely - Sümeg - Sopron,3
-21,2780,3044,Mizserfa - Kazár - Salgótarján,3
 21,2781,4123,Égerszög - Perkupa - Varbóc,3
 21,2786,3808,Tokaj - Tarcal - Tállya - Abaújszántó - Encs,3
 21,2787,3885,Tokaj - Olaszliszka-Tolcsva vá. - Sárazsadány - Sárospatak,3
@@ -2992,9 +2989,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,59,1121,Szekszárd - Tolna - Bölcske - Dunaújváros - Budapest,3
 21,591,3015,Szilaspogony - Cered - Salgótarján,3
 21,592,3022,Istenmezeje - Cered - Salgótarján,3
-21,593,3024,Bárna - Salgótarján,3
 21,594,3030,Mátraterenye (Nádújfalu) - Mátranovák - Salgótarján,3
-21,595,3034,Parádfürdő - Mátraszele - Salgótarján,3
 21,598,3045,Mátraszele - Mizserfa - Kazár - Vizslás - Salgótarján,3
 21,599,3051,Szuha - Mátramindszent - Dorogháza - Bátonyterenye - Salgótarján,3
 21,60,1125,Szekszárd - Paks - Dunaföldvár - Dunaújváros - Budapest,3
@@ -3002,7 +2997,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,601,3055,Bátonyterenye (Nagybátony) - Salgótarján,3
 21,602,3058,Bátonyterenye (Maconka) - Salgótarján,3
 21,603,3060,Szurdokpüspöki - Pásztó - Bátonyterenye - Salgótarján,3
-21,604,3061,Buják - Pásztó - Bátonyterenye - Salgótarján,3
 21,605,3062,Vanyarc - Szirák - Pásztó - Salgótarján,3
 21,607,3064,Lőrinci - Pásztó - Tar - Salgótarján,3
 21,608,3065,Pásztó - Mátraszőlős - Bátonyterenye - Salgótarján,3
@@ -3013,8 +3007,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,613,3082,Nógrádszakál - Szécsény - Ludányhalászi - Salgótarján,3
 21,614,3084,Balassagyarmat - Litke - Karancskeszi - Salgótarján,3
 21,615,3090,Ipolytarnóc - Karancskeszi - Salgótarján,3
-21,616,3092,Etes - Salgótarján,3
-21,617,3094,Karancsberény - Salgótarján,3
 21,618,3108,Mátraszele - Kazár - Bátonyterenye,3
 21,62,1131,Harkány - Mohács - Szekszárd - Dunaújváros - Budapest,3
 21,620,3166,Mátraverebély (Szentkút) - Bátonyterenye,3
