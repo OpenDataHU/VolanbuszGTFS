@@ -3,7 +3,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 10074,"Kiskunmajsa, autóbusz-váróterem",46.492018,19.737187,1,
 10124,"Kiskőrös, vasútállomás",46.626369,19.295762,1,
 1048,"Sárbogárd, vasútállomás",46.896825,18.612613,1,
-10679,"Gyöngyös, autóbusz-állomás",47.782354,19.930049,1,
+10679,"Gyöngyös, autóbusz-állomás",47.782388,19.930058,1,
 10700,"Mátraháza, autóbusz-állomás",47.870038,19.978955,1,
 10842,"Balassagyarmat, autóbusz-állomás",48.083947,19.296898,1,
 11015,"Pásztó, vasútállomás",47.918740,19.689404,1,
@@ -106,7 +106,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 31474,Autóbusz-állomás,46.670062,21.083525,1,
 31475,Autóbusz-állomás,46.563842,20.662973,1,
 31910,"Esztergom, vasútállomás",47.778232,18.743767,1,
-33398,Helyi autóbusz-állomás,48.087851,19.793126,1,
+33398,Helyi autóbusz-állomás,48.087796,19.793073,1,
 3379,"Mezőkövesd, autóbusz-állomás",47.808211,20.566711,1,
 3484,"Mezőcsát, autóbusz-váróterem",47.820506,20.902596,1,
 3565,"Miskolc, autóbusz-állomás",48.105810,20.791530,1,
@@ -18029,8 +18029,8 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 592265,"Szelidi-tó, autóbusz-forduló",46.625049,19.046160,,
 592267,"Gyöngyös, Őrálló utca 46.",47.793245,19.933953,,
 592268,"Gyöngyös, Mérges utca 44.",47.775901,19.928262,,
-592270,"Gyöngyös, autóbusz-állomás",47.782260,19.929912,,10679
-592271,"Gyöngyös, autóbusz-állomás",47.782761,19.930679,,10679
+592270,"Gyöngyös, autóbusz-állomás",47.782594,19.930147,,10679
+592271,"Gyöngyös, autóbusz-állomás",47.782528,19.930471,,10679
 592272,"Gyöngyös, autóbusz-állomás",47.782042,19.929556,,10679
 592273,"Gyöngyös, Mátrai úti ABC",47.787310,19.933815,,
 592274,"Gyöngyös, Mátrai úti ABC",47.788003,19.935081,,
@@ -38216,7 +38216,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 650209,VOLÁN-telep,47.769039,19.915915,,
 650210,VOLÁN-telep,47.768195,19.914831,,
 650211,TESCO Áruház,47.768431,19.912074,,
-650212,Autóbusz-állomás,47.783174,19.930509,,
+650212,Autóbusz-állomás,47.783160,19.930505,,
 650213,Autóbusz-állomás,47.782042,19.929556,,
 650220,Városgondozási Zrt.,47.765877,19.925097,,
 650221,Városgondozási Zrt.,47.766018,19.924558,,
