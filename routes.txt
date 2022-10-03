@@ -1432,7 +1432,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,17318,5Y,"Ipar körút, AWF Kft. - Híd utca - Jereván lakózelep",3
 21,17319,5,"Ipar körút, AWF Kft. - Csengery utca - Jereván lakótelep",3
 21,1732,5916,Siófok - Tab - Igal - Kaposvár,3
-21,17320,6,Tómalomfürdő - Híd utca - Jereván lakótelep,3
 21,17321,7A,"Csengery utca, Király Jenő utca - Híd utca - Jereván lakótelep",3
 21,17322,7B,"Csengery utca, Király Jenő utca - Híd utca - Virágvölgy - Jereván lakótelep",3
 21,17323,7,"Csengery utca, Király Jenő utca - Kórház - Híd utca - Jereván lakótelep",3

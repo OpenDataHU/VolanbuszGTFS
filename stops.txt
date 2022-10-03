@@ -41062,6 +41062,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 737725,"Hódmezővásárhely, autóbusz-állomás",46.415798,20.329430,,
 737745,"Székesfehérvár, autóbusz-állomás",47.188699,18.409320,,599
 737814,"Makó, autóbusz-állomás",46.219410,20.476397,,
+738821,"Szekszárd, Csecsemőotthon",46.367259,18.711998,,
 7572,"Tab, autóbusz-állomás",46.733924,18.039051,1,
 7744,"Sopron, autóbusz-állomás",47.688386,16.586079,1,
 7844,"Győr, autóbusz-állomás",47.681048,17.636449,1,
