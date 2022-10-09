@@ -12739,7 +12739,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 586540,"Barcs, Béke utca",45.959550,17.459629,,
 586541,"Barcs, iskola",45.956812,17.450675,,
 586542,"Barcs, iskola",45.957096,17.451191,,
-586543,"Barcs, vasútállomás",45.952065,17.446853,,6858
+586543,"Barcs, vasútállomás",45.952036,17.446914,,6858
 586544,"Barcs (Középrigóc), vasúti megállóhely bejárati út",45.967928,17.526158,,
 586545,"Barcs (Középrigóc), vasúti megállóhely bejárati út",45.968181,17.526631,,
 586546,"Darány, iskola",45.979202,17.588284,,
