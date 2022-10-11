@@ -6,7 +6,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 10679,"Gyöngyös, autóbusz-állomás",47.782388,19.930058,1,
 10700,"Mátraháza, autóbusz-állomás",47.870038,19.978955,1,
 10842,"Balassagyarmat, autóbusz-állomás",48.083947,19.296898,1,
-11015,"Pásztó, vasútállomás",47.918740,19.689404,1,
+11015,"Pásztó, vasútállomás",47.919094,19.689364,1,
 11706,"Harkány, autóbusz-állomás",45.850355,18.243232,1,
 11754,"Pécs, autóbusz-állomás",46.070519,18.232378,1,
 11867,"Komló, autóbusz-állomás",46.189552,18.265560,1,
@@ -18,7 +18,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 12314,"Vajszló, autóbusz-váróterem",45.861591,17.988002,1,
 12420,"Baktalórántháza, Fő tér",47.997815,22.075692,1,
 12573,"Csenger, autóbusz-állomás",47.836928,22.680236,1,
-12638,"Fehérgyarmat, autóbusz-állomás",47.989875,22.515750,1,
+12638,"Fehérgyarmat, autóbusz-állomás",47.989981,22.515626,1,
 12825,"Kisvárda, autóbusz-állomás",48.209184,22.077912,1,
 1291,"Ajka, autóbusz-állomás",47.107032,17.565270,1,
 12978,"Mátészalka, autóbusz-állomás",47.951605,22.313958,1,
@@ -123,10 +123,10 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 4554,"Dunaföldvár, autóbusz-állomás",46.806080,18.926207,1,
 4595,"Paks, autóbusz-állomás",46.620037,18.858569,1,
 46121,"Rétság, autóbusz-forduló",47.926609,19.137996,1,
-4690,"Tamási, vasútállomás",46.627553,18.289381,1,
+4690,"Tamási, vasútállomás",46.627919,18.290033,1,
 4720,"Gyönk, autóbusz-állomás",46.557629,18.477814,1,
 4740,"Hőgyész, autóbusz-váróterem",46.496516,18.417696,1,
-4896,"Tolna, Szent István tér",46.422918,18.789352,1,
+4896,"Tolna, Szent István tér",46.422998,18.789787,1,
 4990,"Simontornya, autóbusz-váróterem",46.753728,18.554897,1,
 4993,"Simontornya, vasútállomás",46.756462,18.541118,1,
 5018,"Szekszárd, autóbusz-állomás",46.349194,18.711986,1,
@@ -7984,7 +7984,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 581248,"Tamási (Rácvölgy), iskola",46.614837,18.299549,,
 581249,"Tamási, Szárazfa",46.622484,18.293785,,
 581250,"Tamási, Szárazfa",46.621934,18.294124,,
-581251,"Tamási, vasútállomás",46.627553,18.289381,,4690
+581251,"Tamási, vasútállomás",46.627919,18.290033,,4690
 581252,"Tamási, vásártér",46.634393,18.290504,,
 581253,"Tamási, vásártér",46.634406,18.290142,,
 581254,"Tamási, Belátóhegy",46.636467,18.302065,,
@@ -8414,7 +8414,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 581725,"Tolna, kápolna",46.420509,18.771657,,
 581726,"Tolna, vásártér",46.422562,18.780763,,
 581727,"Tolna, vásártér",46.422605,18.780673,,
-581728,"Tolna, Szent István tér",46.422918,18.789352,,4896
+581728,"Tolna, Szent István tér",46.422998,18.789787,,4896
 581729,"Tolna, mezőgazdasági telep",46.415272,18.797195,,
 581730,"Tolna, mezőgazdasági telep",46.415021,18.797751,,
 581731,"Tolna, Domsa-tanya",46.410691,18.799470,,
@@ -18982,7 +18982,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 593291,"Mátraszőlős, Fő út",47.948274,19.697127,,
 593292,"Mátraszőlős, Fő út",47.948589,19.696563,,
 593293,"Mátraszőlős, autóbusz-forduló",47.960353,19.686733,,
-593294,"Pásztó, vasútállomás",47.918742,19.689410,,11015
+593294,"Pásztó, vasútállomás",47.919094,19.689364,,11015
 593295,"Pásztó, Rendelőintézet",47.918626,19.693608,,
 593296,"Pásztó, Rendelőintézet",47.918782,19.693617,,
 593297,"Salgótarján, megyeháza",48.098947,19.805537,,
@@ -21124,7 +21124,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 595692,"Fehérgyarmat, Mártírok utca 5.",47.983260,22.509953,,
 595693,"Fehérgyarmat, gimnázium",47.985910,22.516142,,
 595694,"Fehérgyarmat, gimnázium",47.985646,22.516260,,
-595696,"Fehérgyarmat, autóbusz-állomás",47.989871,22.515752,,12638
+595696,"Fehérgyarmat, autóbusz-állomás",47.989981,22.515626,,12638
 595697,"Fehérgyarmat, Alkotmány utca 16.",47.987074,22.520319,,
 595698,"Fehérgyarmat, Alkotmány utca 16.",47.987101,22.520275,,
 595699,"Penyige, Kossuth Lajos utca",47.994623,22.557965,,
@@ -39619,6 +39619,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 684597,"Tamási, Építők útja 52.",46.640437,18.291488,,
 684598,"Tamási, Építők útja 16.",46.639074,18.286755,,
 684602,"Tamási, városháza",46.631914,18.281611,,
+684603,"Tamási, vasútállomás",46.627553,18.289381,,
 684606,"Tamási (Miklósvár), Miklósvár 23.",46.620952,18.279499,,
 684607,"Tamási (Miklósvár), Miklósvár 23.",46.621168,18.279835,,
 684608,"Tamási (Miklósvár), parkerdő",46.616882,18.277878,,
