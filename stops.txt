@@ -12360,6 +12360,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 586135,"Balatonkeresztúr, iskola",46.698956,17.370076,,
 586136,"Balatonkeresztúr, templom",46.697365,17.368827,,
 586137,"Balatonkeresztúr, templom",46.697789,17.371165,,
+586138,"Balatonkeresztúr, templom",46.696470,17.370622,,
 586139,"Balatonkeresztúr, templom",46.698063,17.370142,,
 586140,"Balatonkeresztúr, Aradi utca",46.699745,17.409428,,
 586141,"Balatonkeresztúr, Aradi utca",46.699770,17.409220,,
