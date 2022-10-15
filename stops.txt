@@ -4768,7 +4768,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 577671,"Aggtelek, Baradla-barlang",48.469565,20.495440,,
 577672,"Kurityán, Egészségház",48.308576,20.624737,,
 577673,"Kurityán, Egészségház",48.309186,20.624304,,
-577674,"Kazincbarcika, autóbusz-állomás",48.245845,20.616235,,2828
 577675,"Kazincbarcika, autóbusz-állomás",48.245391,20.615703,,2828
 577676,"Kazincbarcika, Árpád fejedelem tér",48.246349,20.621622,,
 577677,"Kazincbarcika, Árpád fejedelem tér",48.246014,20.621064,,
@@ -4864,7 +4863,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 577775,"Sajókaza, iskola",48.284955,20.584308,,
 577776,"Sajókaza, iskola",48.284894,20.584495,,
 577777,"Sajókaza, emlékmű",48.284291,20.580961,,
-577778,"Sajókaza, emlékmű",48.284284,20.580696,,
 577779,"Sajókaza, községháza",48.282720,20.582538,,
 577780,"Sajókaza, községháza",48.282970,20.582672,,
 577781,"Sajókaza, vasútállomás bejárati út",48.272088,20.581083,,
@@ -23217,7 +23215,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 597889,"Kisvárda, fürdő",48.230391,22.068774,,
 597891,"Kisvárda, bútorbolt",48.212456,22.080234,,
 597892,"Kisvárda, bútorbolt",48.212709,22.080348,,
-597893,"Kisvárda, autóbusz-állomás",48.209293,22.078035,,12825
 597894,"Kisvárda, autóbusz-állomás",48.209075,22.077789,,12825
 597895,"Kisvárda, vasöntöde",48.210799,22.086404,,
 597896,"Kisvárda, vasöntöde",48.210896,22.086526,,
@@ -35933,7 +35930,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 623584,"Ózd, sajóvárkonyi elágazás",48.223171,20.302039,,
 623585,"Ózd, sajóvárkonyi elágazás",48.223374,20.302176,,
 623586,"Kazincbarcika, autóbusz-állomás",48.245391,20.615703,,
-623587,"Kazincbarcika, autóbusz-állomás",48.245845,20.616235,,
 623588,"Ózd, 48-as út 8.",48.213449,20.295402,,
 623590,"Ózd, Hotel Ózd",48.216698,20.294271,,
 623591,"Ózd, Hotel Ózd",48.216429,20.295163,,

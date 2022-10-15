@@ -995,6 +995,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16137,4237,Fehérgyarmat - Mátészalka - Jármi - Nyíregyháza,3
 21,16139,111,Vasútállomás - Kórház - Bánomi lakótelep - Bazilika - Lázár Vilmos utca - Vasútállomás - TESCO - Vasútállomás,3
 21,16147,5647,Mohács - M60 - Pécs,3
+21,16149,1499,Zalaegerszeg - Siófok - Kecskemét - Békéscsaba,3
 21,16157,5601,"Abaliget - Orfű, camping - Orfű - Pécs",3
 21,16161,3671,Jászberény - Gyöngyös,3
 21,16163,4413,Debrecen - Nyírmártonfalva - Debrecen,3
@@ -1989,7 +1990,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,18844,3763,Kazincbarcika - Miskolc,3
 21,18845,3764,Kazincbarcika - Sajóbábony - Sajóecseg - Miskolc,3
 21,18846,3766,Kazincbarcika - Sajószentpéter -  Miskolc,3
-21,18847,3767,Kaincbarcika (Herbolya) - Sajószentpéter - Miskolc,3
 21,18849,1578,Kehidakustány - Keszthely - Balatonlelle - Kaposvár - Pécs,3
 21,1885,6361,Tapolca - Balatonederics - Balatongyörök - Keszthely - Hévíz,3
 21,18851,5668,Boda - Gyód - Pécs,3
