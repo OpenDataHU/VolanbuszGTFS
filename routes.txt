@@ -239,7 +239,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1234,4816,Vésztő - Szeghalom - Békés - Békéscsaba,3
 21,1235,4819,Sarkadkeresztúr - Doboz - Békéscsaba,3
 21,1236,4820,Doboz - Békéscsaba,3
-21,1237,4821,Szanazug - Doboz - Békéscsaba,3
 21,12377,5913,Törökkoppány - Tab - Kaposvár,3
 21,1239,4824,Szeghalom/Körösújfalu - Sarkad - Gyula - Békéscsaba,3
 21,1240,4825,Gyula - Békéscsaba,3
@@ -743,8 +742,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1553,5430,Bonyhád - Kakasd - Szekszárd,3
 21,15530,2,Vasútállomás - Fű utca - Szent István utca - Vasútállomás,3
 21,15532,1,Henész - Autóbusz-állomás,3
-21,15533,2,Zrínyi utca - Posta,3
-21,15534,3,Kossuth utca 13. - Autóbusz-állomás - Zrínyi utca,3
 21,15535,4,Kivadár - Autóbusz-állomás,3
 21,15536,1,Szakközépiskola - Autóbusz-állomás - Arany János utca,3
 21,1554,5431,Dombóvár - Kurd - Bonyhád - Szekszárd,3
