@@ -992,6 +992,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16137,4237,Fehérgyarmat - Mátészalka - Jármi - Nyíregyháza,3
 21,16139,111,Vasútállomás - Kórház - Bánomi lakótelep - Bazilika - Lázár Vilmos utca - Vasútállomás - TESCO - Vasútállomás,3
 21,16147,5647,Mohács - M60 - Pécs,3
+21,16149,1499,Zalaegerszeg - Siófok - Kecskemét - Békéscsaba,3
 21,16157,5601,"Abaliget - Orfű, camping - Orfű - Pécs",3
 21,16161,3671,Jászberény - Gyöngyös,3
 21,16163,4413,Debrecen - Nyírmártonfalva - Debrecen,3
