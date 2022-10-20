@@ -391,7 +391,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1307,5015,Makó - Kiszombor - Deszk - Szeged,3
 21,1308,5020,Battonya - Makó - Szeged,3
 21,1309,5022,Gyula - Battonya - Makó - Szeged,3
-21,131,1375,Szeged - Tiszafüred - Miskolc,3
 21,1310,5023,Mezőhegyes - Pitvaros - Csanádpalota - Makó - Szeged,3
 21,13108,5485,Kárász - Izmény - Nagymányok - Bonyhád,3
 21,1311,5024,Kübekháza - Szeged,3
@@ -412,7 +411,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1327,5046,Kiskunhalas - Pusztamérges - Zákányszék - Szeged,3
 21,1328,5047,Pusztamérges - Ruzsa - Üllés - Szeged,3
 21,1329,5048,Dóc - Balástya - Forráskút - Üllés,3
-21,133,1377,Szolnok - Tiszafüred - Mezőkövesd - Miskolc,3
 21,1330,5049,Pusztamérges - Üllés - Szeged,3
 21,13304,8624,Komárom - Kisbér - Székesfehérvár,3
 21,13305,7069,"Kapuvár - Csorna - Győr, AUDI",3
@@ -1156,7 +1154,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16499,3930,Sárospatak - Sátoraljaújhely - Pálháza - Telkibánya,3
 21,165,1504,Pécs - Mohács - Baja - Szeged,3
 21,1650,5673,Kórós - Vajszló - Baksa - Pécs,3
-21,16500,4026,Csincse - Mezőkeresztes - Mezőkövesd,3
 21,1651,5676,Drávafok - Sellye - Vajszló - Baksa - Pécs,3
 21,16514,7A,Helyi autóbusz-állomás - Kórház - Fáy körút - Kórház - Helyi autóbusz-állomás - Uzoni iskola,3
 21,16515,19,Ipari park - Kotyháza - TESCO - Helyi autóbusz-állomás - Somoskő - Salgóbánya,3
@@ -2017,7 +2014,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,19166,492,Zsámbok - Tóalmás - Kóka - Sülysáp,3
 21,19167,487,Szentlőrinckáta - Tóalmás - Tápiószecső,3
 21,1917,6186,Zalakaros - Nemesvid - Marcali,3
-21,19180,1448,Salgótarján - Eger - Tiszafüred - Debrecen,3
 21,19181,15Y,"Tiszaliget, Campus - Vasútállomás",3
 21,1919,5972,Nagykanizsa - Iharosberény - Böhönye - Kaposvár,3
 21,192,1535,Jászberény/Szolnok - Kecskemét - Baja - Pécs,3
@@ -2845,7 +2841,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2639,1040,Gyöngyös - Hatvan - Gödöllő - Budapest,3
 21,2640,1080,Kecskemét - Lajosmizse - Dabas - Budapest,3
 21,2649,1254,Kisbér - Mór - Bicske - Budapest,3
-21,2652,4157,Mezőkövesd - Eger - Ózd,3
 21,2653,4411,Szakoly - Nyíradony,3
 21,2655,5264,Szank - Jászszentlászló - Kiskunfélegyháza,3
 21,2656,5800,Erdősmecske - Palotabozsok - Mohács,3
