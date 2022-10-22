@@ -1433,21 +1433,17 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,17321,7A,"Csengery utca, Király Jenő utca - Híd utca - Jereván lakótelep",3
 21,17322,7B,"Csengery utca, Király Jenő utca - Híd utca - Virágvölgy - Jereván lakótelep",3
 21,17323,7,"Csengery utca, Király Jenő utca - Kórház - Híd utca - Jereván lakótelep",3
-21,17325,10Y,"Kertváros, Hajnal tér - Ady Endre út - Jereván lakótelep",3
 21,17326,10,Kertváros felső - Bánfalvi út - Jereván lakótelep,3
 21,17327,11A,Jereván lakótelep - Faraktár utca - Csengery utca - Thököly tér,3
 21,17328,11Y,Keleti rendező - Thököly tér,3
 21,17329,11,Thököly tér - Kórház - Csengery utca - Faraktár utca - Jereván lakótelep,3
 21,1733,5918,Zimány - Kaposvár,3
-21,17330,12A,"Kőszegi út, Sarudi utca - József Attila lakótelep - Lackner Kristóf utca",3
 21,17332,12,"Kőszegi út, Sarudi utca - József Attila lakótelep - Jereván lakótelep",3
 21,17333,13B,Sopronkőhida - Tómalomfürdő - Híd utca - Jereván lakótelep,3
 21,17335,13,Sopronkőhida - Híd utca - Jereván lakótelep,3
-21,17338,16,Ágfalvi úti lakótelep - Baross út - Lackner Kristóf utca,3
 21,17339,17,Keleti rendező - Csengery utca - Jereván lakótelep,3
 21,1734,5920,Baté - Taszár - Kaposvár,3
 21,17340,20,"Győri út, Erzsébet kórház - Csengery utca - Jereván lakótelep",3
-21,17341,21A,Lackner Kristóf utca - Bánfalvi út - Ágfalvi úti lakótelep,3
 21,17343,22,"Ipar körút, vámudvar - Csengery utca - Bánfalvi út - Ágfalvi úti lakótelep",3
 21,17344,27B,"Csengery utca, Király Jenő utca - Kórház - Híd utca - Aranyhegyi lakópark - Virágvölgy - Jereván lakótelep",3
 21,17345,27,"Csengery utca, Király Jenő utca - Kórház - Híd utca - Aranyhegyi lakópark - Jereván lakótelep",3
@@ -2465,7 +2461,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,21985,3136,Mátraterenye - Nemti - Szuha,3
 21,2199,7300,Zirc - Veszprém,3
 21,2200,7301,Dudar - Bakonyoszlop - Zirc - Veszprém,3
-21,22017,8051,,3
 21,2202,7304,Bakonynána - Zirc - Veszprém,3
 21,2203,7305,Bakonyszentkirály - Dudar - Zirc - Veszprém,3
 21,2204,7306,Bakonyél - Zirc - Veszprém,3
