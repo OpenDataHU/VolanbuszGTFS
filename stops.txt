@@ -7140,7 +7140,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 580349,"Boldogkőváralja, arkai elágazás",48.339986,21.238629,,
 580350,"Boldogkőváralja, arkai elágazás",48.339723,21.238071,,
 580351,"Boldogkőváralja, arkai elágazás",48.339861,21.238554,,
-580352,"Boldogkőváralja, arkai elágazás",48.339600,21.237964,,
 580353,"Arka, községháza",48.355366,21.251510,,
 580354,"Boldogkőváralja, Kossuth utca",48.340338,21.228986,,
 580355,"Boldogkőváralja, Kossuth utca",48.340211,21.229526,,
