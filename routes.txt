@@ -142,10 +142,10 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1142,4562,"Komádi, Dobaipuszta - Komádi",3
 21,1144,4600,Zagyvarékas - Szolnok,3
 21,1145,4601,Jászberény - Jászalsószentgyörgy - Szolnok,3
-21,1146,4602,Gyöngyös - Jászberény - Szolnok,3
+21,1146,4602,Gyöngyös - Jászberény - Szolnok - Kunszentmárton,3
 21,1147,4603,Jászivány - Jászladány - Szolnok,3
 21,1148,4605,Besenyszög - Szolnok,3
-21,1149,4606,Tiszasüly - Nagykörű - Szolnok,3
+21,1149,4606,Tiszasüly - Nagykörű - Szolnok - Tószeg,3
 21,115,1346,Békéscsaba - Eger,3
 21,1150,4608,Tiszafüred - Kunhegyes - Szolnok,3
 21,1151,4609,Tiszafüred - Kunhegyes - Törökszentmiklós - Szolnok,3
@@ -178,7 +178,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1177,4657,Jászivány - Jászapáti,3
 21,1178,4659,Jászalsószentgyörgy - Jászladány - Jászapáti - Jászberény,3
 21,1179,4660,Újszász - Jászalsószentgyörgy - Jásberény,3
-21,118,1349,Salgótarján - Nemti/Mátraterenye - Bükkszék - Eger,3
+21,118,1349,Salgótarján - Nemti - Mátraterenye - Bükkszék - Eger,3
 21,1180,4662,Tiszasüly - Jászladány - Jászalsószentgyörgy - Jászberény,3
 21,1181,4663,Jászboldogháza-Jánoshida vá. - Jánoshida,3
 21,1182,523,Farmos - Portelek - Jászberény,3
@@ -377,7 +377,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,12993,6092,Villány - Siklós - Sellye - Kétújfalu - Barcs,3
 21,12994,6421,Nemesdéd - Pat - Miháld - Nagykanizsa,3
 21,12995,6429,Böhönye - Inke - Nagykanizsa,3
-21,13,1024,Hollókő - Pásztó - Budapest,3
+21,13,1024,Szécsény - Hollókő - Pásztó - Budapest,3
 21,130,1374,Szeged - Békéscsaba - Debrecen - Miskolc,3
 21,1300,5004,Csongrád - Szentes - Mindszent - Hódmezővásárhely - Szeged,3
 21,13003,6238,Lenti - Páka - Gutorfölde - Bak - Zalaegerszeg,3
@@ -598,7 +598,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,14854,4883,Gyomaendrőd - Szeghalom - Zsadány - Sarkad - Gyula,3
 21,14855,6365,Vállus - Várvölgy - Zalaszántó - Gyenesdiás,3
 21,1486,5330,Bácsszentgyörgy - Gara - Vaslút - Baja,3
-21,14860,3473,Füzesabony - Kápolna - Verpelét - Sirok - Eger,3
+21,14860,3473,Verpelét - Sirok - Eger,3
 21,14863,5429,Paks/Fadd-Dombori - Fadd - Tolna - Szekszárd,3
 21,14864,7847,Nyirád - Pusztamiske - Devecser - Kolontár - Ajka,3
 21,1487,5331,Csátalja - Gara - Baja,3
@@ -862,7 +862,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15789,14,Tési domb - Szabadság tér,3
 21,15790,1Y,"Inota, Erőmű lakótelep - Jókai Mór utca",3
 21,15797,536,Törtel - Abony,3
-21,15798,3652,Hatvan - Nagyréde - Gyöngyös - Gyöngyössolymos,3
+21,15798,3652,Gyöngyössolymos - Gyöngyös - Nagyréde - Hatvan,3
 21,15808,11,Vasútállomás - Kórház - Bánomi lakótelep - Bazilika - Lázár Vilmos utca - Vasútállomás,3
 21,15809,1,Vasútállomás - TESCO - Vasútállomás - Lázár Vilmos utca - Bazilika - Bánomi lakótelep - Kórház - Vasútállomás,3
 21,15810,43,Bánomi lakótelep - Vasútállomás - Kertváros - Vasútállomás - Bánomi lakótelep,3
@@ -995,7 +995,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16147,5647,Mohács - M60 - Pécs,3
 21,16149,1499,Zalaegerszeg - Siófok - Dunaújváros - Kecskemét - Békéscsaba,3
 21,16157,5601,"Abaliget - Orfű, camping - Orfű - Pécs",3
-21,16161,3671,Jászberény - Gyöngyös,3
+21,16161,3671,Jászberény - Vámosgyörk - Gyöngyös,3
 21,16163,4413,Debrecen - Nyírmártonfalva - Debrecen,3
 21,16166,4320,Porcsalma - Mátészalka,3
 21,16167,3628,Mátrai Erőmű Zrt. - Gyöngyös - Rózsaszentmárton - Petőfibánya - Vörösmajor - Hatvan,3
@@ -1102,7 +1102,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1638,5650,Pécs - [M60-M6]/Mohács - Baja,3
 21,16399,3436,Kisköre - Tiszanána - Kömlő - Maklár - Eger,3
 21,164,1503,Zalaegerszeg - Kaposvár - Pécs - Baja - Szeged,3
-21,16400,3691,Mátrai Erőmű Zrt. - Gyöngyössolymos - Gyöngyös - Gyöngyöstarján,3
+21,16400,3691,Gyöngyöstarján - Gyöngyös - Gyöngyössolymos - MVM Mátra,3
 21,16404,4503,"Pocsaj-Esztár, vá. - Esztár - Pocsaj, aut.ford.",3
 21,16408,16,"Ajka, autóbusz-állomás - Ajka, noszlopi elágazás",3
 21,1641,5660,Túrony - Szava - Pogány - Pécs,3
@@ -1137,13 +1137,13 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16455,5,Tündérfátyol utca - Duna lakópark - Ujhelyi iskola - Evangélikus templom - Vasútállomás,3
 21,1646,5667,Gyód - Keszü - Pécs,3
 21,16467,1R,Vasútállomás - Fellner Jakab út,3
-21,16468,3692,Mátrai Erőmű Zrt. - Markaz - Domoszló - Vécs,3
-21,16469,3693,Mátrai Erőmű Zrt. - Visonta - Gyöngyös,3
+21,16468,3692,Vécs - Domoszló - Markaz - MVM Mátra,3
+21,16469,3693,Gyöngyös - Visonta - MVM Mátra,3
 21,1647,5670,Baksa - Görcsöny - Pécs,3
-21,16470,3694,Mátrai Erőmű Zrt. - Abasár - Gyöngyös,3
-21,16471,3695,Mátrai Erőmű Zrt. - Ludas - Tarnaméra - Heves,3
-21,16472,3696,"Mátrai Erőmű Zrt. - Visonta, bánya irodaház - Gyöngyös",3
-21,16473,3697,Mátrai Erőmű Zrt. - Pálosvörösmart - Gyöngyössolymos - Gyöngyös - Atkár - Adács,3
+21,16470,3694,Gyöngyös - Abasár - MVM Mátra,3
+21,16471,3695,Heves - Tarnaméra - Ludas - MVM Mátra,3
+21,16472,3696,"Gyöngyös - Visonta, bánya irodaház - MVM Mátra",3
+21,16473,3697,Adács - Atkár - Gyöngyös - Gyöngyössolymos - Pálosvörösmart - MVM Mátra,3
 21,16474,3698,"Ecséd - Rózsaszentmárton - Gyöngyöspata - Gyöngyös - Visonta, bánya irodaház",3
 21,16479,3226,Vörösmajor - Palotás - Buják,3
 21,1648,5671,Siklós - Harkány - Görcsöny - Pécs,3
@@ -1319,8 +1319,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,17088,432,Buják - Szirák - Aszód - Budapest,3
 21,17089,434,Buják - Szirák - Aszód - Budapest,3
 21,1709,5850,Felsőszentmárton - Sellye,3
-21,17090,3463,Liszkó - Kőkútpuszta - Sirok,3
-21,17091,3699,Mátrai Erőmű Zrt. - Abasár - Gyöngyös,3
+21,17090,3463,Sirok - Liszkó - Kőkútpuszta - Sirok,3
+21,17091,3699,Gyöngyös - Abasár - MVM Mátra,3
 21,17092,5076,Kecskemét - Daimler 1. kapu - Kiskunfélegyháza - Kistelek - Szeged,3
 21,17093,5209,Szarvas - Kunszentmárton - Csépa - Tiszaug - Kecskemét,3
 21,171,1510,Veszprém - Székesfehérvár - Solt - Szeged,3
@@ -2035,7 +2035,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1926,6440,Letenye - Sormás - Nagykanizsa,3
 21,1927,6445,Lispeszentadorján - Bázakerettye - Borsfa - Letenye - Nagykanizsa,3
 21,1928,6446,Lenti - Csömödér - Bázakerettye - Nagykanizsa,3
-21,19286,3093,Karancskeszi - Etes - Salgótarján,3
+21,19286,3093,Karancslapujtő - Etes - Salgótarján,3
 21,1930,6448,Lenti - Nova - Csömödér - Bázakerettye - Nagykanizsa,3
 21,1932,6454,Lenti - Tormafölde/Tornyiszentmiklós - Letenye - Nagykanizsa,3
 21,19335,10,Tündérfátyol utca - Ujhelyi iskola - Evangélikus templom - Moson - Vasútállomás,3
@@ -2425,12 +2425,12 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2182,7252,Tejfalusziget - Dunakiliti - Mosonmagyaróvár,3
 21,2183,7253,Mosonmagyaróvár - Tejfalusziget - Dunasziget - Mosonmagyaróvár,3
 21,21835,3056,Mátranovák - Bátonyterenye - Salgótarján,3
-21,21836,3067,Csécse - Pásztó - Salgótarján,3
+21,21836,3067,Csécse - Pásztó - Bátonyterenye - Salgótarján,3
 21,21837,3152,Szuha - Bátonyterenye,3
-21,21838,3153,Szuha (Mátraalmás) - Mátramindszent - Nemti - Dorogháza - Bátonyterenye,3
-21,21839,3154,Szuha - Mátramindszent - Dorogháza - Bátonyterenye,3
+21,21838,3153,Szuha - Mátramindszent - Nemti - Dorogháza - Bátonyterenye,3
+21,21839,3154,Szuha - Mátramindszent - Dorogháza - Nemti - Bátonyterenye,3
 21,2184,7254,Tejfalusziget - Dunasziget - Halászi - Mosonmagyaróvár,3
-21,21840,3156,Mátranovák - Nemti - Bátonyterenye,3
+21,21840,3156,Mátranovák - Nádújfalu - Mátramindszent - Nemti - Bátonyterenye,3
 21,21841,3241,Pásztó - Kozárd - Ecseg - Csécse - Pásztó,3
 21,21842,3261,Buják - Szurdokpüspöki - Pásztó,3
 21,21843,3262,Erdőkürt - Vanyarc - Szirák - Szarvasgede - Pásztó,3
@@ -2439,7 +2439,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,21846,3266,Vanyarc - Erdőkürt - Kálló - Palotás - Csécse - Pásztó,3
 21,21847,3323,Balassagyarmat - Bercel - Vanyarc - Bér,3
 21,21848,3324,Becske - Nógrádkövesd - Romhány - Rétság,3
-21,21849,3607,Szentkút - Pásztó - Apc - Hatvan,3
+21,21849,3607,Mátraverebély (Szentkút) - Pásztó - Apc - Hatvan,3
 21,2185,7255,Rajka - Dunasziget - Mosonmagyaróvár,3
 21,2186,7256,Hédervár - Lipót - Mosonmagyaróvár,3
 21,2187,7258,Ásványráró - Darnózseli - Lipót - Mosonmagyaróvár,3
@@ -2518,6 +2518,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2231,7348,Dörgicse - Balatonfüred - Veszprém,3
 21,22319,2,,3
 21,2232,7350,Balatonfüred - Csopak - Veszprém,3
+21,22330,9603T,,3
+21,22331,9606T,,3
 21,2234,7352,Balatonfüred - Csopak - Veszprém,3
 21,2235,7353,Balatonfüred - Csopak - Veszprém,3
 21,2237,7357,Keszthely - Tapolca - Badacsonytomaj - Balatonfüred - Veszprém,3
@@ -3017,7 +3019,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,629,3240,Bokor - Csécse - Pásztó,3
 21,63,1134,Siklós - Pécs - Szekszárd - Dunaújváros - Budapest,3
 21,631,3258,Galgaguta - Becske,3
-21,632,3259,Galgaguta - Nógrádkövesd - Szécsénke,3
+21,632,3259,Bercel - Galgaguta - Nógrádkövesd - Szécsénke,3
 21,634,3271,Berkenye - Nógrád - Rétság - Romhány,3
 21,635,328,Dejtár - Rétság - Tolmács - Vác,3
 21,637,3286,Tolmács - Rétság - Bánk,3
@@ -3055,7 +3057,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,669,3409,Borsodnádasd - Bekölce - Eger,3
 21,67,1174,Kaposvár - Igal - Siófok - Székesfehérvár - Budapest,3
 21,670,3410,"Ózd - Bélapátfalva - Eger, Tompa utca",3
-21,671,3411,Nagyvisnyó/Ózd - Bélapátfalva - Eger,3
+21,671,3411,Nagyvisnyó - Bélapátfalva - Eger,3
 21,672,3415,Szomolya - Noszvaj - Eger,3
 21,673,3416,Mezőkövesd - Bogács - Eger,3
 21,674,3417,Bükkzsérc - Noszvaj - Eger,3
@@ -3063,7 +3065,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,676,3419,Mezőkövesd - Novaj - Eger,3
 21,677,3420,Novaj - Ostoros - Eger,3
 21,678,3423,Egerfarmos/Mezőtárkány - Füzesabony - Kerecsend/Maklár - Eger,3
-21,679,3424,Egerfarmos/Mezőtárkány - Füzesabony - Kerecsend/Maklár - Eger,3
+21,679,3424,Jászberény - Jászapáti - Heves - Füzesabony - Kerecsend/Maklár - Eger,3
 21,68,1176,Kaposvár - Igal - Tab/Kereki - Budapest,3
 21,681,3426,Egerfarmos - Füzesabony - Maklár - Eger,3
 21,682,3430,Tiszanána - Füzesabony - Kerecsend - Eger,3
@@ -3077,13 +3079,13 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,69,1177,Barcs - Nagyatád - Marcali - Siófok - Budapest,3
 21,690,3444,Heves - Boconád - Tarnabod - Kápolna - Eger,3
 21,691,3445,Gyöngyös - Kápolna - Eger,3
-21,692,3446,Tófalu - Kápolna - Eger,3
+21,692,3446,Eger - Egerszalók - Verpelét - Tófalu - Kápolna - Eger,3
 21,693,3448,Nagykökényes - Hatvan - Eger,3
-21,694,3450,Kerecsend - Demjén - Eger,3
+21,694,3450,Füzesabony - Kerecsend - Demjén - Eger,3
 21,695,3455,Verpelét - Eger,3
-21,696,3456,Erdőtelek - Kál-Kápolna vá. - Tófalu - Liszkó/Verpelét - Eger,3
+21,696,3456,Nagyút - Kál-Kápolna vá. - Tófalu - Liszkó/Verpelét - Eger,3
 21,697,3457,Gyöngyös - Domoszló - Tarnaszentmária - Verpelét - Eger,3
-21,698,3458,Vécs - Kisnána - Tófalu - Verpelét - Eger,3
+21,698,3458,Vécs - Kisnána - Verpelét - Eger,3
 21,7,1010,Salgótarján - Szécsény - Balassagyarmat - Budapest,3
 21,70,1183,Nagykanizsa - Zalakaros - Budapest,3
 21,700,3462,Pétervására - Terpes - Bükkszék - Verpelét - Eger,3
@@ -3110,7 +3112,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,721,3511,Egerfarmos - Mezőtárkány - Füzesabony,3
 21,723,3550,Kál-Kápolna vá. - Heves,3
 21,724,3560,Pély - Heves,3
-21,725,3561,Kisköre - Kömlő - Heves,3
+21,725,3561,Tiszafüred - Abádszalók - Kisköre - Kömlő - Heves,3
 21,726,3565,Parádsasvár - Parád - Recsk,3
 21,727,3566,Bodony - Parád - Recsk,3
 21,728,3567,Parádhuta - Parád - Recsk,3
@@ -3120,23 +3122,23 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,732,3601,Apc - Petőfibánya - Hatvan,3
 21,733,3602,Petőfibánya - Hatvan,3
 21,734,3603,Vörösmajor - Selyp - Gyöngyöspata/Apc,3
-21,735,3604,Apc - Petőfibánya - Hatvan - Gyöngyös - Eger,3
-21,736,3605,Kozárd - Selyp - Hatvan,3
-21,737,3610,Szűcsi - Rózsaszentmárton - Ecséd - Hatvan,3
+21,735,3604,Apc - Petőfibánya - Hatvan - Gyöngyös - Parádfürdő - Eger,3
+21,736,3605,Ecseg - Lőrinci - Hatvan,3
+21,737,3610,Gyöngyöspata - Szűcsi - Rózsaszentmárton - Ecséd - Hatvan,3
 21,738,3612,Hatvan - Csány - Gyöngyös,3
 21,74,1188,Bajánsenye - Zalalövő - Zalaegerszeg - Hévíz - Budapest,3
 21,741,3622,Boldog - Hatvan,3
-21,742,3623,Kálló - Verseg - Fenyőharaszt - Hatvan,3
+21,742,3623,Kálló - Verseg - Fenyőharaszt/Heréd - Hatvan,3
 21,743,3624,Buják - Erdőtarcsa/Bér - Verseg - Nagykökényes - Heréd - Hatvan,3
 21,747,3640,Kerekharaszt - Hatvan,3
 21,748,348,Vác - Aszód - Hatvan,3
-21,749,3650,Mátrafüred - Gyöngyössolymos - Gyöngyös,3
+21,749,3650,Abasár - Mátrafüred - Gyöngyössolymos - Gyöngyös - Nagyréde,3
 21,75,1190,Hévíz - Keszthely - Balatonfüred - Balatonalmádi - Budapest,3
 21,751,3655,Mátraszentimre - Kékestető - Mátraháza - Gyöngyös,3
 21,752,3656,Bükkszék - Parád - Mátraháza - Gyöngyös,3
 21,753,3660,Eger - Verpelét - Domoszló - Gyöngyös,3
-21,754,3661,Gyöngyös - Abasár - Visonta - Halmajugra,3
-21,755,3662,Vécs - Domoszló - Abasár - Gyöngyös - Mátrai Erőmű Zrt.,3
+21,754,3661,Halmajugra - Visonta - Abasár - Gyöngyös,3
+21,755,3662,Vécs - Domoszló - Abasár - Gyöngyös,3
 21,756,3663,Visonta - Gyöngyös,3
 21,757,3664,Gyöngyös - Abasár - Pálosvörösmart - Mátrafüred - Gyöngyös,3
 21,758,3665,Heves - Ludas - Detk - Visonta - Gyöngyös,3
@@ -3151,12 +3153,12 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,768,3677,Apc - Petőfibánya - Szűcsi - Gyöngyös,3
 21,769,3678,Hatvan - Vörösmajor - Petőfibánya - Rózsaszentmárton - Gyöngyös,3
 21,77,1194,Zalaszentgrót - Keszthely - Budapest,3
-21,770,3679,Apc - Lőrinci - Hatvan - Gyöngyös,3
+21,770,3679,Apc - Lőrinci - Hatvan - Gyöngyös - MVM Mátra,3
 21,771,3680,Rózsaszentmárton - Gyöngyöspata - Gyöngyöstarján - Gyöngyös,3
 21,772,3681,Károlytáró - Gyöngyösoroszi - Gyöngyös,3
-21,774,3683,"Feldebrő - Aldebrő - Kápolna - Visonta, bánya irodaház",3
-21,775,3684,Nagyút - Kál - Verpelét - Mátrai Erőmű Zrt.,3
-21,776,3685,Nagyfüged - Tarnaméra - Tarnaörs,3
+21,774,3683,Tarnaszentmária/Kisnána - Verpelét - Feldebrő - Kápolna - MVM Mátra,3
+21,775,3684,Nagyút - Kál - Verpelét - MVM Mátra,3
+21,776,3685,Tarnaörs - Tarnaméra - Nagyfüged - Gyöngyös,3
 21,779,3688,Visznek - Jászárokszállás - Adács - Gyöngyös,3
 21,780,3689,Tarnabod - Heves,3
 21,781,3700,Szirmabesenyő - Miskolc,3
