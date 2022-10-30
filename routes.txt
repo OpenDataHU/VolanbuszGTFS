@@ -459,7 +459,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1377,5190,Nagylak - Magyarcsanád - Apátfalva - Makó - Szeged,3
 21,1378,5202,Köröstetétlen - Jászkarajenő - Tiszakécske - Szentkirály - Kecskemét,3
 21,1379,5203,Tiszakécske - Szentkirály/Lakitelek - Kecskemét,3
-21,138,1383,Eger - Bükkszentkereszt - Miskolc,3
 21,1380,5205,Szentkirály - Kecskemét,3
 21,1381,5207,Waldorf iskola - Kecskemét,3
 21,1382,5208,Gyula - Békéscsaba - Szarvas - Kecskemét,3
@@ -1169,7 +1168,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16522,1A,Uzoni iskola - Helyi autóbusz-állomás - Zagyvaróna,3
 21,16523,2A,Somlyóbánya - Helyi autóbusz-állomás,3
 21,16524,2C,Somlyóbánya - Füleki úti körforgalom - Helyi autóbusz-állomás,3
-21,16525,2T,"Somlyóbánya, üdülőtelep - Helyi autóbusz-állomás",3
 21,16526,3,Hősök út - TESCO - Helyi autóbusz-állomás,3
 21,16527,3C,Hősök út - Gorkijtelep - Eperjestelep - Helyi autóbusz-állomás,3
 21,16528,4,Baglyasalja - Helyi autóbusz-állomás,3
@@ -1782,7 +1780,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,17721,882,Esztergom - Visegrád - Szentendre - Budapest,3
 21,17722,889,Esztergom - Visegrád - Szentendre - Budapest,3
 21,17723,884,Esztergom - Visegrád - Szentendre - Budapest,3
-21,17724,883,Esztergom - Visegrád - Szentendre - Budapest,3
 21,17725,872,"Budapest - Szentendre, Püspökmajori lakótelep - Budapest",3
 21,17726,895,Szigetmonostor - Surány - Tahitótfalu - Szentendre - Budapest,3
 21,17727,893,Szigetmonostor - Surány - Tahitótfalu - Szentendre - Budapest,3
@@ -1791,7 +1788,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1773,6038,Kötcse - Balatonföldvár - Siófok,3
 21,17730,871,Pilisszentlászló - Szentendre - Leányfalu,3
 21,17731,870,Pilisszentlászló - Szentendre,3
-21,17732,868,Dömörkapu - Szentendre,3
 21,17733,874,"Szentendre, aut.áll. - Skanzen - Sportpálya - Szentendre, aut.áll.",3
 21,17734,878,"Szentendre, aut.áll. - Skanzen - Sportpálya - Szentendre, aut.áll.",3
 21,17735,876,"Szentendre, aut.áll. - Skanzen - Sportpálya - Szentendre, aut.áll.",3
@@ -1831,7 +1827,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,17779,727,Budapest - Diósd - Diósdliget - Budapest,3
 21,17780,733,"Érd, aut.áll/Budapest - Érd, Bem tér - Érd, Iparos u. - Budapest/Érd, Bem tér",3
 21,17782,21A,Autóbusz-állomás - Török Ignác utca - Autóbusz-állomás,3
-21,17784,389,"Veresegyház, medveotthon - Veresegyház, központ",3
 21,17785,446,Kóka - Dány - Isaszeg - Gödöllő,3
 21,17786,3889,Sárospatak - Kenézlő - Viss - Zalkod - Kenézlő - Sárospatak,3
 21,17787,1216,Zalaszentgrót - Sümeg - Tapolca - Veszprém - Budapest,3
@@ -2455,8 +2450,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2196,7287,Kapuvár - Csorna - Mosonszolnok - Mosonmagyaróvár,3
 21,2197,7292,Csemezpuszta - Hegyeshalom - Mosonmagyaróvár,3
 21,2198,7294,Rajka - Mosonmagyaróvár,3
-21,21983,3895,,3
-21,21984,3896,,3
 21,21985,3136,Mátraterenye - Nemti - Szuha,3
 21,2199,7300,Zirc - Veszprém,3
 21,2200,7301,Dudar - Bakonyoszlop - Zirc - Veszprém,3
