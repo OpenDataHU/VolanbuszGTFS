@@ -40980,8 +40980,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 739251,"Szeged, vasútállomás",46.240621,20.143017,,
 739254,"Szentes, ABC",46.664773,20.249487,,
 739279,"Körösszakál, autóbusz-váróterem",47.018687,21.593949,,
-739304,"Siófok, Szépvölgyi utcai temető",46.893400,18.034924,,
-739305,"Siófok, Kele utcai forduló",46.898591,18.061002,,
 7572,"Tab, autóbusz-állomás",46.733924,18.039051,1,
 7744,"Sopron, autóbusz-állomás",47.688386,16.586079,1,
 7844,"Győr, autóbusz-állomás",47.681048,17.636449,1,

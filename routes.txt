@@ -1409,7 +1409,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1729,5910,Gadács - Igal - Ráksi - Kaposvár,3
 21,17290,31A,"Győrszentiván, Homoksor - Révai Miklós utca",3
 21,17291,31,"Kálmán Imre út - Győrszentiván, Homoksor - Révai Miklós utca",3
-21,17295,37T,Zechmeister utca - Adyváros - Nádorvárosi köztemető - Marcalváros,3
 21,17296,37,Gyirmót - Ménfőcsanak - Nádorvárosi köztemető - Adyváros - Révai Miklós utca,3
 21,17297,38,Ipari park - Szabadhegy - Adyváros - Révai Miklós utca,3
 21,17298,41,"Honvédség - Adyváros - Zöld utca, Soproni út",3
@@ -2510,8 +2509,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2231,7348,Dörgicse - Balatonfüred - Veszprém,3
 21,22319,2,Nagy út - Vasútállomás,3
 21,2232,7350,Balatonfüred - Csopak - Veszprém,3
-21,22330,3T,Kele utcai temető - Autóbusz-állomás,3
-21,22331,6T,Szépvölgyi utcai temető - Autóbusz-állomás,3
 21,2234,7352,Balatonfüred - Csopak - Veszprém,3
 21,2235,7353,Balatonfüred - Csopak - Veszprém,3
 21,2237,7357,Keszthely - Tapolca - Badacsonytomaj - Balatonfüred - Veszprém,3
