@@ -40979,6 +40979,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 739254,"Szentes, ABC",46.664773,20.249487,,
 739279,"Körösszakál, autóbusz-váróterem",47.018687,21.593949,,
 739328,"Bonyhád, autóbusz-állomás",46.297745,18.534746,,
+739370,"Siklós, autóbusz-állomás",45.856294,18.292399,,
 7572,"Tab, autóbusz-állomás",46.733924,18.039051,1,
 7744,"Sopron, autóbusz-állomás",47.688386,16.586079,1,
 7844,"Győr, autóbusz-állomás",47.681048,17.636449,1,
