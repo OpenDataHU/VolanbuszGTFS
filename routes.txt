@@ -1242,7 +1242,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1681,5516,Bakóca - Sárd - Dombóvár,3
 21,1682,5730,"Bakóca - Godisa, vá.",3
 21,1683,5740,Gödre - Szágy - Sásd - Komló,3
-21,1685,5424,"Bátaszék - Várdomb - Decs - Szekszárd - Szekszárd, szőlőhegy - Várdomb/Decs - Sárpilis",3
+21,1685,5805,Bátaszék - Dunaszekcső - Mohács,3
 21,1686,5809,Pécsvárad - Somberek - Mohács,3
 21,1687,5811,Erdőfű - Kölked - Mohács,3
 21,1688,5813,Harkány - Villány - Lippó - Mohács,3
@@ -2511,6 +2511,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2232,7350,Balatonfüred - Csopak - Veszprém,3
 21,2234,7352,Balatonfüred - Csopak - Veszprém,3
 21,2235,7353,Balatonfüred - Csopak - Veszprém,3
+21,22368,5424,"Bátaszék - Várdomb - Decs - Szekszárd - Szekszárd, szőlőhegy - Várdomb/Decs - Sárpilis",3
 21,2237,7357,Keszthely - Tapolca - Badacsonytomaj - Balatonfüred - Veszprém,3
 21,2238,7358,Dörgicse - Balatonfüred - Veszprém,3
 21,2239,7360,Pula - Nagyvázsony - Veszprém,3

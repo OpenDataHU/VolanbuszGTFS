@@ -36031,7 +36031,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 628452,"Sopron, Jereván lakótelep, végállomás",47.693377,16.572981,,
 628454,"Sopron, Jereván lakótelep, végállomás",47.693570,16.573653,,
 628455,"Sopron, Jereván lakótelep, végállomás",47.693332,16.573213,,
-628456,"Sopron, Jereván lakótelep, végállomás",47.693399,16.573429,,
 628459,Tómalmi elágazás,47.718696,16.616752,,
 628460,"Sopron, Jánostelep, bejárati út",47.715446,16.614189,,
 628461,"Sopronkőhida, Pesti Barnabás utca",47.723222,16.620646,,
