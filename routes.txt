@@ -891,6 +891,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15859,2,Vasútállomás - Fellner Jakab út,3
 21,1586,5476,Cikó - Bonyhád,3
 21,15861,3,Fényes fürdő - Autóbusz-állomás,3
+21,15862,4,,3
 21,15863,5A,Autóbusz-állomás - Kertváros - Autóbusz-állomás,3
 21,15867,5,Fellner Jakab úti forduló - Kertváros - Fellner Jakab úti forduló,3
 21,15868,7K,Agostyán - Kossuth tér,3
@@ -1023,6 +1024,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16187,10,Szolnok ispán körút - TIGÁZ - Volánbusz - Interspar - Szolnok ispán körút,3
 21,16188,11,Mester út - Vásárcsarnok - Volánbusz,3
 21,16189,12,Szolnok ispán körút - Interspar - Volánbusz - TIGÁZ - Szolnok ispán körút,3
+21,1619,5602,Magyarhertelend - Orfű - Pécs,3
 21,16190,13,Vegyiművek - Vasútállomás,3
 21,16191,13Y,Vegyiművek - Alcsi Mezőgazdasági Zrt. - Vasútállomás,3
 21,16193,15,"Tiszaliget, Campus - Vasútállomás",3
@@ -1993,6 +1995,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,18846,3766,Kazincbarcika - Sajószentpéter -  Miskolc,3
 21,18849,1578,Keszthely/Zalakaros - Balatonlelle - Kaposvár - Pécs,3
 21,1885,6361,Tapolca - Balatonederics - Balatongyörök - Keszthely - Hévíz,3
+21,18850,1579,Badacsony - Keszthely - Balatonlelle - Kaposvár - Pécs,3
 21,18851,5668,Boda - Gyód - Pécs,3
 21,1886,6364,Tapolca/Balatonfüred - Szigliget - Keszthely - Hévíz,3
 21,1888,5974,Keszthely - Balatonszentgyörgy - Böhönye - Kaposvár,3
@@ -2434,6 +2437,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,21811,1758,Tatabánya - Veszprém - Balatonfüred,3
 21,21812,6777,Zalabér-Batyk vá. - Szajki tavak - Káld - Sárvár,3
 21,21813,7848,Celldömölk - Jánosháza - Ajka,3
+21,21816,5703,Komló - Orfű - Komló,3
 21,2182,7252,Tejfalusziget - Dunakiliti - Mosonmagyaróvár,3
 21,2183,7253,Mosonmagyaróvár - Tejfalusziget - Dunasziget - Mosonmagyaróvár,3
 21,21835,3056,Mátranovák - Bátonyterenye - Salgótarján,3
@@ -2528,6 +2532,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2231,7348,Dörgicse - Balatonfüred - Veszprém,3
 21,22319,2,Nagy út - Vasútállomás,3
 21,2232,7350,Balatonfüred - Csopak - Veszprém,3
+21,22322,5458,Paks - Cece - Sárbogárd - Székesfehérvár,3
 21,2234,7352,Balatonfüred - Csopak - Veszprém,3
 21,2235,7353,Balatonfüred - Csopak - Veszprém,3
 21,22368,5424,"Bátaszék - Várdomb - Decs - Szekszárd - Szekszárd, szőlőhegy - Várdomb/Decs - Sárpilis",3
@@ -2535,9 +2540,15 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2238,7358,Dörgicse - Balatonfüred - Veszprém,3
 21,22381,1M,,3
 21,22382,1T,,3
+21,22383,4T,,3
 21,22384,5T,,3
+21,22385,6T,,3
+21,22386,6,,3
+21,22387,9M,,3
+21,22388,9,,3
 21,22389,3487,,3
 21,2239,7360,Pula - Nagyvázsony - Veszprém,3
+21,22396,Ad�cs-Atk�,,3
 21,2240,7361,Veszprémfajsz - Nemesvámos - Veszprém,3
 21,2242,7363,Balatonfüred - Nemesvámos - Veszprém,3
 21,2243,7364,Balatonfüred - Tótvázsony - Veszprém,3
