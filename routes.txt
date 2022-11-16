@@ -2548,7 +2548,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,22388,9,,3
 21,22389,3487,,3
 21,2239,7360,Pula - Nagyvázsony - Veszprém,3
-21,22396,Ad�cs-Atk�,,3
+21,22396,Adács-Atkár,,3
 21,2240,7361,Veszprémfajsz - Nemesvámos - Veszprém,3
 21,2242,7363,Balatonfüred - Nemesvámos - Veszprém,3
 21,2243,7364,Balatonfüred - Tótvázsony - Veszprém,3
