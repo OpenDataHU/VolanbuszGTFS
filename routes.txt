@@ -557,7 +557,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,14683,7803,Németbánya - Bakonyjákó - Farkasgyepű - Városlőd - Kislőd - Ajka,3
 21,14686,6184,Balatonszentgyörgy - Szőcsénypuszta - Marcali,3
 21,14687,6193,Balatonszentgyörgy - Szegerdő - Szőkedencs,3
-21,14689,3753,"Miskolc, DIGÉP - Bükkszentkereszt - Répáshuta",3
 21,1469,5305,Katymár - Madaras - Bácsalmás,3
 21,14691,5412,Dunaszekcső - Bátaszék - Alsónána - Szekszárd,3
 21,14692,5413,Bátaszék - Mórágy - Alsónána - Szekszárd,3
