@@ -318,6 +318,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,12647,6296,Sümeg - Sümegcsehi/Mihályfa - Zalaszentgrót - Pókaszepetk - Zalaegerszeg,3
 21,12648,5707,Dombóvár - Szászvár - Komló,3
 21,1265,4885,Geszt - Sarkadkeresztúr - Gyula - Békéscsaba,3
+21,12659,410,,3
 21,1266,4890,Kétegyháza - Elek - Gyula,3
 21,1267,4892,Elek - Kétegyháza - Gyula,3
 21,1268,4894,Mezőkovácsháza - Battonya - Lőkösháza - Elek - Gyula - Békéscsaba,3
@@ -866,6 +867,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15790,1Y,"Inota, Erőmű lakótelep - Jókai Mór utca",3
 21,15797,536,Törtel - Abony,3
 21,15798,3652,Gyöngyössolymos - Gyöngyös - Nagyréde - Hatvan,3
+21,158,1466,Eger - Jászberény - Szolnok,3
 21,15808,11,Vasútállomás - Kórház - Bánomi lakótelep - Bazilika - Lázár Vilmos utca - Vasútállomás,3
 21,15809,1,Vasútállomás - TESCO - Vasútállomás - Lázár Vilmos utca - Bazilika - Bánomi lakótelep - Kórház - Vasútállomás,3
 21,15810,43,Bánomi lakótelep - Vasútállomás - Kertváros - Vasútállomás - Bánomi lakótelep,3
@@ -1472,6 +1474,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1741,5942,Szentborbás - Szigetvár - Simonfa - Kaposvár,3
 21,17411,1051,Ózd - Eger - Budapest,3
 21,17416,7044,Győrasszonyfa - Győrújbarát - Győr,3
+21,17419,3713,Irota - Homrogd - Tomor - Lak - Edelény,3
 21,1742,5946,Szilvásszentmárton - Szenna - Kaposvár,3
 21,17420,3714,Sajósenye - Sajópálfala - Sajóvámos - Miskolc,3
 21,17421,7355,Balatonfüred - Tihany - Balatonfüred - Veszprém,3
