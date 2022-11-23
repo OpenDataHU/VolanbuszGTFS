@@ -318,7 +318,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,12647,6296,Sümeg - Sümegcsehi/Mihályfa - Zalaszentgrót - Pókaszepetk - Zalaegerszeg,3
 21,12648,5707,Dombóvár - Szászvár - Komló,3
 21,1265,4885,Geszt - Sarkadkeresztúr - Gyula - Békéscsaba,3
-21,12659,410,,3
+21,12659,410,Budapest - Gödöllő,3
 21,1266,4890,Kétegyháza - Elek - Gyula,3
 21,1267,4892,Elek - Kétegyháza - Gyula,3
 21,1268,4894,Mezőkovácsháza - Battonya - Lőkösháza - Elek - Gyula - Békéscsaba,3
@@ -1530,7 +1530,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1747,5966,Barcs - Nagyatád - Kadarkút - Kaposvár,3
 21,17470,400,Tura - Bag - Gödöllő - Budapest,3
 21,17471,402,Tura - Bag - Gödöllő - Budapest,3
-21,17472,403,,3
+21,17472,403,Hatvan - Tura - Bag - Aszód - Gödöllő,3
 21,17473,414,Jászfényszaru - Boldog - Hatvan - Budapest,3
 21,17474,440,Tóalmás - Gödöllő - Budapest,3
 21,17475,412,Hatvan - Gödöllő - Budapest,3
@@ -2550,16 +2550,15 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,22386,6,,3
 21,22387,9M,,3
 21,22388,9,,3
-21,22389,3487,,3
+21,22389,3487,"Szentdomonkos, Tipászó - Tarnalelesz",3
 21,2239,7360,Pula - Nagyvázsony - Veszprém,3
-21,22396,Adács-Atkár,,3
-21,22397,431,,3
-21,22398,433,,3
+21,22397,431,Bér - Szirák - Aszód - Budapest,3
+21,22398,433,Buják - Szirák - Aszód - Budapest,3
 21,2240,7361,Veszprémfajsz - Nemesvámos - Veszprém,3
 21,2242,7363,Balatonfüred - Nemesvámos - Veszprém,3
-21,22429,413,,3
+21,22429,413,Gödöllő - Budapest,3
 21,2243,7364,Balatonfüred - Tótvázsony - Veszprém,3
-21,22431,766,,3
+21,22431,766,Etyek - Biatorbágy,3
 21,2244,7367,Zánka-Köveskál vá. - Nagyvázsony - Veszprém,3
 21,2245,7369,Tapolca - Zánka-Köveskál vá. - Veszprém,3
 21,2246,7370,Tapolca - Pula - Veszprém,3
