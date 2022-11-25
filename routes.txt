@@ -2534,6 +2534,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2230,7346,Balatonfüred - Csopak - Veszprém,3
 21,22304,5011,Csongrád - Szentes - 47-es út - Szeged,3
 21,2231,7348,Dörgicse - Balatonfüred - Veszprém,3
+21,22319,2,Nagy út - Vasútállomás,3
 21,2232,7350,Balatonfüred - Csopak - Veszprém,3
 21,22322,5458,Paks - Cece - Sárbogárd - Székesfehérvár,3
 21,2234,7352,Balatonfüred - Csopak - Veszprém,3
