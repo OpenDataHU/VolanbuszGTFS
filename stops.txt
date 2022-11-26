@@ -41066,6 +41066,8 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 739328,"Bonyhád, autóbusz-állomás",46.297745,18.534746,,
 739370,"Siklós, autóbusz-állomás",45.856294,18.292399,,
 739511,"Dombóvár, Illyés Gyula Gimnázium",46.374690,18.135767,,
+739555,Laktanya,47.668016,18.322693,,
+739556,Szomódi út,47.670451,18.328380,,
 739615,"Miskolc, autóbusz-állomás",48.105803,20.791572,,3565
 739654,"Bag, Vasútállomás",47.639509,19.470967,,
 739657,"Budapest, Beller Imre utca",47.561630,19.117545,,
