@@ -2558,6 +2558,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2246,7370,Tapolca - Pula - Veszprém,3
 21,2247,7376,Ajka - Pula - Veszprém,3
 21,2248,7380,Csehbánya/Szentgál - Herend - Veszprém,3
+21,22480,11B,,3
+21,22481,20Y,,3
 21,2249,7381,Hárskút - Veszprém,3
 21,2250,7382,Hárskút - Herend,3
 21,2251,7383,Veszprém - Herend - Szentgál,3
