@@ -1277,7 +1277,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16969,6A,Tót-völgy - Autóbusz-állomás,3
 21,1697,5831,Beremend - Magyarbóly - Villány,3
 21,16970,7A,TESCO áruház - Autóbusz-állomás,3
-21,16976,9Y,Jobbparászta - TESCO áruház,3
+21,16976,9A,Jobbparászta - TESCO áruház,3
 21,16978,1,"Majos, alsó - Autóbusz-állomás",3
 21,16979,2,Hidas-Bonyhád vasútállomás - Autóbusz-állomás,3
 21,1698,5832,Siklós - Harkány - Drávacsehi - Matty - Siklós,3
