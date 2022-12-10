@@ -681,7 +681,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15404,5438,Dombóvár - Hőgyész - Szekszárd,3
 21,15405,5439,Siófok - Tamási - Szekszárd - Baja,3
 21,15406,5441,Lengyel - Tevel - Zomba - Szekszárd,3
-21,1541,5402,Dombori - Fadd - Tolna - Szekszárd,3
 21,15410,5552,Tamási - Sárbogárd - Székesfehérvár,3
 21,15411,3081,Szügy - Balassagyarmat - Szécsény - Salgótarján,3
 21,15412,3322,Szügy - Balassagyarmat,3
@@ -883,21 +882,15 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1585,5475,Bátaszék - Mőcsény - Bonyhád,3
 21,15850,1A,Vasútállomás - Veres Péter utca - Fellner Jakab úti forduló,3
 21,15851,1E,Vasútállomás - Fellner Jakab úti forduló - Tesco Áruház,3
-21,15853,1Y,Vasútállomás - Szélescsapás dűlő,3
 21,15854,1,Vasútállomás - Fellner Jakab úti forduló,3
 21,15855,21,Fellner Jakab út - Veres Péter utca - Vasútállomás,3
-21,15856,2A,Autóbusz-állomás - Fellner Jakab út,3
-21,15857,2B,Fellner Jakab út - Mezőgazdasági szakközépiskola - Kossuth tér - Fellner Jakab út,3
-21,15858,2M,Fellner Jakab út - Mezőgazdasági szakközépiskola - Fellner Jakab út,3
 21,15859,2,Vasútállomás - Fellner Jakab út,3
 21,1586,5476,Cikó - Bonyhád,3
 21,15861,3,Fényes fürdő - Autóbusz-állomás,3
 21,15862,4,,3
 21,15863,5A,Autóbusz-állomás - Kertváros - Autóbusz-állomás,3
 21,15867,5,Fellner Jakab úti forduló - Kertváros - Fellner Jakab úti forduló,3
-21,15868,7K,Agostyán - Kossuth tér,3
 21,15869,7,Agostyán - Autóbusz-állomás,3
-21,15871,88,Fellner Jakab úti forduló - Güntner Kft. - Újhegy - Fellner Jakab úti forduló,3
 21,15872,8A,Autóbusz-állomás - Autóbusz-állomás,3
 21,15874,8,Fellner Jakab úti forduló - Újhegy - Fellner Jakab úti forduló,3
 21,1589,5490,Lengyel - Bonyhád,3
@@ -959,7 +952,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1600,5551,Fürged - Ozora - Pincehely - Tamási,3
 21,16009,1G,Vasútállomás - Remeteségpuszta - Fellner Jakab úti forduló,3
 21,1601,5555,Cece - Simontornya - Kisszékely - Pincehely - Tamási,3
-21,16010,1YG,Vasútállomás - Remeteségpuszta - Szélescsapás,3
 21,16014,6833,Kerta - Kamond - Boba - Celldömölk,3
 21,16015,7773,Zalaerdőd - Dabronc - Szalapa - Sümeg,3
 21,16016,3712,Homrogd - Abaújlak - Abaújszolnok - Szikszó - Miskolc,3
@@ -2037,7 +2029,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,19217,7398,Sümeg - Ajka - Veszprém - Székesfehérvár,3
 21,19218,8082,Balatonfüred - Veszprém/Berhida - Várpalota - Székesfehérvár,3
 21,19219,8411,Esztergom - Tát - Nyergesújfalu - Tata - Tatabánya,3
-21,19220,8512,Dorog - Kesztölc - Dorog - Esztergom,3
+21,19220,8512,Esztergom - Dorog - Kesztölc - Dorog - Esztergom,3
 21,19221,862,Esztergom - Pilisszentlélek - Dobogókő - Pilisszentkereszt - Pomáz,3
 21,19222,831,Pilisszántó - Pilisvörösvár - Pilisszentiván - Solymár,3
 21,19223,821,Pilisszántó - Pilisvörösvár - Budapest,3
@@ -2463,6 +2455,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2187,7258,Ásványráró - Darnózseli - Lipót - Mosonmagyaróvár,3
 21,21876,25,Alma utcai iskola - Örökösföld - Északi körút - Vasútállomás,3
 21,21877,26,Szélsőbokori út - Vasútállomás,3
+21,21878,900,Vasútállomás - Bessenyei tér - Sóstógyógyfürdő - Örökösföld - Vasútállomás,3
 21,21879,9B,Örökösföld - Michelin - Huszártelep,3
 21,2188,7270,Ásványráró - Darnózseli - Mosonmagyaróvár,3
 21,2189,7273,Ásványráró - Darnózseli - Máriakálnok - Mosonmagyaróvár,3
@@ -2564,6 +2557,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2249,7381,Hárskút - Veszprém,3
 21,2250,7382,Hárskút - Herend,3
 21,2251,7383,Veszprém - Herend - Szentgál,3
+21,22521,901,,3
+21,22522,910,,3
 21,2253,7386,Ajka - Úrkút - Szentgál - Veszprém,3
 21,2254,7387,Sümeg - Ajka - Veszprém,3
 21,2255,7391,Pápa - Bakonyjákó - Városlőd - Veszprém,3
@@ -2966,7 +2961,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,4683,4565,Biharugra - Körösszegapáti - Berettyóújfalu,3
 21,4684,7037,Szany - Csikvánd - Tét - Győr,3
 21,4685,7089,Lébény - Lébény-Mosonszentmiklós vá. - Mosonújhely - Mecsér,3
-21,4686,7103,Kisbabot - Enese - Győr,3
 21,4687,7193,Cirák - Petőháza - Fertőszentmiklós - Fertőd - Kapuvár,3
 21,4688,7282,Jánossomorja - Mosonmagyaróvár,3
 21,4689,5674,Veajszló - Siklósbodony - Baksa - Pécs,3
@@ -3159,7 +3153,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,738,3612,Hatvan - Csány - Gyöngyös,3
 21,74,1188,Bajánsenye - Zalalövő - Zalaegerszeg - Hévíz - Budapest,3
 21,741,3622,Boldog - Hatvan,3
-21,742,3623,Kálló - Verseg - Fenyőharaszt/Heréd - Hatvan,3
 21,743,3624,Buják - Erdőtarcsa/Bér - Verseg - Nagykökényes - Heréd - Hatvan,3
 21,747,3640,Kerekharaszt - Hatvan,3
 21,748,348,Vác - Aszód - Hatvan,3
