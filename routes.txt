@@ -461,6 +461,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1377,5190,Nagylak - Magyarcsanád - Apátfalva - Makó - Szeged,3
 21,1378,5202,Köröstetétlen - Jászkarajenő - Tiszakécske - Szentkirály - Kecskemét,3
 21,1379,5203,Tiszakécske - Szentkirály/Lakitelek - Kecskemét,3
+21,138,1383,Eger - Bükkszentkereszt - Miskolc,3
 21,1380,5205,Szentkirály - Kecskemét,3
 21,1381,5207,Waldorf iskola - Kecskemét,3
 21,1382,5208,Gyula - Békéscsaba - Szarvas - Kecskemét,3
@@ -880,18 +881,14 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15829,1Y,Volán-telep - Határ út / Nyírjes dűlő - Volán-telep,3
 21,1584,5470,Zomba - Bonyhád (Tabód) - Bonyhád,3
 21,1585,5475,Bátaszék - Mőcsény - Bonyhád,3
-21,15850,1A,Vasútállomás - Veres Péter utca - Fellner Jakab úti forduló,3
-21,15851,1E,Vasútállomás - Fellner Jakab úti forduló - Tesco Áruház,3
 21,15854,1,Vasútállomás - Fellner Jakab úti forduló,3
 21,15855,21,Fellner Jakab út - Veres Péter utca - Vasútállomás,3
 21,15859,2,Vasútállomás - Fellner Jakab út,3
 21,1586,5476,Cikó - Bonyhád,3
 21,15861,3,Fényes fürdő - Autóbusz-állomás,3
 21,15862,4,,3
-21,15863,5A,Autóbusz-állomás - Kertváros - Autóbusz-állomás,3
 21,15867,5,Fellner Jakab úti forduló - Kertváros - Fellner Jakab úti forduló,3
 21,15869,7,Agostyán - Autóbusz-állomás,3
-21,15872,8A,Autóbusz-állomás - Autóbusz-állomás,3
 21,15874,8,Fellner Jakab úti forduló - Újhegy - Fellner Jakab úti forduló,3
 21,1589,5490,Lengyel - Bonyhád,3
 21,159,1467,Hatvan - Jászfényszaru - Jászberény - Szolnok,3
@@ -950,7 +947,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16,1034,Jósvafő - Ózd - Bátonyterenye - Budapest,3
 21,160,1468,Eger - Tiszafüred - Szolnok,3
 21,1600,5551,Fürged - Ozora - Pincehely - Tamási,3
-21,16009,1G,Vasútállomás - Remeteségpuszta - Fellner Jakab úti forduló,3
 21,1601,5555,Cece - Simontornya - Kisszékely - Pincehely - Tamási,3
 21,16014,6833,Kerta - Kamond - Boba - Celldömölk,3
 21,16015,7773,Zalaerdőd - Dabronc - Szalapa - Sümeg,3
@@ -1135,7 +1131,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16451,5A,Tündérfátyol utca - Duna lakópark - Ujhelyi iskola - Evangélikus templom - Autóbusz-végállomás,3
 21,16455,5,Tündérfátyol utca - Duna lakópark - Ujhelyi iskola - Evangélikus templom - Vasútállomás,3
 21,1646,5667,Gyód - Keszü - Pécs,3
-21,16467,1R,Vasútállomás - Fellner Jakab út,3
 21,16468,3692,Vécs - Domoszló - Markaz - MVM Mátra,3
 21,16469,3693,Gyöngyös - Visonta - MVM Mátra,3
 21,1647,5670,Baksa - Görcsöny - Pécs,3
@@ -2467,6 +2462,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2196,7287,Kapuvár - Csorna - Mosonszolnok - Mosonmagyaróvár,3
 21,2197,7292,Csemezpuszta - Hegyeshalom - Mosonmagyaróvár,3
 21,2198,7294,Rajka - Mosonmagyaróvár,3
+21,21983,3895,,3
+21,21984,3896,,3
 21,21985,3136,Mátraterenye - Nemti - Szuha,3
 21,2199,7300,Zirc - Veszprém,3
 21,2200,7301,Dudar - Bakonyoszlop - Zirc - Veszprém,3
@@ -3224,6 +3221,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,815,3743,Mezőcsát - Miskolc,3
 21,816,3744,Polgár - Tiszaújváros - Ónod - Nyékládháza - Miskolc,3
 21,817,3745,Tiszaújváros - Nyékládháza - Miskolc,3
+21,818,3746,Bogács - Mezőkövesd - Miskolc,3
 21,819,3747,Mezőcsát - Gelej - Bükkábrány - Miskolc,3
 21,82,1205,Székesfehérvár - Budapest,3
 21,820,3748,Kács - Emőd - Miskolc,3
