@@ -886,7 +886,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15859,2,Vasútállomás - Fellner Jakab út,3
 21,1586,5476,Cikó - Bonyhád,3
 21,15861,3,Fényes fürdő - Autóbusz-állomás,3
-21,15862,4,,3
+21,15862,4,Fellner Jakab utca - Kertváros - Vasútállomás,3
 21,15867,5,Fellner Jakab úti forduló - Kertváros - Fellner Jakab úti forduló,3
 21,15869,7,Agostyán - Autóbusz-állomás,3
 21,15874,8,Fellner Jakab úti forduló - Újhegy - Fellner Jakab úti forduló,3
@@ -2533,14 +2533,14 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,22368,5424,"Bátaszék - Várdomb - Decs - Szekszárd - Szekszárd, szőlőhegy - Várdomb/Decs - Sárpilis",3
 21,2237,7357,Keszthely - Tapolca - Badacsonytomaj - Balatonfüred - Veszprém,3
 21,2238,7358,Dörgicse - Balatonfüred - Veszprém,3
-21,22381,1M,,3
-21,22382,1T,,3
-21,22383,4T,,3
-21,22384,5T,,3
-21,22385,6T,,3
-21,22386,6,,3
-21,22387,9M,,3
-21,22388,9,,3
+21,22381,1M,Vasútállomás - Városközpont - Fellner Jakab utca / Tesco,3
+21,22382,1T,Vasútállomás - Városközpont - Fellner Jakab utca / Tesco,3
+21,22383,4T,Fellner Jakab utca - TOM-FERR Zrt. - Kertváros - Vasútállomás,3
+21,22384,5T,Fellner Jakab úti forduló - TOM-FERR Zrt. - Kertváros - Fellner Jakab úti forduló,3
+21,22385,6T,Vasútállomás - Kertváros - TOM-FERR Zrt. - Fellner Jakab utca,3
+21,22386,6,Vasútállomás - Kertváros - Fellner Jakab utca,3
+21,22387,9M,Fellner Jakab utca - Vasútállomás - Güntner Kft. - Agostyán,3
+21,22388,9,Újhegy - Városközpont - Vasútállomás - Fellner Jakab utca,3
 21,22389,3487,"Szentdomonkos, Tipászó - Tarnalelesz",3
 21,2239,7360,Pula - Nagyvázsony - Veszprém,3
 21,2240,7361,Veszprémfajsz - Nemesvámos - Veszprém,3
@@ -2551,10 +2551,10 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2245,7369,Tapolca - Zánka-Köveskál vá. - Veszprém,3
 21,2246,7370,Tapolca - Pula - Veszprém,3
 21,2247,7376,Ajka - Pula - Veszprém,3
-21,22479,10B,,3
+21,22479,10B,Kertváros felső - Erdei iskola - Bánfalvi út - Jereván lakótelep,3
 21,2248,7380,Csehbánya/Szentgál - Herend - Veszprém,3
-21,22480,11B,,3
-21,22481,20Y,,3
+21,22480,11B,Thököly tér - Kórház - Csengery utca - Táncsics utca - Jereván lakótelep,3
+21,22481,20Y,Ipar körút - Győri út - Csengery utca - Jereván lakótelep,3
 21,2249,7381,Hárskút - Veszprém,3
 21,2250,7382,Hárskút - Herend,3
 21,2251,7383,Veszprém - Herend - Szentgál,3
