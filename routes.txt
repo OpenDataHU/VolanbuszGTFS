@@ -383,9 +383,9 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,130,1374,Szeged - Békéscsaba - Debrecen - Miskolc,3
 21,1300,5004,Csongrád - Szentes - Mindszent - Hódmezővásárhely - Szeged,3
 21,13003,6238,Lenti - Páka - Gutorfölde - Bak - Zalaegerszeg,3
-21,13006,5458,Paks - Cece - Sárbogárd - Székesfehérvár,3
+21,13006,8047,Paks - Cece - Sárbogárd - Székesfehérvár,3
 21,1301,5005,"Hódmezővásárhely, vasútállomás - Szeged, vasútállomás",3
-21,13010,5586,Ozora - Simontornya,3
+21,13010,8333,Ozora - Simontornya,3
 21,1302,5006,Adymajor - Algyő,3
 21,1303,5007,Szarvas - Szentes - Mindszent - Hódmezővásárhely - Szeged,3
 21,1306,5010,Csongrád - Szentes - Hódmezővásárhely - Szeged,3
@@ -2564,6 +2564,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,22531,18,Autóbusz-állomás - Balatonszéplak alsó v.mh. - Somogyfok - Autóbusz-állomás,3
 21,22532,2A,Gábor Áron utca - Autóbusz-állomás,3
 21,2254,7387,Sümeg - Ajka - Veszprém,3
+21,22542,106,,3
+21,22543,116,,3
 21,2255,7391,Pápa - Bakonyjákó - Városlőd - Veszprém,3
 21,2256,7396,Ajka - Városlőd - Veszprém,3
 21,2257,7397,Sümeg - Devecser - Ajka - Városlőd - Veszprém,3
