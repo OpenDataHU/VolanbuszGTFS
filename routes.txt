@@ -927,12 +927,9 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15953,24,Zsolnai út/Nagyszombat utca - Jancsár utca,3
 21,15954,25,Nyitrai utca/Zobori út - Jancsár utca,3
 21,15955,26A,Kassai utca/Nagyszombati utca - Videoton - Jancsár utca,3
-21,15956,26G,Autóbusz-állomás - Videoton,3
 21,15958,26,Béla utca - Jancsár utca,3
 21,15959,27,Európa Ipari Park - Autóbusz-állomás,3
 21,1596,5515,Csikóstőttős - Dombóvár,3
-21,15960,29,Jancsár utca - Hübner András utca - Jancsár utca,3
-21,15961,31E,Videoton - Vasútállomás,3
 21,15962,31,Béla utca - Vasútállomás,3
 21,15963,32,Kassai utca/Nagyszombati utca - Vasútállomás,3
 21,15964,33,Vasútállomás - Fecskeparti lakótelep - Vasútállomás,3
@@ -941,7 +938,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15969,42,Börgönd - Csapó utca,3
 21,15970,43,Csapó utca - Kórház - Csapó utca,3
 21,15971,44,Csapó utca - Kórház - Csapó utca,3
-21,15972,M26,Európa Ipari Park - Videoton,3
 21,1598,5524,Várong - Szakcs - Alsóhetény - Dombóvár,3
 21,1599,5550,Pincehely - Tamási,3
 21,16,1034,Jósvafő - Ózd - Bátonyterenye - Budapest,3
@@ -2190,6 +2186,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,20517,13A,Babér utca - Csapó utca,3
 21,20518,36,Hernád utca - Vasútállomás,3
 21,2052,6940,Egyházasrádóc - Rádóckölked - Körmend,3
+21,20527,1,,3
 21,2053,6960,Gasztony - Szentgotthárd,3
 21,2054,6970,Bajánsenye - Őriszentpéter - Csörötnek - Szentgotthárd,3
 21,20542,13,Babér utca - Szedreskerti lakónegyed,3
@@ -2321,7 +2318,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,21156,13,Pálhalma - TESCO - Béke körút - Dózsa Mozi - Autóbusz-állomás - Béke körút - TESCO - Pálhalma,3
 21,21157,14,"Papírgyár - Autóbusz-állomás - Békeváros, Szabadság út",3
 21,21158,30,Vasútállomás - Kórház - Feketehegy - Kórház - Vasútállomás,3
-21,21159,40,Csapó utca - Szalontai utca/Székely utca,3
 21,2116,7077,Földsziget - Bősárkány - Lébény - Győr,3
 21,21160,41,Csapó utca - Kórház - Vasútállomás - Rádió utca - Csapó utca,3
 21,2118,7079,Beled - Bogyoszló - Csorna - Győr,3
@@ -2332,7 +2328,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2122,7085,Lébény - Mosonszentmiklós - Győr,3
 21,2123,7086,Mosonmagyaróvár - Győr,3
 21,21234,26C,Depónia - Csala - Autóbusz-állomás,3
-21,21235,37A,Sajó utca/Farkasvermi utca - Autóbusz-állomás,3
 21,2124,7087,Darnózseli - Hédervár - Mecsér - Dunaszeg - Győr,3
 21,21241,5621,"Komló, Móricz utca - Hosszúhetény - Pécs",3
 21,2125,7088,Darnózseli - Lipót - Hédervár - Győr,3
@@ -2567,6 +2562,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,22542,106,,3
 21,22543,116,,3
 21,2255,7391,Pápa - Bakonyjákó - Városlőd - Veszprém,3
+21,22559,2,,3
 21,2256,7396,Ajka - Városlőd - Veszprém,3
 21,2257,7397,Sümeg - Devecser - Ajka - Városlőd - Veszprém,3
 21,2259,7400,Bakonyszentkirály - Zirc,3
