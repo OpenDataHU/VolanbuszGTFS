@@ -894,13 +894,16 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,159,1467,Hatvan - Jászfényszaru - Jászberény - Szolnok,3
 21,1590,5495,Závod - Tevel - Bonyhád,3
 21,1591,5496,Szakály-Hőgyész vá. - Kalaznó - Tevel - Bonyhád,3
-21,15917,24,Autóbusz-állomás - Ipari kikötő,3
+21,15913,18,,3
 21,15918,25,"Északi Ipari Park - Római körút - Autóbusz-állomás - Békeváros, Szabadság út",3
 21,15919,27,Északi Ipari Park / Lánczos Kornél utca - Autóbusz-állomás,3
 21,15920,28,"Északi Ipari Park / Lánczos Kornél utca - Békeváros, Hajnal út",3
+21,15921,29,,3
 21,15922,2,Papírgyár - Autóbusz-állomás - Dózsa Mozi - Autóbusz-állomás - Papírgyár,3
 21,15924,33,"Pálhalma - Római körút - Autóbusz-állomás - Bercsényi Miklós utca - Békeváros, Hajnal út",3
+21,15925,35,,3
 21,15926,3,Papírgyár - Római körút - Papírgyár,3
+21,15927,40,,3
 21,15928,44,"Papírgyár - Autóbusz-állomás - Bercsényi Miklós utca - Békeváros, Szabadság út",3
 21,1593,5503,Tamási - Dombóvár,3
 21,15931,5,Kertváros - Bercsényi Miklós utca - Autóbusz-állomás - Római körút - Venyimi út - Újtelep - Bagolyvár - Vasútállomás - Volán-telep,3
@@ -2024,7 +2027,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,19217,7398,Sümeg - Ajka - Veszprém - Székesfehérvár,3
 21,19218,8082,Balatonfüred - Veszprém/Berhida - Várpalota - Székesfehérvár,3
 21,19219,8411,Esztergom - Tát - Nyergesújfalu - Tata - Tatabánya,3
-21,19220,8512,Esztergom - Dorog - Kesztölc - Dorog - Esztergom,3
+21,19220,8512,Dorog - Kesztölc - Dorog - Esztergom,3
 21,19221,862,Esztergom - Pilisszentlélek - Dobogókő - Pilisszentkereszt - Pomáz,3
 21,19222,831,Pilisszántó - Pilisvörösvár - Pilisszentiván - Solymár,3
 21,19223,821,Pilisszántó - Pilisvörösvár - Budapest,3
