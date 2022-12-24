@@ -894,16 +894,16 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,159,1467,Hatvan - Jászfényszaru - Jászberény - Szolnok,3
 21,1590,5495,Závod - Tevel - Bonyhád,3
 21,1591,5496,Szakály-Hőgyész vá. - Kalaznó - Tevel - Bonyhád,3
-21,15913,18,,3
+21,15913,18,Vasútállomás - Bocskai István utca - Római városrész - Autóbusz-állomás - Vasútállomás,3
 21,15918,25,"Északi Ipari Park - Római körút - Autóbusz-állomás - Békeváros, Szabadság út",3
 21,15919,27,Északi Ipari Park / Lánczos Kornél utca - Autóbusz-állomás,3
 21,15920,28,"Északi Ipari Park / Lánczos Kornél utca - Békeváros, Hajnal út",3
-21,15921,29,,3
+21,15921,29,Északi Ipari Park - Óváros - Belváros - Autóbusz-állomás - Óváros - Északi Ipari Park,3
 21,15922,2,Papírgyár - Autóbusz-állomás - Dózsa Mozi - Autóbusz-állomás - Papírgyár,3
 21,15924,33,"Pálhalma - Római körút - Autóbusz-állomás - Bercsényi Miklós utca - Békeváros, Hajnal út",3
-21,15925,35,,3
+21,15925,35,Pálhalma - Újtelep - Autóbusz-állomás - Belváros - Újtelep - Pálhalma,3
 21,15926,3,Papírgyár - Római körút - Papírgyár,3
-21,15927,40,,3
+21,15927,40,Bagolyvár - Békeváros - Autóbusz-állomás - Római városrész - Bocskai utca - Békeváros - Bagolyvár,3
 21,15928,44,"Papírgyár - Autóbusz-állomás - Bercsényi Miklós utca - Békeváros, Szabadság út",3
 21,1593,5503,Tamási - Dombóvár,3
 21,15931,5,Kertváros - Bercsényi Miklós utca - Autóbusz-állomás - Római körút - Venyimi út - Újtelep - Bagolyvár - Vasútállomás - Volán-telep,3
@@ -2189,7 +2189,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,20517,13A,Babér utca - Csapó utca,3
 21,20518,36,Hernád utca - Vasútállomás,3
 21,2052,6940,Egyházasrádóc - Rádóckölked - Körmend,3
-21,20527,1,,3
+21,20527,1,Déri sétány - Szentistván - Dobó utcai forduló - Déri sétány,3
 21,2053,6960,Gasztony - Szentgotthárd,3
 21,2054,6970,Bajánsenye - Őriszentpéter - Csörötnek - Szentgotthárd,3
 21,20542,13,Babér utca - Szedreskerti lakónegyed,3
@@ -2563,9 +2563,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,22532,2A,Gábor Áron utca - Autóbusz-állomás,3
 21,2254,7387,Sümeg - Ajka - Veszprém,3
 21,22542,106,,3
-21,22543,116,,3
 21,2255,7391,Pápa - Bakonyjákó - Városlőd - Veszprém,3
-21,22559,2,,3
+21,22559,2,Déri sétány - Dobó utcai forduló - Szentistván - Déri sétány,3
 21,2256,7396,Ajka - Városlőd - Veszprém,3
 21,2257,7397,Sümeg - Devecser - Ajka - Városlőd - Veszprém,3
 21,2259,7400,Bakonyszentkirály - Zirc,3
