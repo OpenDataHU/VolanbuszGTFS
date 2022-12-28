@@ -2563,6 +2563,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,22532,2A,Gábor Áron utca - Autóbusz-állomás,3
 21,2254,7387,Sümeg - Ajka - Veszprém,3
 21,22542,106,,3
+21,22543,116,,3
 21,2255,7391,Pápa - Bakonyjákó - Városlőd - Veszprém,3
 21,22559,2,Déri sétány - Dobó utcai forduló - Szentistván - Déri sétány,3
 21,2256,7396,Ajka - Városlőd - Veszprém,3
