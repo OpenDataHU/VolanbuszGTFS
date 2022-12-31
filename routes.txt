@@ -1271,7 +1271,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16981,6,Autóbusz-állomás - Szecska lakótelep - Autóbusz-állomás,3
 21,16987,6A,Autóbusz-állomás - Fáy lakótelep - Szecska lakótelep - Autóbusz-állomás,3
 21,1699,5833,Kásád - Beremend - Old - Siklós,3
-21,16993,1,Miklósvár - Mező utca,3
 21,16995,1,Zobák-akna - Autóbusz-állomás,3
 21,16996,2,"Mecsekjánosi, vasútállomás - Autóbusz-állomás",3
 21,16997,4,"Sikonda, Vadásztanya - Autóbusz-állomás",3
