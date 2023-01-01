@@ -284,7 +284,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,12502,4153,Kazincbarcika - Mályinka - Sáta - Csokvaomány - Ózd,3
 21,12507,7013,Tényő - Győr,3
 21,12508,7014,Pápateszér - Győrújbaráthegy - Győr,3
-21,12509,7015,Győrasszonyfa - Győrújbarát - Győr,3
 21,1251,4839,Telekgerendás - Békéscsaba,3
 21,12510,7019,Győrszemere - Győr,3
 21,12511,7021,Mór - Kisbér - Győr,3
@@ -730,7 +729,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15498,581,Monor - Üllő - Budapest,3
 21,15502,782,Etyek - Biatorbágy - Páty - Budapest,3
 21,15506,6396,Nagykanizsa - Sármellék - Keszthely - Hévíz - Sümeg,3
-21,15507,7016,Kajárpéc - Koroncó - Győr,3
 21,15508,7018,Veszprémvarsány - Táp - Győrság - Pannonhalma,3
 21,15509,7229,Simaság - Nagylózs,3
 21,1551,5426,Bonyhád - Mőcsény - Szálka - Szekszárd,3
@@ -2315,9 +2313,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,21132,1,Szénáskert utca - Vasútállomás,3
 21,2114,7075,Földsziget - Bősárkány - Barbacs - Győr,3
 21,2115,7076,Kapuvár - Babót - Győr,3
-21,21154,10,Volán-telep / Zone Bevásárlópark - Békeváros - Római körút - Autóbusz-állomás - Magyar út - Újtelep,3
-21,21155,12,Békeváros - Autóbusz-állomás - Vasmű tér - Római körút - Magyar út - Köztemető,3
-21,21156,13,Pálhalma - TESCO - Béke körút - Dózsa Mozi - Autóbusz-állomás - Béke körút - TESCO - Pálhalma,3
 21,21157,14,"Papírgyár - Autóbusz-állomás - Békeváros, Szabadság út",3
 21,21158,30,Vasútállomás - Kórház - Feketehegy - Kórház - Vasútállomás,3
 21,2116,7077,Földsziget - Bősárkány - Lébény - Győr,3
