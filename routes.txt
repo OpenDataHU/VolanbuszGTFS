@@ -1407,12 +1407,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,17298,41,"Honvédség - Adyváros - Zöld utca, Soproni út",3
 21,17299,42,Honvédség - Belváros - Marcalváros,3
 21,1730,5912,Fiad - Igal - Kaposvár,3
-21,17303,901,Pinnyéd - Sziget - Újváros - Dunakapu tér,3
-21,17304,907,Kismegyer - Szabadhegy - Mészáros Lőrinc utca - Dunakapu tér,3
-21,17305,911,Dunakapu tér - Sárás - Szitásdomb - Bácsa - Kisbácsa - Dunakapu tér,3
-21,17306,917,"Zöld utca, Szőnyi Márton utca - Adyváros - Dunakapu tér",3
-21,17307,922,Marcalváros - Dunakapu tér,3
-21,17308,931,"Kálmán Imre út - Győrszentiván, Homoksor - Likócs - Dunakapu tér",3
 21,1731,5914,Tab - Törökkoppány - Igal - Kaposvár,3
 21,17310,1,Lővér szálló - Alsólővér - Jereván lakótelep,3
 21,17311,2,Lővér szálló - Felsőlővér - Jereván lakótelep,3
@@ -1942,7 +1936,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,18768,30B,"Győrszentiván, Kálmán Imre út - Ipari Park - Révai Miklós utca",3
 21,18769,38A,Ipari park - Szabadhegy - Adyváros - Révai Miklós utca,3
 21,1877,6310,Keszthely - Hévíz - Zalaapáti - Zalacsány - Zalaszentlászló - Zalaszentgrót,3
-21,18770,921,Gyirmót - Ménfőcsanak - Marcalváros - Kálvária utca - Dunakapu tér,3
 21,18779,1,Köztemető - Németfalu - Vasútállomás,3
 21,1878,6315,Zalaszentgrót (Zalakoppány) - Zalaszentgrót,3
 21,18780,2,Köztemető - Szigetkert - Bánlak - Újtelep - Vasútállomás,3
@@ -2550,8 +2543,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2249,7381,Hárskút - Veszprém,3
 21,2250,7382,Hárskút - Herend,3
 21,2251,7383,Veszprém - Herend - Szentgál,3
-21,22521,901,,3
-21,22522,910,,3
 21,2253,7386,Ajka - Úrkút - Szentgál - Veszprém,3
 21,22531,18,Autóbusz-állomás - Balatonszéplak alsó v.mh. - Somogyfok - Autóbusz-állomás,3
 21,22532,2A,Gábor Áron utca - Autóbusz-állomás,3
