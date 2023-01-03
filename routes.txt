@@ -471,7 +471,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1387,5214,Városföld - Kecskemét,3
 21,1388,5215,Kiskunfélegyháza - Kecskemét,3
 21,1389,5216,Bácsalmás - Kiskunhalas - Kiskunmajsa - Kecskemét,3
-21,139,1384,Salgótarján - Pétervására - Ózd - Miskolc,3
 21,1390,5217,Kiskunfélegyháza - Fülöpjakab - Kunszállás - Kecskemét,3
 21,1391,5218,Kaocsa - Kiskőrös - Kecskemét,3
 21,1392,5219,Baja - Kecel - Soltvadkert - Kecskemét,3
@@ -483,7 +482,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1398,5225,Izsák - Kecskemét,3
 21,1399,5226,Baja - Kiskőrös - Izsák - Kecskemét,3
 21,14,1031,Ózd - Bátonyterenye - Budapest,3
-21,140,1411,Debrecen - M3 - Miskolc - Ózd,3
 21,1400,5227,[Székesfehérvár - Dunaújváros]/Kalocsa - Solt - Kecskemét,3
 21,1401,5228,Kerekegyháza - Hetényegyháza - Kecskemét,3
 21,1402,5229,Csengőd/Szabadszállás - Fülöpszállás - Kecskemét,3
@@ -941,7 +939,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15971,44,Csapó utca - Kórház - Csapó utca,3
 21,1598,5524,Várong - Szakcs - Alsóhetény - Dombóvár,3
 21,1599,5550,Pincehely - Tamási,3
-21,16,1034,Jósvafő - Ózd - Bátonyterenye - Budapest,3
 21,160,1468,Eger - Tiszafüred - Szolnok,3
 21,1600,5551,Fürged - Ozora - Pincehely - Tamási,3
 21,1601,5555,Cece - Simontornya - Kisszékely - Pincehely - Tamási,3
@@ -1971,7 +1968,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,18830,2,Tiszapart városrész - Autóbusz-állomás,3
 21,18831,3,Dózsa György utca - JABIL - Autóbusz-állomás,3
 21,1884,6360,Balatongyörök - Keszthely - Hévíz,3
-21,18843,1410,Debrecen - Tiszaújváros - Miskolc - Ózd,3
 21,18844,3763,Kazincbarcika - Miskolc,3
 21,18845,3764,Kazincbarcika - Sajóbábony - Sajóecseg - Miskolc,3
 21,18846,3766,Kazincbarcika - Sajószentpéter -  Miskolc,3
@@ -2092,7 +2088,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,19800,5187,Nagylak - Magyarcsanád - Makó - M43 - Szeged,3
 21,19801,5188,Pitvaros - Nagylak - Makó - Maroslele - M43 - Szeged,3
 21,19802,6163,Nagykanizsa - Balatonmáriafürdő - Zalakaros - Marcali,3
-21,19806,4154,Ózd - Csokvaomány - Sáta - Tardona - Kazincbarcika,3
 21,1981,6690,Bucsu - Torony - Szombathely,3
 21,1982,6700,Horvátzsidány - Kőszeg,3
 21,1983,6702,Bükfürdő - Csepreg - Zsira - Peresznye - Kőszeg,3
@@ -3231,7 +3226,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,833,3769,Rudabánya - Kazincbarcika - Miskolc,3
 21,834,3770,Borsodnádasd - Ózd - Putnok - Kazincbarcika - Miskolc,3
 21,836,3772,Boldva - Edelény - Kazincbarcika,3
-21,837,3773,Ózd - Putnok - Kazincbarcika,3
 21,838,3774,Imola - Múcsony - Edelény - Sajószentpéter - Miskolc,3
 21,839,3775,Szalonna - Edelény - Sajószentpéter - Miskolc,3
 21,84,1212,Hévíz - Keszthely - Tapolca - Veszprém - Budapest,3
