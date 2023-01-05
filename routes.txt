@@ -518,6 +518,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1436,5268,"Kiskunfélegyháza, Ringhegy - Halesz - Kiskunfélegyháza",3
 21,1438,5270,Fülöpjakab - Kunszállás - Kiskunfélegyháza,3
 21,1439,5271,Szabadszállás - Izsák - Kunszállás - Kiskunfélegyháza,3
+21,144,1426,Eger - Mezőkövesd - Nyíregyháza,3
 21,1442,5274,"Bugac, erdészet - Szank - Kiskunmajsa",3
 21,1443,5275,Kiskőrös - Soltvadkert - Kiskunmajsa,3
 21,1444,5276,Szank - Bodoglár - Kiskunhalas,3
@@ -525,6 +526,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1447,5279,Kecskemét - Fülöpjakab - Kiskunmajsa - Kiskunhalas,3
 21,1448,5280,Kiskunmajsa - Kiskunhalas,3
 21,1449,5281,Szank - Kiskunmajsa - Kiskunhalas,3
+21,145,1427,Hatvan - Gyöngyös - Eger - Mezőkövesd - Nyíregyháza,3
 21,1450,5282,Pusztamérges - Balotaszállás - Kiskunhalas,3
 21,1451,5283,Pusztamérges - Kiskunmajsa (Gárgyán) - Zsana - Kiskunhalas,3
 21,1452,5284,Kiskunhalas - Tompa - Kelebia - Szeged,3
@@ -546,6 +548,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,14657,5329,Szeged - Mélykút - Bácsalmás - Bácsbokod - Baja,3
 21,1466,5298,Szabadszállás - Csengőd - Kiskőrös - Kiskunhalas,3
 21,14673,5434,Kárász - Izmény - Nagymányok - Bonyhád - Szekszárd,3
+21,14676,3923,Sárospatak - Cigánd - Lácacséke - Sátoraljaújhely,3
 21,14678,4007,Kács - Mezőkeresztes-Mezőnyárád vá. - Mezőkövesd,3
 21,1468,5300,Kelebia - Csikéria - Bácsalmás,3
 21,14683,7803,Németbánya - Bakonyjákó - Farkasgyepű - Városlőd - Kislőd - Ajka,3
@@ -650,6 +653,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1527,5380,Kerekegyháza - Kunszentmiklós,3
 21,1528,5381,Solt/Soltszentimre - Kunszentmiklós,3
 21,1529,5382,Újsolt - Dunaegyháza - Solt - Dunaföldvár,3
+21,153,1449,Sátoraljaújhely - Tokaj - Nyíregyháza - Debrecen,3
 21,1533,5386,"Solt, hartai útelágazás - Solt",3
 21,1534,5387,"Kunszentmiklós - Szabadszállás - Kecskemét, Daimler 1. kapu",3
 21,15372,1,Pápakovácsi elágazás - Veszprémi út - Autóbusz-állomás - Vasútállomás,3
@@ -715,6 +719,9 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1549,5422,,3
 21,15492,553,Szolnok - Cegléd / Törtel - Kecskemét,3
 21,15493,5917,Siófok - Ságvár - Tab - Igal - Kaposvár,3
+21,15494,3739,Polgár - Tiszaújváros - Ónod - Nyékládháza - Miskolc,3
+21,15495,3968,Igrici - Hejőpapi - Nemesbikk - Tiszaújváros,3
+21,15496,3969,Igrici - Hejőszalonta - Hejőbába - Tiszaújváros,3
 21,15497,547,Csemő - Nagykőrös,3
 21,15498,581,Monor - Üllő - Budapest,3
 21,15502,782,Etyek - Biatorbágy - Páty - Budapest,3
@@ -918,9 +925,12 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15953,24,Zsolnai út/Nagyszombat utca - Jancsár utca,3
 21,15954,25,Nyitrai utca/Zobori út - Jancsár utca,3
 21,15955,26A,Kassai utca/Nagyszombati utca - Videoton - Jancsár utca,3
+21,15956,26G,Autóbusz-állomás - Videoton,3
 21,15958,26,Béla utca - Jancsár utca,3
 21,15959,27,Európa Ipari Park - Autóbusz-állomás,3
 21,1596,5515,Csikóstőttős - Dombóvár,3
+21,15960,29,Jancsár utca - Hübner András utca - Jancsár utca,3
+21,15961,31E,Videoton - Vasútállomás,3
 21,15962,31,Béla utca - Vasútállomás,3
 21,15963,32,Kassai utca/Nagyszombati utca - Vasútállomás,3
 21,15964,33,Vasútállomás - Fecskeparti lakótelep - Vasútállomás,3
@@ -929,6 +939,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15969,42,Börgönd - Csapó utca,3
 21,15970,43,Csapó utca - Kórház - Csapó utca,3
 21,15971,44,Csapó utca - Kórház - Csapó utca,3
+21,15972,M26,Európa Ipari Park - Videoton,3
 21,1598,5524,Várong - Szakcs - Alsóhetény - Dombóvár,3
 21,1599,5550,Pincehely - Tamási,3
 21,16,1034,Jósvafő - Ózd - Bátonyterenye - Budapest,3
@@ -1065,6 +1076,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1627,5630,Szekszárd - Bonyhád - Pécsvárad - Pécs,3
 21,16270,2/A,Vasútállomás - Nagy út,3
 21,16271,3,Vasútállomás - Hunyadi utca - Időskorúak otthona,3
+21,16272,3752,Tiszaújváros - Muhi - Sajópetri - Kistokaj -TAKATA - Miskolc,3
 21,16274,2,Fűzfőgyártelep - Irinyi iskola - Vasútállomás - Fűzfőgyártelep,3
 21,16275,3,Fűzfőgyártelep - Irinyi iskola - Mámatető - Tobruk - Fűzfőgyártelep,3
 21,16276,4,Fűzfőgyártelep - Irinyi iskola - Mámatető - Tobruk - Irinyi iskola - Fűzfőgyártelep,3
@@ -1134,6 +1146,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16489,6B,Autóbusz-állomás - Gyimóti út - Tizedik utca - Autóbusz-állomás,3
 21,1649,5672,Siklós - Kisdér - Baksa - Pécs,3
 21,16498,4248,Nyíregyháza - Bánfibokor - Cigánybokor - Nyíregyháza,3
+21,16499,3930,Sárospatak - Sátoraljaújhely - Pálháza - Telkibánya,3
 21,165,1504,Pécs - Mohács - Baja - Szeged,3
 21,1650,5673,Kórós - Vajszló - Baksa - Pécs,3
 21,16500,4026,Csincse - Mezőkeresztes - Mezőkövesd,3
@@ -1807,11 +1820,13 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,17773,578,Budapest - Vecsés - Gyál - Vecsés - Budapest,3
 21,17774,532,Tiszakécske - Tiszajenő - Szolnok,3
 21,17776,4864,Komádi - Zsadány - Szeghalom - Gyomaendrőd,3
+21,17777,4009,Tiszaújváros - Mezőcsát - Mezőkeresztes - Mezőkövesd,3
 21,17779,727,Budapest - Diósd - Diósdliget - Budapest,3
 21,17780,733,"Érd, aut.áll/Budapest - Érd, Bem tér - Érd, Iparos u. - Budapest/Érd, Bem tér",3
 21,17782,21A,Autóbusz-állomás - Török Ignác utca - Autóbusz-állomás,3
 21,17784,389,"Veresegyház, medveotthon - Veresegyház, központ",3
 21,17785,446,Kóka - Dány - Isaszeg - Gödöllő,3
+21,17786,3889,Sárospatak - Kenézlő - Viss - Zalkod - Kenézlő - Sárospatak,3
 21,17787,1216,Zalaszentgrót - Sümeg - Tapolca - Veszprém - Budapest,3
 21,17788,748,Vereb - Kápolnásnyék - Sukoró - Székesfehérvár,3
 21,1779,6056,Iregszemcse - Tengőd - Tab,3
@@ -2061,6 +2076,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1972,6648,Nagytilaj - Kám - Rum - Szombathely,3
 21,1974,6653,Gyanógeregye/Nemeskolta - Sorokpolány - Szombathely,3
 21,1975,6654,Vasvár - Egyházashollós - Sorokpolány - Szombathely,3
+21,19750,1428,Eger - Hajdúnánás - Nyíregyháza,3
 21,19751,3412,Ózd - Bélapátfalva - Eger,3
 21,19752,3435,Felsőtárkány - Eger - Füzesabony,3
 21,19753,3562,Tiszafüred - Kömlő - Heves,3
@@ -2292,6 +2308,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2115,7076,Kapuvár - Babót - Győr,3
 21,21157,14,"Papírgyár - Autóbusz-állomás - Békeváros, Szabadság út",3
 21,21158,30,Vasútállomás - Kórház - Feketehegy - Kórház - Vasútállomás,3
+21,21159,40,Csapó utca - Szalontai utca/Székely utca,3
 21,2116,7077,Földsziget - Bősárkány - Lébény - Győr,3
 21,21160,41,Csapó utca - Kórház - Vasútállomás - Rádió utca - Csapó utca,3
 21,2118,7079,Beled - Bogyoszló - Csorna - Győr,3
@@ -2302,6 +2319,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2122,7085,Lébény - Mosonszentmiklós - Győr,3
 21,2123,7086,Mosonmagyaróvár - Győr,3
 21,21234,26C,Depónia - Csala - Autóbusz-állomás,3
+21,21235,37A,Sajó utca/Farkasvermi utca - Autóbusz-állomás,3
 21,2124,7087,Darnózseli - Hédervár - Mecsér - Dunaszeg - Győr,3
 21,21241,5621,"Komló, Móricz utca - Hosszúhetény - Pécs",3
 21,2125,7088,Darnózseli - Lipót - Hédervár - Győr,3
@@ -2939,10 +2957,14 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,4689,5674,Veajszló - Siklósbodony - Baksa - Pécs,3
 21,4690,6905,Őriszentpéter - Zalalövő - Körmend,3
 21,4694,3711,Irota - Tomor - Edelény - Miskolc,3
+21,4695,3737,Tiszaújváros - Ónod - Sajólád - Miskolc,3
 21,4697,3809,Arka - Abaújszántó - Abaújkér - Encs,3
 21,4698,3810,Boldogkőváralja - Abaújszántó - Encs,3
 21,4699,3819,Hernádpetri - Pusztaradvány - Novajidrány - Encs,3
+21,4700,3869,Sárospatak (Végardó) - Sárospatak,3
+21,4701,3872,Révleányvár - Ricse - Pácin - Sárospatak,3
 21,4702,3878,Révleányvár - Ricse - Cigánd - Sárospatak,3
+21,4703,3879,Révleányvár - Cigánd - Tiszakarád - Sárospatak,3
 21,4704,3901,Hollóháza - Nyíri - Nagyhuta - Pálháza - Kovácsvágás - Sátoraljaújhely,3
 21,4705,3909,Sátoraljaújhely - Kácsárd - Sátoraljaújhely,3
 21,4706,3919,Felsőberecki - Alsóberecki - Sátoraljaújhely,3
@@ -3184,6 +3206,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,806,3731,Tiszaújváros - Kesznyéten - Hernádnémeti - Bőcs vá. - Gesztely - Miskolc,3
 21,807,3732,Újcsanálos - Gesztely - Miskolc,3
 21,808,3733,Tiszaújváros - Kesznyéten - Hernádnémeti - Bőcs vá. - Sajólád - Miskolc,3
+21,809,3734,Tiszaújváros - Ónod - Sajólád -  Miskolc,3
 21,81,1204,Zirc - Bakonycsernye - Székesfehérvár - Budapest,3
 21,810,3735,Muhi - Ónod - Alsózsolca - Miskolc,3
 21,811,3736,Ónod - Alsózsolca - Miskolc,3
@@ -3249,8 +3272,15 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,874,3860,Golop - Legyesbénye - Bekecs - Szerencs,3
 21,875,3868,Olaszliszka-Tolcsva vá. - Erdőbénye - Baskó - Tolcsva/Abaújszántó,3
 21,876,3870,Pálháza - Sátoraljaújhely - Sárospatak,3
+21,877,3871,Pálháza - Sátoraljaújhely - Sárospatak,3
+21,878,3873,Révleányvár - Zemplénagárd - Ricse - Pácin - Sárospatak,3
+21,879,3875,Bodroghalom - Vajdácska - Sárospatak,3
 21,880,3880,Cigánd - Tiszakarád - Sárospatak,3
+21,881,3881,Sátoraljaújhely - Tokaj - Nyíregyháza,3
+21,882,3882,Györgytarló - Sárospatak,3
+21,883,3883,Viss - Zalkod - Kenézlő - Sárospatak,3
 21,884,3884,Háromhuta (Újhuta) - Komlóska - Olaszliszka-Tolcsva vá. - Sárazsadány - Sárospatak,3
+21,885,3886,Makkoshotyka - Hercegkút - Sárospatak,3
 21,886,3887,Nyíregyháza - Kisvárda - Cigánd - Ricse - Révleányvár,3
 21,887,3888,Kisvárda - Ricse - Cigánd - Tiszakarád - Sárospatak,3
 21,888,3890,Olaszliszka - Olaszliszka-Tolcsva vá.,3
@@ -3268,6 +3298,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,904,3966,Igrici - Hejőpapi - Nemesbikk - Tiszaújváros,3
 21,905,3967,Hejőkeresztúr/Igrici - Hejőbába - Tiszaújváros,3
 21,906,3970,Tiszaújváros MOL - Sajóörös - Tiszaújváros,3
+21,907,3971,Sajólád - Muhi - Tiszaújváros,3
+21,909,3974,"Tiszalúc,aut.ford. - Tiszaújváros,aut.áll.",3
 21,910,4001,Cserépváralja - Tard - Mezőkövesd,3
 21,912,4006,"Sály, Latorpuszta - Mezőkeresztes-Mezőnyárád vá. - Mezőkövesd",3
 21,913,4008,Tiszaújváros - Mezőkeresztes - Mezőkövesd,3
