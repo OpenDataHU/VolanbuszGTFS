@@ -751,8 +751,10 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15604,112,Déri sétány - Szentistván - Dobó utcai forduló - Déri sétány,3
 21,15606,121,Déri sétány - Dobó utcai forduló - Szentistván - Déri sétány,3
 21,15607,4,Déri sétány - Mártonszállás - Déri sétány,3
+21,15609,6,Déri sétány - DÉLHÚS - Vaskúti úti laktanya forduló - Déri sétány,3
 21,1561,5446,Simontornya - Gyönk - Kölesd - Szekszárd,3
 21,15611,68,Déri sétány - DÉLHÚS - Vaskúti úti laktanya forduló - Déri sétány,3
+21,15612,8,Déri sétány - DÉLHÚS  - Déri sétány,3
 21,15613,86,Déri sétány - DÉLHÚS  - Déri sétány,3
 21,15614,9,Déri sétány - Újváros - TESCO - Déri sétány,3
 21,15615,1,Szabadság tér - Volán-telep - Autóbusz-állomás - Szabadság tér,3
@@ -2556,6 +2558,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2256,7396,Ajka - Városlőd - Veszprém,3
 21,2257,7397,Sümeg - Devecser - Ajka - Városlőd - Veszprém,3
 21,2259,7400,Bakonyszentkirály - Zirc,3
+21,22604,5,,3
+21,22605,7,,3
 21,2261,7405,Zirc - Dudar - Bakonyszentkirály - Zirc,3
 21,2263,7410,Bakonycsernye - Szápár - Dudar - Zirc,3
 21,2264,7412,Jásd - Szápár - Zirc,3
