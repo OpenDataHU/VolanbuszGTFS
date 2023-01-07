@@ -43,7 +43,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 15331,"Vasvár, autóbusz-állomás",47.046951,16.802646,1,
 15570,"Szombathely, autóbusz-állomás",47.233223,16.615637,1,
 15621,"Sárvár, autóbusz-állomás",47.254209,16.926248,1,
-15625,"Sárvár, vasútállomás",47.258684,16.929608,1,
+15625,"Sárvár, vasútállomás",47.258529,16.928941,1,
 15710,"Őriszentpéter, autóbusz-állomás",46.840499,16.422267,1,
 15753,"Almásfüzítő, vasútállomás",47.725224,18.263106,1,
 15969,"Kisbér, autóbusz-állomás",47.500233,18.026036,1,
@@ -25515,8 +25515,8 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 600361,"Sárvár, Termálkristály üzem",47.280093,16.924685,,
 600362,"Sárvár, Kisfaludy utca",47.256046,16.933122,,
 600363,"Sárvár, Kisfaludy utca",47.256294,16.934278,,
-600364,"Sárvár, vasútállomás",47.258716,16.929589,,15625
-600365,"Sárvár, vasútállomás",47.258651,16.929627,,15625
+600364,"Sárvár, vasútállomás",47.258548,16.928897,,15625
+600365,"Sárvár, vasútállomás",47.258510,16.928985,,15625
 600366,"Szombathely, aluljáró (Thököly utca)",47.231173,16.626072,,
 600367,"Szombathely, aluljáró (Thököly utca)",47.231097,16.626270,,
 600368,"Szombathely, Savaria Egyetemi Központ",47.229388,16.612665,,
@@ -28606,7 +28606,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 603804,"Nova, Kossuth utca 71.",46.686095,16.686513,,
 603805,"Zajk (Józsefhegy), erdészház",46.451490,16.732134,,
 603806,"Zajk (Józsefhegy), erdészház",46.451636,16.732284,,
-603807,"Letenye, autóbusz-állomás",46.432736,16.722680,,18971
 603810,"Letenye, Juliánhegy",46.442801,16.693991,,
 603811,"Letenye, Juliánhegy",46.442636,16.694735,,
 603812,"Muraszemenye, I. bejárati út",46.472544,16.655531,,
@@ -37996,8 +37995,8 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 649940,"Zalaegerszeg, teskándi elágazás",46.856296,16.803312,,
 649941,"Zalaegerszeg, autóbusz-állomás",46.844919,16.850114,,
 649942,"Zalaegerszeg, autóbusz-állomás",46.844900,16.849636,,
-649943,"Zalaegerszeg, autóbusz-állomás",46.845126,16.850519,,
-649944,"Zalaegerszeg, autóbusz-állomás",46.844900,16.849829,,
+649943,"Zalaegerszeg, autóbusz-állomás",46.845110,16.850521,,
+649944,"Zalaegerszeg, autóbusz-állomás",46.844939,16.849798,,
 649945,"Zalaegerszeg, autóbusz-állomás",46.845123,16.850390,,
 649947,"Zalaegerszeg, városi fürdő (Mártírok útja)",46.837542,16.840796,,
 649948,"Zalaegerszeg, Bazita I/B elágazás",46.832173,16.827336,,
