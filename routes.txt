@@ -30,8 +30,11 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1029,4263,Baktalórántháza - Kisvárda,3
 21,1030,4267,Kemecse - Székely - Kisvárda,3
 21,1031,4270,Gégény - Újdombrád - Kisvárda,3
+21,1033,4301,Lónya - Tiszaadony - Vásárosnamény,3
+21,1034,4303,Beregsurány - Barabás - Vásárosnamény - Nyíregyháza,3
 21,1035,4304,Debrecen - Nyíregyháza - Vásárosnamény - Beregsurány,3
 21,1037,4306,Fehérgyarmat - Tákos - Vásárosnamény,3
+21,1038,4310,Fehérgyarmat - Tarpa - Gulács - Vásárosnamény,3
 21,1040,4316,Mátészalka - Nagydobos - Olcsva - Vásárosnamény,3
 21,1042,4319,Nyírmada - Vásárosnamény,3
 21,1043,4321,Szamoskér - Nagydobos - Mátészalka,3
@@ -1088,6 +1091,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1634,5640,Szederkény - Magyarsarlós - Pécs,3
 21,1635,5642,Szederkény - Birján - Kozármisleny - Pécs,3
 21,1636,5643,Pécsvárad - Szederkény - Pécs,3
+21,16362,4236,Nyíregyháza - Nyírpazony - Kabalás - Nyíregyháza,3
 21,16363,5109,Kunszentmárton - Szentes - Csongrád - Szeged,3
 21,1637,5645,Mohács - Szederkény - Pécs,3
 21,1638,5650,Pécs - [M60-M6]/Mohács - Baja,3
@@ -2073,6 +2077,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1972,6648,Nagytilaj - Kám - Rum - Szombathely,3
 21,1974,6653,Gyanógeregye/Nemeskolta - Sorokpolány - Szombathely,3
 21,1975,6654,Vasvár - Egyházashollós - Sorokpolány - Szombathely,3
+21,19750,1428,Eger - Hajdúnánás - Nyíregyháza,3
 21,19751,3412,Ózd - Bélapátfalva - Eger,3
 21,19752,3435,Felsőtárkány - Eger - Füzesabony,3
 21,19753,3562,Tiszafüred - Kömlő - Heves,3
@@ -2324,6 +2329,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,21262,4290,Téglás - Szakoly - Balkány - Nagykálló - Nyíregyháza,3
 21,21263,4291,Nyírlugos - Nyíradony - Nagykálló - Nyíregyháza,3
 21,21264,4336,Szamosszeg - Tunyogmatolcs - Kocsord - Mátészalka,3
+21,21265,4381,Nyíregyháza - Nagykálló - Máriapócs - Pócspetri - Nagykálló - Nyíregyháza,3
 21,2127,7090,Mosonmagyaróvár - Darnózseli - Ásványráró - Győr,3
 21,21276,3626,Verseg - Kálló - Erdőtarcsa - Heréd - Hatvan,3
 21,2128,7098,Mosonmagyaróvár - Darnózseli - Dunaszeg - Győr,3
@@ -3371,6 +3377,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,991,4208,Kisvárda - Nyíregyháza,3
 21,992,4209,Fehérgyarmat - Vásárosnamény - Nyíregyháza,3
 21,993,4210,Kisvárda - Baktalórántháza - Nyíregyháza,3
+21,994,4211,Tarpa - Vásárosnamény - Nyíregyháza,3
 21,995,4213,Fehérgyarmat/Nagyecsed  - Mátészalka - Nyíregyháza,3
 21,996,4215,Baktalórántháza - Apagy - Nyíregyháza,3
 21,997,4216,Tiszabecs - Fehérgyarmat - Mátészalka - Nyíregyháza,3
