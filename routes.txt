@@ -1328,6 +1328,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,172,1513,Balatonfüred/Veszprém - Solt - Szeged,3
 21,1720,5886,"Pécsbagota - Szentlőrinc, Tarcsapuszta - Szigetvár",3
 21,1721,5887,Szentegát (Kárászpuszta) - Szentegát - Szigetvár,3
+21,17218,4242,Nyíregyháza - Halmosbokor - Nyíregyháza,3
 21,1722,5888,Királyegyháza (Csobokapuszta) - Szentlőrinc,3
 21,17221,2,"Palin, futballpálya - Magyar utca - Kalmár utca",3
 21,17222,4,"Kiskanizsa, Bornemissza utca - Városkapu körút",3
