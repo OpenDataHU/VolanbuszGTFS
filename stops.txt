@@ -32,7 +32,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 1418,"Balatonalmádi, autóbusz-állomás",47.030277,18.015144,1,
 14186,"Csongrád, autóbusz-állomás",46.708704,20.147670,1,
 14383,"Makó, autóbusz-állomás",46.219410,20.476397,1,
-1440,"Balatonfüred, autóbusz-állomás",46.955426,17.882959,1,
+1440,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,1,
 14431,"Mórahalom, autóbusz-állomás",46.216493,19.890463,1,
 14611,"Szeged, autóbusz-állomás",46.257061,20.140881,1,
 14680,"Szentes, autóbusz-állomás",46.650930,20.259964,1,
@@ -88,7 +88,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 2178,"Tapolca, autóbusz-állomás",46.882759,17.435863,1,
 2275,"Várpalota, autóbusz-állomás",47.203214,18.145772,1,
 2311,"Zirc, Rákóczi tér",47.263257,17.872038,1,
-2408,"Baja, autóbusz-állomás",46.183344,18.956763,1,
+2408,"Baja, autóbusz-állomás",46.183693,18.956124,1,
 2429,"Bácsalmás, autóbusz-állomás",46.128123,19.329814,1,
 24837,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,1,
 24886,"Zirc, autóbusz-állomás (vasútállomás)",47.267369,17.876664,1,
@@ -121,7 +121,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 4178,"Tiszaújváros, autóbusz-állomás",47.929818,21.032005,1,
 42674,Autóbusz-állomás,47.650061,18.316285,1,
 4339,"Ózd, autóbusz-állomás",48.218742,20.290178,1,
-4451,"Bonyhád, autóbusz-állomás",46.297673,18.534335,1,
+4451,"Bonyhád, autóbusz-állomás",46.298146,18.535189,1,
 4537,"Dombóvár, autóbusz-állomás",46.369992,18.148876,1,
 4554,"Dunaföldvár, autóbusz-állomás",46.806080,18.926207,1,
 4595,"Paks, autóbusz-állomás",46.620037,18.858569,1,
@@ -2650,7 +2650,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 575326,"Balatonfüred, Nádor utca",46.958470,17.884242,,
 575327,"Balatonfüred, Horváth Mihály utca",46.956488,17.886881,,
 575328,"Balatonfüred, Horváth Mihály utca",46.956349,17.886833,,
-575329,"Balatonfüred, autóbusz-állomás",46.955426,17.882959,,1440
+575329,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,1440
 575330,"Balatonfüred, hajóállomás",46.953980,17.892967,,
 575331,"Balatonfüred, hajóállomás",46.953964,17.893058,,
 575332,"Balatonfüred, Széchenyi sétány",46.950263,17.884710,,
@@ -4272,7 +4272,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 577142,"Németbánya, orvosi rendelő",47.217672,17.639042,,
 577143,"Németbánya, orvosi rendelő",47.217729,17.638909,,
 577144,"Németbánya, forduló",47.214635,17.646600,,
-577146,"Baja, autóbusz-állomás",46.183344,18.956763,,2408
 577148,"Baja, Kölcsey Ferenc utca",46.184827,18.946542,,
 577149,"Baja, Kölcsey Ferenc utca",46.184715,18.946607,,
 577150,"Baja, Duna Kötöttárugyár Kft.",46.187381,18.933103,,
@@ -7907,7 +7906,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 581162,"Bonyhád, Zománcgyár",46.286431,18.522286,,
 581164,"Hidas, Kossuth Lajos utca",46.262100,18.509238,,
 581165,"Hidas, Kossuth Lajos utca",46.261610,18.508274,,
-581166,"Bonyhád, autóbusz-állomás",46.297673,18.534335,,4451
 581169,"Bonyhád, Rákóczi Ferenc utca 68.",46.305071,18.530854,,
 581170,"Bonyhád, Rákóczi Ferenc utca 68.",46.304905,18.530935,,
 581171,"Bonyhád, Rákóczi utca 1.",46.300131,18.530538,,
@@ -17942,6 +17940,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 592190,"Dunapataj, Ordasi út",46.643693,18.991517,,
 592191,"Dunapataj, Ordasi út",46.643668,18.991503,,
 592192,"Dunapataj, iskola",46.644042,18.999493,,
+592193,"Dunapataj, iskola",46.644372,19.001242,,
 592194,"Dunapataj, iskola",46.643830,19.000552,,
 592195,"Dunapataj, iskola",46.644877,18.999647,,
 592198,"Dunapataj, Hartai út",46.650568,19.003082,,
@@ -38626,6 +38625,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 67220,"Lenti, autóbusz-állomás",46.622338,16.540953,1,
 6728,"Fonyód, vasútállomás",46.749786,17.557924,1,
 67332,"Keszthely, autóbusz-állomás",46.757972,17.246481,1,
+67415,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,1,
 67751,"Nagykanizsa, autóbusz-állomás",46.456522,16.985581,1,
 678936,"Kerekegyháza, Kunszentmiklósi útelágazás",46.962639,19.443838,,
 678955,"Eger, Bazilika",47.898907,20.372463,,
@@ -39093,6 +39093,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 683264,"Balatonfüred, Perczel Mór utca",46.959849,17.880906,,
 683265,"Balatonfüred, Vázsonyi utca",46.959881,17.864111,,
 683266,"Balatonfüred, Vázsonyi utca",46.959838,17.863509,,
+683268,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,67415
 683269,"Balatonfüred, Probio Zrt.",46.955825,17.871791,,
 683270,"Balatonfüred, Noszlopy utca",46.959006,17.878304,,
 683315,"Balatonfüred, Nádor utca",46.958470,17.884242,,
@@ -41098,6 +41099,8 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 739970,"Tiszaújváros, autóbusz-állomás",47.929818,21.032005,,4178
 739990,"Letenye, autóbusz-állomás",46.432749,16.722986,,18971
 740038,"Gyomaendrőd, Rózsahegyi Iskola",46.933559,20.771357,,
+740099,"Baja, autóbusz-állomás",46.183693,18.956124,,2408
+740113,"Bonyhád, autóbusz-állomás",46.298146,18.535189,,4451
 7572,"Tab, autóbusz-állomás",46.733924,18.039051,1,
 7744,"Sopron, autóbusz-állomás",47.688386,16.586079,1,
 7844,"Győr, autóbusz-állomás",47.681048,17.636449,1,
