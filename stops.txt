@@ -54,7 +54,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 16312,"Tatabánya, autóbusz-állomás",47.587024,18.392775,1,
 16487,"Aszód, vasútállomás",47.648061,19.492647,1,
 16600,"Budapest, Stadion autóbusz-pályaudvar",47.500822,19.107815,1,
-16646,"Budapest, Népliget autóbusz-pályaudvar",47.475154,19.098893,1,
+16646,"Budapest, Népliget autóbusz-pályaudvar",47.474997,19.098714,1,
 16665,"Budapest, Árpád híd autóbusz-állomás",47.531795,19.065352,1,
 16674,"Budapest, Kelenföld vasútállomás",47.463567,19.022441,1,
 16794,"Cegléd, autóbusz-állomás",47.182092,19.803859,1,
@@ -29919,7 +29919,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 605368,"Százhalombatta, Halászcsárda",47.310722,18.926672,,
 605369,"Százhalombatta, Tél utca",47.314473,18.916783,,
 605370,"Százhalombatta, Tél utca",47.314472,18.916580,,
-605372,"Budapest, Népliget autóbusz-pályaudvar",47.474891,19.099341,,16646
 605373,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,16646
 605375,"Budapest, Kelenföldi Erőmű",47.464835,19.052863,,
 605376,"Budapest, Kelenföldi Erőmű",47.464435,19.053062,,
@@ -41101,6 +41100,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 740038,"Gyomaendrőd, Rózsahegyi Iskola",46.933559,20.771357,,
 740099,"Baja, autóbusz-állomás",46.183693,18.956124,,2408
 740113,"Bonyhád, autóbusz-állomás",46.298146,18.535189,,4451
+740119,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,16646
 7572,"Tab, autóbusz-állomás",46.733924,18.039051,1,
 7744,"Sopron, autóbusz-állomás",47.688386,16.586079,1,
 7844,"Győr, autóbusz-állomás",47.681048,17.636449,1,
