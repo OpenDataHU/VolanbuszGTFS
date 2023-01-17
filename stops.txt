@@ -28,7 +28,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 13672,"Tiszalök, autóbusz-váróterem",48.016168,21.375018,1,
 13816,"Vásárosnamény, vasútállomás",48.126874,22.305859,1,
 13860,"Záhony, vasútállomás",48.401228,22.182254,1,
-14038,"Hódmezővásárhely, autóbusz-állomás",46.415798,20.329430,1,
+14038,"Hódmezővásárhely, autóbusz-állomás",46.415971,20.329479,1,
 1418,"Balatonalmádi, autóbusz-állomás",47.030277,18.015144,1,
 14186,"Csongrád, autóbusz-állomás",46.708704,20.147670,1,
 14383,"Makó, autóbusz-állomás",46.219410,20.476397,1,
@@ -39133,7 +39133,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 683424,Keleti utca,47.604787,21.356667,,
 683425,Iskola köz,47.605858,21.351324,,
 683426,Árpád utca,47.607326,21.347272,,
-683430,"Kossuth tér, park",47.611580,21.342583,,
+683430,"Kossuth tér, park",47.611596,21.342439,,
 683431,Eagle Ottawa II,47.137785,20.134348,,
 683432,Eagle Ottawa II,47.137629,20.134208,,
 683437,Heves Megyei Kamara,47.872880,20.388116,,
@@ -41101,6 +41101,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 740099,"Baja, autóbusz-állomás",46.183693,18.956124,,2408
 740113,"Bonyhád, autóbusz-állomás",46.298146,18.535189,,4451
 740119,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,16646
+740125,"Hódmezővásárhely, autóbusz-állomás",46.416144,20.329527,,14038
 7572,"Tab, autóbusz-állomás",46.733924,18.039051,1,
 7744,"Sopron, autóbusz-állomás",47.688386,16.586079,1,
 7844,"Győr, autóbusz-állomás",47.681048,17.636449,1,
