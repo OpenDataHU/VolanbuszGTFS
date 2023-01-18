@@ -457,7 +457,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1377,5190,Nagylak - Magyarcsanád - Apátfalva - Makó - Szeged,3
 21,1378,5202,Köröstetétlen - Jászkarajenő - Tiszakécske - Szentkirály - Kecskemét,3
 21,1379,5203,Tiszakécske - Szentkirály/Lakitelek - Kecskemét,3
-21,138,1383,Eger - Bükkszentkereszt - Miskolc,3
 21,1380,5205,Szentkirály - Kecskemét,3
 21,1381,5207,Waldorf iskola - Kecskemét,3
 21,1382,5208,Gyula - Békéscsaba - Szarvas - Kecskemét,3
@@ -526,7 +525,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1447,5279,Kecskemét - Fülöpjakab - Kiskunmajsa - Kiskunhalas,3
 21,1448,5280,Kiskunmajsa - Kiskunhalas,3
 21,1449,5281,Szank - Kiskunmajsa - Kiskunhalas,3
-21,145,1427,Hatvan - Gyöngyös - Eger - Mezőkövesd - Nyíregyháza,3
 21,1450,5282,Pusztamérges - Balotaszállás - Kiskunhalas,3
 21,1451,5283,Pusztamérges - Kiskunmajsa (Gárgyán) - Zsana - Kiskunhalas,3
 21,1452,5284,Kiskunhalas - Tompa - Kelebia - Szeged,3
@@ -1451,7 +1449,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,174,1515,Parádfürdő - Gyöngyös - Jászberény - Szolnok - Szeged,3
 21,1740,5940,Bőszénfa - Simonfa - Kaposvár,3
 21,1741,5942,Szentborbás - Szigetvár - Simonfa - Kaposvár,3
-21,17411,1051,Ózd - Eger - Budapest,3
 21,17416,7044,Győrasszonyfa - Győrújbarát - Győr,3
 21,17419,3713,Irota - Homrogd - Tomor - Lak - Edelény,3
 21,1742,5946,Szilvásszentmárton - Szenna - Kaposvár,3
@@ -2008,7 +2005,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,19166,492,Zsámbok - Tóalmás - Kóka - Sülysáp,3
 21,19167,487,Szentlőrinckáta - Tóalmás - Tápiószecső,3
 21,1917,6186,Nemesdéd/Zalakaros - Nemesvid - Marcali,3
-21,19180,1448,Salgótarján - Eger - Tiszafüred - Debrecen,3
 21,19181,15Y,"Tiszaliget, Campus - Vasútállomás",3
 21,1919,5972,Nagykanizsa - Iharosberény - Böhönye - Kaposvár,3
 21,192,1535,Jászberény/Szolnok - Kecskemét - Baja - Pécs,3
@@ -2861,7 +2857,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2639,1040,Gyöngyös - Hatvan - Gödöllő - Budapest,3
 21,2640,1080,Kecskemét - Lajosmizse - Dabas - Budapest,3
 21,2649,1254,Kisbér - Mór - Bicske - Budapest,3
-21,2652,4157,Mezőkövesd - Eger - Ózd,3
 21,2653,4411,Szakoly - Nyíradony,3
 21,2655,5264,Szank - Jászszentlászló - Kiskunfélegyháza,3
 21,2656,5800,Erdősmecske - Palotabozsok - Mohács,3
@@ -3102,7 +3097,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,694,3450,Füzesabony - Kerecsend - Demjén - Eger,3
 21,695,3455,Verpelét - Eger,3
 21,696,3456,Nagyút - Kál-Kápolna vá. - Tófalu - Liszkó/Verpelét - Eger,3
-21,697,3457,Gyöngyös - Domoszló - Tarnaszentmária - Verpelét - Eger,3
 21,698,3458,Vécs - Kisnána - Verpelét - Eger,3
 21,7,1010,Salgótarján - Szécsény - Balassagyarmat - Budapest,3
 21,70,1183,Lenti - Letenye - Nagykanizsa - Zalakaros - Budapest,3
