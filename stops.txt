@@ -14155,7 +14155,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 588198,"Győr, Szent István út, Iparkamara",47.685396,17.639054,,
 588199,"Győr, Szent István út, Iparkamara",47.686034,17.641468,,
 588200,"Győr, autóbusz-állomás",47.681298,17.636641,,7844
-588201,"Győr, autóbusz-állomás",47.680798,17.636256,,7844
+588201,"Győr, autóbusz-állomás",47.680833,17.636224,,7844
 588202,"Győr, Eötvös park",47.682641,17.631327,,
 588203,"Győr, Eötvös park",47.682137,17.630261,,
 588204,"Győr, 1-es út, Csipkegyári út",47.676907,17.613034,,
@@ -41035,7 +41035,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 740162,"Érd, autóbusz-állomás",47.379701,18.925127,,18436
 7572,"Tab, autóbusz-állomás",46.733924,18.039051,1,
 7744,"Sopron, autóbusz-állomás",47.688386,16.586079,1,
-7844,"Győr, autóbusz-állomás",47.681048,17.636449,1,
+7844,"Győr, autóbusz-állomás",47.681298,17.636641,1,
 7915,"Csorna, autóbusz-állomás",47.611074,17.253026,1,
 8155,"Kapuvár, autóbusz-állomás",47.589603,17.034996,1,
 8266,"Mosonmagyaróvár, vasútállomás",47.850691,17.266973,1,
