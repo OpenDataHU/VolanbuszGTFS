@@ -1,6 +1,6 @@
 stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 10025,"Kiskunhalas, autóbusz-állomás",46.430103,19.476823,1,
-10074,"Kiskunmajsa, autóbusz-váróterem",46.492018,19.737187,1,
+10074,"Kiskunmajsa, autóbusz-váróterem",46.491980,19.736518,1,
 10124,"Kiskőrös, vasútállomás",46.626369,19.295762,1,
 1048,"Sárbogárd, vasútállomás",46.896825,18.612613,1,
 10679,"Gyöngyös, autóbusz-állomás",47.782388,19.930058,1,
@@ -41033,6 +41033,8 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 740154,"Dunaföldvár, autóbusz-állomás",46.805238,18.926113,,4554
 740157,"Eger, autóbusz-állomás",47.900328,20.371285,,83
 740162,"Érd, autóbusz-állomás",47.379701,18.925127,,18436
+740196,"Kiskunmajsa, autóbusz-váróterem",46.491738,19.735321,,10074
+740197,"Kiskunmajsa, autóbusz-váróterem",46.492146,19.736376,,10074
 7572,"Tab, autóbusz-állomás",46.733924,18.039051,1,
 7744,"Sopron, autóbusz-állomás",47.688386,16.586079,1,
 7844,"Győr, autóbusz-állomás",47.681298,17.636641,1,
