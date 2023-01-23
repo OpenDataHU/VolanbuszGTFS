@@ -11,7 +11,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 11754,"Pécs, autóbusz-állomás",46.070519,18.232378,1,
 11867,"Komló, autóbusz-állomás",46.189552,18.265560,1,
 12140,"Sellye, autóbusz-váróterem",45.874651,17.850912,1,
-12149,"Siklós, autóbusz-állomás",45.855953,18.293514,1,
+12149,"Siklós, autóbusz-állomás",45.856219,18.292676,1,
 12240,"Szigetvár, autóbusz-állomás",46.044147,17.802897,1,
 12272,"Szászvár, Május 1. tér",46.273515,18.377911,1,
 12279,"Sásd, kaposvári útelágazás",46.255148,18.105581,1,
@@ -77,7 +77,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 18971,"Letenye, autóbusz-állomás",46.432749,16.722986,1,
 19027,"Keszthely, autóbusz-állomás",46.757964,17.246476,1,
 19125,"Hévíz, autóbusz-állomás",46.793002,17.192345,1,
-19248,"Lenti, autóbusz-állomás",46.622009,16.541384,1,
+19248,"Lenti, autóbusz-állomás",46.622325,16.540958,1,
 19343,"Nagykanizsa, autóbusz-állomás",46.456472,16.986258,1,
 19467,"Pacsa, autóbusz-állomás",46.722425,17.008861,1,
 19723,"Zalakaros, autóbusz-állomás",46.551916,17.123476,1,
@@ -13257,7 +13257,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 587180,"Bezenye, felső",47.965400,17.213879,,
 587181,"Bezenye, vasútállomás",47.973337,17.208330,,
 587182,"Bezenye, vasútállomás",47.972635,17.208675,,
-587183,"Mosonmagyaróvár, autóbusz-végállomás",47.877100,17.255769,,8286
+587183,"Mosonmagyaróvár, autóbusz-végállomás",47.877349,17.256040,,8286
 587184,"Mosonmagyaróvár, Móra Ferenc-lakótelep",47.868820,17.271095,,
 587185,"Mosonmagyaróvár, Móra Ferenc-lakótelep",47.869465,17.270912,,
 587186,"Mosonmagyaróvár, Kormos István-lakótelep",47.862807,17.273974,,
@@ -14155,7 +14155,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 588198,"Győr, Szent István út, Iparkamara",47.685396,17.639054,,
 588199,"Győr, Szent István út, Iparkamara",47.686034,17.641468,,
 588200,"Győr, autóbusz-állomás",47.681298,17.636641,,7844
-588201,"Győr, autóbusz-állomás",47.680833,17.636224,,7844
 588202,"Győr, Eötvös park",47.682641,17.631327,,
 588203,"Győr, Eötvös park",47.682137,17.630261,,
 588204,"Győr, 1-es út, Csipkegyári út",47.676907,17.613034,,
@@ -20883,11 +20882,10 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 595514,"Gordisa, mezőgazdasági telep",45.798109,18.241789,,
 595515,"Matty, Kossuth Lajos utca 19.",45.795532,18.264278,,
 595516,"Matty, Kossuth Lajos utca 19.",45.795683,18.264276,,
-595519,"Matty, gyűrűspusztai elágazás",45.798547,18.266805,,
+595518,"Matty, gyűrűspusztai elágazás",45.797928,18.266797,,
 595520,"Matty, Mattypuszta",45.784877,18.275484,,
 595521,"Matty, Mattypuszta",45.784858,18.275510,,
 595522,"Matty (Keselyősfapuszta), forduló",45.770676,18.280804,,
-595523,"Matty (Keselyősfapuszta), forduló",45.770704,18.280763,,
 595525,Mattyi elágazás[2],45.801373,18.269209,,
 595526,Mattyi elágazás[2],45.802320,18.269857,,
 595527,Mattyi elágazás[2],45.801648,18.269889,,
@@ -28472,7 +28470,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 603723,"Kerkafalva, Kossuth utca 26.",46.769217,16.481769,,
 603724,"Lenti, major",46.636562,16.533718,,
 603725,"Lenti, major",46.635960,16.533914,,
-603726,"Lenti, autóbusz-állomás",46.622009,16.541384,,19248
+603726,"Lenti, autóbusz-állomás",46.622325,16.540958,,19248
 603727,"Lenti (Mumor), Damjanich utca 51.",46.625784,16.566951,,
 603728,"Lenti (Mumor), Damjanich utca 51.",46.625854,16.566872,,
 603729,"Lenti (Lentiszombathely), Szombathelyi utca",46.620424,16.574435,,
@@ -33570,7 +33568,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 609714,"Kozármisleny, Kinizsi utca",46.054299,18.289231,,
 609715,"Pécsvárad, Szentháromság tér",46.158785,18.418737,,
 609718,"Pécsvárad, Szentháromság tér",46.158717,18.418375,,
-609720,"Siklós, autóbusz-állomás",45.855953,18.293514,,12149
 609721,"Siklós, kórház",45.848458,18.297252,,
 609722,"Siklós, kórház",45.850954,18.298632,,
 609723,"Siklós, Városháza",45.851890,18.299812,,
@@ -36257,6 +36254,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 628816,"Győr (Ménfőcsanak), Ormos utca",47.626123,17.599301,,
 628817,"Győr (Ménfőcsanak), vasúti megállóhely",47.621991,17.598499,,
 628818,"Győr, Eszperantó út, autóbusz-állomás",47.681929,17.636180,,
+628819,"Győr, Hunyadi utca, autóbusz-állomás",47.680833,17.636224,,
 628821,"Győr, Kert utca",47.673649,17.630815,,
 628824,"Győr, Bakonyi út, marcalvárosi aluljáró",47.665881,17.636019,,
 628825,"Győr, Marcalváros, Kovács Margit utca",47.662424,17.635749,,
@@ -36526,6 +36524,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 629809,"Mosonmagyaróvár, József Attila utca",47.851591,17.273473,,
 629828,"Mosonmagyaróvár, Kormos István-lakótelep",47.863406,17.273856,,
 629829,"Mosonmagyaróvár, Kormos István-lakótelep",47.862807,17.273974,,
+629840,"Mosonmagyaróvár, autóbusz-végállomás",47.877100,17.255769,,
 629852,"Mosonmagyaróvár, Ostermayer Károly utca",47.856679,17.265852,,
 629874,"Kisar, hídfő",48.058647,22.515821,,
 629875,"Kisar, hídfő",48.058566,22.515890,,
@@ -41035,13 +41034,14 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 740162,"Érd, autóbusz-állomás",47.379701,18.925127,,18436
 740196,"Kiskunmajsa, autóbusz-váróterem",46.491738,19.735321,,10074
 740197,"Kiskunmajsa, autóbusz-váróterem",46.492146,19.736376,,10074
+740232,"Siklós, autóbusz-állomás",45.856219,18.292676,,12149
 7572,"Tab, autóbusz-állomás",46.733924,18.039051,1,
-7744,"Sopron, autóbusz-állomás",47.688386,16.586079,1,
+7744,"Sopron, autóbusz-állomás",47.688564,16.585888,1,
 7844,"Győr, autóbusz-állomás",47.681298,17.636641,1,
 7915,"Csorna, autóbusz-állomás",47.611074,17.253026,1,
 8155,"Kapuvár, autóbusz-állomás",47.589603,17.034996,1,
 8266,"Mosonmagyaróvár, vasútállomás",47.850691,17.266973,1,
-8286,"Mosonmagyaróvár, autóbusz-végállomás",47.877100,17.255769,1,
+8286,"Mosonmagyaróvár, autóbusz-végállomás",47.877349,17.256040,1,
 83,"Eger, autóbusz-állomás",47.900706,20.370829,1,
 8587,"Battonya, autóbusz-váróterem",46.286962,21.019739,1,
 8610,"Békés, autóbusz-állomás",46.772829,21.125740,1,
