@@ -461,7 +461,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1381,5207,Waldorf iskola - Kecskemét,3
 21,1382,5208,Gyula - Békéscsaba - Szarvas - Kecskemét,3
 21,1383,5210,Csépa - Tiszaug - Lakitelek - Kecskemét,3
-21,1384,5211,Martfű - Tiszaföldvár - Cserkeszőlő - Tiszakürt - Kecskemét,3
 21,1385,5212,Tiszaalpár - Lakitelek - Kecskemét,3
 21,1386,5213,Bugac - Kiskunfélegyháza - Kecskemét,3
 21,1387,5214,Városföld - Kecskemét,3
@@ -1245,7 +1244,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1691,5816,Szigetvár - Villány - Mohács,3
 21,1692,5817,Magyarbóly - Villány - Mohács,3
 21,16927,4622,Rákóczifalva - Szolnok,3
-21,16928,4794,Cibakháza - Martfű - Törökszentmiklós,3
 21,1693,5819,Berkesd - Pécsvárad - Szederkény - Mohács,3
 21,1694,5821,Kisnyárád - Mohács,3
 21,1695,5825,Pécsvárad - Hímesháza - Mohács,3
@@ -1748,7 +1746,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,17697,774,Nagysáp - Bajna - Zsámbék - M1 - Budapest,3
 21,17698,783,Gyermely - Zsámbék - Páty - Budapest,3
 21,17699,785,Gyermely - Zsámbék - Páty - Budapest,3
-21,177,1518,Szolnok - Kunszentmárton - Csongrád - Szeged,3
 21,1770,6018,Somogymeggyes/[Fiad - Törökkoppány] - Tab - Siófok,3
 21,17700,781,Gyermely - Zsámbék - Páty - Budapest,3
 21,17701,775,Gyermely - Zsámbék - M1 - Budapest,3
