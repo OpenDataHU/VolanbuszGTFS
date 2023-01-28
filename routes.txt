@@ -867,10 +867,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15808,11,Vasútállomás - Kórház - Bánomi lakótelep - Bazilika - Lázár Vilmos utca - Vasútállomás,3
 21,15809,1,Vasútállomás - TESCO - Vasútállomás - Lázár Vilmos utca - Bazilika - Bánomi lakótelep - Kórház - Vasútállomás,3
 21,15810,43,Bánomi lakótelep - Vasútállomás - Kertváros - Vasútállomás - Bánomi lakótelep,3
-21,15811,21,Ipari park - Autóbusz-állomás,3
 21,15812,23,MOL városrész - Koppánymonostor,3
 21,15813,2T,Koppánymonostor - Autóbusz-állomás,3
-21,15814,2Y,Ipari park - Autóbusz-állomás,3
 21,15815,2,Koppánymonostor - Autóbusz-állomás,3
 21,15816,32,Koppánymonostor - MOL városrész,3
 21,15817,3,MOL városrész - Autóbusz-állomás,3
@@ -1825,7 +1823,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,17777,4009,Tiszaújváros - Mezőcsát - Mezőkeresztes - Mezőkövesd,3
 21,17779,727,Budapest - Diósd - Diósdliget - Budapest,3
 21,17780,733,"Érd, aut.áll/Budapest - Érd, Bem tér - Érd, Iparos u. - Budapest/Érd, Bem tér",3
-21,17782,21A,Autóbusz-állomás - Török Ignác utca - Autóbusz-állomás,3
 21,17784,389,"Veresegyház, medveotthon - Veresegyház, központ",3
 21,17785,446,Kóka - Dány - Isaszeg - Gödöllő,3
 21,17786,3889,Sárospatak - Kenézlő - Viss - Zalkod - Kenézlő - Sárospatak,3
@@ -2564,6 +2561,9 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2265,7416,Bakonynána - Dudar - Zirc,3
 21,22654,95E,,3
 21,2266,7418,"Olaszfalu, Felsőperepuszta - Zirc",3
+21,22665,23K,,3
+21,22666,32K,,3
+21,22667,3K,,3
 21,2267,7420,Bakonybél - Lókút - Zirc,3
 21,2268,7426,Porva - Zirc,3
 21,2270,7437,"Olaszfalu, Felsőperepuszta - Zirc - Dudar",3
