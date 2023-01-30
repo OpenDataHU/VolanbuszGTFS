@@ -11044,8 +11044,8 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 584692,"Törökszentmiklós, Deák Ferenc utca",47.176631,20.418749,,
 584693,"Törökszentmiklós, Szabadságharcos utca",47.174578,20.382525,,
 584694,"Törökszentmiklós, Szabadságharcos utca",47.175060,20.383583,,
-584695,"Törökszentmiklós, autóbusz-állomás",47.179467,20.414611,,6591
-584696,"Törökszentmiklós, autóbusz-állomás",47.178972,20.413599,,6591
+584695,"Törökszentmiklós, autóbusz-állomás",47.179288,20.414151,,6591
+584696,"Törökszentmiklós, autóbusz-állomás",47.179110,20.414111,,6591
 584697,"Törökszentmiklós, piactér",47.180882,20.409876,,
 584698,"Törökszentmiklós, piactér",47.180584,20.409924,,
 584699,"Törökszentmiklós, Arany János utca",47.182171,20.426119,,
@@ -38405,7 +38405,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 651487,"Körmend, Szabadság tér (kastély)",47.008429,16.606366,,
 656619,"Bér, Polgármesteri Hivatal",47.862974,19.508470,,
 656620,"Bér, Polgármesteri Hivatal",47.862954,19.508647,,
-6591,"Törökszentmiklós, autóbusz-állomás",47.179220,20.414105,1,
+6591,"Törökszentmiklós, autóbusz-állomás",47.179199,20.414131,1,
 664149,"Kocsér, Szent István tér",47.002297,19.924200,,
 664155,"Heves, Egri út 30.",47.608407,20.301374,,
 664156,"Heves, Egri út 30.",47.608024,20.300761,,
