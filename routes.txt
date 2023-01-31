@@ -665,6 +665,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15382,14,Kéttornyúlak - Autóbusz-álomás,3
 21,15383,15,Borsosgyőr - Kéttornyúlak,3
 21,15384,16,Tapolcafő - Autóbusz-állomás,3
+21,15385,1A,,3
 21,15386,1Y,Yanfeng - Autóbusz-állomás,3
 21,15396,1,Alsócsinger - Vasútállomás,3
 21,15397,4,TESCO - Hild park - Móra Ferenc utca - TESCO,3
@@ -1129,6 +1130,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16451,5A,Tündérfátyol utca - Duna lakópark - Ujhelyi iskola - Evangélikus templom - Autóbusz-végállomás,3
 21,16455,5,Tündérfátyol utca - Duna lakópark - Ujhelyi iskola - Evangélikus templom - Vasútállomás,3
 21,1646,5667,Gyód - Keszü - Pécs,3
+21,16461,17,Böröllő - Autóbusz-állomás,3
 21,16468,3692,Vécs - Domoszló - Markaz - MVM Mátra,3
 21,16469,3693,Gyöngyös - Visonta - MVM Mátra,3
 21,1647,5670,Baksa - Görcsöny - Pécs,3
@@ -2559,14 +2561,16 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2263,7410,Bakonycsernye - Szápár - Dudar - Zirc,3
 21,2264,7412,Jásd - Szápár - Zirc,3
 21,2265,7416,Bakonynána - Dudar - Zirc,3
-21,22654,95E,,3
+21,22654,95E,Michelin - Vasútállomás,3
 21,2266,7418,"Olaszfalu, Felsőperepuszta - Zirc",3
-21,22665,23K,,3
-21,22666,32K,,3
-21,22667,3K,,3
+21,22665,23K,Kórház - Autóbusz-állomás - Ipari park - Koppánymonostor,3
+21,22666,32K,Koppánymonostor - Ipari park - Autóbusz-állomás - Kórház,3
+21,22667,3K,Autóbusz-állomás - Kórház,3
 21,2267,7420,Bakonybél - Lókút - Zirc,3
 21,2268,7426,Porva - Zirc,3
 21,2270,7437,"Olaszfalu, Felsőperepuszta - Zirc - Dudar",3
+21,22701,5T,,3
+21,22702,7A,,3
 21,2271,7442,Fenyőfő - Bakonyszentlászló - Veszprémvarsány,3
 21,2272,7501,Szápár - Jásd - Tés - Várpalota,3
 21,2274,7528,Berhida - Ősi - Várpalota,3
