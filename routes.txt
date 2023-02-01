@@ -665,8 +665,9 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15382,14,Kéttornyúlak - Autóbusz-álomás,3
 21,15383,15,Borsosgyőr - Kéttornyúlak,3
 21,15384,16,Tapolcafő - Autóbusz-állomás,3
-21,15385,1A,,3
+21,15385,1A,Hirtenberger - Autóbusz-állomás,3
 21,15386,1Y,Yanfeng - Autóbusz-állomás,3
+21,15388,8A,Vasútállomás - Pápakovácsi elágazás - Tizedik utca - TESCO - Vasútállomás,3
 21,15396,1,Alsócsinger - Vasútállomás,3
 21,15397,4,TESCO - Hild park - Móra Ferenc utca - TESCO,3
 21,15398,10,Alsócsinger - Móra Ferenc utca,3
@@ -2561,6 +2562,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2263,7410,Bakonycsernye - Szápár - Dudar - Zirc,3
 21,2264,7412,Jásd - Szápár - Zirc,3
 21,2265,7416,Bakonynána - Dudar - Zirc,3
+21,22653,49,Huszártelep - Michelin - Örökösföld - Oros,3
 21,22654,95E,Michelin - Vasútállomás,3
 21,2266,7418,"Olaszfalu, Felsőperepuszta - Zirc",3
 21,22665,23K,Kórház - Autóbusz-állomás - Ipari park - Koppánymonostor,3
@@ -2569,8 +2571,9 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2267,7420,Bakonybél - Lókút - Zirc,3
 21,2268,7426,Porva - Zirc,3
 21,2270,7437,"Olaszfalu, Felsőperepuszta - Zirc - Dudar",3
-21,22701,5T,,3
-21,22702,7A,,3
+21,22701,5T,Tüzép - Vasútállomás - Tizedik utca - Autóbusz-állomás,3
+21,22702,7A,Hirtenberger - Vízmű utca - Huszár lakótelep - Vasútállomás,3
+21,22703,8B,Vasútállomás - TESCO - Tizedik utca - Pápakovácsi elágazás - Vasútállomás,3
 21,2271,7442,Fenyőfő - Bakonyszentlászló - Veszprémvarsány,3
 21,2272,7501,Szápár - Jásd - Tés - Várpalota,3
 21,2274,7528,Berhida - Ősi - Várpalota,3
