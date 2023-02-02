@@ -81,7 +81,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 19343,"Nagykanizsa, autóbusz-állomás",46.456472,16.986258,1,
 19467,"Pacsa, autóbusz-állomás",46.722425,17.008861,1,
 19723,"Zalakaros, autóbusz-állomás",46.551916,17.123476,1,
-2043,"Pápa, autóbusz-állomás",47.332120,17.468760,1,
+2043,"Pápa, autóbusz-állomás",47.331784,17.468806,1,
 2065,"Pápa, vasútállomás",47.339774,17.460164,1,
 2093,"Révfülöp, vasútállomás",46.829251,17.631976,1,
 2147,"Sümeg, autóbusz-állomás",46.976688,17.282613,1,
@@ -3937,8 +3937,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 576764,"Pápa, Budai Nagy Antal utca",47.322769,17.475544,,
 576765,"Pápa, kórház",47.326346,17.471676,,
 576766,"Pápa, kórház",47.327490,17.470421,,
-576767,"Pápa, autóbusz-állomás",47.331924,17.469070,,2043
-576768,"Pápa, autóbusz-állomás",47.332305,17.468437,,2043
+576767,"Pápa, autóbusz-állomás",47.331784,17.468806,,2043
 576769,"Pápa, Hódoska major",47.326698,17.494082,,
 576770,"Pápa, Hódoska major",47.326304,17.492761,,
 576771,"Pápa, Bárócz-hegy",47.335350,17.519458,,
@@ -41077,6 +41076,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 740492,"Várpalota, autóbusz-állomás",47.202703,18.146133,,2275
 740493,"Várpalota, autóbusz-állomás",47.202703,18.146133,,
 740521,Michelin,47.941891,21.690013,,
+740528,"Zalaegerszeg, Fiú-diákotthon",46.838974,16.829637,,
 7572,"Tab, autóbusz-állomás",46.733677,18.038638,1,
 7744,"Sopron, autóbusz-állomás",47.688564,16.585888,1,
 7844,"Győr, autóbusz-állomás",47.681298,17.636641,1,
