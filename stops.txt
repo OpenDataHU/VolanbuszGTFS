@@ -10734,7 +10734,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 584359,"Jászberény, jászteleki elágazás",47.502049,19.922766,,
 584360,"Jászberény, jászteleki elágazás",47.501309,19.920193,,
 584361,"Jászberény, jászteleki elágazás",47.501141,19.922248,,
-584362,"Jászberény, autóbusz-állomás",47.501539,19.909640,,5977
+584362,"Jászberény, autóbusz-állomás",47.501585,19.909862,,5977
 584363,"Jászberény, Túzok utca",47.509831,19.908804,,
 584364,"Jászberény, Túzok utca",47.509998,19.908819,,
 584365,"Jászberény, Meggyespelei dűlőút",47.419730,19.910380,,
