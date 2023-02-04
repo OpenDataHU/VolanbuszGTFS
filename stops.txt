@@ -29351,7 +29351,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 604661,"Gyenesdiás, sportpálya",46.773541,17.276959,,
 604662,"Gyenesdiás, sportpálya",46.773748,17.278796,,
 604664,"Keszthely, Interspar",46.772910,17.267977,,
-604665,"Keszthely, Interspar",46.772851,17.267896,,
 604666,"Keszthely, Lovassy utca",46.768703,17.248362,,
 604668,"Gyenesdiás, Lőtéri utca",46.779291,17.277267,,
 604669,"Gyenesdiás, Lőtéri utca",46.779036,17.277334,,
@@ -37778,7 +37777,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 648856,"Pápa, Határ utca",47.326287,17.453470,,
 648857,"Pápa, Határ utca",47.325635,17.452415,,
 648858,"Pápa, Volán-telep",47.323046,17.448701,,
-648859,"Pápa, Volán-telep",47.322342,17.447322,,
 648863,"Pápa, Szalmavári utca",47.325483,17.472400,,
 648864,"Pápa, Közgazdasági Szakközépiskola",47.319380,17.479999,,
 648865,"Pápa, Közgazdasági Szakközépiskola",47.319188,17.480152,,
@@ -37812,15 +37810,9 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 648895,"Pápa (Borsosgyőr), autóbusz-váróterem",47.315429,17.433705,,
 648896,"Pápa (Borsosgyőr), autóbusz-váróterem",47.315180,17.432967,,
 648897,"Pápa (Borsosgyőr), iskola",47.313823,17.431040,,
-648899,"Pápa (Borsosgyőr), téglagyár",47.313087,17.428083,,
-648900,"Pápa (Borsosgyőr), téglagyár",47.312852,17.427251,,
-648901,"Pápa (Borsosgyőr), Szilfa utca",47.309135,17.430429,,
-648903,"Pápa (Kéttornyúlak), vendéglő",47.298482,17.447009,,
 648905,"Pápa (Kéttornyúlak), borsosgyőri elágazás",47.300671,17.448375,,
 648906,"Pápa, Gyurátz Ferenc utca elágazás",47.326170,17.463508,,
 648907,"Pápa, Széchenyi utca",47.326622,17.467148,,
-648910,"Pápa, Szladik János utca elágazás",47.324226,17.469557,,
-648911,"Pápa, Szladik János utca elágazás",47.324011,17.469791,,
 648913,"Balatonfűzfő, Lila Ház",47.064286,18.038675,,
 648914,"Balatonfűzfő, Lila Ház",47.064755,18.038434,,
 648916,"Fűzfőgyártelep, autóbusz-váróterem",47.074849,18.027631,,
@@ -39679,7 +39671,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 685353,"Győr (Ménfőcsanak), Győri úti körforgalom",47.616918,17.603336,,
 685354,"Pálfiszeg, Tubolyszeg-hegy",46.795692,16.728022,,
 685355,"Pálfiszeg, Tubolyszeg-hegy",46.796062,16.728076,,
-685356,"Zalaegerszeg, Landorhegyi út 20.",46.835903,16.828762,,
 685357,"Zalaegerszeg, Landorhegyi ABC",46.841338,16.832608,,
 685362,"Dabas, Lakos doktor utca",47.183515,19.312825,,
 685363,"Nagytótfalu, szőlőhegy",45.870847,18.339672,,
@@ -41070,6 +41061,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 740232,"Siklós, autóbusz-állomás",45.856219,18.292676,,12149
 740250,"Szekszárd, autóbusz-állomás",46.349347,18.711329,,5018
 740277,"Tiszaföldvár, autóbusz-állomás",46.980442,20.254534,,6496
+740291,Sóstói bevásárlóközpont,47.150532,18.431469,,
 740292,Mocsai elágazás,47.735749,18.158057,,
 740293,Mocsai elágazás,47.735889,18.157512,,
 740353,"Tiszaújváros, autóbusz-állomás",47.929818,21.032004,,38969

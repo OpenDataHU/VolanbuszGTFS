@@ -658,7 +658,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,1534,5387,"Kunszentmiklós - Szabadszállás - Kecskemét, Daimler 1. kapu",3
 21,15372,1,Pápakovácsi elágazás - Veszprémi út - Autóbusz-állomás - Vasútállomás,3
 21,15373,2,Törzsökhegy - Autóbusz-állomás - Húskombinát - Vasútállomás,3
-21,15374,3,Tizedik utca - Március 15. tér - Korona utca - Vasútállomás,3
 21,15375,5,TÜZÉP - Rét utca - Termálfürdő - Autóbusz-állomás,3
 21,15376,7,Hirtenberger - Vízmű utca - Korona utca - Húskombinát - Vasútállomás,3
 21,15381,13,Borsosgyőr - Autóbusz-állomás,3
@@ -1142,9 +1141,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16474,3698,"Ecséd - Rózsaszentmárton - Gyöngyöspata - Gyöngyös - Visonta, bánya irodaház",3
 21,16479,3226,Vörösmajor - Palotás - Buják,3
 21,1648,5671,Siklós - Harkány - Görcsöny - Pécs,3
-21,16485,1H,Hirtenberger - Autóbusz-állomás,3
-21,16486,4A,Autóbusz-állomás - Huszár lakótelep - Kórház - Autóbusz-állomás,3
-21,16487,4B,Autóbusz-állomás - Kórház - Huszár lakótelep - Autóbusz-állomás,3
 21,16488,6A,Autóbusz-állomás - Tizedik utca - Gyimóti út - Autóbusz-állomás,3
 21,16489,6B,Autóbusz-állomás - Gyimóti út - Tizedik utca - Autóbusz-állomás,3
 21,1649,5672,Siklós - Kisdér - Baksa - Pécs,3
