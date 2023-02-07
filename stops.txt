@@ -17342,7 +17342,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 591586,"Kiskunhalas, Téglagyári út",46.423307,19.454198,,
 591587,"Kiskunhalas, laktanya",46.424539,19.467105,,
 591588,"Kiskunhalas, laktanya",46.424380,19.466489,,
-591589,"Kiskunhalas, autóbusz-állomás",46.430103,19.476823,,10025
+591589,"Kiskunhalas, autóbusz-állomás",46.430074,19.476799,,10025
 591592,"Kiskunhalas, Felsővárosi iskola",46.438260,19.478257,,
 591593,"Kiskunhalas, Felsővárosi iskola",46.438593,19.478541,,
 591594,"Kiskunhalas, Vári Szakiskola",46.440953,19.480137,,
