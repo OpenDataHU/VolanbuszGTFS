@@ -29928,6 +29928,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 605439,"Vasad, Rákóczi utca",47.320423,19.408564,,
 605440,"Vasad, Rákóczi utca",47.320466,19.408583,,
 605441,"Vasad, Szabadság út 53.",47.315381,19.413517,,
+605442,"Vasad, Szabadság út 53.",47.315748,19.413296,,
 605443,"Vasad, Szabadság út 53.",47.315664,19.413235,,
 605444,"Vasad, Incefi-ház",47.310106,19.421354,,
 605445,"Vasad, Incefi-ház",47.310293,19.421022,,
@@ -34361,7 +34362,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 611149,"Sátoraljaújhely, Ipartelep utca",48.382813,21.659906,,
 611150,"Szolnok, Waldorf iskola",47.186150,20.203866,,
 611151,"Szolnok, Waldorf iskola",47.185007,20.204328,,
-611153,"Etyek, bicskei elágazás",47.444476,18.750501,,
 611155,"Iván, presszó",47.442972,16.906550,,
 611156,"Iván, községháza",47.446086,16.903670,,
 611157,"Iván, községháza",47.446006,16.903900,,
@@ -40992,6 +40992,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 739555,Laktanya,47.668016,18.322693,,
 739556,Szomódi út,47.670451,18.328380,,
 739615,"Miskolc, autóbusz-állomás",48.105803,20.791572,,3565
+739654,"Bag, Vasútállomás",47.639509,19.470967,,
 739659,"Tápiószentmárton, Vasúti megállóhely",47.370879,19.801267,,
 739677,"Garé, Rákóczi Ferenc utca 48.",45.914729,18.192599,,
 739678,"Garé, Rákóczi Ferenc utca 48.",45.914598,18.192521,,

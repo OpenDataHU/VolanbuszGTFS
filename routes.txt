@@ -661,7 +661,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15375,5,TÜZÉP - Rét utca - Termálfürdő - Autóbusz-állomás,3
 21,15376,7,Hirtenberger - Vízmű utca - Korona utca - Húskombinát - Vasútállomás,3
 21,15381,13,Borsosgyőr - Autóbusz-állomás,3
-21,15382,14,Kéttornyúlak - Autóbusz-álomás,3
 21,15383,15,Borsosgyőr - Kéttornyúlak,3
 21,15384,16,Tapolcafő - Autóbusz-állomás,3
 21,15385,1A,Hirtenberger - Autóbusz-állomás,3
