@@ -36757,6 +36757,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 632863,"Veresegyház, Dió utca",47.646912,19.271336,,
 632864,"Hegyeshalom, Május 1. utca",47.908988,17.147021,,
 632865,"Hegyeshalom, Május 1. utca",47.909058,17.147142,,
+632871,"Zalaegerszeg, Kovács Károly tér",46.844411,16.847495,,
 632873,"Zalaszentgrót, iskola",46.942618,17.080347,,
 632874,"Zalaszentgrót, iskola",46.942778,17.080108,,
 632876,"Kunbaracs, Ifjúsági tábor",46.980333,19.428140,,

@@ -343,6 +343,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,12851,8472,Kocs - Tata - Tatabánya,3
 21,1286,4966,Fábiánsebestyén - Gádoros - Orosháza,3
 21,12860,705,Adony - Ercsi - Százhalombatta - Budapest,3
+21,12864,784,,3
 21,12865,8437,Bicske - Óbarok - Újbarok - Szár - Nagyegyháza - Tatabánya,3
 21,12867,8432,Bicske - Óbarok - Tatabánya,3
 21,1287,1432,Szarvas - Szeghalom - Debrecen,3
@@ -862,6 +863,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,15788,10,Kenyérgyár - Róbert Károly forduló,3
 21,15789,14,Tési domb - Szabadság tér,3
 21,15790,1Y,"Inota, Erőmű lakótelep - Jókai Mór utca",3
+21,15791,7,Kovács Károly tér-Olai templom,3
 21,15797,536,Törtel - Abony,3
 21,15798,3652,Gyöngyössolymos - Gyöngyös - Nagyréde - Hatvan,3
 21,158,1466,Eger - Jászberény - Szolnok,3
@@ -1131,6 +1133,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16455,5,Tündérfátyol utca - Duna lakópark - Ujhelyi iskola - Evangélikus templom - Vasútállomás,3
 21,1646,5667,Gyód - Keszü - Pécs,3
 21,16461,17,Böröllő - Autóbusz-állomás,3
+21,16467,1R,Vasútállomás - Fellner Jakab út,3
 21,16468,3692,Vécs - Domoszló - Markaz - MVM Mátra,3
 21,16469,3693,Gyöngyös - Visonta - MVM Mátra,3
 21,1647,5670,Baksa - Görcsöny - Pécs,3
@@ -2584,8 +2587,21 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2283,7542,Balatonfőkajár - Berhida,3
 21,2284,7600,Fűzfőgyártelep - Balatonalmádi,3
 21,2285,7612,Hajmáskér - Sóly/Vilonya - Fűzfőgyártelep,3
+21,22887,63,Center - Gyujtó tér - Somsály,3
+21,22891,6309,,3
+21,22892,6,,3
+21,22894,13,,3
+21,22895,14,,3
+21,22896,15,,3
+21,22897,18,,3
+21,22899,20,,3
 21,229,1622,Szombathely - Körmend - Zalaegerszeg,3
 21,2290,7653,Fűzfőgyártelep - Balatonalmádi - Alsóörs - Balatonfüred,3
+21,22900,21,,3
+21,22901,22,,3
+21,22903,28,,3
+21,22908,23E,,3
+21,22909,24E,,3
 21,2291,7654,Fűzfőgyártelep - Balatonalmádi - Balatonfüred,3
 21,2294,7671,Kővágóörs - Révfülöp - Balatonakali-Dörgicse vá. - Balatonfüred,3
 21,2295,7673,Nagyvázsony - Tótvázsony - Pécsely - Balatonfüred,3
