@@ -2590,6 +2590,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,22887,63,Center - Gyujtó tér - Somsály,3
 21,22891,6309,,3
 21,22892,6,,3
+21,22893,12,,3
 21,22894,13,,3
 21,22895,14,,3
 21,22896,15,,3
@@ -2599,7 +2600,9 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2290,7653,Fűzfőgyártelep - Balatonalmádi - Alsóörs - Balatonfüred,3
 21,22900,21,,3
 21,22901,22,,3
+21,22902,25,,3
 21,22903,28,,3
+21,22904,12A,,3
 21,22908,23E,,3
 21,22909,24E,,3
 21,2291,7654,Fűzfőgyártelep - Balatonalmádi - Balatonfüred,3
