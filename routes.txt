@@ -2454,8 +2454,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2196,7287,Kapuvár - Csorna - Mosonszolnok - Mosonmagyaróvár,3
 21,2197,7292,Csemezpuszta - Hegyeshalom - Mosonmagyaróvár,3
 21,2198,7294,Rajka - Mosonmagyaróvár,3
-21,21983,3895,,3
-21,21984,3896,,3
+21,21983,3895,Szerencs - Tállya - Bodrogkeresztúr - Tokaj - Tarcal,3
+21,21984,3896,Tarcal - Tokaj,3
 21,21985,3136,Mátraterenye - Nemti - Szuha,3
 21,2199,7300,Zirc - Veszprém,3
 21,2200,7301,Dudar - Bakonyoszlop - Zirc - Veszprém,3
@@ -2480,7 +2480,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2209,7314,Pétfürdő/Várpalota - Öskü - Hajmáskér - Veszprém,3
 21,22090,1,Üdülőtelep - Autóbusz-állomás,3
 21,22091,21,Perczel Mór utca - Darnay Kálmán tér,3
-21,22095,3877,,3
+21,22095,3877,Nyíregyháza - Kisvárda - Cigánd - Ricse - Révleányvár,3
 21,22096,25A,Jósaváros - Északi körút,3
 21,22097,29E,Szakiskola és Kollégium - Vasútállomás,3
 21,22098,918,Örökösföld - Vasútállomás,3
@@ -2534,7 +2534,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,2240,7361,Veszprémfajsz - Nemesvámos - Veszprém,3
 21,2242,7363,Balatonfüred - Nemesvámos - Veszprém,3
 21,2243,7364,Balatonfüred - Tótvázsony - Veszprém,3
-21,22439,4447,,3
+21,22439,4447,Debrecen - Hajdúszoboszló - Nádudvar,3
 21,2244,7367,Zánka-Köveskál vá. - Nagyvázsony - Veszprém,3
 21,2245,7369,Tapolca - Zánka-Köveskál vá. - Veszprém,3
 21,2246,7370,Tapolca - Pula - Veszprém,3
@@ -2595,6 +2595,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,22895,14,,3
 21,22896,15,,3
 21,22897,18,,3
+21,22898,19,,3
 21,22899,20,,3
 21,229,1622,Szombathely - Körmend - Zalaegerszeg,3
 21,2290,7653,Fűzfőgyártelep - Balatonalmádi - Alsóörs - Balatonfüred,3
@@ -2603,6 +2604,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,22902,25,,3
 21,22903,28,,3
 21,22904,12A,,3
+21,22906,18A,,3
 21,22908,23E,,3
 21,22909,24E,,3
 21,2291,7654,Fűzfőgyártelep - Balatonalmádi - Balatonfüred,3
