@@ -34417,7 +34417,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 611286,"Balassagyarmat, Hunyadi utca",48.079770,19.296550,,
 611287,"Balassagyarmat, Civitas Fortissima tér",48.077067,19.291332,,
 611288,"Balassagyarmat, Civitas Fortissima tér",48.076930,19.290942,,
-611289,"Alsótold, felsőtoldi elágazás",47.954675,19.597092,,
 611291,"Biatorbágy, Szent László utca",47.483547,18.824530,,
 611292,"Biatorbágy, Szent László utca",47.483748,18.825054,,
 611293,"Biatorbágy, Kinizsi utca",47.478698,18.817171,,
