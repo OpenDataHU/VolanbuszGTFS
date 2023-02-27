@@ -35937,7 +35937,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 623641,"Ózd, Március 15. utca 12.",48.224731,20.284434,,
 623645,"Ózd, autóbusz-állomás",48.218742,20.290178,,
 623648,"Ózd (Szentsimon), autóbusz-váróterem",48.228573,20.217374,,
-623649,"Ózd (Szentsimon), autóbusz-váróterem",48.229433,20.217977,,
 623650,"Ózd (Hódoscsépány), somsályi elágazás",48.198506,20.264947,,
 623651,"Ózd (Hódoscsépány), somsályi elágazás",48.198462,20.265028,,
 623654,"Ózd, Damjanich utca 136.",48.236474,20.294036,,
