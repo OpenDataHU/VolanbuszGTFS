@@ -1133,7 +1133,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type
 21,16455,5,Tündérfátyol utca - Duna lakópark - Ujhelyi iskola - Evangélikus templom - Vasútállomás,3
 21,1646,5667,Gyód - Keszü - Pécs,3
 21,16461,17,Böröllő - Autóbusz-állomás,3
-21,16467,1R,Vasútállomás - Fellner Jakab út,3
+21,16467,1R,Vasútállomás - Fellner Jakab út - Tesco,3
 21,16468,3692,Vécs - Domoszló - Markaz - MVM Mátra,3
 21,16469,3693,Gyöngyös - Visonta - MVM Mátra,3
 21,1647,5670,Baksa - Görcsöny - Pécs,3
