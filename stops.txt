@@ -33604,6 +33604,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 609698,"Őrhalom, iskola",48.076238,19.402154,,
 609699,"Őrhalom, iskola",48.076230,19.402619,,
 609701,"Mohács, autóbusz-állomás",45.989168,18.685914,,2618
+609703,"Beremend, Cementgyár",45.814314,18.396168,,
 609704,"Bükkösd, óvoda",46.110657,17.997216,,
 609705,"Bükkösd, óvoda",46.110727,17.997113,,
 609706,"Bár, Mohács, üdülőtelep",46.039433,18.705426,,
@@ -41084,6 +41085,10 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station
 741154,"Lenti (Lentikápolna), Nefelejcs utca 9.",46.661945,16.540621,,
 741179,"Zalaegerszeg, Landorhegyi út 34.",46.835258,16.825423,,
 741182,"Zalaegerszeg, Erdész utca - Gyimesi utca",46.829613,16.831172,,
+741446,"Bonyhád, Fűtőmű",46.291122,18.518180,,
+741447,"Bonyhád, Bezerédj István utca",46.293264,18.516055,,
+741448,"Bonyhád, Kőrösi Csoma Sándor utca sarok",46.311534,18.524264,,
+741449,"Bonyhád, Kőrösi Csoma Sándor utca sarok",46.311502,18.524624,,
 7572,"Tab, autóbusz-állomás",46.733677,18.038638,1,
 7744,"Sopron, autóbusz-állomás",47.688564,16.585888,1,
 7844,"Győr, autóbusz-állomás",47.681298,17.636641,1,
