@@ -1,2 +1,2 @@
-feed_publisher_name,feed_publisher_url,feed_lang,feed_version
-cdata,http://cdata.hu,hu,1.3
+feed_id,feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_complete_start_date,feed_complete_end_date,feed_version
+kti,KTI Magyar Közlekedéstudományi és Logisztikai Intézet - realCity ITS Kft.,https://www.kti.hu,hu,20230805,20231103,20230805,20231103,20230805-0003

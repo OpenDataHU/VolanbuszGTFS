@@ -1,2 +1,67 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
 21,Volánbusz,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+21-GÖ,Volánbusz - Gödöllő,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+21-MO,Volánbusz - Monor,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+21-TRTO,Trans Tour,http://www.trans-tour.hu/,Europe/Budapest,hu,
+21-VÁ,Volánbusz - Vác,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+21-WE2,Weekendbus Zrt.,https://weekendbus.hu/,Europe/Budapest,hu,+36-(1/20/30)-262-6262
+40-BA,Volánbusz - Baja,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+40-BC,Volánbusz - Békéscsaba,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+40-BE,Volánbusz - Békés,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+40-C,Volánbusz - Csongrád,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+40-GYU,Volánbusz - Gyula,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+40-H,Volánbusz - Hódmezővásárhely,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+40-M,Volánbusz - Makó,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+40-MB,Volánbusz - Mezőberény,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+40-MÓRA,Volánbusz - Mórahalom,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+40-OH,Volánbusz - Orosháza,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+40-Z,Volánbusz - Szentes,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+41-91,Volánbusz - Szekszárd,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+41-92,Volánbusz - Bonyhád,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+41-95,Volánbusz - Komló,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+41-9581,Volánbusz - Mohács,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+41-9583,Volánbusz - Siklós,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+41-959,Volánbusz - Szigetvár,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+41-96,Volánbusz - Siófok,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+41-9617,Volánbusz - Fonyód,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+41-9625,Volánbusz - Nagyatád,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+41-9630,Volánbusz - Csurgó,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+41-9702,Volánbusz - Bátaszék,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+42-1967,Volánbusz - Mezőkövesd,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+42-9446$,Volánbusz - Balmazújváros,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+42-9447$,Volánbusz - Hajdúszoboszló,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+42-9650$,Volánbusz - Kazincbarcika,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+42-9660$,Volánbusz - Ózd,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+42-9680$,Volánbusz - Tiszaújváros,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+42-9700$,Volánbusz - Nyíregyháza,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+43-AJ,Volánbusz - Ajka,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+43-BD,Volánbusz - Balatonfüred,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+43-BO,Volánbusz - Balatonfűzfő,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+43-GY,Volánbusz - Győr,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+43-KE,Volánbusz - Keszthely,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+43-KO,Volánbusz - Körmend,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+43-LE,Volánbusz - Lenti,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+43-MO,Volánbusz - Mosonmagyaróvár,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+43-NK,Volánbusz - Nagykanizsa,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+43-PA,Volánbusz - Pápa,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+43-SO,Volánbusz - Sopron,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+43-VP,Volánbusz - Várpalota,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+43-ZE,Volánbusz - Zalaegerszeg,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+44-91,Volánbusz - Szolnok,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+44-92,Volánbusz - Eger,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+44-93,Volánbusz - Salgótarján,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+44-94,Volánbusz - Jászberény,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+44-95,Volánbusz - Gyöngyös,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+44-96,Volánbusz - Balassagyarmat,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+44-97,Volánbusz - Karcag,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+44-981,Volánbusz - Tiszafüred,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+44-982,Volánbusz - Mezőtúr,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+44-983,Volánbusz - Újszász,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+44-99,Volánbusz - Bátonyterenye,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+45-DU,Volánbusz - Dunaújváros,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+45-ES,Volánbusz - Esztergom,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+45-KO,Volánbusz - Komárom,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+45-OR,Volánbusz - Oroszlány,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+45-S,Volánbusz - Székesfehérvár,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+45-TA,Volánbusz - Tata,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+MB,MÁVBUSZ,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
