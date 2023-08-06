@@ -28,7 +28,7 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Fetch GTFS Archive
-        run: wget http://opendata.menetrendek.hu/public_gtfs/volanbusz_gtfs.zip -O /tmp/gtfs.zip
+        run: wget https://gtfs.kti.hu/public-gtfs/volanbusz_gtfs.zip -O /tmp/gtfs.zip
       - name: Extract GTFS
         run: | 
           unzip -o /tmp/gtfs.zip
