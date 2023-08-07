@@ -2282,7 +2282,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 12095,"Gyöngyösoroszi, Veres kút",47.802129,19.910605,,,
 12096,"Gyöngyösoroszi, vízgyűjtő",47.852930,19.874684,,,
 12097,"Gyöngyösoroszi, vízgyűjtő",47.852909,19.874652,,,
-12098,"Gyöngyös, parkettagyár",47.763311,19.951229,,,
 12099,"Gyöngyöspata, autóbusz-forduló",47.817784,19.785134,,,
 121,Abaújlaki elágazás[2],48.409780,20.973669,,,
 1210,"Áporka, szikvízüzem",47.233605,19.011620,,,
@@ -33850,6 +33849,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41139,Bácskai utca,47.190217,18.449823,,,
 4114,"Bezeréd, templom",46.869866,17.014001,,,
 41140,"Baja, autóbusz-állomás",46.183693,18.956124,1,,
+41142,"Bakonybél, Petőfi utca",47.252138,17.728728,,,
 41143,"Baktalórántháza, Fő tér",47.997815,22.075692,1,,
 41144,"Balassagyarmat, autóbusz-állomás",48.083947,19.296898,1,,
 41145,"Balatonalmádi, autóbusz-állomás",47.030277,18.015144,1,,
@@ -35899,6 +35899,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5406_6,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41224,6
 5406_7,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41224,7
 5406_8,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41224,8
+5406_99,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41224,99
 5407,"Budapest, Ungvári utca",47.587483,19.082200,,,
 5408,"Budapest, Ungvári utca",47.587424,19.081916,,,
 5409,"Budapest, Ürömhegyi út",47.577790,19.010037,,,
