@@ -3008,6 +3008,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_n
 43-GY,43-GY_2B_1,2B,"Zöld utca, Szőnyi Márton utca – Zrínyi utca – Sziget – Egyetem – Révai Miklós utca",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
 43-GY,43-GY_2_1,2,"Révai Miklós utca – Zrínyi utca – Zöld utca, Szőnyi Márton utca",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
 43-GY,43-GY_30A_1,30A,"Révai Miklós utca – Győrszentiván, Kálmán Imre út – Homoksor",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
+43-GY,43-GY_30B_1,30B,"Révai Miklós utca – Győrszentiván, Kálmán Imre út – Homoksor",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
 43-GY,43-GY_30Y_1,30Y,"Révai Miklós utca – Audi-gyár – Ipari park – Győrszentiván, Kálmán Imre út",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
 43-GY,43-GY_30_1,30,"Révai Miklós utca – Győrszentiván, Kálmán Imre út – Homoksor",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
 43-GY,43-GY_31A_1,31A,"Révai Miklós utca – Győrszentiván, Homoksor – Kálmán Imre út",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
