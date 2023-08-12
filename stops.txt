@@ -35834,7 +35834,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5369,"Budapest (Soroksár), Hősök tere",47.399778,19.114506,,,
 537,"Ajka, Pálma utca elágazás",47.101602,17.548223,,,
 5370,"Budapest (Soroksár), Hősök tere",47.399544,19.114377,,,
-5372,"Budapest, Stadion autóbusz-pályaudvar",47.501185,19.106968,,41221,
 5372_0,"Budapest, Stadion autóbusz-pályaudvar",47.501185,19.106968,,41221,0
 5372_1,"Budapest, Stadion autóbusz-pályaudvar",47.501185,19.106968,,41221,1
 5372_10,"Budapest, Stadion autóbusz-pályaudvar",47.501185,19.106968,,41221,10
