@@ -3156,7 +3156,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 12957,"Gyula, Gallacz János utca",46.637512,21.308492,,,
 12958,"Gyula, Gyarmati-dűlő",46.602155,21.273838,,,
 12959,"Gyula, Gyarmati-dűlő",46.602385,21.273881,,,
-1296,Árnyék dűlő,46.378840,18.702947,,,
 12960,"Gyula, Gyöngyösi utca",46.661902,21.292747,,,
 12961,"Gyula, Gyöngyösi utca",46.662230,21.293313,,,
 12962,"Gyulaháza, autóbusz-forduló",48.127800,22.121735,,,
@@ -3167,7 +3166,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 12967,Gyulaházai elágazás,48.142104,22.091605,,,
 12968,"Gyulaháza, kultúrház",48.135920,22.113046,,,
 12969,"Gyulaháza, kultúrház",48.135905,22.112988,,,
-1297,Árnyék dűlő,46.378645,18.703367,,,
 12970,"Gyulaháza, orvosi rendelő",48.139938,22.105771,,,
 12971,"Gyulaháza, orvosi rendelő",48.139955,22.105418,,,
 12972,"Gyulaháza, Szabadság utca 1.",48.132150,22.116768,,,
@@ -3705,8 +3703,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 13464,"Halogy, iskola",46.972021,16.564605,,,
 13465,"Halogy, iskola",46.971995,16.564518,,,
 13466,"Halogy, Petőfi utca",46.970389,16.557103,,,
-13467,Hamvas köz,46.379099,18.693101,,,
-13468,Hamvas köz,46.379161,18.693337,,,
 13469,"Hangács, orvosi rendelő",48.287160,20.826177,,,
 1347,"Ásotthalom, Csiszár-tanya",46.188561,19.728683,,,
 13470,"Hangács, orvosi rendelő",48.286766,20.825735,,,
@@ -14766,7 +14762,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 2360_04,"Balatonalmádi, autóbusz-állomás",47.030277,18.015144,,41145,04
 2360_05,"Balatonalmádi, autóbusz-állomás",47.030277,18.015144,,41145,05
 2360_06,"Balatonalmádi, autóbusz-állomás",47.030277,18.015144,,41145,06
-2360_1,"Balatonalmádi, autóbusz-állomás",47.030277,18.015144,,41145,1
 2360_2,"Balatonalmádi, autóbusz-állomás",47.030277,18.015144,,41145,2
 2360_4,"Balatonalmádi, autóbusz-állomás",47.030277,18.015144,,41145,4
 2361,"Balatonalmádi, Bauxitkutató Vállalat",47.038942,18.022625,,,
@@ -19409,7 +19404,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 27940,"Pécs(Patacs), bejárati út",46.065120,18.171756,,,
 27941,"Pécs, pellérdi elágazás",46.063459,18.153772,,,
 27942,"Pécs, pellérdi elágazás",46.063305,18.153538,,,
-27943,"Pécs, PÉTÁV",46.067647,18.207708,,,
 27944,"Pécs, Péterpuszta",46.024222,18.205261,,,
 27945,"Pécs, Péterpuszta",46.024626,18.205333,,,
 27946,Pécs. Reménypuszta,46.020111,18.234011,,,
@@ -22730,8 +22724,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 31008,"Siófok, Indóház utca",46.907395,18.051338,,,
 31009,"Siófok, Indóház utca",46.907114,18.050381,,,
 3101,"Barbacs, faluközpont",47.643776,17.297484,,,
-31010,Siófoki útelágazás (Bor utca),46.376552,18.678970,,,
-31011,Siófoki útelágazás (Bor utca),46.376550,18.679138,,,
 31012,"Siófok, József utca",46.906445,18.042365,,,
 31013,"Siófok, József utca",46.906970,18.043779,,,
 31014,"Siófok, Kenesei utca",46.928862,18.108745,,,
@@ -26179,8 +26171,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 34173,"Szentmártonkáta, vasútállomás elágazás",47.449069,19.694736,,,
 34174,Szentmihályi szántóföldek,46.218139,20.062939,,,
 34175,Szentmihályi szántóföldek,46.217844,20.062511,,,
-34176,Szentmiklósi út,46.371250,18.711509,,,
-34177,Szentmiklósi út,46.370872,18.711723,,,
 34178,Szent Miklós park,46.644475,21.280633,,,
 34179,"Szentpéterfa, Gorica",47.087895,16.478565,,,
 34181,"Szentpéterfa, posta",47.094587,16.479632,,,
@@ -27704,6 +27694,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 35520,Táplánypuszta,47.642706,17.731144,,,
 35521,Táplánypuszta,47.643219,17.729897,,,
 35522,"Tapolca, Arany János utca",46.880178,17.443154,,,
+35524,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41866,
 35524_0,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41866,0
 35524_1,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41866,1
 35524_2,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41866,2
@@ -30094,7 +30085,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 37681,"Tura, Galgahévízi út 2.",47.615682,19.579051,,,
 37682,"Tura, hatvani útelágazás",47.610305,19.601387,,,
 37683,"Tura, hatvani útelágazás",47.609443,19.602220,,,
-37684,"Tura, hatvani útelágazás",47.609600,19.602039,,,
 37685,"Tura, József Attila utca",47.613339,19.584127,,,
 37686,"Tura, József Attila utca",47.613107,19.584807,,,
 37687,"Tura, Magdolna utca",47.609764,19.589940,,,
@@ -34194,7 +34184,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41551,"Nagykáta, vasútállomás",47.410134,19.738358,1,,
 41552,"Nagykőrös, Szabadság tér",47.032989,19.784945,1,,
 41553,"Nagymányok, Vasúti megállóhely",46.279859,18.457101,,,
-41554,"Nagymaros, Vasútállomás",47.780594,18.951973,,,
 41555,Nagyszállás,47.905050,21.791330,,,
 41556,Nagyszállás,47.905041,21.791566,,,
 41557,"Nagyszállás, bejárati út",47.906139,21.784409,,,

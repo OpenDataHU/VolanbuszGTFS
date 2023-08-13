@@ -2773,20 +2773,13 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_n
 40-Z,40-Z_3_1,3,Autóbusz-állomás – Hékéd,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szentes,local
 41-91,41-91_11_1,11,Autóbusz-állomás – Hosszú-völgy,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
 41-91,41-91_12_1,12,(Tesco) – Béri Balogh Ádám utca – Bottyán-hegy,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
-41-91,41-91_13_1,13,Bottyán-hegy – Wesselényi utca – Tolnatej Zrt. – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
 41-91,41-91_14_1,14,(Tesco) – Béri Balogh Ádám utca – Bottyán-hegy,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
 41-91,41-91_16_1,16,Autóbusz-állomás – Béri Balogh Ádám utca – Tót-völgy,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
-41-91,41-91_18_1,18,"Műszergyár, forduló – Tót-völgy",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
 41-91,41-91_19_1,19,Alisca utca – Béri Balogh Ádám utca – Jobbparászta,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
 41-91,41-91_1_1,1,Autóbusz-állomás – Hosszú-völgy,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
-41-91,41-91_3_1,3,Autóbusz-állomás – Tolnatej Zrt.,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
-41-91,41-91_4A_1,4A,Baranya-völgy – Tesco Áruház – Autóbusz-állomás – Bottyán-hegy,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
 41-91,41-91_4_1,4,Autóbusz-állomás – Bottyán-hegy,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
-41-91,41-91_6A_1,6A,Jobbparászta – Autóbusz-állomás – Tót-völgy,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
 41-91,41-91_6_1,6,Autóbusz-állomás – Béri Balogh Ádám utca – Tót-völgy,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
-41-91,41-91_7A_1,7A,Tesco áruház – Tolnatej Zrt. – Tesco áruház,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
 41-91,41-91_7_1,7,Csatári forduló – Alisca utca – Autóbusz-állomás – Tolnatej Zrt. – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
-41-91,41-91_8_1,8,"Műszergyár, forduló – Tót-völgy",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
 41-91,41-91_9A_1,9A,Alisca utca – Béri Balogh Ádám utca – Jobbparászta,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
 41-91,41-91_9_1,9,Alisca utca – Béri Balogh Ádám utca – Jobbparászta,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szekszard,local
 41-92,41-92_1_1,1,"Majos, alsó – Autóbusz-állomás",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/bonyhad,local
