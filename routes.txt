@@ -2964,7 +2964,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_n
 43-GY,43-GY_11Y_1,11Y,Marcalváros – Adyváros – Belváros – Széchenyi híd – Audi-iskola – Kisbácsa – Bácsa,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
 43-GY,43-GY_11_1,11,Marcalváros – Adyváros – Belváros – Sziget – Egyetem – Audi-iskola – Kisbácsa – Bácsa,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
 43-GY,43-GY_12A_1,12A,"(Egyetem –) Révai Miklós utca – Kandó utca – Audi-gyár, 5-ös porta – Audi-gyár, 8-as porta",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
-43-GY,43-GY_12B_1,12B,"(Egyetem –) Révai Miklós utca – Kandó utca – Audi-gyár, 5-ös porta – Audi-gyár, 8-as porta",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
 43-GY,43-GY_12Y_1,12Y,"(Egyetem –) Révai Miklós utca – Kandó utca – Audi-gyár, 5-ös porta – Audi-gyár, 8-as porta",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
 43-GY,43-GY_12_1,12,"(Egyetem –) Révai Miklós utca – Kandó utca – Audi-gyár, 5-ös porta – Audi-gyár, 8-as porta",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
 43-GY,43-GY_13B_1,13B,Marcalváros – (Nádorvárosi köztemető –) Adyváros – Gyárváros – Belváros – Pinnyéd/Liget u./Újváros,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,local
