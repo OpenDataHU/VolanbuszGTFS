@@ -39262,8 +39262,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 8450,"Dunakeszi, sportpálya",47.654347,19.131019,,,
 8451,"Dunakeszi, Szakorvosi Rendelő",47.635696,19.129443,,,
 8452,"Dunakeszi, Szakorvosi Rendelő",47.635716,19.129351,,,
-8453,"Dunakeszi, Széchenyi utca",47.634105,19.161732,,,
-8454,"Dunakeszi, Széchenyi utca",47.634293,19.162616,,,
 8455,"Dunakeszi, Széchenyi utca 2.",47.644262,19.147155,,,
 8456,"Dunakeszi, Székesdűlő ipartelep",47.615169,19.109229,,,
 8457,"Dunakeszi, Székesdűlő ipartelep",47.614774,19.108848,,,
