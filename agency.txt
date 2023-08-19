@@ -64,4 +64,4 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
 45-OR,Volánbusz - Oroszlány,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
 45-S,Volánbusz - Székesfehérvár,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
 45-TA,Volánbusz - Tata,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
-MB,MÁVBUSZ,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
+MB,MÁV-Volánbusz,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
