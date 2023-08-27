@@ -27708,6 +27708,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 35520,Táplánypuszta,47.642706,17.731144,,,
 35521,Táplánypuszta,47.643219,17.729897,,,
 35522,"Tapolca, Arany János utca",46.880178,17.443154,,,
+35524,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41878,
 35524_0,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41878,0
 35524_1,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41878,1
 35524_2,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41878,2
@@ -32953,7 +32954,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 403,ÁGOTA Falva,46.974521,19.142319,,,
 4030,"Besenyszög, Dobai üzemegység",47.267155,20.335624,,,
 40300,"Zalaegerszeg, Gasparich utca - Landorhegyi út",46.838039,16.823708,,,
-40301,"Zalaegerszeg, Gasparich utca - Landorhegyi út",46.838842,16.824593,,,
 40302,"Zalaegerszeg, Göcsej Áruház",46.836848,16.829150,,,
 40303,"Zalaegerszeg, Göcseji úti ABC",46.836654,16.832736,,,
 40304,"Zalaegerszeg (Göcseji út), kórház",46.836955,16.844636,,,
