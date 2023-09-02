@@ -532,13 +532,9 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 10482,"Fenékpuszta, Kendergyár bejárati út",46.710392,17.247121,,,
 10483,"Fenékpuszta, Zala-híd",46.704973,17.253050,,,
 10484,"Fenékpuszta, Zala-híd",46.703948,17.252947,,,
-10485,Fenyei bejárati út,46.901272,17.738054,,,
-10486,Fenyei bejárati út,46.900733,17.738132,,,
 10487,"Fényes, forduló",46.651622,21.158412,,,
 10488,"Fényes, forduló",46.651444,21.158259,,,
 10489,Fényes fürdő,47.668108,18.308305,,,
-10490,Fényesfürdői elágazás,47.654456,18.317247,,,
-10491,Fényesfürdői elágazás,47.654500,18.317163,,,
 10492,Fényesi utca,46.669995,21.176498,,,
 10493,Fényesi utca,46.670569,21.177002,,,
 10494,"Fényes, Perei tanya",46.666078,21.172556,,,
@@ -4955,6 +4951,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 14577,"Horpács, központ",47.995988,19.130449,,,
 14578,"Hort, Fáy-tanya",47.699328,19.810194,,,
 14579,"Hort, Fáy-tanya",47.699026,19.809636,,,
+1458,"Aszód, vasútállomás",47.648061,19.492647,,41136,
 14580,"Hort, Gerendás",47.686537,19.774082,,,
 14581,"Hort, Gerendás",47.686780,19.775663,,,
 14582,"Hort, Gerendás",47.686928,19.774571,,,
@@ -11284,7 +11281,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 20427,"Letenye, Juliánhegy",46.442801,16.693991,,,
 20428,"Letenye, Juliánhegy",46.442636,16.694735,,,
 20429,"Letenye, Petőfi utca 2.",46.425770,16.723481,,,
-2043,"Bakonyjákó, Iharkúti elágazás",47.219779,17.627633,,,
 20430,"Letenye, Petőfi utca 2.",46.425771,16.723814,,,
 20431,"Letenye, temető",46.434373,16.728723,,,
 20432,"Letenye, temető",46.434312,16.728338,,,
@@ -11295,7 +11291,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 20437,"Letkés, Liliompuszta",47.873416,18.786116,,,
 20438,"Letkés, Liliompuszta",47.872804,18.786581,,,
 20439,"Letkés, sportpálya",47.882599,18.778273,,,
-2044,"Bakonyjákó, Iharkúti elágazás",47.219806,17.627664,,,
 20440,"Letkés, sportpálya",47.881773,18.778703,,,
 20441,"Letkés, Széppatak",47.902272,18.775168,,,
 20442,"Letkés, Széppatak",47.901818,18.775133,,,
@@ -11968,7 +11963,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 21076,"Makó, Almási utca",46.222494,20.464098,,,
 21077,"Makó, Almási utca",46.222602,20.464074,,,
 2108,"Bakonyszentlászló, bauxitkutató",47.391873,17.807615,,,
-21080,"Makó, autóbusz-állomás",46.219410,20.476397,,41471,
 21080_0,"Makó, autóbusz-állomás",46.219410,20.476397,,41471,0
 21080_1,"Makó, autóbusz-állomás",46.219410,20.476397,,41471,1
 21080_10,"Makó, autóbusz-állomás",46.219410,20.476397,,41471,10
@@ -13811,7 +13805,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 22733,"Mőcsény, Bátaszéki út",46.258116,18.587842,,,
 22734,"Mőcsény, külső",46.247340,18.610193,,,
 22735,"Mőcsény, külső",46.246525,18.610289,,,
-22736,"Mogyoród, AQUARENA",47.589264,19.251145,,,
 22737,"Mogyoród, EGIS telep",47.592626,19.285434,,,
 22738,"Mogyoród, EGIS telep",47.592880,19.284747,,,
 22739,"Mogyoród, HÉV-állomás",47.595551,19.271488,,,
@@ -14587,7 +14580,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 23447,"Nádudvar, Tsz. bejáró",47.410065,21.186763,,,
 23448,"Nádudvar, Tsz. bejáró",47.410223,21.186499,,,
 23449,"Naggyimót, alsó",47.338836,17.544650,,,
-2345,"Balatonakali, Pántlikamajor",46.888802,17.742967,,,
 23450,"Naggyimót, alsó",47.338876,17.544641,,,
 23451,"Nágocs, faluház",46.663571,17.958101,,,
 23452,"Nágocs, faluház",46.663882,17.958097,,,
@@ -14598,7 +14590,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 23457,"Nagyacsád, alsó",47.360965,17.380181,,,
 23458,"Nagyacsád, felső",47.367644,17.373625,,,
 23459,"Nagyacsád, felső",47.367421,17.373784,,,
-2346,"Balatonakali, Pántlikamajor",46.889002,17.742826,,,
 23460,"Nagyacsád, központ",47.363872,17.375166,,,
 23461,"Nagyacsád, központ",47.364144,17.375129,,,
 23462,"Nagyalásony, autóbusz-váróterem",47.229281,17.357409,,,
@@ -16310,7 +16301,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 2501_07,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,41147,07
 2501_08,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,41147,08
 2501_09,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,41147,09
-2501_1,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,41147,1
 2501_3,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,41147,3
 2501_4,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,41147,4
 2501_5,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,41147,5
@@ -17750,7 +17740,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 26373,Orfűi elágazás,46.131122,18.151642,,,
 26374,Orfűi elágazás,46.131919,18.150527,,,
 26375,Orfűi elágazás,46.131092,18.150614,,,
-26376,"Orfű, kemping",46.147265,18.137419,,,
 26377,"Orfű, kemping",46.147319,18.137460,,,
 26378,"Orfű, kemping bejárati út",46.144804,18.150460,,,
 26379,"Orfű, kemping bejárati út",46.144603,18.150494,,,
@@ -19129,6 +19118,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 27710,"Pásztó, tejüzem",47.932193,19.713139,,,
 27711,"Pásztó, városerdő",47.884251,19.705058,,,
 27712,"Pásztó, városerdő",47.883952,19.704733,,,
+27714,"Pásztó, vasútállomás",47.919094,19.689364,,41748,
 27714_1,"Pásztó, vasútállomás",47.919094,19.689364,,41748,1
 27714_2,"Pásztó, vasútállomás",47.919094,19.689364,,41748,2
 27714_3,"Pásztó, vasútállomás",47.919094,19.689364,,41748,3
@@ -24150,7 +24140,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 32330,"Szakmár, iskola",46.557936,19.074207,,,
 32331,Szakmári útelágazás,46.635829,19.003553,,,
 32332,Szakmári útelágazás,46.637915,19.003484,,,
-32333,Szakmári útelágazás,46.637122,19.004650,,,
 32334,"Szakmár, Kistény",46.574840,19.069924,,,
 32335,"Szakmár, Kisülés",46.545282,19.067307,,,
 32336,"Szakmár, Kisülés",46.545238,19.067331,,,
@@ -24878,7 +24867,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 3300,"Bátmonostor, autóbusz-váróterem",46.105078,18.919316,,,
 33000,"Szeged, Aranyosi utca",46.235961,20.171156,,,
 33002,"Szeged, autóbusz-állomás",46.257061,20.140881,,41834,
-33002_0,"Szeged, autóbusz-állomás",46.257061,20.140881,,41834,0
 33002_01,"Szeged, autóbusz-állomás",46.257061,20.140881,,41834,01
 33002_06,"Szeged, autóbusz-állomás",46.257061,20.140881,,41834,06
 33002_1,"Szeged, autóbusz-állomás",46.257061,20.140881,,41834,1
@@ -25438,12 +25426,8 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 33500,"Szelevény, Ktsz.",46.804518,20.197088,,,
 33501,"Szelevény, vasútállomás",46.809660,20.195393,,,
 33503,"Szelidi-tó, autóbusz-forduló",46.625049,19.046160,,,
-33504,"Szelidi-tó, Diófa út",46.618297,19.027520,,,
-33505,"Szelidi-tó, Diófa út",46.618329,19.027454,,,
 33506,"Szelidi-tó, kemping",46.620426,19.037869,,,
-33507,"Szelidi-tó, kemping",46.620049,19.035868,,,
 33508,"Szelidi-tó, kemping",46.620453,19.037859,,,
-33509,"Szelidi-tó, kemping",46.619999,19.035791,,,
 3351,"Bátor, hevesaranyosi elágazás",47.990954,20.265883,,,
 33510,"Szellő, harangláb",46.073238,18.460755,,,
 33511,"Szellő, harangláb",46.073308,18.460871,,,
@@ -30732,6 +30716,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 38279,"Vác, Altányi szőlők",47.796396,19.131391,,,
 3828,Bercsényi Miklós utca,46.966428,18.928261,,,
 38280,"Vác, Altányi szőlők",47.796648,19.131263,,,
+38282,"Vác, autóbusz-állomás",47.781664,19.129970,,41907,
 38282_0,"Vác, autóbusz-állomás",47.781664,19.129970,,41907,0
 38282_1,"Vác, autóbusz-állomás",47.781664,19.129970,,41907,1
 38282_2,"Vác, autóbusz-állomás",47.781664,19.129970,,41907,2
@@ -30945,7 +30930,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 38471,"Vác, Vörösmarty tér",47.789616,19.138568,,,
 38472,"Vác, Vörösmarty tér",47.789910,19.138629,,,
 38473,"Vác, Zöldfa utca",47.769953,19.140379,,,
-38474,Vadása-tó,46.876321,16.550147,,,
 38475,"Vadasbokor, bejárati út",47.943507,21.550976,,,
 38476,"Vadasbokor, bejárati út",47.943271,21.551331,,,
 38477,Vádéi bejárati út,46.550122,19.182919,,,
@@ -31409,7 +31393,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 38904,"Várpalota, Rákóczi utca 26.",47.203203,18.132500,,,
 38905,"Várpalota, ravatalozó",47.202344,18.147951,,,
 38906,"Várpalota, Róbert Károly utca forduló",47.207638,18.147983,,,
-38907,"Várpalota, Róbert Károly utca forduló",47.207763,18.148028,,,
 38908,"Várpalota, Rózsakút utca 31.",47.205216,18.133678,,,
 38909,"Várpalota, Szabadság tér",47.199745,18.140202,,,
 3891,"Berente, kultúrház",48.232893,20.668357,,,
@@ -32167,7 +32150,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 39584_4,"Veszprém, autóbusz-állomás",47.095334,17.913774,,41918,4
 39584_5,"Veszprém, autóbusz-állomás",47.095334,17.913774,,41918,5
 39584_6,"Veszprém, autóbusz-állomás",47.095334,17.913774,,41918,6
-39584_8,"Veszprém, autóbusz-állomás",47.095334,17.913774,,41918,8
 39584_9,"Veszprém, autóbusz-állomás",47.095334,17.913774,,41918,9
 39585,"Veszprém, Bakony Művek",47.115075,17.878221,,,
 39586,"Veszprém, BALLUFF",47.105551,17.875163,,,
@@ -32423,7 +32405,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 39817,"Visegrád, Lepencefürdő",47.765103,18.952535,,,
 39818,"Visegrád, Lepencefürdő",47.766148,18.954068,,,
 39819,"Visegrád, Mátyás király utca 59.",47.781468,18.981259,,,
-3982,Berta malom bejárati út,47.661537,18.314966,,,
 39820,"Visegrád, Mátyás király utca 59.",47.781340,18.981512,,,
 39821,"Visegrád, nagymarosi rév",47.786713,18.967530,,,
 39822,"Visegrád, nagymarosi rév",47.786657,18.967654,,,
@@ -32434,7 +32415,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 39827,"Visegrád, Újtelep",47.779535,18.967065,,,
 39828,"Visegrád, Újtelep",47.779845,18.967185,,,
 39829,"Visegrád, Várkert",47.802187,18.983791,,,
-3983,Berta malom bejárati út,47.661731,18.314878,,,
 39830,"Visegrád, Várkert",47.802169,18.984016,,,
 39831,"Visnye, autóbusz-váróterem",46.190958,17.676741,,,
 39832,"Visnye, autóbusz-váróterem",46.191269,17.676559,,,
@@ -34066,7 +34046,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41405,"Kecel, autóbusz-váróterem",46.526161,19.250480,1,,
 41406,"Kecskemét, autóbusz-állomás",46.914646,19.697735,1,,
 41407,"Kecskemét, Daimler 1. kapu",46.869306,19.716998,1,,
-41408,"Kecskemét, Vízmű (ideiglenes)",46.895440,19.665338,,,
 41409,"Kelebija, Határ",46.168021,19.559160,,,
 4141,"Biatorbágy, Pecató",47.437494,18.820047,,,
 41414,"Keszthely, autóbusz-állomás",46.757972,17.246481,1,,
@@ -34370,6 +34349,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41762,Polyákbokori elágazás,47.923758,21.657451,,,
 41763,Polyákbokori elágazás,47.923287,21.657228,,,
 41764,"Pomáz, autóbusz-állomás",47.642095,19.033299,1,,
+41765,"Rád, Rákóczi út 32.",47.795215,19.221056,,,
 41768,"Répáshuta, Bánya-hegyi elágazás",48.058609,20.505516,,,
 41769,"Rétság, autóbusz-forduló",47.926609,19.137996,1,,
 4177,"Bicske, Csabdi utca",47.501218,18.629026,,,
@@ -34403,7 +34383,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 418,"Agyagosszergény, óvoda",47.609037,16.939514,,,
 4180,"Bicske, felsőhegyi elágazás",47.507966,18.639805,,,
 41800,"Siófok, autóbusz-állomás",46.907934,18.055682,1,,
-41801,"Siófok (Szabadifürdő), Vasúti megállóhely",46.924157,18.100228,,,
 41804,Somlyóbánya üdülőtelep alsó,48.088728,19.831069,,,
 41805,Somlyó forduló,48.095098,19.836416,,,
 41806,Somlyó üdülőtelep,48.091053,19.832129,,,
@@ -34843,8 +34822,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 4483,"Bódvaszilas, iskola",48.536411,20.731586,,,
 4484,"Bódvaszilas, iskola",48.536331,20.731665,,,
 4485,"Bódvaszilas, vasútállomás",48.537689,20.737862,,,
-4486,"Bodzás, Húsfoka elágazás",46.623514,19.018694,,,
-4487,"Bodzás, Húsfoka elágazás",46.623320,19.018911,,,
 4488,"Bogács, alsó",47.896772,20.535939,,,
 4489,"Bogács, alsó",47.896246,20.536107,,,
 448_1,"Ajka, autóbusz-állomás",47.107032,17.565270,,41121,1
@@ -36140,16 +36117,11 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 563,"Ajka, timföldgyár bejárati út",47.099140,17.561444,,,
 5631,"Buzsák, alsó",46.632572,17.583558,,,
 5632,"Buzsák, alsó",46.632662,17.583926,,,
-5633,"Buzsák, Csisztafürdő",46.684447,17.560653,,,
-5634,"Buzsák, Csisztapuszta",46.678230,17.565463,,,
-5635,"Buzsák, Csisztapuszta",46.678051,17.565469,,,
 5636,"Buzsák, Kékai-dűlő",46.652940,17.598376,,,
 5637,"Buzsák, Kékai-dűlő",46.653104,17.599062,,,
 5638,"Buzsák, Kossuth utca",46.638534,17.583549,,,
 5639,"Buzsák, Kossuth utca",46.638821,17.583517,,,
 564,"Ajka, timföldgyár főbejárat",47.096451,17.554676,,,
-5640,"Buzsák, községháza",46.648743,17.578016,,,
-5641,"Buzsák, községháza",46.648717,17.577923,,,
 5642,"Buzsák, Templom tér",46.647153,17.580695,,,
 5643,"Buzsák, Templom tér",46.647520,17.580496,,,
 5644,"Buzsák, Új utca",46.641561,17.583317,,,
