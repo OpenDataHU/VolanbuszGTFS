@@ -27688,6 +27688,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 35520,Táplánypuszta,47.642706,17.731144,,,
 35521,Táplánypuszta,47.643219,17.729897,,,
 35522,"Tapolca, Arany János utca",46.880178,17.443154,,,
+35524,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41878,
 35524_0,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41878,0
 35524_1,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41878,1
 35524_2,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41878,2
