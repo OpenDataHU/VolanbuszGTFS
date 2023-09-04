@@ -18083,6 +18083,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 26690,Orvosi rendelő,46.823576,21.026029,,,
 26691,"Ősagárd, Kossuth utca",47.860533,19.188168,,,
 26692,"Ősagárd, Kossuth utca",47.860659,19.187568,,,
+26693,"Ősagárd, orvosi rendelő",47.856703,19.197925,,,
 26694,"Ősagárd, orvosi rendelő",47.856754,19.197586,,,
 26695,"Ősagárd, Rákóczi utca 51.",47.859104,19.191812,,,
 26696,"Ősagárd, Rákóczi utca 51.",47.858792,19.192744,,,
@@ -33824,6 +33825,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41139,Bácskai utca,47.190217,18.449823,,,
 4114,"Bezeréd, templom",46.869866,17.014001,,,
 41140,"Baja, autóbusz-állomás",46.183693,18.956124,1,,
+41142,"Bakonybél, Petőfi utca",47.252138,17.728728,,,
 41143,"Baktalórántháza, Fő tér",47.997815,22.075692,1,,
 41144,"Balassagyarmat, autóbusz-állomás",48.083947,19.296898,1,,
 41145,"Balatonalmádi, autóbusz-állomás",47.030277,18.015144,1,,
@@ -34434,6 +34436,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41854,"Szigethalom, autóbusz-állomás",47.331669,19.002686,1,,
 41856,"Szigetvár, autóbusz-állomás",46.044147,17.802897,1,,
 4186,"Bicske, Kanizsai utca",47.492352,18.645395,,,
+41865,"Szirák, Szőlők",47.830283,19.507600,,,
 41866,Szlovák út,47.532213,19.189212,,,
 41867,"Szob, vasútállomás",47.821322,18.862597,1,,
 41868,"Szolnok, autóbusz-állomás",47.177726,20.193128,1,,
@@ -35876,6 +35879,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5406_6,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41226,6
 5406_7,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41226,7
 5406_8,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41226,8
+5406_99,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41226,99
 5407,"Budapest, Ungvári utca",47.587483,19.082200,,,
 5408,"Budapest, Ungvári utca",47.587424,19.081916,,,
 5409,"Budapest, Ürömhegyi út",47.577790,19.010037,,,
