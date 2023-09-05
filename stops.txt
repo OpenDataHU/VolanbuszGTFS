@@ -13845,6 +13845,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 22771,"Moha, bejárati út",47.234091,18.327419,,,
 22772,"Mohács, ABC",45.991719,18.677247,,,
 22773,"Mohács, ABC",45.991768,18.676605,,,
+22776,"Mohács, autóbusz-állomás",45.989168,18.685914,,41536,
 22776_0,"Mohács, autóbusz-állomás",45.989168,18.685914,,41536,0
 22776_1,"Mohács, autóbusz-állomás",45.989168,18.685914,,41536,1
 22776_2,"Mohács, autóbusz-állomás",45.989168,18.685914,,41536,2
@@ -18224,6 +18225,8 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 26832_10,"Ózd, autóbusz-állomás",48.218742,20.290178,,41704,10
 26832_11,"Ózd, autóbusz-állomás",48.218742,20.290178,,41704,11
 26832_12,"Ózd, autóbusz-állomás",48.218742,20.290178,,41704,12
+26832_13,"Ózd, autóbusz-állomás",48.218742,20.290178,,41704,13
+26832_14,"Ózd, autóbusz-állomás",48.218742,20.290178,,41704,14
 26832_2,"Ózd, autóbusz-állomás",48.218742,20.290178,,41704,2
 26832_9,"Ózd, autóbusz-állomás",48.218742,20.290178,,41704,9
 26833,"Ózd (Bánszállás), bejárati út",48.248511,20.351577,,,
@@ -33884,6 +33887,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41208,"Budapest, Boráros tér",47.479616,19.067250,,,
 4121,"Biatorbágy, ALPINE",47.468226,18.874734,,,
 41211,"Budapest (Csepel), Vermes Miklós utca",47.432208,19.066784,1,,
+41212,"Budapest, Déli pályaudvar",47.499362,19.024136,,,
 41213,"Budapest, Dezsőfia utca",47.536465,19.200815,,,
 41215,"Budapest, Erzsébet királyné útja, aluljáró",47.515741,19.092653,,,
 41217,"Budapest, Kelenföld vasútállomás",47.463567,19.022441,1,,
@@ -34432,7 +34436,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 4185,"Bicske, Kanizsai utca",47.492397,18.645339,,,
 41850,"Szentgotthárd, Hunyadi János út",46.955797,16.269508,1,,
 41852,"Szerencs, vasútállomás",48.155616,21.213852,1,,
-41853,"Szigetcsép, HÉV-állomás",47.270242,18.956388,,,
 41854,"Szigethalom, autóbusz-állomás",47.331669,19.002686,1,,
 41856,"Szigetvár, autóbusz-állomás",46.044147,17.802897,1,,
 4186,"Bicske, Kanizsai utca",47.492352,18.645395,,,
@@ -35708,6 +35711,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5298_1,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41222,1
 5298_10,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41222,10
 5298_11,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41222,11
+5298_13,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41222,13
 5298_17,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41222,17
 5298_18,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41222,18
 5298_19,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41222,19
@@ -35735,6 +35739,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5299_3,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41222,3
 5299_4,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41222,4
 5299_5,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41222,5
+5299_50,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41222,50
 5299_7,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41222,7
 5299_8,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41222,8
 5299_9,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41222,9
@@ -35818,6 +35823,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5369,"Budapest (Soroksár), Hősök tere",47.399778,19.114506,,,
 537,"Ajka, Pálma utca elágazás",47.101602,17.548223,,,
 5370,"Budapest (Soroksár), Hősök tere",47.399544,19.114377,,,
+5372,"Budapest, Stadion autóbusz-pályaudvar",47.501185,19.106968,,41223,
 5372_0,"Budapest, Stadion autóbusz-pályaudvar",47.501185,19.106968,,41223,0
 5372_1,"Budapest, Stadion autóbusz-pályaudvar",47.501185,19.106968,,41223,1
 5372_10,"Budapest, Stadion autóbusz-pályaudvar",47.501185,19.106968,,41223,10
@@ -38566,6 +38572,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 7834,"Diósd, törökbálinti elágazás",47.410619,18.956383,,,
 7835,"Diósd, Valéria utca",47.414107,18.932722,,,
 7836,"Diósd, Valéria utca",47.414089,18.932652,,,
+7837,"Diósjenő, Arany János út",47.945908,19.034339,,,
 7838,"Diósjenő, Arany János út",47.945908,19.034063,,,
 7839,"Diósjenő, Hantai dűlő",47.922307,19.067738,,,
 784,"Alibánfa, templom",46.885266,16.920432,,,
@@ -40762,6 +40769,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 9878,"Etyek, Palatinus utca",47.444436,18.745155,,,
 9879,"Etyek, Vért erdészlak",47.444464,18.726069,,,
 988,"Alsórajk, Béke utca 44.",46.658292,16.995759,,,
+9880,"Etyek, Vért erdészlak",47.444372,18.726425,,,
 9881,Európa Ipari Park,47.212865,18.428898,,,
 9884,Éva utca,47.154559,20.213540,,,
 9885,Éva utca,47.154468,20.213519,,,

@@ -2707,7 +2707,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_894_1,894,Tahitótfalu – Pócsmegyer – Tahitótfalu,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2924,F6AC00,152B32,regional
 21,21_895_1,895,Budapest – Szentendre – Tahitótfalu – Surány – Szigetmonostor,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2923,F6AC00,152B32,regional
 21,21_898_1,898,Szentendre – Tahitótfalu – Kisoroszi,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2943,F6AC00,152B32,regional
-21,21_H6_1,H6,Dunaharaszti külső HÉV-állomás – Szigetszentmiklós HÉV-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7652,F6AC00,152B32,local
 40-BA,40-BA_3_1,3,Déri sétány – Gólya sor,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/baja,152B32,FFFFFF,local
 40-BA,40-BA_4_1,4,Gólya sor – Mártonszállás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/baja,152B32,FFFFFF,local
 40-BC,40-BC_17M_1,17M,Autóbusz-állomás – Lencsési autóbusz-forduló,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/bekescsaba,152B32,FFFFFF,local
@@ -3280,7 +3279,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 45-DU,45-DU_13_1,13,Békeváros – Autóbusz-állomás – Dózsa Mozi – Békeváros,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/dunaujvaros,152B32,FFFFFF,local
 45-DU,45-DU_14_1,14,Békeváros – Papírgyár,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/dunaujvaros,152B32,FFFFFF,local
 45-DU,45-DU_18_1,18,Vasútállomás – Bocskai István utca – Római városrész – Autóbusz-állomás – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/dunaujvaros,152B32,FFFFFF,local
-45-DU,45-DU_24_1,24,Szalki-sziget – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/dunaujvaros,152B32,FFFFFF,local
 45-DU,45-DU_25_1,25,Északi Ipari Park – Óváros – Belváros – Óváros – Északi Ipari Park,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/dunaujvaros,152B32,FFFFFF,local
 45-DU,45-DU_27_1,27,Autóbusz-állomás – Lánczos Kornél utca,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/dunaujvaros,152B32,FFFFFF,local
 45-DU,45-DU_28_1,28,"Békeváros, Hajnal út – Ipari kikötő – Lánczos Kornél utca",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/dunaujvaros,152B32,FFFFFF,local
