@@ -4,7 +4,6 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
 21-MO,Volánbusz - Monor,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
 21-TRTO,Trans Tour,http://www.trans-tour.hu/,Europe/Budapest,hu,
 21-VÁ,Volánbusz - Vác,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
-21-WE2,Weekendbus Zrt.,https://weekendbus.hu/,Europe/Budapest,hu,+36-(1/20/30)-262-6262
 40-BA,Volánbusz - Baja,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
 40-BC,Volánbusz - Békéscsaba,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
 40-BE,Volánbusz - Békés,http://www.volanbusz.hu,Europe/Budapest,hu,+36 1 382 0888
