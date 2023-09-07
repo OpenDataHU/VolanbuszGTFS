@@ -27647,7 +27647,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 35520,Táplánypuszta,47.642706,17.731144,,,
 35521,Táplánypuszta,47.643219,17.729897,,,
 35522,"Tapolca, Arany János utca",46.880178,17.443154,,,
-35524,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41892,
 35524_0,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41892,0
 35524_1,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41892,1
 35524_2,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41892,2
@@ -35744,7 +35743,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5406_6,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41237,6
 5406_7,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41237,7
 5406_8,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41237,8
-5406_99,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41237,99
 5407,"Budapest, Ungvári utca",47.587483,19.082200,,,
 5408,"Budapest, Ungvári utca",47.587424,19.081916,,,
 5409,"Budapest, Ürömhegyi út",47.577790,19.010037,,,
@@ -38425,7 +38423,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 7834,"Diósd, törökbálinti elágazás",47.410619,18.956383,,,
 7835,"Diósd, Valéria utca",47.414107,18.932722,,,
 7836,"Diósd, Valéria utca",47.414089,18.932652,,,
-7837,"Diósjenő, Arany János út",47.945908,19.034339,,,
 7838,"Diósjenő, Arany János út",47.945908,19.034063,,,
 7839,"Diósjenő, Hantai dűlő",47.922307,19.067738,,,
 784,"Alibánfa, templom",46.885266,16.920432,,,
@@ -40615,7 +40612,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 9878,"Etyek, Palatinus utca",47.444436,18.745155,,,
 9879,"Etyek, Vért erdészlak",47.444464,18.726069,,,
 988,"Alsórajk, Béke utca 44.",46.658292,16.995759,,,
-9880,"Etyek, Vért erdészlak",47.444372,18.726425,,,
 9881,Európa Ipari Park,47.212865,18.428898,,,
 9884,Éva utca,47.154559,20.213540,,,
 9885,Éva utca,47.154468,20.213519,,,
