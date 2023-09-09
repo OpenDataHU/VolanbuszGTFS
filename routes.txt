@@ -3365,6 +3365,8 @@ MB,MB_V114,V114,Mátészalka – Csenger,200,https://www.mavcsoport.hu/mav-start
 MB,MB_V121,V121,Mezőhegyes – Újszeged,200,https://www.mavcsoport.hu/mav-start/belfoldi-utazas/kozlekedesimod-valtas-miatt-autobusszal-kiszolgalt-vasutvonalak,F6AC00,152B32,regional
 MB,MB_V125,V125,Mezőhegyes – Battonya,200,https://www.mavcsoport.hu/mav-start/belfoldi-utazas/kozlekedesimod-valtas-miatt-autobusszal-kiszolgalt-vasutvonalak,F6AC00,152B32,regional
 MB,MB_V146_1,V146,Lakitelek – Kunszentmárton,200,https://www.mavcsoport.hu/mav-start/belfoldi-utazas/kozlekedesimod-valtas-miatt-autobusszal-kiszolgalt-vasutvonalak,F6AC00,152B32,regional
+MB,MB_V38_1,V38,Nagyatád – Somogyszob,200,https://www.mavcsoport.hu/mav-start/belfoldi-utazas/kozlekedesimod-valtas-miatt-autobusszal-kiszolgalt-vasutvonalak,F6AC00,152B32,regional
+MB,MB_V47_1,V47,Dombóvár – Komló,200,https://www.mavcsoport.hu/mav-start/belfoldi-utazas/kozlekedesimod-valtas-miatt-autobusszal-kiszolgalt-vasutvonalak,F6AC00,152B32,regional
 MB,MB_V78_1,V78,Balassagyarmat – Ipolytarnóc,200,https://www.mavcsoport.hu/mav-start/belfoldi-utazas/kozlekedesimod-valtas-miatt-autobusszal-kiszolgalt-vasutvonalak,F6AC00,152B32,regional
 MB,MB_V89,V89,Tiszaújváros – Nyékládháza [— Miskolc],200,https://www.mavcsoport.hu/mav-start/belfoldi-utazas/kozlekedesimod-valtas-miatt-autobusszal-kiszolgalt-vasutvonalak,F6AC00,152B32,regional
 MB,MB_V98,V98,Abaújszántó – Hidasnémeti,200,https://www.mavcsoport.hu/mav-start/belfoldi-utazas/kozlekedesimod-valtas-miatt-autobusszal-kiszolgalt-vasutvonalak,F6AC00,152B32,regional

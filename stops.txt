@@ -34259,6 +34259,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41819,Somlyó üdülőtelep,48.091053,19.832129,,,
 4182,"Bicske, Hegyikastély",47.515348,18.645511,,,
 41820,Somlyó üdülőtelep felső,48.094147,19.834272,,,
+41821,"Somogyszob, vasútállomás",46.289297,17.306052,,,
 41822,"Sopron, autóbusz-állomás",47.688564,16.585888,1,,
 41825,Sóstói úti Kórház,47.978927,21.717272,,,
 41826,Sóstói úti Kórház,47.979358,21.717257,,,
