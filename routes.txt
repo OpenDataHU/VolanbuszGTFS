@@ -546,6 +546,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_3743_1,3743,Miskolc – Mezőcsát,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3743,F6AC00,152B32,regional
 21,21_3744_1,3744,Miskolc – Nyékládháza – Ónod – Tiszaújváros – Polgár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3744,F6AC00,152B32,regional
 21,21_3745_1,3745,Miskolc – Nyékládháza – Tiszaújváros – Polgár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3745,F6AC00,152B32,regional
+21,21_3746_1,3746,Miskolc – Mezőkövesd – Bogács,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3746,F6AC00,152B32,regional
 21,21_3747_1,3747,Miskolc – Bükkábrány – Gelej,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3747,F6AC00,152B32,regional
 21,21_3748_1,3748,Miskolc – Emőd – Kács,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3748,F6AC00,152B32,regional
 21,21_3749_1,3749,Miskolc – Bükkábrány – Mezőkövesd,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3749,F6AC00,152B32,regional
@@ -2704,7 +2705,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_894_1,894,Tahitótfalu – Pócsmegyer – Tahitótfalu,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2924,F6AC00,152B32,regional
 21,21_895_1,895,Budapest – Szentendre – Tahitótfalu – Surány – Szigetmonostor,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2923,F6AC00,152B32,regional
 21,21_898_1,898,Szentendre – Tahitótfalu – Kisoroszi,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2943,F6AC00,152B32,regional
-21,21_H6_1,H6,Dunaharaszti külső HÉV-állomás – Szigetszentmiklós HÉV-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7652,F6AC00,152B32,local
 40-BA,40-BA_3_1,3,Déri sétány – Gólya sor,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/baja,152B32,FFFFFF,local
 40-BA,40-BA_4_1,4,Gólya sor – Mártonszállás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/baja,152B32,FFFFFF,local
 40-BC,40-BC_17M_1,17M,Autóbusz-állomás – Lencsési autóbusz-forduló,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/bekescsaba,152B32,FFFFFF,local
@@ -2890,10 +2890,12 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 42-9700$,42-9700$_5_1,5,Jósaváros – Sóstói úti kórház – Sóstógyógyfürdő,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_7_1,7,"Jósaváros – Örökösföld – Oros, Magyar utca 5.",3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_8A_1,8A,Sóstói úti kórház – Sóstógyógyfürdő,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
+42-9700$,42-9700$_8E_1,8E,Sóstói úti kórház – Sóstógyógyfürdő,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_8_1,8,Sóstói úti kórház – Sóstógyógyfürdő,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_900_1,900,Vasútállomás – Bessenyei tér – Sóstógyógyfürdő – Örökösföld – Vasútállomás,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_90E_1,90E,"Ipari Park, Electrolux – Révész-Michelin Logisztikai Központ",3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_90_1,90,"Ipari Park, Electrolux – Révész-Michelin Logisztikai Központ",3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
+42-9700$,42-9700$_918_1,918,Vasútállomás – Bessenyei tér – Sóstógyógyfürdő – Örökösföld – Vasútállomás,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_91_1,91,"Autóbusz-állomás – Ipari Park, Electrolux",3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_920_1,920,Vasútállomás – Bessenyei tér – Sóstógyógyfürdő – Örökösföld – Vasútállomás,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_92_1,92,Sóstói úti kórház – LEGO,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
