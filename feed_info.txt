@@ -1,2 +1,2 @@
 feed_id,feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_complete_start_date,feed_complete_end_date,feed_version
-kti,KTI Magyar Közlekedéstudományi és Logisztikai Intézet - realCity ITS Kft.,https://www.kti.hu,hu,20230912,20231211,20230912,20231211,20230912-0049
+kti,KTI Magyar Közlekedéstudományi és Logisztikai Intézet - realCity ITS Kft.,https://www.kti.hu,hu,20230913,20231212,20230913,20231212,20230913-0050
