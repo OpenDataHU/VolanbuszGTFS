@@ -2368,7 +2368,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_760_1,760,Budapest – Budaörs – Biatorbágy – Etyek – Bicske,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2810,F6AC00,152B32,regional
 21,21_7612_1,7612,Fűzfőgyártelep – {Sóly/Vilonya – Sóly} – Hajmáskér,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7612,F6AC00,152B32,regional
 21,21_7616_1,7616,Balatonfőkajár – Berhida – Fűzfőgyártelep,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7616,F6AC00,152B32,regional
-21,21_761_1,761,Biatorbágy – Bicske,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2808,F6AC00,152B32,regional
 21,21_762_1,762,"Budapest – Biatorbágy, Vasútállomás – Sóskút",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2811,F6AC00,152B32,regional
 21,21_763_1,763,Budapest – Biatorbágy – Etyek,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2812,F6AC00,152B32,regional
 21,21_764_1,764,"Budapest, Őrmező – Biatorbágy, Tópark",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2809,F6AC00,152B32,regional
@@ -2553,7 +2552,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_814_1,814,Tatabánya – Tata – Nyergesújfalu – Tát (rövid út) – Esztergom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=8411,F6AC00,152B32,regional
 21,21_815_1,815,Budapest – Pilisvörösvár – Dorog – Nyergesújfalu – Süttő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2850,F6AC00,152B32,regional
 21,21_817_1,817,Esztergom – Tokod – Sárisáp – Dorog,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=8542,F6AC00,152B32,regional
-21,21_818_1,818,"Esztergom, Vasútállomás – Kórház – Rákóczi tér – Esztergom, Vasútállomás",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=8537,F6AC00,152B32,regional
 21,21_819_1,819,Esztergom – Tát(rövid út) – Mogyorósbánya,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=8545,F6AC00,152B32,regional
 21,21_8200_1,8200,Dunaújváros – Dunaföldvár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=8200,F6AC00,152B32,regional
 21,21_8201_1,8201,Dunaújváros – Kisapostag,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=8201,F6AC00,152B32,regional

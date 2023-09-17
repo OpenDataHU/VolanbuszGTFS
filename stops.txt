@@ -27644,6 +27644,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 35520,Táplánypuszta,47.642706,17.731144,,,
 35521,Táplánypuszta,47.643219,17.729897,,,
 35522,"Tapolca, Arany János utca",46.880178,17.443154,,,
+35524,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41893,
 35524_0,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41893,0
 35524_1,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41893,1
 35524_2,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41893,2
@@ -34080,7 +34081,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41588,"Nyíregyháza, autóbusz-állomás",47.950301,21.704287,1,,
 4159,"Biatorbágy, Vendel tér",47.477565,18.829038,,,
 416,"Agyagosszergény, bejárati út",47.590471,16.951312,,,
-4160,"Biatorbágy, Vendel tér",47.477351,18.828965,,,
 4161,"Biatorbágy, Vendel tér",47.478341,18.828786,,,
 41610,"Nyíregyháza, autóbusz-állomás",47.950657,21.703422,,41588,
 41610_1,"Nyíregyháza, autóbusz-állomás",47.950657,21.703422,,41588,1
