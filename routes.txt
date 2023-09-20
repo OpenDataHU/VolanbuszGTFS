@@ -762,6 +762,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_4158_1,4158,Ózd – Farkaslyuk,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4158,F6AC00,152B32,regional
 21,21_4160_1,4160,Ózd – Csernely – Csokvaomány – Dédestapolcsány – Mályinka,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4160,F6AC00,152B32,regional
 21,21_4161_1,4161,Ózd – Bükkmogyorósd – Csokvaomány – Dédestapolcsány – Mályinka,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4161,F6AC00,152B32,regional
+21,21_416_1,416,Budapest – Gödöllő – Aszód,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2102,F6AC00,152B32,regional
 21,21_4180_1,4180,Ózd – Arló – Borsodnádasd,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4180,F6AC00,152B32,regional
 21,21_4185_1,4185,Ózd – Borsodszentgyörgy,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4185,F6AC00,152B32,regional
 21,21_4186_1,4186,Ózd – Hangony – Kissikátor – Domaháza,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4186,F6AC00,152B32,regional
@@ -3008,6 +3009,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 43-KE,43-KE_2_1,2,Vaszary utca – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/keszthely,152B32,FFFFFF,local
 43-KE,43-KE_3_1,3,"Egyetem, kollégium (– Szendrey telep)",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/keszthely,152B32,FFFFFF,local
 43-KE,43-KE_5_1,5,Autóbusz-állomás – Kárpát utca,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/keszthely,152B32,FFFFFF,local
+43-KE,43-KE_70_1,70,Autóbusz-állomás – Hévízi elágazás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/keszthely,152B32,FFFFFF,local
 43-KE,43-KE_C5_1,C5,Autóbusz-állomás – TESCO,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/keszthely,152B32,FFFFFF,local
 43-KO,43-KO_1A_1,1A,Horvátnádalja – Szabadság tér – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/kormend,152B32,FFFFFF,local
 43-KO,43-KO_1B_1,1B,Horvátnádalja – Szabadság tér – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/kormend,152B32,FFFFFF,local
@@ -3142,6 +3144,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 43-ZE,43-ZE_29_1,29,Vasútállomás – Kertváros – Landorhegy – Széchenyi tér – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/zalaegerszeg,152B32,FFFFFF,local
 43-ZE,43-ZE_2A_1,2A,Vasútállomás – Kertváros – Landorhegy – Széchenyi tér – Csácsbozsok,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/zalaegerszeg,152B32,FFFFFF,local
 43-ZE,43-ZE_2E_1,2E,Ganz Ábrahám Szakközépiskola – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/zalaegerszeg,152B32,FFFFFF,local
+43-ZE,43-ZE_2_1,2,Széchenyi tér – Landorhegy – Ola – Széchenyi tér – Tesco – Csácsbozsok,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/zalaegerszeg,152B32,FFFFFF,local
 43-ZE,43-ZE_3_1,3,Kertváros – Vasútállomás – Kaszaháza – Nekeresd – Pózva,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/zalaegerszeg,152B32,FFFFFF,local
 43-ZE,43-ZE_4_1,4,Botfa – Zalabesenyő – Vasútállomás – Kovács Károly tér – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/zalaegerszeg,152B32,FFFFFF,local
 43-ZE,43-ZE_5_1,5,Kertváros – Autóbusz-állomás – Neszele – Ságod,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/zalaegerszeg,152B32,FFFFFF,local

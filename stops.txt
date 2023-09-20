@@ -3133,6 +3133,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 12942,"Gyula, Almássy Kálmánné tér",46.659030,21.288749,,,
 12943,"Gyula, Apród utca",46.656994,21.410148,,,
 12944,"Gyula, Apród utca",46.657014,21.409763,,,
+12946,"Gyula, autóbusz-állomás",46.642332,21.271968,,41356,
 12946_1,"Gyula, autóbusz-állomás",46.642332,21.271968,,41356,1
 12946_2,"Gyula, autóbusz-állomás",46.642332,21.271968,,41356,2
 12946_3,"Gyula, autóbusz-állomás",46.642332,21.271968,,41356,3
@@ -4352,6 +4353,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 14032,"Hevesaranyos, autóbusz-váróterem",48.008967,20.233255,,,
 14033,"Hevesaranyos, újtelep",48.007636,20.239846,,,
 14034,"Hevesaranyos, újtelep",48.007597,20.239828,,,
+14036,"Heves, autóbusz-állomás",47.593708,20.281006,,41384,
 14036_0,"Heves, autóbusz-állomás",47.593708,20.281006,,41384,0
 14036_1,"Heves, autóbusz-állomás",47.593708,20.281006,,41384,1
 14036_2,"Heves, autóbusz-állomás",47.593708,20.281006,,41384,2
@@ -5792,6 +5794,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 15388_2,"Jászapáti, autóbusz-állomás",47.514875,20.139420,,41405,2
 15388_3,"Jászapáti, autóbusz-állomás",47.514875,20.139420,,41405,3
 1539,"Bábolna, Csemerházimajor bejárati út",47.608807,18.015221,,,
+15390,"Jászapáti, autóbusz-állomás",47.515079,20.139286,,41405,
 15390_0,"Jászapáti, autóbusz-állomás",47.515079,20.139286,,41405,0
 15390_1,"Jászapáti, autóbusz-állomás",47.515079,20.139286,,41405,1
 15390_4,"Jászapáti, autóbusz-állomás",47.515079,20.139286,,41405,4
@@ -17917,6 +17920,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 26520,"Orosháza, Arany János utca",46.566888,20.675623,,,
 26521,"Orosháza, Aranypatkó csárda",46.560037,20.630372,,,
 26522,"Orosháza, Aranypatkó csárda",46.559985,20.631367,,,
+26524,"Orosháza, autóbusz-állomás",46.563979,20.663180,,41712,
 26524_0,"Orosháza, autóbusz-állomás",46.563979,20.663180,,41712,0
 26524_1,"Orosháza, autóbusz-állomás",46.563979,20.663180,,41712,1
 26524_13,"Orosháza, autóbusz-állomás",46.563979,20.663180,,41712,13
@@ -24505,6 +24509,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 3266,"Bátaszék (Kövesd), bejárati út",46.204701,18.691053,,,
 32660,"Szarvas, Árpád Hotel",46.862085,20.549911,,,
 32661,"Szarvas, Árpád Hotel",46.862218,20.548874,,,
+32663,"Szarvas, autóbusz-állomás",46.860202,20.554977,,41849,
 32663_0,"Szarvas, autóbusz-állomás",46.860202,20.554977,,41849,0
 32663_1,"Szarvas, autóbusz-állomás",46.860202,20.554977,,41849,1
 32663_2,"Szarvas, autóbusz-állomás",46.860202,20.554977,,41849,2
@@ -27253,6 +27258,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 35127,"Tabdi, Művelődési Ház",46.683498,19.309189,,,
 35128,"Tabdi, Művelődési Ház",46.684001,19.308625,,,
 35129,"Tabdi, Rácz dűlő",46.676750,19.316251,,,
+3513,"Békéscsaba, autóbusz-állomás",46.669547,21.082765,,41187,
 35130,"Tabdi, Rácz dűlő",46.676524,19.316501,,,
 35131,"Tabdi, Tapodi dűlő",46.670721,19.322569,,,
 35132,"Tabdi, Tapodi dűlő",46.670835,19.322411,,,
@@ -30083,6 +30089,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 37681,"Tura, Galgahévízi út 2.",47.615682,19.579051,,,
 37682,"Tura, hatvani útelágazás",47.610305,19.601387,,,
 37683,"Tura, hatvani útelágazás",47.609443,19.602220,,,
+37684,"Tura, hatvani útelágazás",47.609600,19.602039,,,
 37685,"Tura, József Attila utca",47.613339,19.584127,,,
 37686,"Tura, József Attila utca",47.613107,19.584807,,,
 37687,"Tura, Magdolna utca",47.609764,19.589940,,,
@@ -39155,6 +39162,8 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 8450,"Dunakeszi, sportpálya",47.654347,19.131019,,,
 8451,"Dunakeszi, Szakorvosi Rendelő",47.635696,19.129443,,,
 8452,"Dunakeszi, Szakorvosi Rendelő",47.635716,19.129351,,,
+8453,"Dunakeszi, Széchenyi utca",47.634105,19.161732,,,
+8454,"Dunakeszi, Széchenyi utca",47.634293,19.162616,,,
 8455,"Dunakeszi, Széchenyi utca 2.",47.644262,19.147155,,,
 8456,"Dunakeszi, Székesdűlő ipartelep",47.615169,19.109229,,,
 8457,"Dunakeszi, Székesdűlő ipartelep",47.614774,19.108848,,,
