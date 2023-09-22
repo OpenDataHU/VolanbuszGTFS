@@ -633,6 +633,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_3890_1,3890,Olaszliszka – Tolcsva vá. – Olaszliszka,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3890,F6AC00,152B32,regional
 21,21_3891_1,3891,Olaszliszka – Tolcsva vá. – Komlóska – Háromhuta(Újhuta),200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3891,F6AC00,152B32,regional
 21,21_3892_1,3892,Tokaj – Bodrogkeresztúr,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3892,F6AC00,152B32,regional
+21,21_3895_1,3895,Szerencs – Tállya – Bodrogkeresztúr – Tokaj – Tarcal,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3895,F6AC00,152B32,regional
 21,21_3896_1,3896,Tarcal – Tokaj,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3896,F6AC00,152B32,regional
 21,21_389_1,389,Veresegyház Központ – Medveotthon,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2168,F6AC00,152B32,regional
 21,21_3900_1,3900,Sátoraljaújhely – Kovácsvágás – Pálháza – Nagyhuta – Hollóháza,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3900,F6AC00,152B32,regional
@@ -825,6 +826,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_4251_1,4251,Kisvárda – Szabolcsveresmart,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4251,F6AC00,152B32,regional
 21,21_4253_1,4253,Nyíregyháza – Kisvárda – Tiszamogyorós,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4253,F6AC00,152B32,regional
 21,21_4254_1,4254,Kisvárda – Mándok – Tiszamogyorós,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4254,F6AC00,152B32,regional
+21,21_4255_1,4255,Záhony – Zsurk – Győröcske – Záhony,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4255,F6AC00,152B32,regional
 21,21_4256_1,4256,Mándok – Eperjeske – Záhony,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4256,F6AC00,152B32,regional
 21,21_4257_1,4257,Mándok – Záhony,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4257,F6AC00,152B32,regional
 21,21_4258_1,4258,Mándok – Tuzsér – Záhony,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4258,F6AC00,152B32,regional
