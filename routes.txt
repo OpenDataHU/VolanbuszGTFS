@@ -83,7 +83,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_1190_1,1190,Budapest – Balatonalmádi – Balatonfüred – Keszthely – Hévíz,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1190,F6AC00,152B32,national
 21,21_1193_1,1193,Budapest – Keszthely/Sármellék – Pacsa – Lenti,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1193,F6AC00,152B32,national
 21,21_1194_1,1194,Budapest – Keszthely – Zalaszentgrót,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1194,F6AC00,152B32,national
-21,21_1201_1,1201,Budapest – Balatonalmádi – Lovas – Balatonfüred – Tihany,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1201,F6AC00,152B32,national
 21,21_1204_1,1204,Budapest – Székesfehérvár – Bakonycsernye – Zirc,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1204,F6AC00,152B32,national
 21,21_1205_1,1205,Budapest – Székesfehérvár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1205,F6AC00,152B32,national
 21,21_1212_1,1212,Budapest – Veszprém – Tapolca – Keszthely – Hévíz,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1212,F6AC00,152B32,national
@@ -2100,6 +2099,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_7012_1,7012,Győr – Bőny – Rétalap – Mezőörs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7012,F6AC00,152B32,regional
 21,21_7013_1,7013,Győr – Tényő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7013,F6AC00,152B32,regional
 21,21_7014_1,7014,Győr – Győrújbarát – hegy – Pápateszér,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7014,F6AC00,152B32,regional
+21,21_7015_1,7015,Győr – Győrújbarát – Győrasszonyfa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7015,F6AC00,152B32,regional
+21,21_7016_1,7016,Győr – Koroncó – Kajárpéc,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7016,F6AC00,152B32,regional
 21,21_7017_1,7017,Nyúl – Pannonhalma – Győrság – Mezőörs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7017,F6AC00,152B32,regional
 21,21_7018_1,7018,Pannonhalma – Győrság – Táp – Veszprémvarsány,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7018,F6AC00,152B32,regional
 21,21_7019_1,7019,Győr – Győrszemere,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7019,F6AC00,152B32,regional

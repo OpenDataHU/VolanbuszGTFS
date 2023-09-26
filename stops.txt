@@ -1051,7 +1051,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 10974_2,"Fűzfőgyártelep, autóbusz-váróterem",47.075089,18.027744,,41343,2
 10974_3,"Fűzfőgyártelep, autóbusz-váróterem",47.075089,18.027744,,41343,3
 10974_4,"Fűzfőgyártelep, autóbusz-váróterem",47.075089,18.027744,,41343,4
-10976,"Fűzfőgyártelep, autóbusz-váróterem",47.074849,18.027631,,41343,
 10976_01,"Fűzfőgyártelep, autóbusz-váróterem",47.074849,18.027631,,41343,01
 10976_02,"Fűzfőgyártelep, autóbusz-váróterem",47.074849,18.027631,,41343,02
 10976_03,"Fűzfőgyártelep, autóbusz-váróterem",47.074849,18.027631,,41343,03
@@ -10198,7 +10197,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 19384,"Kőszárhegy, községháza",47.090202,18.340777,,,
 19385,"Kőszárhegy, szőlőhegy",47.086138,18.332943,,,
 19386,"Kőszárhegy, szőlőhegy",47.085905,18.332474,,,
-19388_00,"Kőszeg, autóbusz-állomás",47.387250,16.544473,,41477,00
 19388_01,"Kőszeg, autóbusz-állomás",47.387250,16.544473,,41477,01
 19388_02,"Kőszeg, autóbusz-állomás",47.387250,16.544473,,41477,02
 19388_03,"Kőszeg, autóbusz-állomás",47.387250,16.544473,,41477,03
@@ -13835,7 +13833,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 22738,"Mogyoród, EGIS telep",47.592880,19.284747,,,
 22739,"Mogyoród, HÉV-állomás",47.595551,19.271488,,,
 2274,"Balassagyarmat, Újkóvár",48.068794,19.260061,,,
-22740,"Mogyoród, HUNGARORING főbejárat",47.583743,19.241829,,,
 22741,"Mogyoród, Kerektó Ipari Park",47.590261,19.241043,,,
 22742,"Mogyoród, Kerektó Ipari Park",47.590063,19.241087,,,
 22743,"Mogyoród, Lake Forest Villapark",47.601237,19.275530,,,
@@ -13870,6 +13867,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 22771,"Moha, bejárati út",47.234091,18.327419,,,
 22772,"Mohács, ABC",45.991719,18.677247,,,
 22773,"Mohács, ABC",45.991768,18.676605,,,
+22776,"Mohács, autóbusz-állomás",45.989168,18.685914,,41561,
 22776_0,"Mohács, autóbusz-állomás",45.989168,18.685914,,41561,0
 22776_1,"Mohács, autóbusz-állomás",45.989168,18.685914,,41561,1
 22776_2,"Mohács, autóbusz-állomás",45.989168,18.685914,,41561,2
@@ -16327,7 +16325,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 2501_09,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,41150,09
 2501_3,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,41150,3
 2501_4,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,41150,4
-2501_5,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,41150,5
 2501_9,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,41150,9
 2502,"Balatonfüred, Bata liget",46.972779,17.901569,,,
 25020,"Nemesvámos, Haribo",47.064767,17.873853,,,
@@ -33854,6 +33851,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41210,"Budapest, Beller Imre utca",47.561174,19.118853,,,
 41211,"Budapest, Boráros tér",47.479616,19.067250,,,
 41214,"Budapest (Csepel), Vermes Miklós utca",47.432208,19.066784,1,,
+41215,"Budapest, Déli pályaudvar",47.499362,19.024136,,,
 41218,"Budapest, Erzsébet királyné útja, aluljáró",47.515741,19.092653,,,
 4122,"Biatorbágy, Alsómajor",47.451529,18.821301,,,
 41220,"Budapest, Kelenföld vasútállomás",47.463567,19.022441,1,,
@@ -35791,7 +35789,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5406_50,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41238,50
 5406_6,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41238,6
 5406_7,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41238,7
-5406_8,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41238,8
 5406_99,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41238,99
 5407,"Budapest, Ungvári utca",47.587483,19.082200,,,
 5408,"Budapest, Ungvári utca",47.587424,19.081916,,,
@@ -38471,6 +38468,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 7834,"Diósd, törökbálinti elágazás",47.410619,18.956383,,,
 7835,"Diósd, Valéria utca",47.414107,18.932722,,,
 7836,"Diósd, Valéria utca",47.414089,18.932652,,,
+7837,"Diósjenő, Arany János út",47.945908,19.034339,,,
 7838,"Diósjenő, Arany János út",47.945908,19.034063,,,
 7839,"Diósjenő, Hantai dűlő",47.922307,19.067738,,,
 784,"Alibánfa, templom",46.885266,16.920432,,,
@@ -38763,7 +38761,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 8103,"Dömsöd, Kossuth Lajos utca 136.",47.086341,19.005055,,,
 8104,"Dömsöd, Kossuth Lajos utca 9.",47.096977,19.008584,,,
 8105,"Dömsöd, Kossuth Lajos utca 9.",47.097319,19.008789,,,
-8106,"Dömsöd, Neptun part",47.077197,18.978564,,,
 8107,"Dömsöd, Nyár utca",47.091983,19.022424,,,
 8108,"Dömsöd, Nyár utca",47.091825,19.022744,,,
 8109,"Dömsöd, Pósa Lajos utca",47.088574,19.004195,,,
@@ -40662,6 +40659,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 9878,"Etyek, Palatinus utca",47.444436,18.745155,,,
 9879,"Etyek, Vért erdészlak",47.444464,18.726069,,,
 988,"Alsórajk, Béke utca 44.",46.658292,16.995759,,,
+9880,"Etyek, Vért erdészlak",47.444372,18.726425,,,
 9881,Európa Ipari Park,47.212865,18.428898,,,
 9884,Éva utca,47.154559,20.213540,,,
 9885,Éva utca,47.154468,20.213519,,,
