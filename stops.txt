@@ -17906,7 +17906,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 26520,"Orosháza, Arany János utca",46.566888,20.675623,,,
 26521,"Orosháza, Aranypatkó csárda",46.560037,20.630372,,,
 26522,"Orosháza, Aranypatkó csárda",46.559985,20.631367,,,
-26524,"Orosháza, autóbusz-állomás",46.563979,20.663180,,41719,
 26524_0,"Orosháza, autóbusz-állomás",46.563979,20.663180,,41719,0
 26524_1,"Orosháza, autóbusz-állomás",46.563979,20.663180,,41719,1
 26524_13,"Orosháza, autóbusz-állomás",46.563979,20.663180,,41719,13
@@ -18237,8 +18236,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 26832_10,"Ózd, autóbusz-állomás",48.218742,20.290178,,41729,10
 26832_11,"Ózd, autóbusz-állomás",48.218742,20.290178,,41729,11
 26832_12,"Ózd, autóbusz-állomás",48.218742,20.290178,,41729,12
-26832_13,"Ózd, autóbusz-állomás",48.218742,20.290178,,41729,13
-26832_14,"Ózd, autóbusz-állomás",48.218742,20.290178,,41729,14
 26832_2,"Ózd, autóbusz-állomás",48.218742,20.290178,,41729,2
 26832_9,"Ózd, autóbusz-állomás",48.218742,20.290178,,41729,9
 26833,"Ózd (Bánszállás), bejárati út",48.248511,20.351577,,,
@@ -24495,7 +24492,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 3266,"Bátaszék (Kövesd), bejárati út",46.204701,18.691053,,,
 32660,"Szarvas, Árpád Hotel",46.862085,20.549911,,,
 32661,"Szarvas, Árpád Hotel",46.862218,20.548874,,,
-32663,"Szarvas, autóbusz-állomás",46.860202,20.554977,,41856,
 32663_0,"Szarvas, autóbusz-állomás",46.860202,20.554977,,41856,0
 32663_1,"Szarvas, autóbusz-állomás",46.860202,20.554977,,41856,1
 32663_2,"Szarvas, autóbusz-állomás",46.860202,20.554977,,41856,2
@@ -35611,7 +35607,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5298_1,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41227,1
 5298_10,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41227,10
 5298_11,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41227,11
-5298_13,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41227,13
 5298_17,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41227,17
 5298_18,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41227,18
 5298_19,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,41227,19
@@ -35639,7 +35634,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5299_3,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41227,3
 5299_4,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41227,4
 5299_5,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41227,5
-5299_50,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41227,50
 5299_7,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41227,7
 5299_8,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41227,8
 5299_9,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,41227,9
