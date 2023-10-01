@@ -8159,7 +8159,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 17506,"Kétpó, Deák dűlő",47.101812,20.536261,,,
 17507,"Kétpó, gázcsere telep",47.072318,20.481450,,,
 17508,"Kétpó, gázcsere telep",47.072421,20.481698,,,
-17509,"Kétpó, hulladékkezelő",47.087915,20.535636,,,
 1751,"Baja, Alvégi Olvasókör",46.167550,18.953760,,,
 17510,"Kétpó, Mezőgazdasági Tsz.",47.065319,20.470688,,,
 17511,"Kétpó, vasúti megállóhely",47.075352,20.486252,,,
@@ -27683,6 +27682,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 35520,Táplánypuszta,47.642706,17.731144,,,
 35521,Táplánypuszta,47.643219,17.729897,,,
 35522,"Tapolca, Arany János utca",46.880178,17.443154,,,
+35524,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41904,
 35524_0,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41904,0
 35524_1,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41904,1
 35524_2,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41904,2
