@@ -225,7 +225,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_1842_1,1842,Tatabánya – Székesfehérvár – Siófok – Hévíz,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1842,F6AC00,152B32,national
 21,21_1843_1,1843,Tatabánya – Székesfehérvár – Szekszárd – Pécs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1843,F6AC00,152B32,national
 21,21_1845_1,1845,Tatabánya – Oroszlány – Mór – Székesfehérvár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1845,F6AC00,152B32,regional
-21,21_1846_1,1846,Tatabánya – Veszprém – Balatonfüred – Keszthely,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1846,F6AC00,152B32,national
 21,21_1848_1,1848,Tatabánya – Kisbér – Pápa – Szombathely,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1848,F6AC00,152B32,national
 21,21_1850_1,1850,Tatabánya – Bábolna – Győr – Csorna – Kapuvár – Bükfürdő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1850,F6AC00,152B32,national
 21,21_1851_1,1851,Tatabánya – Kisbér – Pápa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1851,F6AC00,152B32,national
