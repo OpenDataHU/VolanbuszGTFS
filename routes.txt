@@ -3111,7 +3111,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 43-SO,43-SO_5T_1,5T,"Autóbusz-állomás – Csengery utca – Győri út, Alphapark",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
 43-SO,43-SO_5Y_1,5Y,"Jereván lakótelep – Bécsi út – Híd utca – Ipar körút, AWF Kft.",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
 43-SO,43-SO_5_1,5,"Jereván lakótelep – Csengery utca – Ipar körút, vámudvar/Ipar körút, AWF Kft.",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
-43-SO,43-SO_6_1,6,Jereván lakótelep – Híd utca – Tómalom fürdő,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
 43-SO,43-SO_7A_1,7A,"Jereván lakótelep – (Aranyhegyi lakópark) – Híd utca – Csengery utca, Király Jenő utca",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
 43-SO,43-SO_7B_1,7B,"Jereván lakótelep – (Aranyhegyi lakópark) – Híd utca – Csengery utca, Király Jenő utca",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
 43-SO,43-SO_7_1,7,"Jereván lakótelep – (Aranyhegyi lakópark) – Híd utca – Csengery utca, Király Jenő utca",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
