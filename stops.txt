@@ -33780,6 +33780,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 4114,"Bezeréd, templom",46.869866,17.014001,,,
 41140,"Baja, autóbusz-állomás",46.183693,18.956124,1,,
 41141,"Baja, vonatkerti autóbusz-állomás",46.186077,18.957984,1,,
+41142,"Bakonybél, Petőfi utca",47.252138,17.728728,,,
 41143,"Baktalórántháza, Fő tér",47.997815,22.075692,1,,
 41144,"Balassagyarmat, autóbusz-állomás",48.083947,19.296898,1,,
 41147,"Balassagyarmat, vasútállomás",48.071267,19.292902,,,
@@ -34342,6 +34343,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41894,"Szigetvár, autóbusz-állomás",46.044147,17.802897,1,,
 419,"Agyagosszergény, óvoda",47.608935,16.939289,,,
 4190,"Bicske, Műszaki áruház",47.489575,18.633447,,,
+41903,"Szirák, Szőlők",47.830283,19.507600,,,
 41905,"Szob, vasútállomás",47.821322,18.862597,1,,
 41906,"Szolnok, autóbusz-állomás",47.177726,20.193128,1,,
 41907,"Szolnok, vasútállomás",47.178426,20.175643,1,,
@@ -35775,6 +35777,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5406_50,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41238,50
 5406_6,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41238,6
 5406_7,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41238,7
+5406_99,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41238,99
 5407,"Budapest, Ungvári utca",47.587483,19.082200,,,
 5408,"Budapest, Ungvári utca",47.587424,19.081916,,,
 5409,"Budapest, Ürömhegyi út",47.577790,19.010037,,,
