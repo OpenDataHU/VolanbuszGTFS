@@ -66,7 +66,6 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 21_M_20231017_1,0,0,0,0,0,0,0,20231017,20231017,munkanapokon
 21_N_20231002_1,0,0,0,0,0,0,0,20231002,20231013,"naponta, kivéve munkaszüneti napokon"
 21_N_20231002_2,0,0,0,0,0,0,0,20231002,20231013,"naponta, kivéve munkaszüneti napokon"
-21_N_20231014_1,0,0,0,0,0,0,0,20231014,20231016,"naponta, kivéve munkaszüneti napokon"
 21_N_20231014_2,0,0,0,0,0,0,0,20231014,20231016,"naponta, kivéve munkaszüneti napokon"
 21_O_20231002_2,0,0,0,0,0,0,0,20231002,20231013,szabadnapokon
 21_O_20231014_2,0,0,0,0,0,0,0,20231014,20231016,szabadnapokon
@@ -74,238 +73,236 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 21_T_20231002_2,0,0,0,0,0,0,0,20231002,20231013,tanszünetben munkanapokon
 21_V_20231002_2,0,0,0,0,0,0,0,20231002,20231013,munkaszüneti napokon
 21_V_20231014_1,0,0,0,0,0,0,0,20231014,20231016,munkaszüneti napokon
-21_V_20231014_2,0,0,0,0,0,0,0,20231014,20231016,munkaszüneti napokon
 21___20231002_2,0,0,0,0,0,0,0,20231002,20231013,naponta
 21___20231002_3,0,0,0,0,0,0,0,20231002,20231013,naponta
 21___20231002_4,0,0,0,0,0,0,0,20231002,20231013,naponta
 21___20231014_1,0,0,0,0,0,0,0,20231014,20231016,naponta
 21___20231017_1,0,0,0,0,0,0,0,20231017,20231017,naponta
-40_+7_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve december 25-én"
-40_14_20231001_1,0,0,0,0,0,0,0,20231001,20240107,a hetek utolsó iskolai előadási napján
-40_15_20231001_1,0,0,0,0,0,0,0,20231001,20240107,a hetek első iskolai előadási napját megelőző munkaszüneti napon
-40_16_20231001_1,0,0,0,0,0,0,0,20231001,20240107,tanév tartama alatt munkanapokon
-40_1_20231001_1,0,0,0,0,0,0,0,20231001,20240107,hétfői munkanapokon
-40_1a_20231001_1,0,0,0,0,0,0,0,20231001,20240107,munkanapot követő szabad- és munkaszüneti napokon
-40_23_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"munkanapokon, valamint a MERCEDES-gyár munkarendje szerint munkanapot követő napokon"
-40_24_20231001_1,0,0,0,0,0,0,0,20231001,20240107,keddi és pénteki munkanapokon
-40_26_20231001_1,0,0,0,0,0,0,0,20231001,20240107,munkanapot megelőző munkaszüneti napokon
-40_27_20231001_1,0,0,0,0,0,0,0,20231001,20240107,tanév tartama alatt naponta
-40_28_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"hétfői munkanapok kivételével munkanapokon, valamint munkanapot megelőző munkaszüneti napokon"
-40_29_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"munkanapokon, valamint a MERCEDES-gyár munkarendje szerint külön rendeletre szabad- és munkaszüneti napokon"
-40_2_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"munkanapokon, valamint munkanapot megelőző munkaszüneti napokon"
-40_35_20231001_1,0,0,0,0,0,0,0,20231001,20240107,április 1-től október 15-ig szabad- és munkaszüneti napokon
-40_38_20231001_1,0,0,0,0,0,0,0,20231001,20240107,december 24-én
-40_3_20231001_1,0,0,0,0,0,0,0,20231001,20240107,szerdai munkanapokon
-40_41_20231001_1,0,0,0,0,0,0,0,20231001,20240107,tanszünetben keddi és pénteki munkanapokon
-40_42_20231001_1,0,0,0,0,0,0,0,20231001,20240107,csütörtöki munkanapokon
-40_43_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-40_44_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve a tanév tartama alatti munkanapokat"
-40_45_20231001_1,0,0,0,0,0,0,0,20231001,20240107,március 31-ig és október 16-tól naponta
-40_47_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"szeptember 1-től június 30-ig a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző napon"
-40_48_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"munkaszüneti napokon, kivéve június 1-től augusztus 31-ig"
-40_4_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"szabadnapokon, kivéve június 1-től augusztus 31-ig"
-40_50_20231001_1,0,0,0,0,0,0,0,20231001,20240107,március 31-ig és október 16-tól munkanapokon
-40_51_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-40_52_20231001_1,0,0,0,0,0,0,0,20231001,20240107,tanév tartama alatt munkaszüneti napokon
-40_54_20231001_1,0,0,0,0,0,0,0,20231001,20240107,március 31-ig és október 16-tól szabad- és munkaszüneti napokon
-40_55_20231001_1,0,0,0,0,0,0,0,20231001,20240107,május 31-ig és szeptember 1-től munkanapokon
-40_56_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"szerdai és pénteki munkanapokon, valamint munkaszüneti napokon"
-40_57_20231001_1,0,0,0,0,0,0,0,20231001,20240107,április 1-től október 15-ig naponta
-40_5_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"munkaszüneti napokon, kivéve a hetek első munkanapját megelőző napot"
-40_60_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve az iskolai előadási napokat"
-40_64_20231001_1,0,0,0,0,0,0,0,20231001,20240107,tanszünetben szerdai munkanapokon
-40_65_20231001_1,0,0,0,0,0,0,0,20231001,20240107,a hetek első iskolai előadási napját megelőző napon
-40_66_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve a hetek első iskolai előadási napját megelőző napot"
-40_67_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"a hetek utolsó iskolai előadási napján, valamint a hetek első iskolai előadási napját megelőző napon"
-40_69_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-40_6K_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"tanév tartama alatt a hetek első munkanapját megelőző nap, kivéve december 26-án"
-40_71_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"tanszünetben munkanapokon, kivéve a nyári tanszünetben"
-40_73_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
-40_74_20231001_1,0,0,0,0,0,0,0,20231001,20240107,április 1-től október 15-ig munkanapokon
-40_75_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve a hetek utolsó iskolai előadási napját"
-40_79_20231001_1,0,0,0,0,0,0,0,20231001,20240107,tanév tartama alatt munkaszüneti napok kivételével naponta
-40_84_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve a munkaszüneti napokat és a hetek utolsó iskolai előadási napját"
-40_85_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"szabad- és munkaszüneti napokon, valamint május 1-től augusztus 31-ig munkanapokon"
-40_86_20231001_1,0,0,0,0,0,0,0,20231001,20240107,szeptember 1-től április 30-ig munkanapokon
-40_88_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"szabadnapokon, valamint tanév tartama alatt munkaszüneti napokon"
-40_8_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve június 1-től augusztus 31-ig"
-40_91_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"tanév tartama alatt naponta, kivéve a hetek első munkanapját megelőző napon, valamint nyári tanszünetben naponta, valamint december 26-án"
-40_92_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"munkanapokon a MERCEDES-gyár munkarendje szerint, kivéve hétfői munkanapokat"
-40_95_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"munkanapokon, kivéve keddi és pénteki munkanap"
-40_98_20231001_1,0,0,0,0,0,0,0,20231001,20240107,tanév tartama alatt szabad- és munkaszüneti napokon
-40_B1_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-40_D_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve szabadnapokon"
-40_H+_20231001_1,0,0,0,0,0,0,0,20231001,20240107,vasárnapi napokon
-40_I_20231001_1,0,0,0,0,0,0,0,20231001,20240107,iskolai előadási napokon
-40_K0_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"tanév tartama alatt munkaszüneti napok kivételével naponta, kivéve december 24-én"
-40_K5_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve a hetek utolsó iskolai előadási napján és december 24-én"
-40_L_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"munkanapokon, kivéve a hetek utolsó munkanapját"
-40_MS_20231001_1,0,0,0,0,0,0,0,20231001,20240107,munkaszüneti napokon
-40_M_20231001_1,0,0,0,0,0,0,0,20231001,20240107,munkanapokon
-40_N6_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve a hetek utolsó tanítási napját, valamint a hetek első tanítási napját megelőző napokon"
-40_NK_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve december 24-én"
-40_N_20231001_1,0,0,0,0,0,0,0,20231001,20240107,naponta
-40_O2_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"szabadnapokon, kivéve december 24-én"
-40_OS_20231001_1,0,0,0,0,0,0,0,20231001,20240107,szombati napokon
-40_SE_20231001_1,0,0,0,0,0,0,0,20231001,20240107,szerdai napokon
-40_SZ_20231001_1,0,0,0,0,0,0,0,20231001,20240107,szabadnapokon
-40_U_20231001_1,0,0,0,0,0,0,0,20231001,20240107,a hetek utolsó munkanapján
-40_V_20231001_1,0,0,0,0,0,0,0,20231001,20240107,a hetek első munkanapját megelőző napon
-40_WM_20231001_1,0,0,0,0,0,0,0,20231001,20240107,tanszünetben munkanapokon
-40_X2_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve munkaszüneti napokon és december 24-én"
-40_XC_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"péntek, szombat, vasárnap napokon, kivéve december 25-én"
-40_X_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve munkaszüneti napokon"
-40_Z_20231001_1,0,0,0,0,0,0,0,20231001,20240107,szabad- és munkaszüneti napokon
-40_gh_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"március 31-ig és október 16-tól naponta, kivéve december 24-én"
-40_l3_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"tanév tartama alatt szabadnapokon, kivéve december 24-én"
-40_l6_20231001_1,0,0,0,0,0,0,0,20231001,20240107,"naponta, kivéve a hetek első iskolai előadási napját megelőző napon és december 24-én"
-40_mD_20231001_1,0,0,0,0,0,0,0,20231001,20240107,2023. december 24-én érvényes közlekedési rend
-41_+_20231004_1,0,0,0,0,0,0,0,20231004,20240107,munkaszüneti napokon
-41_-M_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"munkanapokon, kivéve a téli tanszünetben"
-41_-V_20231004_1,0,0,0,0,0,0,0,20231004,20240107,Október 6-tól 19-ig naponta (vonatpótló vágányzár miatt)
-41_-X_20231004_1,0,0,0,0,0,0,0,20231004,20240107,Október 6-tól 19-ig munkanapokon (vonatpótló vágányzás miatt)
-41_._20231004_1,0,0,0,0,0,0,0,20231004,20240107,naponta
-41_11_20231004_1,0,0,0,0,0,0,0,20231004,20240107,iskolai előadási napokon és szabadnapokon
-41_12_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"naponta, kivéve iskolai előadási napokon"
-41_13_20231004_1,0,0,0,0,0,0,0,20231004,20240107,a hetek első iskolai előadási napján
-41_14_20231004_1,0,0,0,0,0,0,0,20231004,20240107,a hetek utolsó iskolai előadási napján
-41_15_20231004_1,0,0,0,0,0,0,0,20231004,20240107,a hetek első iskolai előadási napját megelőző munkaszüneti napon
-41_16_20231004_1,0,0,0,0,0,0,0,20231004,20240107,tanév tartama alatt munkanapokon
-41_26_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-41_27_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"tanszünetben hétfői, szerdai és pénteki munkanapokon"
-41_29_20231004_1,0,0,0,0,0,0,0,20231004,20240107,tanév tartama alatt a hetek első iskolai előadási napját megelőző napokon
-41_2_20231004_1,0,0,0,0,0,0,0,20231004,20240107,keddi munkanapokon
-41_31_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"tanév tartama alatt a hetek első munkanapját megelőző napon, kivéve december 26-án"
-41_32_20231004_1,0,0,0,0,0,0,0,20231004,20240107,a hetek utolsó előtti és utolsó iskolai előadási napján
-41_34_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-41_35_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, illetve közlekedik december 26-án"
-41_37_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokat"
-41_39_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
-41_3_20231004_1,0,0,0,0,0,0,0,20231004,20240107,szerdai munkanapokon
-41_41_20231004_1,0,0,0,0,0,0,0,20231004,20240107,május 31-ig és szeptember 1-től munkanapokon
-41_42_20231004_1,0,0,0,0,0,0,0,20231004,20240107,március 1-től október 31-ig szabadnapokon
-41_43_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"február 29-ig és november 1-től szabadnapokon, kivéve december 24-én"
-41_44_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"naponta, kivéve a keddi és pénteki munkanapokat, a munkaszüneti napokat és a minden hónap első hétfői munkanapját"
-41_45_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"minden hó első hétfői munkanapján, valamint keddi és pénteki munkanapokon"
-41_49_20231004_1,0,0,0,0,0,0,0,20231004,20240107,tanév tartama alatt a hetek utolsó munkanapján
-41_4_20231004_1,0,0,0,0,0,0,0,20231004,20240107,csütörtöki munkanapokon
-41_50_20231004_1,0,0,0,0,0,0,0,20231004,20240107,tanév tartama alatt naponta
-41_51_20231004_1,0,0,0,0,0,0,0,20231004,20240107,tanév tartama alatt szabadnapokon
-41_52_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"munkanapokon, kivéve szerdán"
-41_54_20231004_1,0,0,0,0,0,0,0,20231004,20240107,tanév tartama alatt szabad- és munkaszüneti napokon
-41_55_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"hétfői, keddi és csütörtöki munkanapokon"
-41_56_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"munkanapokon, kivéve csütörtökön"
-41_57_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"munkanapokon, kivéve kedden és pénteken"
-41_58_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"tanszünetben munkanapokon, kivéve a nyári tanszünetben"
-41_59_20231004_1,0,0,0,0,0,0,0,20231004,20240107,a hetek utolsó iskolai előadási napján és a hetek első iskolai előadási napját megelőző munkaszüneti napon
-41_5_20231004_1,0,0,0,0,0,0,0,20231004,20240107,pénteki munkanapokon
-41_60_20231004_1,0,0,0,0,0,0,0,20231004,20240107,június 30-ig és szeptember 1-től munkanapokon
-41_63_20231004_1,0,0,0,0,0,0,0,20231004,20240107,március 1-től október 31-ig munkaszüneti napokon
-41_64_20231004_1,0,0,0,0,0,0,0,20231004,20240107,tanév tartama alatt munkaszüneti napokon
-41_69_20231004_1,0,0,0,0,0,0,0,20231004,20240107,május 31-ig és szeptember 1-től munkaszüneti napokon
-41_6_20231004_1,0,0,0,0,0,0,0,20231004,20240107,munkanapokon páros számú heteken
-41_71_20231004_1,0,0,0,0,0,0,0,20231004,20240107,tanév tartama alatt a hetek első munkanapján
-41_75_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"naponta, kivéve a hetek első munkanapját megelőző napot"
-41_7_20231004_1,0,0,0,0,0,0,0,20231004,20240107,munkanapokon páratlan számú heteken
-41_80_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"hétfői, szerdai és pénteki munkanapokon"
-41_81_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"keddi, csütörtöki és szombati munkanapokon"
-41_83_20231004_1,0,0,0,0,0,0,0,20231004,20240107,február 28-ig és november 1-től munkaszüneti napokon
-41_85_20231004_1,0,0,0,0,0,0,0,20231004,20240107,május 31-ig és szeptember 1-től szabadnapokon
-41_86_20231004_1,0,0,0,0,0,0,0,20231004,20240107,május 31-ig és szeptember 21-től szabadnapokon
-41_92_20231004_1,0,0,0,0,0,0,0,20231004,20240107,keddi és pénteki munkanapokon
-41_94_20231004_1,0,0,0,0,0,0,0,20231004,20240107,szabadnapokon és tanszünetben munkanapokon
-41_95_20231004_1,0,0,0,0,0,0,0,20231004,20240107,július 9-ig és augusztus 31-től munkaszüneti napokon
-41_98_20231004_1,0,0,0,0,0,0,0,20231004,20240107,május 31-ig és szeptember 1-től munkaszüneti napok kivételével naponta és június 1-től augusztus 31-ig naponta
-41_99_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"tanszünetben keddi, csütörtöki és szombati munkanapokon"
-41_AA_20231004_1,0,0,0,0,0,0,0,20231004,20240107,március 31-ig és november 1-től naponta
-41_AE_20231004_1,0,0,0,0,0,0,0,20231004,20240107,április 1-től október 31-ig naponta
-41_CA_20231004_1,0,0,0,0,0,0,0,20231004,20240107,iskolai előadási napokon csütörtökön
-41_CB_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"szabad- és munkaszüneti napokon, valamint nyári tanszünetben munkanapokon"
-41_CK_20231004_1,0,0,0,0,0,0,0,20231004,20240107,nyári időszámítás tartama alatt naponta
-41_CL_20231004_1,0,0,0,0,0,0,0,20231004,20240107,téli időszámítás alatt naponta
-41_CN_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"iskolai előadási napokon, kivéve a hetek utolsó előtti iskolai előadási napját"
-41_D_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"naponta, kivéve szabadnapokon"
-41_FI_20231004_1,0,0,0,0,0,0,0,20231004,20240107,március 31-ig és november 1-től iskolai előadási napokon
-41_FR_20231004_1,0,0,0,0,0,0,0,20231004,20240107,munkanapokon és nyári tanszünetben szabad- és munkaszüneti napokon
-41_H+_20231004_1,0,0,0,0,0,0,0,20231004,20240107,április 1-től június 16-ig és szeptember 1-től október 31-ig munkaszüneti napokon
-41_HI_20231004_1,0,0,0,0,0,0,0,20231004,20240107,április 1-től október 31-ig iskolai előadási napokon
-41_I+_20231004_1,0,0,0,0,0,0,0,20231004,20240107,március 31-ig és november 1-től munkaszüneti napokon
-41_I_20231004_1,0,0,0,0,0,0,0,20231004,20240107,iskolai előadási napokon
-41_JA_20231004_1,0,0,0,0,0,0,0,20231004,20240107,április 1-től június 16-ig és szeptember 1-től október 31-ig naponta
-41_L_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"munkanapokon, kivéve a hetek utolsó munkanapját"
-41_MV_20231004_1,0,0,0,0,0,0,0,20231004,20240107,március 31-ig és november 1-től munkanapokon
-41_MY_20231004_1,0,0,0,0,0,0,0,20231004,20240107,április 1-től június 16-ig és szeptember 1-től október 31-ig munkanapokon
-41_MZ_20231004_1,0,0,0,0,0,0,0,20231004,20240107,április 1-től október 31-ig munkanapokon
-41_M_20231004_1,0,0,0,0,0,0,0,20231004,20240107,munkanapokon
-41_N+_20231004_1,0,0,0,0,0,0,0,20231004,20240107,április 1-től október 31-ig munkaszüneti napokon
-41_NM_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"április 1-től október 31-ig naponta, kivéve munkaszüneti napokon"
-41_NN_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"március 31-ig és november 1-től naponta, kivéve munkaszüneti napokon"
-41_NY_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"április 1-től június 16-ig és szeptember 1-től október 31-ig naponta, kivéve munkaszüneti napokon"
-41_OC_20231004_1,0,0,0,0,0,0,0,20231004,20240107,március 31-ig és november 1-től szabadnapokon
-41_OL_20231004_1,0,0,0,0,0,0,0,20231004,20240107,április 1-től június 16-ig és szeptember 1-től október 31-ig szabadnapokon
-41_O_20231004_1,0,0,0,0,0,0,0,20231004,20240107,szabadnapokon
-41_PC_20231004_1,0,0,0,0,0,0,0,20231004,20240107,április 1-től június 16-ig és szeptember 1-től október 31-ig szabad- és munkaszüneti napokon
-41_PD_20231004_1,0,0,0,0,0,0,0,20231004,20240107,június 16-ig és augusztus 28-tól tanszünetben munkanapokon
-41_PE_20231004_1,0,0,0,0,0,0,0,20231004,20240107,május 14-ig és szeptember 25-től szabad- és munkaszüneti napokon
-41_PG_20231004_1,0,0,0,0,0,0,0,20231004,20240107,március 31-ig és november 1-től szabad- és munkaszüneti napokon
-41_SX_20231004_1,0,0,0,0,0,0,0,20231004,20240107,június 16-ig és augusztus 28-tól szabadnapokon
-41_TQ_20231004_1,0,0,0,0,0,0,0,20231004,20240107,június 16-ig és augusztus 28-tól munkanapokon
-41_UT_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
-41_U_20231004_1,0,0,0,0,0,0,0,20231004,20240107,a hetek utolsó munkanapján
-41_V2_20231004_1,0,0,0,0,0,0,0,20231004,20240107,Pénteki és vasárnapi közlekedési rend szerint (vonatpótló)
-41_V3_20231004_1,0,0,0,0,0,0,0,20231004,20240107,Munkanapi közlekedési rend szerint (vonatpótló)
-41_V4_20231004_1,0,0,0,0,0,0,0,20231004,20240107,Szombati és vasárnapi közlekedési rend szerint (vonatpótló)
-41_VA_20231004_1,0,0,0,0,0,0,0,20231004,20240107,Október 5-ig és 20-tól naponta (vonatpótló)
-41_V_20231004_1,0,0,0,0,0,0,0,20231004,20240107,a hetek első munkanapját megelőző napon
-41_WB_20231004_1,0,0,0,0,0,0,0,20231004,20240107,március 31-ig és november 1-től tanszünetben munkanapokon
-41_WD_20231004_1,0,0,0,0,0,0,0,20231004,20240107,Október 5-ig és 20-tól munkanapokon (vonatpótló)
-41_WR_20231004_1,0,0,0,0,0,0,0,20231004,20240107,április 1-től június 16-ig és szeptember 1-től október 31-ig tanszünetben munkanapokon
-41_W_20231004_1,0,0,0,0,0,0,0,20231004,20240107,tanszünetben munkanapokon
-41_XA_20231004_1,0,0,0,0,0,0,0,20231004,20240107,június 16-ig és augusztus 28-tól szabad- és munkaszüneti napokon
-41_XL_20231004_1,0,0,0,0,0,0,0,20231004,20240107,május 14-ig és szeptember 25-től a hetek első iskolai előadási napját megelőző munkaszüneti napon
-41_XQ_20231004_1,0,0,0,0,0,0,0,20231004,20240107,május 14-ig és szeptember 25-től munkanapokon
-41_X_20231004_1,0,0,0,0,0,0,0,20231004,20240107,"naponta, kivéve munkaszüneti napokon"
-41_Z_20231004_1,0,0,0,0,0,0,0,20231004,20240107,szabad- és munkaszüneti napokon
+40_+7_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve december 25-én"
+40_14_20231001_1,0,0,0,0,0,0,0,20231001,20240110,a hetek utolsó iskolai előadási napján
+40_15_20231001_1,0,0,0,0,0,0,0,20231001,20240110,a hetek első iskolai előadási napját megelőző munkaszüneti napon
+40_16_20231001_1,0,0,0,0,0,0,0,20231001,20240110,tanév tartama alatt munkanapokon
+40_1_20231001_1,0,0,0,0,0,0,0,20231001,20240110,hétfői munkanapokon
+40_1a_20231001_1,0,0,0,0,0,0,0,20231001,20240110,munkanapot követő szabad- és munkaszüneti napokon
+40_23_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"munkanapokon, valamint a MERCEDES-gyár munkarendje szerint munkanapot követő napokon"
+40_24_20231001_1,0,0,0,0,0,0,0,20231001,20240110,keddi és pénteki munkanapokon
+40_26_20231001_1,0,0,0,0,0,0,0,20231001,20240110,munkanapot megelőző munkaszüneti napokon
+40_27_20231001_1,0,0,0,0,0,0,0,20231001,20240110,tanév tartama alatt naponta
+40_28_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"hétfői munkanapok kivételével munkanapokon, valamint munkanapot megelőző munkaszüneti napokon"
+40_29_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"munkanapokon, valamint a MERCEDES-gyár munkarendje szerint külön rendeletre szabad- és munkaszüneti napokon"
+40_2_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"munkanapokon, valamint munkanapot megelőző munkaszüneti napokon"
+40_35_20231001_1,0,0,0,0,0,0,0,20231001,20240110,április 1-től október 15-ig szabad- és munkaszüneti napokon
+40_38_20231001_1,0,0,0,0,0,0,0,20231001,20240110,december 24-én
+40_3_20231001_1,0,0,0,0,0,0,0,20231001,20240110,szerdai munkanapokon
+40_41_20231001_1,0,0,0,0,0,0,0,20231001,20240110,tanszünetben keddi és pénteki munkanapokon
+40_42_20231001_1,0,0,0,0,0,0,0,20231001,20240110,csütörtöki munkanapokon
+40_43_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+40_44_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve a tanév tartama alatti munkanapokat"
+40_45_20231001_1,0,0,0,0,0,0,0,20231001,20240110,március 31-ig és október 16-tól naponta
+40_47_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"szeptember 1-től június 30-ig a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző napon"
+40_48_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"munkaszüneti napokon, kivéve június 1-től augusztus 31-ig"
+40_4_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"szabadnapokon, kivéve június 1-től augusztus 31-ig"
+40_50_20231001_1,0,0,0,0,0,0,0,20231001,20240110,március 31-ig és október 16-tól munkanapokon
+40_51_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+40_52_20231001_1,0,0,0,0,0,0,0,20231001,20240110,tanév tartama alatt munkaszüneti napokon
+40_54_20231001_1,0,0,0,0,0,0,0,20231001,20240110,március 31-ig és október 16-tól szabad- és munkaszüneti napokon
+40_55_20231001_1,0,0,0,0,0,0,0,20231001,20240110,május 31-ig és szeptember 1-től munkanapokon
+40_56_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"szerdai és pénteki munkanapokon, valamint munkaszüneti napokon"
+40_57_20231001_1,0,0,0,0,0,0,0,20231001,20240110,április 1-től október 15-ig naponta
+40_5_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"munkaszüneti napokon, kivéve a hetek első munkanapját megelőző napot"
+40_60_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve az iskolai előadási napokat"
+40_64_20231001_1,0,0,0,0,0,0,0,20231001,20240110,tanszünetben szerdai munkanapokon
+40_65_20231001_1,0,0,0,0,0,0,0,20231001,20240110,a hetek első iskolai előadási napját megelőző napon
+40_66_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve a hetek első iskolai előadási napját megelőző napot"
+40_67_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"a hetek utolsó iskolai előadási napján, valamint a hetek első iskolai előadási napját megelőző napon"
+40_69_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+40_6K_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"tanév tartama alatt a hetek első munkanapját megelőző nap, kivéve december 26-án"
+40_71_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"tanszünetben munkanapokon, kivéve a nyári tanszünetben"
+40_73_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
+40_74_20231001_1,0,0,0,0,0,0,0,20231001,20240110,április 1-től október 15-ig munkanapokon
+40_75_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve a hetek utolsó iskolai előadási napját"
+40_79_20231001_1,0,0,0,0,0,0,0,20231001,20240110,tanév tartama alatt munkaszüneti napok kivételével naponta
+40_84_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve a munkaszüneti napokat és a hetek utolsó iskolai előadási napját"
+40_85_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"szabad- és munkaszüneti napokon, valamint május 1-től augusztus 31-ig munkanapokon"
+40_86_20231001_1,0,0,0,0,0,0,0,20231001,20240110,szeptember 1-től április 30-ig munkanapokon
+40_88_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"szabadnapokon, valamint tanév tartama alatt munkaszüneti napokon"
+40_8_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve június 1-től augusztus 31-ig"
+40_91_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"tanév tartama alatt naponta, kivéve a hetek első munkanapját megelőző napon, valamint nyári tanszünetben naponta, valamint december 26-án"
+40_92_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"munkanapokon a MERCEDES-gyár munkarendje szerint, kivéve hétfői munkanapokat"
+40_95_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"munkanapokon, kivéve keddi és pénteki munkanap"
+40_98_20231001_1,0,0,0,0,0,0,0,20231001,20240110,tanév tartama alatt szabad- és munkaszüneti napokon
+40_B1_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+40_D_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve szabadnapokon"
+40_H+_20231001_1,0,0,0,0,0,0,0,20231001,20240110,vasárnapi napokon
+40_I_20231001_1,0,0,0,0,0,0,0,20231001,20240110,iskolai előadási napokon
+40_K0_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"tanév tartama alatt munkaszüneti napok kivételével naponta, kivéve december 24-én"
+40_K5_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve a hetek utolsó iskolai előadási napján és december 24-én"
+40_L_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"munkanapokon, kivéve a hetek utolsó munkanapját"
+40_MS_20231001_1,0,0,0,0,0,0,0,20231001,20240110,munkaszüneti napokon
+40_M_20231001_1,0,0,0,0,0,0,0,20231001,20240110,munkanapokon
+40_N6_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve a hetek utolsó tanítási napját, valamint a hetek első tanítási napját megelőző napokon"
+40_NK_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve december 24-én"
+40_N_20231001_1,0,0,0,0,0,0,0,20231001,20240110,naponta
+40_O2_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"szabadnapokon, kivéve december 24-én"
+40_OS_20231001_1,0,0,0,0,0,0,0,20231001,20240110,szombati napokon
+40_SE_20231001_1,0,0,0,0,0,0,0,20231001,20240110,szerdai napokon
+40_SZ_20231001_1,0,0,0,0,0,0,0,20231001,20240110,szabadnapokon
+40_U_20231001_1,0,0,0,0,0,0,0,20231001,20240110,a hetek utolsó munkanapján
+40_V_20231001_1,0,0,0,0,0,0,0,20231001,20240110,a hetek első munkanapját megelőző napon
+40_WM_20231001_1,0,0,0,0,0,0,0,20231001,20240110,tanszünetben munkanapokon
+40_X2_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve munkaszüneti napokon és december 24-én"
+40_XC_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"péntek, szombat, vasárnap napokon, kivéve december 25-én"
+40_X_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve munkaszüneti napokon"
+40_Z_20231001_1,0,0,0,0,0,0,0,20231001,20240110,szabad- és munkaszüneti napokon
+40_gh_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"március 31-ig és október 16-tól naponta, kivéve december 24-én"
+40_l3_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"tanév tartama alatt szabadnapokon, kivéve december 24-én"
+40_l6_20231001_1,0,0,0,0,0,0,0,20231001,20240110,"naponta, kivéve a hetek első iskolai előadási napját megelőző napon és december 24-én"
+40_mD_20231001_1,0,0,0,0,0,0,0,20231001,20240110,2023. december 24-én érvényes közlekedési rend
+41_+_20231004_1,0,0,0,0,0,0,0,20231004,20240110,munkaszüneti napokon
+41_-M_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"munkanapokon, kivéve a téli tanszünetben"
+41_-V_20231004_1,0,0,0,0,0,0,0,20231004,20240110,Október 6-tól 19-ig naponta (vonatpótló vágányzár miatt)
+41_-X_20231004_1,0,0,0,0,0,0,0,20231004,20240110,Október 6-tól 19-ig munkanapokon (vonatpótló vágányzás miatt)
+41_._20231004_1,0,0,0,0,0,0,0,20231004,20240110,naponta
+41_11_20231004_1,0,0,0,0,0,0,0,20231004,20240110,iskolai előadási napokon és szabadnapokon
+41_12_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"naponta, kivéve iskolai előadási napokon"
+41_13_20231004_1,0,0,0,0,0,0,0,20231004,20240110,a hetek első iskolai előadási napján
+41_14_20231004_1,0,0,0,0,0,0,0,20231004,20240110,a hetek utolsó iskolai előadási napján
+41_15_20231004_1,0,0,0,0,0,0,0,20231004,20240110,a hetek első iskolai előadási napját megelőző munkaszüneti napon
+41_16_20231004_1,0,0,0,0,0,0,0,20231004,20240110,tanév tartama alatt munkanapokon
+41_26_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+41_27_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"tanszünetben hétfői, szerdai és pénteki munkanapokon"
+41_29_20231004_1,0,0,0,0,0,0,0,20231004,20240110,tanév tartama alatt a hetek első iskolai előadási napját megelőző napokon
+41_2_20231004_1,0,0,0,0,0,0,0,20231004,20240110,keddi munkanapokon
+41_31_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"tanév tartama alatt a hetek első munkanapját megelőző napon, kivéve december 26-án"
+41_32_20231004_1,0,0,0,0,0,0,0,20231004,20240110,a hetek utolsó előtti és utolsó iskolai előadási napján
+41_34_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+41_35_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, illetve közlekedik december 26-án"
+41_37_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokat"
+41_39_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
+41_3_20231004_1,0,0,0,0,0,0,0,20231004,20240110,szerdai munkanapokon
+41_41_20231004_1,0,0,0,0,0,0,0,20231004,20240110,május 31-ig és szeptember 1-től munkanapokon
+41_42_20231004_1,0,0,0,0,0,0,0,20231004,20240110,március 1-től október 31-ig szabadnapokon
+41_43_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"február 29-ig és november 1-től szabadnapokon, kivéve december 24-én"
+41_44_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"naponta, kivéve a keddi és pénteki munkanapokat, a munkaszüneti napokat és a minden hónap első hétfői munkanapját"
+41_45_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"minden hó első hétfői munkanapján, valamint keddi és pénteki munkanapokon"
+41_49_20231004_1,0,0,0,0,0,0,0,20231004,20240110,tanév tartama alatt a hetek utolsó munkanapján
+41_4_20231004_1,0,0,0,0,0,0,0,20231004,20240110,csütörtöki munkanapokon
+41_50_20231004_1,0,0,0,0,0,0,0,20231004,20240110,tanév tartama alatt naponta
+41_51_20231004_1,0,0,0,0,0,0,0,20231004,20240110,tanév tartama alatt szabadnapokon
+41_52_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"munkanapokon, kivéve szerdán"
+41_54_20231004_1,0,0,0,0,0,0,0,20231004,20240110,tanév tartama alatt szabad- és munkaszüneti napokon
+41_55_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"hétfői, keddi és csütörtöki munkanapokon"
+41_56_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"munkanapokon, kivéve csütörtökön"
+41_57_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"munkanapokon, kivéve kedden és pénteken"
+41_58_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"tanszünetben munkanapokon, kivéve a nyári tanszünetben"
+41_59_20231004_1,0,0,0,0,0,0,0,20231004,20240110,a hetek utolsó iskolai előadási napján és a hetek első iskolai előadási napját megelőző munkaszüneti napon
+41_5_20231004_1,0,0,0,0,0,0,0,20231004,20240110,pénteki munkanapokon
+41_60_20231004_1,0,0,0,0,0,0,0,20231004,20240110,június 30-ig és szeptember 1-től munkanapokon
+41_63_20231004_1,0,0,0,0,0,0,0,20231004,20240110,március 1-től október 31-ig munkaszüneti napokon
+41_64_20231004_1,0,0,0,0,0,0,0,20231004,20240110,tanév tartama alatt munkaszüneti napokon
+41_69_20231004_1,0,0,0,0,0,0,0,20231004,20240110,május 31-ig és szeptember 1-től munkaszüneti napokon
+41_6_20231004_1,0,0,0,0,0,0,0,20231004,20240110,munkanapokon páros számú heteken
+41_71_20231004_1,0,0,0,0,0,0,0,20231004,20240110,tanév tartama alatt a hetek első munkanapján
+41_75_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"naponta, kivéve a hetek első munkanapját megelőző napot"
+41_7_20231004_1,0,0,0,0,0,0,0,20231004,20240110,munkanapokon páratlan számú heteken
+41_80_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"hétfői, szerdai és pénteki munkanapokon"
+41_81_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"keddi, csütörtöki és szombati munkanapokon"
+41_83_20231004_1,0,0,0,0,0,0,0,20231004,20240110,február 28-ig és november 1-től munkaszüneti napokon
+41_85_20231004_1,0,0,0,0,0,0,0,20231004,20240110,május 31-ig és szeptember 1-től szabadnapokon
+41_86_20231004_1,0,0,0,0,0,0,0,20231004,20240110,május 31-ig és szeptember 21-től szabadnapokon
+41_92_20231004_1,0,0,0,0,0,0,0,20231004,20240110,keddi és pénteki munkanapokon
+41_94_20231004_1,0,0,0,0,0,0,0,20231004,20240110,szabadnapokon és tanszünetben munkanapokon
+41_95_20231004_1,0,0,0,0,0,0,0,20231004,20240110,július 9-ig és augusztus 31-től munkaszüneti napokon
+41_98_20231004_1,0,0,0,0,0,0,0,20231004,20240110,május 31-ig és szeptember 1-től munkaszüneti napok kivételével naponta és június 1-től augusztus 31-ig naponta
+41_99_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"tanszünetben keddi, csütörtöki és szombati munkanapokon"
+41_AA_20231004_1,0,0,0,0,0,0,0,20231004,20240110,március 31-ig és november 1-től naponta
+41_AE_20231004_1,0,0,0,0,0,0,0,20231004,20240110,április 1-től október 31-ig naponta
+41_CA_20231004_1,0,0,0,0,0,0,0,20231004,20240110,iskolai előadási napokon csütörtökön
+41_CB_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"szabad- és munkaszüneti napokon, valamint nyári tanszünetben munkanapokon"
+41_CK_20231004_1,0,0,0,0,0,0,0,20231004,20240110,nyári időszámítás tartama alatt naponta
+41_CL_20231004_1,0,0,0,0,0,0,0,20231004,20240110,téli időszámítás alatt naponta
+41_CN_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"iskolai előadási napokon, kivéve a hetek utolsó előtti iskolai előadási napját"
+41_D_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"naponta, kivéve szabadnapokon"
+41_FI_20231004_1,0,0,0,0,0,0,0,20231004,20240110,március 31-ig és november 1-től iskolai előadási napokon
+41_FR_20231004_1,0,0,0,0,0,0,0,20231004,20240110,munkanapokon és nyári tanszünetben szabad- és munkaszüneti napokon
+41_H+_20231004_1,0,0,0,0,0,0,0,20231004,20240110,április 1-től június 16-ig és szeptember 1-től október 31-ig munkaszüneti napokon
+41_HI_20231004_1,0,0,0,0,0,0,0,20231004,20240110,április 1-től október 31-ig iskolai előadási napokon
+41_I+_20231004_1,0,0,0,0,0,0,0,20231004,20240110,március 31-ig és november 1-től munkaszüneti napokon
+41_I_20231004_1,0,0,0,0,0,0,0,20231004,20240110,iskolai előadási napokon
+41_JA_20231004_1,0,0,0,0,0,0,0,20231004,20240110,április 1-től június 16-ig és szeptember 1-től október 31-ig naponta
+41_L_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"munkanapokon, kivéve a hetek utolsó munkanapját"
+41_MV_20231004_1,0,0,0,0,0,0,0,20231004,20240110,március 31-ig és november 1-től munkanapokon
+41_MY_20231004_1,0,0,0,0,0,0,0,20231004,20240110,április 1-től június 16-ig és szeptember 1-től október 31-ig munkanapokon
+41_MZ_20231004_1,0,0,0,0,0,0,0,20231004,20240110,április 1-től október 31-ig munkanapokon
+41_M_20231004_1,0,0,0,0,0,0,0,20231004,20240110,munkanapokon
+41_N+_20231004_1,0,0,0,0,0,0,0,20231004,20240110,április 1-től október 31-ig munkaszüneti napokon
+41_NM_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"április 1-től október 31-ig naponta, kivéve munkaszüneti napokon"
+41_NN_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"március 31-ig és november 1-től naponta, kivéve munkaszüneti napokon"
+41_NY_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"április 1-től június 16-ig és szeptember 1-től október 31-ig naponta, kivéve munkaszüneti napokon"
+41_OC_20231004_1,0,0,0,0,0,0,0,20231004,20240110,március 31-ig és november 1-től szabadnapokon
+41_OL_20231004_1,0,0,0,0,0,0,0,20231004,20240110,április 1-től június 16-ig és szeptember 1-től október 31-ig szabadnapokon
+41_O_20231004_1,0,0,0,0,0,0,0,20231004,20240110,szabadnapokon
+41_PC_20231004_1,0,0,0,0,0,0,0,20231004,20240110,április 1-től június 16-ig és szeptember 1-től október 31-ig szabad- és munkaszüneti napokon
+41_PD_20231004_1,0,0,0,0,0,0,0,20231004,20240110,június 16-ig és augusztus 28-tól tanszünetben munkanapokon
+41_PE_20231004_1,0,0,0,0,0,0,0,20231004,20240110,május 14-ig és szeptember 25-től szabad- és munkaszüneti napokon
+41_PG_20231004_1,0,0,0,0,0,0,0,20231004,20240110,március 31-ig és november 1-től szabad- és munkaszüneti napokon
+41_SX_20231004_1,0,0,0,0,0,0,0,20231004,20240110,június 16-ig és augusztus 28-tól szabadnapokon
+41_TQ_20231004_1,0,0,0,0,0,0,0,20231004,20240110,június 16-ig és augusztus 28-tól munkanapokon
+41_UT_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
+41_U_20231004_1,0,0,0,0,0,0,0,20231004,20240110,a hetek utolsó munkanapján
+41_V2_20231004_1,0,0,0,0,0,0,0,20231004,20240110,Pénteki és vasárnapi közlekedési rend szerint (vonatpótló)
+41_V3_20231004_1,0,0,0,0,0,0,0,20231004,20240110,Munkanapi közlekedési rend szerint (vonatpótló)
+41_V4_20231004_1,0,0,0,0,0,0,0,20231004,20240110,Szombati és vasárnapi közlekedési rend szerint (vonatpótló)
+41_VA_20231004_1,0,0,0,0,0,0,0,20231004,20240110,Október 5-ig és 20-tól naponta (vonatpótló)
+41_V_20231004_1,0,0,0,0,0,0,0,20231004,20240110,a hetek első munkanapját megelőző napon
+41_WB_20231004_1,0,0,0,0,0,0,0,20231004,20240110,március 31-ig és november 1-től tanszünetben munkanapokon
+41_WD_20231004_1,0,0,0,0,0,0,0,20231004,20240110,Október 5-ig és 20-tól munkanapokon (vonatpótló)
+41_WR_20231004_1,0,0,0,0,0,0,0,20231004,20240110,április 1-től június 16-ig és szeptember 1-től október 31-ig tanszünetben munkanapokon
+41_W_20231004_1,0,0,0,0,0,0,0,20231004,20240110,tanszünetben munkanapokon
+41_XA_20231004_1,0,0,0,0,0,0,0,20231004,20240110,június 16-ig és augusztus 28-tól szabad- és munkaszüneti napokon
+41_XL_20231004_1,0,0,0,0,0,0,0,20231004,20240110,május 14-ig és szeptember 25-től a hetek első iskolai előadási napját megelőző munkaszüneti napon
+41_XQ_20231004_1,0,0,0,0,0,0,0,20231004,20240110,május 14-ig és szeptember 25-től munkanapokon
+41_X_20231004_1,0,0,0,0,0,0,0,20231004,20240110,"naponta, kivéve munkaszüneti napokon"
+41_Z_20231004_1,0,0,0,0,0,0,0,20231004,20240110,szabad- és munkaszüneti napokon
 42_8278_20231001_1,0,0,0,0,0,0,0,20231001,20231015,naponta
 42_8278_20231001_2,0,0,0,0,0,0,0,20231001,20231015,naponta
-42_8278_20231016_1,0,0,0,0,0,0,0,20231016,20240107,naponta
+42_8278_20231016_1,0,0,0,0,0,0,0,20231016,20240110,naponta
 42_8283_20231001_1,0,0,0,0,0,0,0,20231001,20231015,munkaszüneti napokon
 42_8283_20231001_2,0,0,0,0,0,0,0,20231001,20231015,munkaszüneti napokon
-42_8283_20231016_1,0,0,0,0,0,0,0,20231016,20240107,munkaszüneti napokon
+42_8283_20231016_1,0,0,0,0,0,0,0,20231016,20240110,munkaszüneti napokon
 42_8288_20231001_2,0,0,0,0,0,0,0,20231001,20231015,keddi és pénteki munkanapokon
 42_8289_20231001_2,0,0,0,0,0,0,0,20231001,20231015,szerdai munkanapokon
 42_8294_20231001_2,0,0,0,0,0,0,0,20231001,20231015,külön rendeletre
 42_8296_20231001_1,0,0,0,0,0,0,0,20231001,20231015,"naponta, kivéve szabadnapokon"
 42_8296_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"naponta, kivéve szabadnapokon"
-42_8296_20231016_1,0,0,0,0,0,0,0,20231016,20240107,"naponta, kivéve szabadnapokon"
+42_8296_20231016_1,0,0,0,0,0,0,0,20231016,20240110,"naponta, kivéve szabadnapokon"
 42_8297_20231001_2,0,0,0,0,0,0,0,20231001,20231015,a hetek első munkanapján
 42_8298_20231001_1,0,0,0,0,0,0,0,20231001,20231015,iskolai előadási napokon
 42_8298_20231001_2,0,0,0,0,0,0,0,20231001,20231015,iskolai előadási napokon
-42_8298_20231016_1,0,0,0,0,0,0,0,20231016,20240107,iskolai előadási napokon
+42_8298_20231016_1,0,0,0,0,0,0,0,20231016,20240110,iskolai előadási napokon
 42_8299_20231001_1,0,0,0,0,0,0,0,20231001,20231015,"munkanapokon, kivéve a hetek utolsó munkanapját"
 42_8299_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"munkanapokon, kivéve a hetek utolsó munkanapját"
 42_8300_20231001_1,0,0,0,0,0,0,0,20231001,20231015,munkanapokon
 42_8300_20231001_2,0,0,0,0,0,0,0,20231001,20231015,munkanapokon
-42_8300_20231016_1,0,0,0,0,0,0,0,20231016,20240107,munkanapokon
+42_8300_20231016_1,0,0,0,0,0,0,0,20231016,20240110,munkanapokon
 42_8302_20231001_1,0,0,0,0,0,0,0,20231001,20231015,szabadnapokon
 42_8302_20231001_2,0,0,0,0,0,0,0,20231001,20231015,szabadnapokon
-42_8302_20231016_1,0,0,0,0,0,0,0,20231016,20240107,szabadnapokon
+42_8302_20231016_1,0,0,0,0,0,0,0,20231016,20240110,szabadnapokon
 42_8303_20231001_2,0,0,0,0,0,0,0,20231001,20231015,egyelőre nem közlekedik
 42_8305_20231001_1,0,0,0,0,0,0,0,20231001,20231015,a hetek utolsó munkanapján
 42_8305_20231001_2,0,0,0,0,0,0,0,20231001,20231015,a hetek utolsó munkanapján
 42_8306_20231001_1,0,0,0,0,0,0,0,20231001,20231015,a hetek első munkanapját megelőző napon
 42_8306_20231001_2,0,0,0,0,0,0,0,20231001,20231015,a hetek első munkanapját megelőző napon
 42_8307_20231001_2,0,0,0,0,0,0,0,20231001,20231015,tanszünetben munkanapokon
-42_8307_20231016_1,0,0,0,0,0,0,0,20231016,20240107,tanszünetben munkanapokon
+42_8307_20231016_1,0,0,0,0,0,0,0,20231016,20240110,tanszünetben munkanapokon
 42_8308_20231001_1,0,0,0,0,0,0,0,20231001,20231015,"naponta, kivéve munkaszüneti napokon"
 42_8308_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"naponta, kivéve munkaszüneti napokon"
-42_8308_20231016_1,0,0,0,0,0,0,0,20231016,20240107,"naponta, kivéve munkaszüneti napokon"
+42_8308_20231016_1,0,0,0,0,0,0,0,20231016,20240110,"naponta, kivéve munkaszüneti napokon"
 42_8309_20231001_1,0,0,0,0,0,0,0,20231001,20231015,szabad- és munkaszüneti napokon
 42_8309_20231001_2,0,0,0,0,0,0,0,20231001,20231015,szabad- és munkaszüneti napokon
-42_8309_20231016_1,0,0,0,0,0,0,0,20231016,20240107,szabad- és munkaszüneti napokon
+42_8309_20231016_1,0,0,0,0,0,0,0,20231016,20240110,szabad- és munkaszüneti napokon
 42_8310_20231001_2,0,0,0,0,0,0,0,20231001,20231015,minden hónap első csütörtöki munkanapján
 42_8311_20231001_2,0,0,0,0,0,0,0,20231001,20231015,hétfői és keddi munkanapokon
-42_8312_20231001_1,0,0,0,0,0,0,0,20231001,20231015,iskolai előadási napokon szerdán
 42_8313_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"naponta, kivéve december 25-ét, 26-át és január 1-jét"
 42_8314_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"szerdai, csütörtöki és pénteki munkanapokon"
 42_8316_20231001_2,0,0,0,0,0,0,0,20231001,20231015,tanév tartama alatt a hetek utolsó munkanapján
@@ -320,12 +317,12 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 42_8323_20231001_2,0,0,0,0,0,0,0,20231001,20231015,a hetek utolsó iskolai előadási napján
 42_8324_20231001_1,0,0,0,0,0,0,0,20231001,20231015,a hetek első iskolai előadási napját megelőző munkaszüneti napon
 42_8324_20231001_2,0,0,0,0,0,0,0,20231001,20231015,a hetek első iskolai előadási napját megelőző munkaszüneti napon
-42_8324_20231016_1,0,0,0,0,0,0,0,20231016,20240107,a hetek első iskolai előadási napját megelőző munkaszüneti napon
+42_8324_20231016_1,0,0,0,0,0,0,0,20231016,20240110,a hetek első iskolai előadási napját megelőző munkaszüneti napon
 42_8325_20231001_1,0,0,0,0,0,0,0,20231001,20231015,keddtől péntekig munkanapokon
-42_8325_20231016_1,0,0,0,0,0,0,0,20231016,20240107,keddtől péntekig munkanapokon
+42_8325_20231016_1,0,0,0,0,0,0,0,20231016,20240110,keddtől péntekig munkanapokon
 42_8326_20231001_1,0,0,0,0,0,0,0,20231001,20231015,"naponta, kivéve december 24-ét"
 42_8326_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"naponta, kivéve december 24-ét"
-42_8326_20231016_1,0,0,0,0,0,0,0,20231016,20240107,"naponta, kivéve december 24-ét"
+42_8326_20231016_1,0,0,0,0,0,0,0,20231016,20240110,"naponta, kivéve december 24-ét"
 42_8327_20231001_2,0,0,0,0,0,0,0,20231001,20231015,nyári időszámítás tartama alatt a hetek utolsó munkanapján
 42_8328_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"szabadnapokon, valamint iskolai előadási napokon"
 42_8330_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"csütörtöki munkanapokon, kivéve április 6-án"
@@ -342,7 +339,7 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 42_8342_20231001_1,0,0,0,0,0,0,0,20231001,20231015,"szabadnapokon, valamint tanszünetben munkanapokon"
 42_8342_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"szabadnapokon, valamint tanszünetben munkanapokon"
 42_8345_20231001_2,0,0,0,0,0,0,0,20231001,20231015,június 17-től augusztus 31-ig munkanapokon
-42_8345_20231016_1,0,0,0,0,0,0,0,20231016,20240107,június 17-től augusztus 31-ig munkanapokon
+42_8345_20231016_1,0,0,0,0,0,0,0,20231016,20240110,június 17-től augusztus 31-ig munkanapokon
 42_8346_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"szabadnapokon, kivéve december 24-én"
 42_8348_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"munkanapokon, kivéve csütörtökön, valamint április 6-án"
 42_8349_20231001_2,0,0,0,0,0,0,0,20231001,20231015,nyári időszámítás tartama alatt szabadnapokon
@@ -361,7 +358,7 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 42_8361_20231001_2,0,0,0,0,0,0,0,20231001,20231015,tanszünetben a hetek első munkanapján
 42_8362_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokat és december 24-ét"
 42_8363_20231001_2,0,0,0,0,0,0,0,20231001,20231015,május 1-től szeptember 30-ig szabadnapokon
-42_8363_20231016_1,0,0,0,0,0,0,0,20231016,20240107,május 1-től szeptember 30-ig szabadnapokon
+42_8363_20231016_1,0,0,0,0,0,0,0,20231016,20240110,május 1-től szeptember 30-ig szabadnapokon
 42_8364_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"tanszünetben munkanapokon, kivéve a hetek első munkanapját"
 42_8365_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"iskolai előadási napokon, valamint június 17-től július 1-ig munkanapokon"
 42_8366_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"szabad- és munkaszüneti napokon, kivéve december 25-én, 26-án és január 1-én"
@@ -371,7 +368,7 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 42_8369_20231001_1,0,0,0,0,0,0,0,20231001,20231015,a hét utolsó munkanapja kivételével munkanapokon és szabadnapokon
 42_8370_20231001_1,0,0,0,0,0,0,0,20231001,20231015,a hetek utolsó munkanapján és munkaszüneti napokon
 42_8371_20231001_2,0,0,0,0,0,0,0,20231001,20231015,szeptember 1-től június 30-ig munkanapokon
-42_8372_20231016_1,0,0,0,0,0,0,0,20231016,20240107,május 1-től szeptember 30-ig szabad- és munkaszüneti napokon
+42_8372_20231016_1,0,0,0,0,0,0,0,20231016,20240110,május 1-től szeptember 30-ig szabad- és munkaszüneti napokon
 42_8373_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"naponta, kivéve tanszünetes munkanapokat"
 42_8374_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"munkaszüneti napokon, valamint iskolai előadási napokon"
 42_8375_20231001_2,0,0,0,0,0,0,0,20231001,20231015,április 1-től szeptember 30-ig munkaszüneti napokon
@@ -395,7 +392,7 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 42_8395_20231001_2,0,0,0,0,0,0,0,20231001,20231015,június 1-től augusztus 31-ig szabad- és munkaszüneti napokon
 42_8399_20231001_2,0,0,0,0,0,0,0,20231001,20231015,tanszünetben keddi és csütörtöki munkanapokon
 42_8400_20231001_2,0,0,0,0,0,0,0,20231001,20231015,május 1-től szeptember 30-ig munkaszüneti napokon
-42_8400_20231016_1,0,0,0,0,0,0,0,20231016,20240107,május 1-től szeptember 30-ig munkaszüneti napokon
+42_8400_20231016_1,0,0,0,0,0,0,0,20231016,20240110,május 1-től szeptember 30-ig munkaszüneti napokon
 42_8401_20231001_2,0,0,0,0,0,0,0,20231001,20231015,május 1-től szeptember 30-ig naponta
 42_8402_20231001_1,0,0,0,0,0,0,0,20231001,20231015,"munkanapokon, valamint május 1-től szeptember 30-ig szabad- és munkaszüneti napokon"
 42_8403_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
@@ -403,12 +400,12 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 42_8406_20231001_2,0,0,0,0,0,0,0,20231001,20231015,tanszünetben csütörtöki munkanapokon
 42_8407_20231001_1,0,0,0,0,0,0,0,20231001,20231015,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
 42_8407_20231001_2,0,0,0,0,0,0,0,20231001,20231015,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
-42_8407_20231016_1,0,0,0,0,0,0,0,20231016,20240107,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
+42_8407_20231016_1,0,0,0,0,0,0,0,20231016,20240110,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
 42_8408_20231001_1,0,0,0,0,0,0,0,20231001,20231015,ünnepnapok kivételével naponta
 42_8408_20231001_2,0,0,0,0,0,0,0,20231001,20231015,ünnepnapok kivételével naponta
 42_8410_20231001_1,0,0,0,0,0,0,0,20231001,20231015,ünnepnapok kivételével munkaszüneti napokon
 42_8410_20231001_2,0,0,0,0,0,0,0,20231001,20231015,ünnepnapok kivételével munkaszüneti napokon
-42_8410_20231016_1,0,0,0,0,0,0,0,20231016,20240107,ünnepnapok kivételével munkaszüneti napokon
+42_8410_20231016_1,0,0,0,0,0,0,0,20231016,20240110,ünnepnapok kivételével munkaszüneti napokon
 42_8429_20231001_2,0,0,0,0,0,0,0,20231001,20231015,június 1-től augusztus 31-ig munkanapokon
 42_8434_20231001_2,0,0,0,0,0,0,0,20231001,20231015,május 1-től szeptember 30-ig munkanapokon
 42_8438_20231001_2,0,0,0,0,0,0,0,20231001,20231015,"tanszünetben munkanapokon, kivéve június 17-től július 1-ig"
@@ -434,133 +431,132 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 42_8641_20231001_1,0,0,0,0,0,0,0,20231001,20231015,szeptember 1-től június 16-ig szabad- és munkaszüneti napokon
 42_8641_20231001_2,0,0,0,0,0,0,0,20231001,20231015,szeptember 1-től június 16-ig szabad- és munkaszüneti napokon
 42_8647_20231001_1,0,0,0,0,0,0,0,20231001,20231015,munkaszüneti napokon
-42_8647_20231016_1,0,0,0,0,0,0,0,20231016,20240107,munkaszüneti napokon
+42_8647_20231016_1,0,0,0,0,0,0,0,20231016,20240110,munkaszüneti napokon
 42_8649_20231001_1,0,0,0,0,0,0,0,20231001,20231015,iskolai előadási napokon
 42_8649_20231001_2,0,0,0,0,0,0,0,20231001,20231015,iskolai előadási napokon
-42_8649_20231016_1,0,0,0,0,0,0,0,20231016,20240107,iskolai előadási napokon
+42_8649_20231016_1,0,0,0,0,0,0,0,20231016,20240110,iskolai előadási napokon
 42_8651_20231001_1,0,0,0,0,0,0,0,20231001,20231015,munkanapokon
 42_8651_20231001_2,0,0,0,0,0,0,0,20231001,20231015,munkanapokon
-42_8651_20231016_1,0,0,0,0,0,0,0,20231016,20240107,munkanapokon
+42_8651_20231016_1,0,0,0,0,0,0,0,20231016,20240110,munkanapokon
 42_8652_20231001_1,0,0,0,0,0,0,0,20231001,20231015,szabadnapokon
 42_8652_20231001_2,0,0,0,0,0,0,0,20231001,20231015,szabadnapokon
-42_8652_20231016_1,0,0,0,0,0,0,0,20231016,20240107,szabadnapokon
+42_8652_20231016_1,0,0,0,0,0,0,0,20231016,20240110,szabadnapokon
 42_8654_20231001_2,0,0,0,0,0,0,0,20231001,20231015,tanszünetben munkanapokon
-42_8654_20231016_1,0,0,0,0,0,0,0,20231016,20240107,tanszünetben munkanapokon
+42_8654_20231016_1,0,0,0,0,0,0,0,20231016,20240110,tanszünetben munkanapokon
 42_8655_20231001_1,0,0,0,0,0,0,0,20231001,20231015,munkaszüneti napok kivételével naponta
 42_8655_20231001_2,0,0,0,0,0,0,0,20231001,20231015,munkaszüneti napok kivételével naponta
-42_8655_20231016_1,0,0,0,0,0,0,0,20231016,20240107,munkaszüneti napok kivételével naponta
+42_8655_20231016_1,0,0,0,0,0,0,0,20231016,20240110,munkaszüneti napok kivételével naponta
 42_8656_20231001_1,0,0,0,0,0,0,0,20231001,20231015,szabad- és munkaszüneti napokon
 42_8656_20231001_2,0,0,0,0,0,0,0,20231001,20231015,szabad- és munkaszüneti napokon
-42_8656_20231016_1,0,0,0,0,0,0,0,20231016,20240107,szabad- és munkaszüneti napokon
+42_8656_20231016_1,0,0,0,0,0,0,0,20231016,20240110,szabad- és munkaszüneti napokon
 42_8658_20231001_1,0,0,0,0,0,0,0,20231001,20231015,szeptember 1-től június 16-ig munkanapokon
 42_8659_20231001_1,0,0,0,0,0,0,0,20231001,20231015,március 29-től november 5-ig szabad- és munkaszüneti napokon
 42_8659_20231001_2,0,0,0,0,0,0,0,20231001,20231015,március 29-től november 5-ig szabad- és munkaszüneti napokon
 42_8660_20231001_2,0,0,0,0,0,0,0,20231001,20231015,november 6-tól március 28-ig szabad- és munkaszüneti napokon
-43_12_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve iskolai előadási napokon"
-43_21_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"munkanapokon, kivéve csütörtökön"
-43_22_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-43_2M_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"munkaszüneti napokon, kivéve december 24-én"
-43_3_20231009_1,0,0,0,0,0,0,0,20231009,20240107,szerdai munkanapokon
-43_62_20231009_1,0,0,0,0,0,0,0,20231009,20240107,szabadnapokon és tanszünetben munkanapokon
-43_71_20231009_1,0,0,0,0,0,0,0,20231009,20240107,munkanapot megelőző munkaszüneti napokon
-43_87_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanév tartama alatt naponta
-43_A2_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"munkanapokon, kivéve a hetek első munkanapját"
-43_CA_20231009_1,0,0,0,0,0,0,0,20231009,20240107,Calida munkarendje szerint
-43_CM_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
-43_CS_20231009_1,0,0,0,0,0,0,0,20231009,20240107,csütörtöki munkanapokon
-43_CT_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanszünetben keddi és csütörtöki munkanapok kivételével munkanapokon
-43_D2_20231009_1,0,0,0,0,0,0,0,20231009,20240107,december 24-én
-43_DK_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve december 24-én"
-43_D_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve szabadnapokon"
-43_EG_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve a hetek első munkanapját megelőző napot és december 24-ét"
-43_EI_20231009_1,0,0,0,0,0,0,0,20231009,20240107,a hetek első iskolai előadási napján
-43_E_20231009_1,0,0,0,0,0,0,0,20231009,20240107,a hetek első munkanapján
-43_FM_20231009_1,0,0,0,0,0,0,0,20231009,20240107,a hetek utolsó iskolai előadási napján
-43_G4_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"tanszünetben munkanapokon, kivéve december 31-én"
-43_HE_20231009_1,0,0,0,0,0,0,0,20231009,20240107,péntek kivételével munkanapokon
-43_HF_20231009_1,0,0,0,0,0,0,0,20231009,20240107,hétfői munkanapokon
-43_HL_20231009_1,0,0,0,0,0,0,0,20231009,20240107,A Schunk Carbon Kft. munkarendje szerint
-43_HS_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"hétfői, szerdai és pénteki munkanapokon"
-43_I3_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"tanév tartama alatt a hetek utolsó előtti és utolsó munkanapján, kivéve december 28-át és december 29-ét"
-43_I5_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"tanév tartama alatt a hetek utolsó munkanapján, kivéve december 29-én"
-43_IE_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"iskolai előadási napokon, kivéve az érettségi szünet időtartama alatt"
-43_IO_20231009_1,0,0,0,0,0,0,0,20231009,20240107,iskolai előadási napokon és szabadnapokon
-43_IZ_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve tanszünetes munkanapokon"
-43_I_20231009_1,0,0,0,0,0,0,0,20231009,20240107,iskolai előadási napokon
-43_J7_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"április 30-ig és október 1-től naponta, kivéve munkaszüneti napokon"
-43_J9_20231009_1,0,0,0,0,0,0,0,20231009,20240107,április 1-től október 15-ig munkanapokon
-43_JL_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"munkaszüneti napokon, kivéve tanév tartama alatt a hetek első munkanapját megelőző munkaszüneti napokat, valamint december 26-án"
-43_JM_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanév tartama alatt munkanapokon
-43_JV_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"tanév tartama alatt a hetek első munkanapját megelőző napon, kivéve december 26-án"
-43_J_20231009_1,0,0,0,0,0,0,0,20231009,20240107,az AUDI gyár munkarendje szerint
-43_K2_20231009_1,0,0,0,0,0,0,0,20231009,20240107,április 1-től október 15-ig szabadnapokon
-43_K5_20231009_1,0,0,0,0,0,0,0,20231009,20240107,keddi és pénteki munkanapokon
-43_KA_20231009_1,0,0,0,0,0,0,0,20231009,20240107,a KACO Hungary Kft. munkarendje szerint
-43_KL_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanév tartama alatt a hetek első munkanapját megelőző napon
-43_KP_20231009_1,0,0,0,0,0,0,0,20231009,20240107,hétfő kivételével munkanapokon
-43_KS_20231009_1,0,0,0,0,0,0,0,20231009,20240107,december 24-én és 31-én
-43_L_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"munkanapokon, kivéve a hetek utolsó munkanapját"
-43_MI_20231009_1,0,0,0,0,0,0,0,20231009,20240107,a hetek első iskolai előadási napját megelőző munkaszüneti napon
-43_MM_20231009_1,0,0,0,0,0,0,0,20231009,20240107,a Magyar Műhely Alapítvány (Mezőörs) iskolai előadási napjain
-43_MS_20231009_1,0,0,0,0,0,0,0,20231009,20240107,munkaszüneti napokon
-43_MV_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-43_M_20231009_1,0,0,0,0,0,0,0,20231009,20240107,munkanapokon
-43_NI_20231009_1,0,0,0,0,0,0,0,20231009,20240107,nyári időszámítás tartama alatt szabadnapokon
-43_N_20231009_1,0,0,0,0,0,0,0,20231009,20240107,naponta
-43_PE_20231009_1,0,0,0,0,0,0,0,20231009,20240107,pénteki munkanapokon
-43_PQ_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"tanév tartama alatt a hetek utolsó munkanapján és a hetek utolsó iskolai előadási napján, kivéve december 29-én"
-43_PR_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"tanév tartama alatt a hetek első munkanapját és első iskolai előadási napját megelőző napon, kivéve december 26-án"
-43_P_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
-43_RE_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"munkanapokon, kivéve a hetek utolsó munkanapját"
-43_RM_20231009_1,0,0,0,0,0,0,0,20231009,20240107,LISS Kft. szénsavgyár munkarendje szerint
-43_RU_20231009_1,0,0,0,0,0,0,0,20231009,20240107,a hetek utolsó munkanapján
-43_S2_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"szabadnapokon, kivéve december 24-én"
-43_S3_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"szabadnapokon, kivéve december 24-ét és 31-ét"
-43_S9_20231009_1,0,0,0,0,0,0,0,20231009,20240107,szabadnapokon
-43_SG_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"2022.II.7-től V.14-ig és IX.5-től XII.10-ig, valamint 2023. II.6-tól V.13-ig és IX.4-től XII.9-ig munkanapokon"
-43_SI_20231009_1,0,0,0,0,0,0,0,20231009,20240107,május 14-ig és szeptember 25-től naponta
-43_SN_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"Győr, Ipari Park munkarendje szerint"
-43_T+_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanév tartama alatt munkaszüneti napokon
-43_T-_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"tanév tartama alatt naponta, kivéve munkaszüneti napokon"
-43_T6_20231009_1,0,0,0,0,0,0,0,20231009,20240107,téli időszámítás tartama alatt szabadnapokon
-43_TC_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanszünetben keddi és csütörtöki munkanapokon
-43_TO_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanév tartama alatt szabadnapokon
-43_TX_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve tanév tartama alatt a hetek első munkanapját megelőző napokat, valamint közlekedik december 26-án"
-43_UJ_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanév tartama alatt szabad- és munkaszüneti napokon
-43_UK_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve december 24-ét és 31-ét"
-43_UV_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"tanév tartama alatt a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző napon, kivéve december 26-át és december 29-én"
-43_U_20231009_1,0,0,0,0,0,0,0,20231009,20240107,a hetek utolsó munkanapján
-43_VF_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"Veszprém EKF program, szeptember 1-től december 9-ig pénteki és szombati napokon"
-43_V_20231009_1,0,0,0,0,0,0,0,20231009,20240107,a hetek első munkanapját megelőző napon
-43_WM_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanszünetben munkanapokon
-43_XD_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve munkaszüneti napokon és december 24-én"
-43_XI_20231009_1,0,0,0,0,0,0,0,20231009,20240107,november 1-jén
-43_X_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve munkaszüneti napokon"
-43_YM_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"tanszünetben munkanapokon, kivéve a nyári tanszünetben"
-43_Z2_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-43_Z3_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"szabad- és munkaszüneti napokon, kivéve december 24-én és 31-én"
-43_Z_20231009_1,0,0,0,0,0,0,0,20231009,20240107,szabad- és munkaszüneti napokon
+43_12_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"naponta, kivéve iskolai előadási napokon"
+43_21_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"munkanapokon, kivéve csütörtökön"
+43_22_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+43_2M_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"munkaszüneti napokon, kivéve december 24-én"
+43_3_20231009_1,0,0,0,0,0,0,0,20231009,20240110,szerdai munkanapokon
+43_62_20231009_1,0,0,0,0,0,0,0,20231009,20240110,szabadnapokon és tanszünetben munkanapokon
+43_71_20231009_1,0,0,0,0,0,0,0,20231009,20240110,munkanapot megelőző munkaszüneti napokon
+43_87_20231009_1,0,0,0,0,0,0,0,20231009,20240110,tanév tartama alatt naponta
+43_A2_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"munkanapokon, kivéve a hetek első munkanapját"
+43_CA_20231009_1,0,0,0,0,0,0,0,20231009,20240110,Calida munkarendje szerint
+43_CM_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
+43_CS_20231009_1,0,0,0,0,0,0,0,20231009,20240110,csütörtöki munkanapokon
+43_CT_20231009_1,0,0,0,0,0,0,0,20231009,20240110,tanszünetben keddi és csütörtöki munkanapok kivételével munkanapokon
+43_D2_20231009_1,0,0,0,0,0,0,0,20231009,20240110,december 24-én
+43_DK_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"naponta, kivéve december 24-én"
+43_D_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"naponta, kivéve szabadnapokon"
+43_EG_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"naponta, kivéve a hetek első munkanapját megelőző napot és december 24-ét"
+43_EI_20231009_1,0,0,0,0,0,0,0,20231009,20240110,a hetek első iskolai előadási napján
+43_E_20231009_1,0,0,0,0,0,0,0,20231009,20240110,a hetek első munkanapján
+43_FM_20231009_1,0,0,0,0,0,0,0,20231009,20240110,a hetek utolsó iskolai előadási napján
+43_G4_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"tanszünetben munkanapokon, kivéve december 31-én"
+43_HE_20231009_1,0,0,0,0,0,0,0,20231009,20240110,péntek kivételével munkanapokon
+43_HF_20231009_1,0,0,0,0,0,0,0,20231009,20240110,hétfői munkanapokon
+43_HL_20231009_1,0,0,0,0,0,0,0,20231009,20240110,A Schunk Carbon Kft. munkarendje szerint
+43_HS_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"hétfői, szerdai és pénteki munkanapokon"
+43_I3_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"tanév tartama alatt a hetek utolsó előtti és utolsó munkanapján, kivéve december 28-át és december 29-ét"
+43_I5_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"tanév tartama alatt a hetek utolsó munkanapján, kivéve december 29-én"
+43_IE_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"iskolai előadási napokon, kivéve az érettségi szünet időtartama alatt"
+43_IO_20231009_1,0,0,0,0,0,0,0,20231009,20240110,iskolai előadási napokon és szabadnapokon
+43_IZ_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"naponta, kivéve tanszünetes munkanapokon"
+43_I_20231009_1,0,0,0,0,0,0,0,20231009,20240110,iskolai előadási napokon
+43_J7_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"április 30-ig és október 1-től naponta, kivéve munkaszüneti napokon"
+43_J9_20231009_1,0,0,0,0,0,0,0,20231009,20240110,április 1-től október 15-ig munkanapokon
+43_JL_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"munkaszüneti napokon, kivéve tanév tartama alatt a hetek első munkanapját megelőző munkaszüneti napokat, valamint december 26-án"
+43_JM_20231009_1,0,0,0,0,0,0,0,20231009,20240110,tanév tartama alatt munkanapokon
+43_JV_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"tanév tartama alatt a hetek első munkanapját megelőző napon, kivéve december 26-án"
+43_J_20231009_1,0,0,0,0,0,0,0,20231009,20240110,az AUDI gyár munkarendje szerint
+43_K2_20231009_1,0,0,0,0,0,0,0,20231009,20240110,április 1-től október 15-ig szabadnapokon
+43_K5_20231009_1,0,0,0,0,0,0,0,20231009,20240110,keddi és pénteki munkanapokon
+43_KA_20231009_1,0,0,0,0,0,0,0,20231009,20240110,a KACO Hungary Kft. munkarendje szerint
+43_KL_20231009_1,0,0,0,0,0,0,0,20231009,20240110,tanév tartama alatt a hetek első munkanapját megelőző napon
+43_KP_20231009_1,0,0,0,0,0,0,0,20231009,20240110,hétfő kivételével munkanapokon
+43_KS_20231009_1,0,0,0,0,0,0,0,20231009,20240110,december 24-én és 31-én
+43_L_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"munkanapokon, kivéve a hetek utolsó munkanapját"
+43_MI_20231009_1,0,0,0,0,0,0,0,20231009,20240110,a hetek első iskolai előadási napját megelőző munkaszüneti napon
+43_MM_20231009_1,0,0,0,0,0,0,0,20231009,20240110,a Magyar Műhely Alapítvány (Mezőörs) iskolai előadási napjain
+43_MS_20231009_1,0,0,0,0,0,0,0,20231009,20240110,munkaszüneti napokon
+43_MV_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+43_M_20231009_1,0,0,0,0,0,0,0,20231009,20240110,munkanapokon
+43_NI_20231009_1,0,0,0,0,0,0,0,20231009,20240110,nyári időszámítás tartama alatt szabadnapokon
+43_N_20231009_1,0,0,0,0,0,0,0,20231009,20240110,naponta
+43_PE_20231009_1,0,0,0,0,0,0,0,20231009,20240110,pénteki munkanapokon
+43_PQ_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"tanév tartama alatt a hetek utolsó munkanapján és a hetek utolsó iskolai előadási napján, kivéve december 29-én"
+43_PR_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"tanév tartama alatt a hetek első munkanapját és első iskolai előadási napját megelőző napon, kivéve december 26-án"
+43_P_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
+43_RE_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"munkanapokon, kivéve a hetek utolsó munkanapját"
+43_RM_20231009_1,0,0,0,0,0,0,0,20231009,20240110,LISS Kft. szénsavgyár munkarendje szerint
+43_RU_20231009_1,0,0,0,0,0,0,0,20231009,20240110,a hetek utolsó munkanapján
+43_S2_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"szabadnapokon, kivéve december 24-én"
+43_S3_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"szabadnapokon, kivéve december 24-ét és 31-ét"
+43_S9_20231009_1,0,0,0,0,0,0,0,20231009,20240110,szabadnapokon
+43_SG_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"2022.II.7-től V.14-ig és IX.5-től XII.10-ig, valamint 2023. II.6-tól V.13-ig és IX.4-től XII.9-ig munkanapokon"
+43_SI_20231009_1,0,0,0,0,0,0,0,20231009,20240110,május 14-ig és szeptember 25-től naponta
+43_SN_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"Győr, Ipari Park munkarendje szerint"
+43_T+_20231009_1,0,0,0,0,0,0,0,20231009,20240110,tanév tartama alatt munkaszüneti napokon
+43_T-_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"tanév tartama alatt naponta, kivéve munkaszüneti napokon"
+43_T6_20231009_1,0,0,0,0,0,0,0,20231009,20240110,téli időszámítás tartama alatt szabadnapokon
+43_TC_20231009_1,0,0,0,0,0,0,0,20231009,20240110,tanszünetben keddi és csütörtöki munkanapokon
+43_TO_20231009_1,0,0,0,0,0,0,0,20231009,20240110,tanév tartama alatt szabadnapokon
+43_TX_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"naponta, kivéve tanév tartama alatt a hetek első munkanapját megelőző napokat, valamint közlekedik december 26-án"
+43_UJ_20231009_1,0,0,0,0,0,0,0,20231009,20240110,tanév tartama alatt szabad- és munkaszüneti napokon
+43_UK_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"naponta, kivéve december 24-ét és 31-ét"
+43_UV_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"tanév tartama alatt a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző napon, kivéve december 26-át és december 29-én"
+43_U_20231009_1,0,0,0,0,0,0,0,20231009,20240110,a hetek utolsó munkanapján
+43_VF_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"Veszprém EKF program, szeptember 1-től december 9-ig pénteki és szombati napokon"
+43_V_20231009_1,0,0,0,0,0,0,0,20231009,20240110,a hetek első munkanapját megelőző napon
+43_WM_20231009_1,0,0,0,0,0,0,0,20231009,20240110,tanszünetben munkanapokon
+43_XD_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"naponta, kivéve munkaszüneti napokon és december 24-én"
+43_XI_20231009_1,0,0,0,0,0,0,0,20231009,20240110,november 1-jén
+43_X_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"naponta, kivéve munkaszüneti napokon"
+43_YM_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"tanszünetben munkanapokon, kivéve a nyári tanszünetben"
+43_Z2_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+43_Z3_20231009_1,0,0,0,0,0,0,0,20231009,20240110,"szabad- és munkaszüneti napokon, kivéve december 24-én és 31-én"
+43_Z_20231009_1,0,0,0,0,0,0,0,20231009,20240110,szabad- és munkaszüneti napokon
 44_._20231001_1,0,0,0,0,0,0,0,20231001,20231031,naponta
 44_._20231001_2,0,0,0,0,0,0,0,20231001,20231031,naponta
-44_._20231101_1,0,0,0,0,0,0,0,20231101,20240107,naponta
+44_._20231101_1,0,0,0,0,0,0,0,20231101,20240110,naponta
 44_11_20231001_2,0,0,0,0,0,0,0,20231001,20231031,"iskolai előadási, valamint szabadnapokon"
 44_12_20231001_2,0,0,0,0,0,0,0,20231001,20231031,"naponta, kivéve iskolai előadási napokon"
 44_14_20231001_2,0,0,0,0,0,0,0,20231001,20231031,a hetek utolsó iskolai előadási napján
-44_14_20231101_1,0,0,0,0,0,0,0,20231101,20240107,a hetek utolsó iskolai előadási napján
+44_14_20231101_1,0,0,0,0,0,0,0,20231101,20240110,a hetek utolsó iskolai előadási napján
 44_15_20231001_1,0,0,0,0,0,0,0,20231001,20231031,a hetek első iskolai előadási napját megelőző munkaszüneti napokon
 44_15_20231001_2,0,0,0,0,0,0,0,20231001,20231031,a hetek első iskolai előadási napját megelőző munkaszüneti napokon
-44_15_20231101_1,0,0,0,0,0,0,0,20231101,20240107,a hetek első iskolai előadási napját megelőző munkaszüneti napokon
+44_15_20231101_1,0,0,0,0,0,0,0,20231101,20240110,a hetek első iskolai előadási napját megelőző munkaszüneti napokon
 44_16_20231001_1,0,0,0,0,0,0,0,20231001,20231031,tanév tartama alatt munkanapokon
 44_16_20231001_2,0,0,0,0,0,0,0,20231001,20231031,tanév tartama alatt munkanapokon
-44_16_20231101_1,0,0,0,0,0,0,0,20231101,20240107,tanév tartama alatt munkanapokon
-44_17_20231001_1,0,0,0,0,0,0,0,20231001,20231031,IV. 30-ig és X. 1-től szabadnapokon
-44_17_20231101_1,0,0,0,0,0,0,0,20231101,20240107,IV. 30-ig és X. 1-től szabadnapokon
+44_16_20231101_1,0,0,0,0,0,0,0,20231101,20240110,tanév tartama alatt munkanapokon
+44_17_20231101_1,0,0,0,0,0,0,0,20231101,20240110,IV. 30-ig és X. 1-től szabadnapokon
 44_1_20231001_2,0,0,0,0,0,0,0,20231001,20231031,hétfői munkanapokon
 44_20_20231001_1,0,0,0,0,0,0,0,20231001,20231031,"munkanapokon, kivéve a hetek első munkanapját"
 44_24_20231001_2,0,0,0,0,0,0,0,20231001,20231031,keddi és csütörtöki munkanapokon
 44_25_20231001_1,0,0,0,0,0,0,0,20231001,20231031,"naponta, kivéve tanszünetben munkanapokon"
 44_25_20231001_2,0,0,0,0,0,0,0,20231001,20231031,"naponta, kivéve tanszünetben munkanapokon"
-44_25_20231101_1,0,0,0,0,0,0,0,20231101,20240107,"naponta, kivéve tanszünetben munkanapokon"
+44_25_20231101_1,0,0,0,0,0,0,0,20231101,20240110,"naponta, kivéve tanszünetben munkanapokon"
 44_27_20231001_2,0,0,0,0,0,0,0,20231001,20231031,keddi és pénteki munkanapokon
 44_28_20231001_2,0,0,0,0,0,0,0,20231001,20231031,nyári időszámítás alatt szabadnapokon
 44_32_20231001_2,0,0,0,0,0,0,0,20231001,20231031,nyári időszámítás alatt munkaszüneti napokon
@@ -573,14 +569,12 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 44_40_20231001_2,0,0,0,0,0,0,0,20231001,20231031,nyári időszámítás alatt szabad- és munkaszüneti napokon
 44_45_20231001_2,0,0,0,0,0,0,0,20231001,20231031,"tanév tartama alatt naponta, nyári tanszünetben munkanapokon"
 44_46_20231001_2,0,0,0,0,0,0,0,20231001,20231031,tanszünetben keddi és pénteki munkanapokon
-44_48_20231001_2,0,0,0,0,0,0,0,20231001,20231031,"szabad- és munkaszüneti napokon, de XII.24-én 120 perccel korábban közlekedik"
 44_4_20231001_2,0,0,0,0,0,0,0,20231001,20231031,csütörtöki munkanapokon
-44_51_20231001_1,0,0,0,0,0,0,0,20231001,20231031,IV. 30-ig és X. 1-től szabad- és munkaszüneti napokon
-44_51_20231101_1,0,0,0,0,0,0,0,20231101,20240107,IV. 30-ig és X. 1-től szabad- és munkaszüneti napokon
+44_51_20231101_1,0,0,0,0,0,0,0,20231101,20240110,IV. 30-ig és X. 1-től szabad- és munkaszüneti napokon
 44_54_20231001_2,0,0,0,0,0,0,0,20231001,20231031,iskolai előadási napokon kedden és pénteken
 44_56_20231001_1,0,0,0,0,0,0,0,20231001,20231031,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
 44_56_20231001_2,0,0,0,0,0,0,0,20231001,20231031,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-44_56_20231101_1,0,0,0,0,0,0,0,20231101,20240107,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+44_56_20231101_1,0,0,0,0,0,0,0,20231101,20240110,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
 44_57_20231001_2,0,0,0,0,0,0,0,20231001,20231031,csütörtöki iskolai előadási napokon
 44_5_20231001_1,0,0,0,0,0,0,0,20231001,20231031,pénteki munkanapokon
 44_64_20231001_2,0,0,0,0,0,0,0,20231001,20231031,"szabadnapokon, valamint tanszünetben munkanapokon"
@@ -588,7 +582,7 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 44_67_20231001_2,0,0,0,0,0,0,0,20231001,20231031,tanszünetben szerdai munkanapokon
 44_69_20231001_2,0,0,0,0,0,0,0,20231001,20231031,09.02-10.01 szabad- és munkaszüneti napokon
 44_70_20231001_2,0,0,0,0,0,0,0,20231001,20231031,"nyári tanszünetben munkanapokon, valamint december 27-től december 31-ig munkanapokon"
-44_70_20231101_1,0,0,0,0,0,0,0,20231101,20240107,"nyári tanszünetben munkanapokon, valamint december 27-től december 31-ig munkanapokon"
+44_70_20231101_1,0,0,0,0,0,0,0,20231101,20240110,"nyári tanszünetben munkanapokon, valamint december 27-től december 31-ig munkanapokon"
 44_72_20231001_2,0,0,0,0,0,0,0,20231001,20231031,iskolai előadási napokon hétfőtől csütörtökig
 44_73_20231001_2,0,0,0,0,0,0,0,20231001,20231031,"munkanapokon, valamint munkanapot követő napon a MERCEDES-gyár munkarendje szerint"
 44_74_20231001_2,0,0,0,0,0,0,0,20231001,20231031,"hétfői munkanapok kivételével munkanapokon, és munkanapot megelőző munkaszüneti napokon"
@@ -603,106 +597,110 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 44_93_20231001_2,0,0,0,0,0,0,0,20231001,20231031,tanév tartama alatt a hetek utolsó munkanapján
 44_A_20231001_1,0,0,0,0,0,0,0,20231001,20231031,szabad- és munkaszüneti napokon
 44_A_20231001_2,0,0,0,0,0,0,0,20231001,20231031,szabad- és munkaszüneti napokon
-44_A_20231101_1,0,0,0,0,0,0,0,20231101,20240107,szabad- és munkaszüneti napokon
+44_A_20231101_1,0,0,0,0,0,0,0,20231101,20240110,szabad- és munkaszüneti napokon
 44_CP_20231001_1,0,0,0,0,0,0,0,20231001,20231031,csütörtöki és pénteki munkanapokon
 44_C_20231001_1,0,0,0,0,0,0,0,20231001,20231031,"munkanapokon, kivéve a hetek utolsó munkanapját"
 44_C_20231001_2,0,0,0,0,0,0,0,20231001,20231031,"munkanapokon, kivéve a hetek utolsó munkanapját"
-44_C_20231101_1,0,0,0,0,0,0,0,20231101,20240107,"munkanapokon, kivéve a hetek utolsó munkanapját"
+44_C_20231101_1,0,0,0,0,0,0,0,20231101,20240110,"munkanapokon, kivéve a hetek utolsó munkanapját"
 44_EE_20231001_1,0,0,0,0,0,0,0,20231001,20231031,"a tanév tartama alatt munkanapokon, kivéve a hetek utolsó munkanapját"
-44_EE_20231101_1,0,0,0,0,0,0,0,20231101,20240107,"a tanév tartama alatt munkanapokon, kivéve a hetek utolsó munkanapját"
+44_EE_20231101_1,0,0,0,0,0,0,0,20231101,20240110,"a tanév tartama alatt munkanapokon, kivéve a hetek utolsó munkanapját"
 44_E_20231001_2,0,0,0,0,0,0,0,20231001,20231031,a hetek első munkanapját megelőző napon
 44_H_20231001_2,0,0,0,0,0,0,0,20231001,20231031,a hetek első munkanapján
 44_I_20231001_1,0,0,0,0,0,0,0,20231001,20231031,iskolai előadási napokon
 44_I_20231001_2,0,0,0,0,0,0,0,20231001,20231031,iskolai előadási napokon
-44_I_20231101_1,0,0,0,0,0,0,0,20231101,20240107,iskolai előadási napokon
+44_I_20231101_1,0,0,0,0,0,0,0,20231101,20240110,iskolai előadási napokon
 44_K_20231001_1,0,0,0,0,0,0,0,20231001,20231031,"naponta, kivéve szabadnapokon"
 44_K_20231001_2,0,0,0,0,0,0,0,20231001,20231031,"naponta, kivéve szabadnapokon"
-44_K_20231101_1,0,0,0,0,0,0,0,20231101,20240107,"naponta, kivéve szabadnapokon"
+44_K_20231101_1,0,0,0,0,0,0,0,20231101,20240110,"naponta, kivéve szabadnapokon"
 44_M_20231001_1,0,0,0,0,0,0,0,20231001,20231031,munkanapokon
 44_M_20231001_2,0,0,0,0,0,0,0,20231001,20231031,munkanapokon
-44_M_20231101_1,0,0,0,0,0,0,0,20231101,20240107,munkanapokon
+44_M_20231101_1,0,0,0,0,0,0,0,20231101,20240110,munkanapokon
 44_N_20231001_1,0,0,0,0,0,0,0,20231001,20231031,"naponta, kivéve munkaszüneti napokon"
 44_N_20231001_2,0,0,0,0,0,0,0,20231001,20231031,"naponta, kivéve munkaszüneti napokon"
-44_N_20231101_1,0,0,0,0,0,0,0,20231101,20240107,"naponta, kivéve munkaszüneti napokon"
+44_N_20231101_1,0,0,0,0,0,0,0,20231101,20240110,"naponta, kivéve munkaszüneti napokon"
 44_O_20231001_1,0,0,0,0,0,0,0,20231001,20231031,szabadnapokon
 44_O_20231001_2,0,0,0,0,0,0,0,20231001,20231031,szabadnapokon
-44_O_20231101_1,0,0,0,0,0,0,0,20231101,20240107,szabadnapokon
+44_O_20231101_1,0,0,0,0,0,0,0,20231101,20240110,szabadnapokon
 44_P_20231001_1,0,0,0,0,0,0,0,20231001,20231031,a hetek utolsó munkanapján
 44_P_20231001_2,0,0,0,0,0,0,0,20231001,20231031,a hetek utolsó munkanapján
-44_P_20231101_1,0,0,0,0,0,0,0,20231101,20240107,a hetek utolsó munkanapján
+44_P_20231101_1,0,0,0,0,0,0,0,20231101,20240110,a hetek utolsó munkanapján
 44_T_20231001_1,0,0,0,0,0,0,0,20231001,20231031,tanszünetben munkanapokon
 44_T_20231001_2,0,0,0,0,0,0,0,20231001,20231031,tanszünetben munkanapokon
-44_T_20231101_1,0,0,0,0,0,0,0,20231101,20240107,tanszünetben munkanapokon
+44_T_20231101_1,0,0,0,0,0,0,0,20231101,20240110,tanszünetben munkanapokon
 44_V_20231001_1,0,0,0,0,0,0,0,20231001,20231031,munkaszüneti napokon
 44_V_20231001_2,0,0,0,0,0,0,0,20231001,20231031,munkaszüneti napokon
-44_V_20231101_1,0,0,0,0,0,0,0,20231101,20240107,munkaszüneti napokon
+44_V_20231101_1,0,0,0,0,0,0,0,20231101,20240110,munkaszüneti napokon
 44_W_20231001_2,0,0,0,0,0,0,0,20231001,20231031,a hetek első munkanapját megelőző nap kivételével munkaszüneti napokon
-45_06_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"munkaszüneti napokon, kivéve december 25-én"
-45_11_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanév tartama alatt szabadnapokon
-45_12_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve iskolai előadások napokon"
-45_14_20231009_1,0,0,0,0,0,0,0,20231009,20240107,a hetek utolsó iskolai előadási napján
-45_15_20231009_1,0,0,0,0,0,0,0,20231009,20240107,a hetek első iskolai előadási napját megelőző munkaszüneti napon
-45_16_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanév tartama alatt munkanapokon
-45_1Z_20231009_1,0,0,0,0,0,0,0,20231009,20240107,iskolai előadások napján kedden
-45_21_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanév tartama alatt a hetek utolsó munkanapján
-45_22_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokon"
-45_23_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"iskolai előadási napokon, kivéve csütörtökön"
-45_24_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanév tartama alatt munkaszüneti napok kivételével naponta
-45_27_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanszünetben csütörtöki munkanapokon
-45_2F_20231009_1,0,0,0,0,0,0,0,20231009,20240107,Vásári napokon (minden hónap 2. és 4. vasárnapján)
-45_2G_20231009_1,0,0,0,0,0,0,0,20231009,20240107,Vásári napok kivételével naponta
-45_2_20231009_1,0,0,0,0,0,0,0,20231009,20240107,keddi és pénteki munkanapokon
-45_32_20231009_1,0,0,0,0,0,0,0,20231009,20240107,nyári időszámítás tartama alatt munkaszüneti napok kivételével naponta
-45_35_20231009_1,0,0,0,0,0,0,0,20231009,20240107,csütörtöki munkanapokon
-45_36_20231009_1,0,0,0,0,0,0,0,20231009,20240107,pénteki munkanapokon
-45_37_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokon"
-45_39_20231009_1,0,0,0,0,0,0,0,20231009,20240107,iskolai előadási napokon csütörtökön
-45_3_20231009_1,0,0,0,0,0,0,0,20231009,20240107,szerdai munkanapokon
-45_43_20231009_1,0,0,0,0,0,0,0,20231009,20240107,szerdai munkanapokon és szabadnapokon
-45_44_20231009_1,0,0,0,0,0,0,0,20231009,20240107,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
-45_48_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"szabad- és munkaszüneti napokon, kivéve december 25-én"
-45_4_20231009_1,0,0,0,0,0,0,0,20231009,20240107,szerdai és pénteki munkanapokon
-45_54_20231009_1,0,0,0,0,0,0,0,20231009,20240107,nyári időszámítás tartama alatt munkaszüneti napokon
-45_60_20231009_1,0,0,0,0,0,0,0,20231009,20240107,április 24-től október 25-ig munkanapokon
-45_61_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"tanszünetben munkanapokon, kivéve a nyári tanszünetben"
-45_62_20231009_1,0,0,0,0,0,0,0,20231009,20240107,október 26-tól április 23-ig munkanapokon
-45_64_20231009_1,0,0,0,0,0,0,0,20231009,20240107,téli időszámítás tartama alatt munkaszüneti napokon
-45_65_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve tanszünetes munkanapokon"
-45_66_20231009_1,0,0,0,0,0,0,0,20231009,20240107,szabadnapokon valamint tanszünetben munkanapokon
-45_69_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"tanév tartama alatt naponta,nyári tanszünetben munkanapokon"
-45_71_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"iskolai előadási napokon, valamint szabadnapokon"
-45_75_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"munkanapokon, kivéve a hetek utolsó iskolai előadási napján"
-45_82_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanév tartama alatt naponta
-45_83_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"iskolai előadási napokon, valamint nyári tanszünetben szabadnapokon"
-45_85_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanév tartama alatt a hetek első munkanapját megelőző napon
-45_86_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
-45_87_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"téli időszámítás tartama alatt szabad- és munkaszüneti napokon, kivéve december 24-én"
-45_89_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve iskolai előadási napokon és december 24-én"
-45_92_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve december 25-én"
-45_95_20231009_1,0,0,0,0,0,0,0,20231009,20240107,téli időszámítás alatt szerdai munkanapokon és szabadnapokon
-45_9C_20231009_1,0,0,0,0,0,0,0,20231009,20240107,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik munkaszüneti napokon.
-45_9D_20231009_1,0,0,0,0,0,0,0,20231009,20240107,November 8-tól március 31-ig közlekedik szabadnapokon
-45_9H_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik munkanapokon, valamint nov.8-tól márc.31-ig pénteki munkanapokon"
-45_9I_20231009_1,0,0,0,0,0,0,0,20231009,20240107,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik szabadnapokon.
-45_9J_20231009_1,0,0,0,0,0,0,0,20231009,20240107,November 8-tól március 31-ig hétfőtől csütörtökig közlekedik munkanapokon
-45_B_20231009_1,0,0,0,0,0,0,0,20231009,20240107,Hétfőtől szombatig naponta
-45_D_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve szabadnapokon"
-45_I0_20231009_1,0,0,0,0,0,0,0,20231009,20240107,Iskolai előadási napokon
-45_I_20231009_1,0,0,0,0,0,0,0,20231009,20240107,iskolai előadási napokon
-45_MS_20231009_1,0,0,0,0,0,0,0,20231009,20240107,munkaszüneti napokon
-45_M_20231009_1,0,0,0,0,0,0,0,20231009,20240107,munkanapokon
-45_NN_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve december 24-én"
-45_N_20231009_1,0,0,0,0,0,0,0,20231009,20240107,naponta
-45_OO_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"szabadnapokon, kivéve december 24-én"
-45_O_20231009_1,0,0,0,0,0,0,0,20231009,20240107,szabadnapokon
-45_S0_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"szabad és munkaszüneti napokon, kivéve fizetett ünnepeken"
-45_U_20231009_1,0,0,0,0,0,0,0,20231009,20240107,a hetek utolsó munkanapján
-45_V_20231009_1,0,0,0,0,0,0,0,20231009,20240107,a hetek első munkanapját megelőző napon
-45_W_20231009_1,0,0,0,0,0,0,0,20231009,20240107,tanszünetben munkanapokon
-45_XX_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve munkaszüneti napokon és december 24-én"
-45_X_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"naponta, kivéve munkaszüneti napokon"
-45_ZZ_20231009_1,0,0,0,0,0,0,0,20231009,20240107,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-45_Z_20231009_1,0,0,0,0,0,0,0,20231009,20240107,szabad- és munkaszüneti napokon
+45_06_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"munkaszüneti napokon, kivéve december 25-én"
+45_11_20231009_2,0,0,0,0,0,0,0,20231009,20231013,tanév tartama alatt szabadnapokon
+45_12_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"naponta, kivéve iskolai előadások napokon"
+45_14_20231009_2,0,0,0,0,0,0,0,20231009,20231013,a hetek utolsó iskolai előadási napján
+45_15_20231009_2,0,0,0,0,0,0,0,20231009,20231013,a hetek első iskolai előadási napját megelőző munkaszüneti napon
+45_16_20231009_2,0,0,0,0,0,0,0,20231009,20231013,tanév tartama alatt munkanapokon
+45_1Z_20231009_2,0,0,0,0,0,0,0,20231009,20231013,iskolai előadások napján kedden
+45_22_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokon"
+45_23_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"iskolai előadási napokon, kivéve csütörtökön"
+45_24_20231009_2,0,0,0,0,0,0,0,20231009,20231013,tanév tartama alatt munkaszüneti napok kivételével naponta
+45_27_20231009_2,0,0,0,0,0,0,0,20231009,20231013,tanszünetben csütörtöki munkanapokon
+45_2F_20231009_2,0,0,0,0,0,0,0,20231009,20231013,Vásári napokon (minden hónap 2. és 4. vasárnapján)
+45_2G_20231009_2,0,0,0,0,0,0,0,20231009,20231013,Vásári napok kivételével naponta
+45_2_20231009_2,0,0,0,0,0,0,0,20231009,20231013,keddi és pénteki munkanapokon
+45_32_20231009_2,0,0,0,0,0,0,0,20231009,20231013,nyári időszámítás tartama alatt munkaszüneti napok kivételével naponta
+45_35_20231009_2,0,0,0,0,0,0,0,20231009,20231013,csütörtöki munkanapokon
+45_36_20231009_2,0,0,0,0,0,0,0,20231009,20231013,pénteki munkanapokon
+45_37_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokon"
+45_39_20231009_2,0,0,0,0,0,0,0,20231009,20231013,iskolai előadási napokon csütörtökön
+45_3_20231009_2,0,0,0,0,0,0,0,20231009,20231013,szerdai munkanapokon
+45_43_20231009_2,0,0,0,0,0,0,0,20231009,20231013,szerdai munkanapokon és szabadnapokon
+45_44_20231009_2,0,0,0,0,0,0,0,20231009,20231013,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
+45_48_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"szabad- és munkaszüneti napokon, kivéve december 25-én"
+45_4_20231009_2,0,0,0,0,0,0,0,20231009,20231013,szerdai és pénteki munkanapokon
+45_54_20231009_2,0,0,0,0,0,0,0,20231009,20231013,nyári időszámítás tartama alatt munkaszüneti napokon
+45_60_20231009_2,0,0,0,0,0,0,0,20231009,20231013,április 24-től október 25-ig munkanapokon
+45_61_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"tanszünetben munkanapokon, kivéve a nyári tanszünetben"
+45_62_20231009_2,0,0,0,0,0,0,0,20231009,20231013,október 26-tól április 23-ig munkanapokon
+45_64_20231009_2,0,0,0,0,0,0,0,20231009,20231013,téli időszámítás tartama alatt munkaszüneti napokon
+45_65_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"naponta, kivéve tanszünetes munkanapokon"
+45_66_20231009_2,0,0,0,0,0,0,0,20231009,20231013,szabadnapokon valamint tanszünetben munkanapokon
+45_69_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"tanév tartama alatt naponta,nyári tanszünetben munkanapokon"
+45_71_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"iskolai előadási napokon, valamint szabadnapokon"
+45_75_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"munkanapokon, kivéve a hetek utolsó iskolai előadási napján"
+45_82_20231009_2,0,0,0,0,0,0,0,20231009,20231013,tanév tartama alatt naponta
+45_83_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"iskolai előadási napokon, valamint nyári tanszünetben szabadnapokon"
+45_85_20231009_2,0,0,0,0,0,0,0,20231009,20231013,tanév tartama alatt a hetek első munkanapját megelőző napon
+45_86_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
+45_87_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"téli időszámítás tartama alatt szabad- és munkaszüneti napokon, kivéve december 24-én"
+45_89_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"naponta, kivéve iskolai előadási napokon és december 24-én"
+45_92_20231009_1,0,0,0,0,0,0,0,20231009,20231013,"naponta, kivéve december 25-én"
+45_92_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"naponta, kivéve december 25-én"
+45_95_20231009_2,0,0,0,0,0,0,0,20231009,20231013,téli időszámítás alatt szerdai munkanapokon és szabadnapokon
+45_9C_20231009_2,0,0,0,0,0,0,0,20231009,20231013,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik munkaszüneti napokon.
+45_9D_20231009_2,0,0,0,0,0,0,0,20231009,20231013,November 8-tól március 31-ig közlekedik szabadnapokon
+45_9H_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik munkanapokon, valamint nov.8-tól márc.31-ig pénteki munkanapokon"
+45_9I_20231009_2,0,0,0,0,0,0,0,20231009,20231013,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik szabadnapokon.
+45_9J_20231009_2,0,0,0,0,0,0,0,20231009,20231013,November 8-tól március 31-ig hétfőtől csütörtökig közlekedik munkanapokon
+45_B_20231009_2,0,0,0,0,0,0,0,20231009,20231013,Hétfőtől szombatig naponta
+45_D_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"naponta, kivéve szabadnapokon"
+45_I0_20231009_2,0,0,0,0,0,0,0,20231009,20231013,Iskolai előadási napokon
+45_I_20231009_2,0,0,0,0,0,0,0,20231009,20231013,iskolai előadási napokon
+45_MS_20231009_2,0,0,0,0,0,0,0,20231009,20231013,munkaszüneti napokon
+45_M_20231009_2,0,0,0,0,0,0,0,20231009,20231013,munkanapokon
+45_M_20231014_1,0,0,0,0,0,0,0,20231014,20240110,munkanapokon
+45_NN_20231009_1,0,0,0,0,0,0,0,20231009,20231013,"naponta, kivéve december 24-én"
+45_NN_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"naponta, kivéve december 24-én"
+45_N_20231009_1,0,0,0,0,0,0,0,20231009,20231013,naponta
+45_N_20231009_2,0,0,0,0,0,0,0,20231009,20231013,naponta
+45_OO_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"szabadnapokon, kivéve december 24-én"
+45_O_20231009_2,0,0,0,0,0,0,0,20231009,20231013,szabadnapokon
+45_S0_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"szabad és munkaszüneti napokon, kivéve fizetett ünnepeken"
+45_U_20231009_2,0,0,0,0,0,0,0,20231009,20231013,a hetek utolsó munkanapján
+45_V_20231009_2,0,0,0,0,0,0,0,20231009,20231013,a hetek első munkanapját megelőző napon
+45_W_20231009_2,0,0,0,0,0,0,0,20231009,20231013,tanszünetben munkanapokon
+45_XX_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"naponta, kivéve munkaszüneti napokon és december 24-én"
+45_X_20231009_1,0,0,0,0,0,0,0,20231009,20231013,"naponta, kivéve munkaszüneti napokon"
+45_X_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"naponta, kivéve munkaszüneti napokon"
+45_ZZ_20231009_2,0,0,0,0,0,0,0,20231009,20231013,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+45_Z_20231009_2,0,0,0,0,0,0,0,20231009,20231013,szabad- és munkaszüneti napokon
 MB_2010,1,0,0,0,0,0,0,20230731,20230806,
 MB_2024,1,1,1,1,1,1,1,20231016,20231022,
 MB_2028,0,0,0,0,0,1,0,20231023,20231029,
