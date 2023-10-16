@@ -2876,23 +2876,18 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 42-9700$,42-9700$_22_1,22,"Borbánya, Csárda utcai forduló – Alma utcai iskola",3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_24_1,24,Autóbusz-állomás – Kistelekiszőlő (Koszorú utca),3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_25A_1,25A,Északi körút – Örökösföld – Alma utcai iskola,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
-42-9700$,42-9700$_25_1,25,Északi körút – Örökösföld – Alma utcai iskola,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_26_1,26,Vasútállomás – Szélsőbokori út,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_27_1,27,Jósaváros – Búza tér – Szélsőbokori út,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_29E_1,29E,Vasútállomás – Szakiskola és Kollégium,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_2_1,2,"Borbánya, Csárda utcai forduló – Alma utcai iskola",3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_30A_1,30A,Autóbusz-állomás – (Kistelekiszőlő) – Rozsrét autóbusz-forduló,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
-42-9700$,42-9700$_30_1,30,Autóbusz-állomás – (Kistelekiszőlő) – Rozsrét autóbusz-forduló,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_3A_1,3A,Autóbusz-állomás – (Kistelekiszőlő) – Rozsrét autóbusz-forduló,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
-42-9700$,42-9700$_3_1,3,Autóbusz-állomás – (Kistelekiszőlő) – Rozsrét autóbusz-forduló,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
-42-9700$,42-9700$_44_1,44,"Jósaváros – Örökösföld – Oros, Magyar utca 5.",3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_49_1,49,Örökösföld – Huszár telep,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_4Y_1,4Y,Autóbusz-állomás – Oros,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_4_1,4,Autóbusz-állomás – Oros,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_55_1,55,Jósaváros – Sóstói úti kórház,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_5A_1,5A,Jósaváros – Sóstói úti kórház,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_5_1,5,Jósaváros – Sóstói úti kórház,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
-42-9700$,42-9700$_7_1,7,"Jósaváros – Örökösföld – Oros, Magyar utca 5.",3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_8A_1,8A,Sóstói úti kórház – Sóstógyógyfürdő,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_8E_1,8E,Sóstói úti kórház – Sóstógyógyfürdő,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_8_1,8,Sóstói úti kórház – Sóstógyógyfürdő,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local

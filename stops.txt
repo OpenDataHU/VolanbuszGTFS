@@ -16649,10 +16649,8 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 25319,"Nyergesújfalu, temető",47.755730,18.555011,,,
 2532,"Balatonfüred, Kiserdő",46.960012,17.892856,,,
 25320,"Nyergesújfalu, temető",47.756169,18.554991,,,
-25321,"Nyésta, autóbusz-forduló",48.368911,20.952972,,,
 25322,Nyéstai elágazás,48.358254,20.958461,,,
 25323,Nyéstai elágazás,48.359223,20.959024,,,
-25324,Nyéstai elágazás,48.359349,20.958160,,,
 25325,"Nyim, felső",46.805179,18.108731,,,
 25326,"Nyim, felső",46.805177,18.108768,,,
 25327,"Nyim, Rákóczi Ferenc utca",46.801886,18.105975,,,
@@ -33800,6 +33798,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 4114,"Bezeréd, templom",46.869866,17.014001,,,
 41140,"Baja, autóbusz-állomás",46.183693,18.956124,1,,
 41141,"Baja, vonatkerti autóbusz-állomás",46.186077,18.957984,1,,
+41142,"Bakonybél, Petőfi utca",47.252138,17.728728,,,
 41143,"Baktalórántháza, Fő tér",47.997815,22.075692,1,,
 41144,"Balassagyarmat, autóbusz-állomás",48.083947,19.296898,1,,
 41147,"Balassagyarmat, vasútállomás",48.071267,19.292902,,,
@@ -34382,6 +34381,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41897,"Szigetvár, autóbusz-állomás",46.044147,17.802897,1,,
 419,"Agyagosszergény, óvoda",47.608935,16.939289,,,
 4190,"Bicske, Műszaki áruház",47.489575,18.633447,,,
+41906,"Szirák, Szőlők",47.830283,19.507600,,,
 41908,"Szob, vasútállomás",47.821322,18.862597,1,,
 41909,"Szolnok, autóbusz-állomás",47.177726,20.193128,1,,
 4191,"Bicske, TESCO",47.502406,18.628809,,,
@@ -35818,6 +35818,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5406_50,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41238,50
 5406_6,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41238,6
 5406_7,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41238,7
+5406_99,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41238,99
 5407,"Budapest, Ungvári utca",47.587483,19.082200,,,
 5408,"Budapest, Ungvári utca",47.587424,19.081916,,,
 5409,"Budapest, Ürömhegyi út",47.577790,19.010037,,,
