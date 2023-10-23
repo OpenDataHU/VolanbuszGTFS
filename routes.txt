@@ -2706,6 +2706,8 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_894_1,894,Tahitótfalu – Pócsmegyer – Tahitótfalu,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2924,F6AC00,152B32,regional
 21,21_895_1,895,Budapest – Szentendre – Tahitótfalu – Surány – Szigetmonostor,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2923,F6AC00,152B32,regional
 21,21_898_1,898,Szentendre – Tahitótfalu – Kisoroszi,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2943,F6AC00,152B32,regional
+21,21_H6A_1,H6A,Dunaharaszti külső HÉV-állomás – Szigetszentmiklós-Gyártelep HÉV-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7652,F6AC00,152B32,local
+21,21_H6_1,H6,Dunaharaszti külső HÉV-állomás – Szigetszentmiklós HÉV-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7652,F6AC00,152B32,local
 40-BA,40-BA_1_1,1,Vámház – Dobó István utcai forduló – Barátság téri iskola – Déri Frigyes sétány,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/baja,152B32,FFFFFF,local
 40-BA,40-BA_2_1,2,Vasutastelep – Dobó István utcai forduló – Vámház – Déri Frigyes sétány,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/baja,152B32,FFFFFF,local
 40-BA,40-BA_3_1,3,Déri sétány – Gólya sor,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/baja,152B32,FFFFFF,local
