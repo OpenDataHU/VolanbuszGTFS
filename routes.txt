@@ -2098,8 +2098,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_7012_1,7012,Győr – Bőny – Rétalap – Mezőörs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7012,F6AC00,152B32,regional
 21,21_7013_1,7013,Győr – Tényő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7013,F6AC00,152B32,regional
 21,21_7014_1,7014,Győr – Győrújbarát – hegy – Pápateszér,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7014,F6AC00,152B32,regional
-21,21_7015_1,7015,Győr – Győrújbarát – Győrasszonyfa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7015,F6AC00,152B32,regional
-21,21_7016_1,7016,Győr – Koroncó – Kajárpéc,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7016,F6AC00,152B32,regional
 21,21_7017_1,7017,Nyúl – Pannonhalma – Győrság – Mezőörs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7017,F6AC00,152B32,regional
 21,21_7018_1,7018,Pannonhalma – Győrság – Táp – Veszprémvarsány,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7018,F6AC00,152B32,regional
 21,21_7019_1,7019,Győr – Győrszemere,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7019,F6AC00,152B32,regional
@@ -3103,7 +3101,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 43-SO,43-SO_27Y_1,27Y,Boldogasszonyi utca – Csengery utca – Táncsics utca – Jereván lakótelep,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
 43-SO,43-SO_27_1,27,"Jereván lakótelep – (Aranyhegyi lakópark) – Híd utca – Csengery utca, Király Jenő utca",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
 43-SO,43-SO_2_1,2,Jereván lakótelep – Alsólőverek/Felsőlőverek – Lőver szálló,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
-43-SO,43-SO_33_1,33,Autóbusz-állomás – Híd utca – Tómalomfürdő – Sopronkőhida,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
 43-SO,43-SO_3Y_1,3Y,Brennbergbánya – Kertváros – Ady Endre út – Jereván lakótelep,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
 43-SO,43-SO_3_1,3,Lackner Kristóf utca – Bánfalvi út – Kertváros – Brennbergbánya,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
 43-SO,43-SO_4_1,4,"Ipar körút, vámudvar – Lackner Kristóf utca – Baross út – Ágfalvi úti lakótelep",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,152B32,FFFFFF,local
