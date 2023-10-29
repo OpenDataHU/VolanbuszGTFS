@@ -3193,8 +3193,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 44-91,44-91_38_1,38,Tóth Árpád út – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_3_1,3,(Üteg utca) – Autóbusz-állomás – Kőrösi út,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_41_1,41,Tóth Árpád út – Bevásárló park – Várkonyi tér – Hild Viktor utca,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_42_1,42,Vasútállomás – Volánbusz,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_43_1,43,Városi kollégium – Szabadság tér,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_44_1,44,Jubileum tér – Véső úti strand,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_5_1,5,Üteg utca – Rákóczi út – Cukorgyári lakótelep,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_6Y_1,6Y,"(Auchan, Aldi) – Holt-Tiszapart – Alamand dűlő",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
@@ -3216,7 +3214,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 44-92,44-92_2A_1,2A,Tihaméri malom – Mocsáry Lajos út – Autóbusz-állomás – Szalapart út,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/eger,152B32,FFFFFF,local
 44-92,44-92_2_1,2,Tihaméri malom – Mocsáry Lajos út – Autóbusz-állomás – Szalapart út,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/eger,152B32,FFFFFF,local
 44-92,44-92_3A_1,3A,Lajosváros – Tesco áruház,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/eger,152B32,FFFFFF,local
-44-92,44-92_3_1,3,Lajosváros – Felnémet – Bervai út,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/eger,152B32,FFFFFF,local
 44-92,44-92_4_1,4,Lajosváros – Autóbusz-állomás – Felnémet – Berva,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/eger,152B32,FFFFFF,local
 44-92,44-92_5A_1,5A,Agroker – Tihaméri malom – Tesco áruház,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/eger,152B32,FFFFFF,local
 44-92,44-92_5_1,5,Agroker – Tihaméri malom – Tesco áruház,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/eger,152B32,FFFFFF,local

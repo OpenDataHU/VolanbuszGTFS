@@ -27694,6 +27694,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 35520,Táplánypuszta,47.642706,17.731144,,,
 35521,Táplánypuszta,47.643219,17.729897,,,
 35522,"Tapolca, Arany János utca",46.880178,17.443154,,,
+35524,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41940,
 35524_0,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41940,0
 35524_1,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41940,1
 35524_2,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41940,2
@@ -33931,6 +33932,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41305,"Dunaújváros, Hun utca, TESCO",46.977403,18.923134,,,
 41306,"Edelény, autóbusz-állomás",48.295579,20.743041,1,,
 41307,"Eger, autóbusz-állomás",47.900706,20.370829,1,,
+41309,"Eger, Tesco",47.923692,20.370545,,,
 4131,"Biatorbágy, Kálvin tér",47.461744,18.811799,,,
 41312,"Eger, Törvényszék",47.899133,20.370181,,,
 41313,"Eger, vasútállomás",47.891630,20.381200,1,,
@@ -34323,6 +34325,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 418,"Agyagosszergény, óvoda",47.609037,16.939514,,,
 4180,"Bicske, felsőhegyi elágazás",47.507966,18.639805,,,
 41800,"Pásztó, vasútállomás",47.919094,19.689364,1,,
+41801,"Patak, Szövetkezeti bolt",48.020599,19.147202,,,
 41802,Patyolat Zrt.,47.940229,21.713015,,,
 41803,Patyolat Zrt.,47.940046,21.713000,,,
 41807,"Pécs, autóbusz-állomás",46.070519,18.232378,1,,
@@ -38545,6 +38548,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 7834,"Diósd, törökbálinti elágazás",47.410619,18.956383,,,
 7835,"Diósd, Valéria utca",47.414107,18.932722,,,
 7836,"Diósd, Valéria utca",47.414089,18.932652,,,
+7837,"Diósjenő, Arany János út",47.945908,19.034339,,,
 7838,"Diósjenő, Arany János út",47.945908,19.034063,,,
 7839,"Diósjenő, Hantai dűlő",47.922307,19.067738,,,
 784,"Alibánfa, templom",46.885266,16.920432,,,
@@ -39771,6 +39775,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 8945,"Egerszalók, Kovács-tanya",47.837684,20.286295,,,
 8946,"Egerszalók, központ",47.870787,20.325296,,,
 8947,"Egerszalók, központ",47.870823,20.325937,,,
+8948,"Egerszalók, központ",47.871066,20.326130,,,
 8949,"Egerszalók, Kristálydomb",47.882913,20.327791,,,
 895,"Alsómonostor, bejárati út",46.674609,19.740288,,,
 8950,"Egerszalók, Kristálydomb",47.882454,20.326980,,,
