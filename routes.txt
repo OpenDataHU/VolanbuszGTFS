@@ -632,7 +632,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_3892_1,3892,Tokaj – Bodrogkeresztúr,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3892,F6AC00,152B32,regional
 21,21_3895_1,3895,Szerencs – Tállya – Bodrogkeresztúr – Tokaj – Tarcal,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3895,F6AC00,152B32,regional
 21,21_3896_1,3896,Tarcal – Tokaj,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3896,F6AC00,152B32,regional
-21,21_389_1,389,Veresegyház Központ – Medveotthon,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2168,F6AC00,152B32,regional
 21,21_3900_1,3900,Sátoraljaújhely – Kovácsvágás – Pálháza – Nagyhuta – Hollóháza,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3900,F6AC00,152B32,regional
 21,21_3901_1,3901,Sátoraljaújhely – Kovácsvágás – Pálháza – Nagyhuta – Nyíri – Hollóháza,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3901,F6AC00,152B32,regional
 21,21_3903_1,3903,Sátoraljaújhely – Pálháza – Nyíri – Hollóháza – Pusztafalu,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3903,F6AC00,152B32,regional
@@ -2673,7 +2672,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_8673_1,8673,Komárom – Nagyigmánd – Tárkány – Kisbér – Súr,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=8673,F6AC00,152B32,regional
 21,21_8682_1,8682,Komárom – Nagyigmánd – Tárkány – Bana,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=8682,F6AC00,152B32,regional
 21,21_8687_1,8687,Komárom – Ács – Nagyigmánd – Bábolna,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=8687,F6AC00,152B32,regional
-21,21_868_1,868,Szentendre – Dömörkapu,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2936,F6AC00,152B32,regional
 21,21_8697_1,8697,Kisbér – Csép – Bábolna – Nagyigmánd – Komárom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=8697,F6AC00,152B32,regional
 21,21_869_1,869,"Budapest, Heltai Jenő tér – Szentendre, Püspökmajori ltp. – Budapest, Heltai Jenő tér",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2918,F6AC00,152B32,regional
 21,21_8700_1,8700,Tata – Süttő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=8700,F6AC00,152B32,regional
@@ -2696,7 +2694,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_879_1,879,"Szentendre, aut. áll. – Sportpálya – Skanzen – Szentendre, aut. áll.",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2937,F6AC00,152B32,regional
 21,21_880_1,880,Budapest – Szentendre – Visegrád – Esztergom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2920,F6AC00,152B32,regional
 21,21_882_1,882,Budapest – Szentendre – Visegrád – Esztergom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2920,F6AC00,152B32,regional
-21,21_883_1,883,Budapest – Szentendre – Visegrád – Esztergom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2920,F6AC00,152B32,regional
 21,21_884_1,884,Budapest – Szentendre – Visegrád – Esztergom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2920,F6AC00,152B32,regional
 21,21_889_1,889,Budapest – Szentendre – Visegrád – Esztergom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2920,F6AC00,152B32,regional
 21,21_890_1,890,Budapest – Szentendre – Tahitótfalu – Váci rév,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2951,F6AC00,152B32,regional
@@ -3232,7 +3229,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 44-93,44-93_27A_1,27A,Helyi autóbusz-állomás – Somlyóbánya – Kórház – Fáy körút – Kórház – Helyi autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/salgotarjan,152B32,FFFFFF,local
 44-93,44-93_2A_1,2A,"Somlyó, forduló – Somlyóbánya – Helyi autóbusz-állomás",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/salgotarjan,152B32,FFFFFF,local
 44-93,44-93_2C_1,2C,"Somlyó, forduló – Somlyóbánya – Helyi autóbusz-állomás",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/salgotarjan,152B32,FFFFFF,local
-44-93,44-93_2T_1,2T,"Somlyó, forduló – Somlyóbánya – Helyi autóbusz-állomás",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/salgotarjan,152B32,FFFFFF,local
 44-93,44-93_36_1,36,Hősök úti forduló – Helyi autóbusz-állomás – Campingtelep,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/salgotarjan,152B32,FFFFFF,local
 44-93,44-93_3_1,3,Helyi autóbusz-állomás – Hősök úti forduló,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/salgotarjan,152B32,FFFFFF,local
 44-93,44-93_46_1,46,Baglyasalja – Helyi autóbusz-állomás – Campingtelep,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/salgotarjan,152B32,FFFFFF,local
