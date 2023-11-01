@@ -132,7 +132,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_1449_1,1449,Debrecen – Nyíregyháza – Tokaj – Sátoraljaújhely,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1449,F6AC00,152B32,regional
 21,21_1450_1,1450,Debrecen – Tiszacsege – Polgár – Tiszaújváros,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1450,F6AC00,152B32,regional
 21,21_1464_1,1464,Szolnok – Nagykőrös,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1464,F6AC00,152B32,regional
-21,21_1466_1,1466,Szolnok – Jászberény_Eger,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1466,F6AC00,152B32,national
+21,21_1466_1,1466,Szolnok – Jászberény – Eger,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1466,F6AC00,152B32,national
 21,21_1467_1,1467,Szolnok – Jászberény – Jászfényszaru – Hatvan,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1467,F6AC00,152B32,regional
 21,21_1468_1,1468,Szolnok – Tiszafüred – Eger,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1468,F6AC00,152B32,national
 21,21_1469_1,1469,Szolnok – Jászberény – Gyöngyös – Mátraháza,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1469,F6AC00,152B32,regional
@@ -3029,6 +3029,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 43-NK,43-NK_10A_1,10A,"Kalmár utca – Eötvös tér – Sánc, óvoda (– Csónakázó-tó) – Nagyfakos, alsó",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
 43-NK,43-NK_10Y_1,10Y,"Kalmár utca – Eötvös tér – Sánc, óvoda (– Csónakázó-tó) – Nagyfakos, alsó",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
 43-NK,43-NK_10_1,10,"Kalmár utca – Eötvös tér – Sánc, óvoda (– Csónakázó-tó) – Nagyfakos, alsó",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
+43-NK,43-NK_14C_1,14C,Városkapu körút – Köztemető,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
 43-NK,43-NK_15_1,15,Kalmár utca – Kórház utca – Napraforgó tér – Kalmár utca (– Vasútállomás),3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
 43-NK,43-NK_16A_1,16A,"Kalmár utca – Napraforgó tér – Városkapu körút – Eötvös tér – Kiskanizsa, Rozmaring utca",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
 43-NK,43-NK_16E_1,16E,"Kalmár utca – Napraforgó tér – Városkapu körút – Eötvös tér – Kiskanizsa, Rozmaring utca",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
@@ -3181,7 +3182,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 44-91,44-91_34E_1,34E,Jubileum tér – Megyei kórház – Ipari Park – Vegyiművek,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_34Y_1,34Y,Hild Viktor utca – Cukorgyári lakótelep – Ipari Park – Vegyiművek,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_34_1,34,Jubileum tér – Megyei kórház – Ipari Park – Vegyiművek,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_34_2,34,Jubileum tér – Megyei kórház – Ipari Park – Vegyiművek,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_35_1,35,(Üteg utca) – Autóbusz-állomás – Kőrösi út,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_36_1,36,"(Vasútállomás) – Autóbusz-állomás – Tiszaliget, Campus",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_37_1,37,Repülőtér – Szandaszőlős – Tallinn városrész,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
