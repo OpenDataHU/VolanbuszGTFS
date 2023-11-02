@@ -17745,7 +17745,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 26364,"Orfalu, Keresztfa",46.887831,16.265467,,,
 26365,"Orfalu, telep",46.901015,16.296155,,,
 26366,"Orfalu, telep",46.901047,16.296119,,,
-26367,"Orfű, Árnyas-part",46.155178,18.133990,,,
 26368,"Orfű, Árnyas-part",46.155719,18.133663,,,
 26369,"Orfű, Horgászfalu I.",46.152904,18.141685,,,
 2637,"Balatonkeresztúr, alsó",46.690866,17.373426,,,
@@ -17765,7 +17764,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 26383,"Orfű, mecsekszakáli elágazás",46.160969,18.137566,,,
 26384,"Orfű, Orfűi-tó",46.140610,18.154967,,,
 26385,"Orfű, Orfűi-tó",46.141126,18.154294,,,
-26386,"Orfű, Sport utca",46.153197,18.135327,,,
 26387,"Orfű, Sport utca",46.153269,18.135322,,,
 26388,"Orfű, Szent Márton templom",46.136601,18.154717,,,
 26389,"Orfű, Szent Márton templom",46.135781,18.154283,,,
@@ -24426,7 +24424,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 32593,"Szántód, vasúti átjáró",46.863062,17.903030,,,
 32594,Szántó körút,47.183078,20.192315,,,
 32595,Szántó körút,47.183114,20.192491,,,
-32596,Szántó körút,47.182802,20.191015,,,
 32597,Szántó utca,46.776600,21.131601,,,
 32598,Szántó utca,46.776643,21.131556,,,
 32599,"Szany, József Attila utca",47.454169,17.314209,,,
@@ -27689,7 +27686,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 35520,Táplánypuszta,47.642706,17.731144,,,
 35521,Táplánypuszta,47.643219,17.729897,,,
 35522,"Tapolca, Arany János utca",46.880178,17.443154,,,
-35524,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41954,
 35524_0,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41954,0
 35524_1,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41954,1
 35524_2,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41954,2
@@ -33803,7 +33799,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41140,Bácskai utca,47.190217,18.449823,,,
 41141,"Baja, autóbusz-állomás",46.183693,18.956124,1,,
 41142,"Baja, vonatkerti autóbusz-állomás",46.186077,18.957984,1,,
-41143,"Bakonybél, Petőfi utca",47.252138,17.728728,,,
 41144,"Baktalórántháza, Fő tér",47.997815,22.075692,1,,
 41145,"Balassagyarmat, autóbusz-állomás",48.083947,19.296898,1,,
 41148,"Balassagyarmat, vasútállomás",48.071267,19.292902,,,
@@ -35850,7 +35845,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5406_50,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41239,50
 5406_6,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41239,6
 5406_7,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41239,7
-5406_99,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,41239,99
 5407,"Budapest, Ungvári utca",47.587483,19.082200,,,
 5408,"Budapest, Ungvári utca",47.587424,19.081916,,,
 5409,"Budapest, Ürömhegyi út",47.577790,19.010037,,,

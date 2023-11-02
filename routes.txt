@@ -3152,13 +3152,9 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 44-91,44-91_11_1,11,Jubileum tér – Vásárcsarnok – MÁV Kórház – Üteg utca,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_12A_1,12A,Autóbusz-állomás – Tigáz – Volánbusz – Jubileum tér – (Üteg utca) – Tallinn városrész,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_12_1,12,Autóbusz-állomás – Tigáz – Volánbusz – Jubileum tér – (Üteg utca) – Tallinn városrész,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_13Y_1,13Y,Vasútállomás – Vegyiművek,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_13_1,13,Vasútállomás – Vegyiművek,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_14_1,14,Vasútállomás – RepTár – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_15Y_1,15Y,"Szabadság tér – Tiszaliget, Campus",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_15_1,15,"(Vasútállomás) – Autóbusz-állomás – Tiszaliget, Campus",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_16_1,16,Vasútállomás – Volánbusz,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_17_1,17,Vasútállomás – Bevásárlópark – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_20A_1,20A,Family Center – Vasútállomás – Széchenyi városrész – Autóbusz-állomás – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_20_1,20,Auchan – Vasútállomás – Autóbusz-állomás – Széchenyi városrész – Vasútállomás – Family Center,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_21A_1,21A,Vasútállomás – Széchenyi városrész – Autóbusz-állomás – Vasútállomás – Megyei kórház – Tóth Árpád út,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
@@ -3172,31 +3168,24 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 44-91,44-91_24_1,24,Vasútállomás – Autóbusz-állomás – Széchenyi városrész – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_25A_1,25A,Széchenyi városrész – Autóbusz-állomás – Jubileum tér – Megyei kórház – Ipari Park,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_25_1,25,Ipari Park – Megyei kórház – Jubileum tér – Autóbusz-állomás – Széchenyi városrész – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_27_1,27,Vasútállomás – Szandaszőlős – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_28_1,28,Vasútállomás – Szandaszőlős – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_31_1,31,Széchenyi városrész – Volánbusz,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_32_1,32,Autóbusz-állomás – Temető – Megyei kórház – Eagle Ottawa,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_33_1,33,Autóbusz-állomás – Rákóczi út – Megyei kórház – Cukorgyári lakótelep,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_34A_1,34A,Jubileum tér – Megyei kórház – Ipari Park – Vegyiművek,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_34B_1,34B,Szántó körút – Szabadság tér – Repülőtér,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_34E_1,34E,Jubileum tér – Megyei kórház – Ipari Park – Vegyiművek,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_34Y_1,34Y,Hild Viktor utca – Cukorgyári lakótelep – Ipari Park – Vegyiművek,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_34_1,34,Jubileum tér – Megyei kórház – Ipari Park – Vegyiművek,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_35_1,35,(Üteg utca) – Autóbusz-állomás – Kőrösi út,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_36_1,36,"(Vasútállomás) – Autóbusz-állomás – Tiszaliget, Campus",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_37_1,37,Repülőtér – Szandaszőlős – Tallinn városrész,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_38_1,38,Tóth Árpád út – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_3_1,3,(Üteg utca) – Autóbusz-állomás – Kőrösi út,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_41_1,41,Tóth Árpád út – Bevásárló park – Várkonyi tér – Hild Viktor utca,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_44_1,44,Jubileum tér – Véső úti strand,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_5_1,5,Üteg utca – Rákóczi út – Cukorgyári lakótelep,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_6Y_1,6Y,"(Auchan, Aldi) – Holt-Tiszapart – Alamand dűlő",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_6_1,6,"(Auchan, Aldi) – Holt-Tiszapart – Alamand dűlő",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_7Y_1,7Y,Tóth Árpád út – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_7_1,7,Karinthy Frigyes út – Tóth Árpád út – Vasútállomás – (Kőrösi út),3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_8Y_1,8Y,Vasútállomás – Tóth Árpád út,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-91,44-91_8_1,8,Tóth Árpád út – Karinthy Frigyes út – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
-44-91,44-91_9_1,9,Szolnok Ispán körút – Béke Tsz.,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/szolnok,152B32,FFFFFF,local
 44-92,44-92_112_1,112,Lajosváros – Autóbusz-állomás – Tesco Áruház,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/eger,152B32,FFFFFF,local
 44-92,44-92_113_1,113,Lajosváros – Tesco Áruház,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/eger,152B32,FFFFFF,local
 44-92,44-92_11_1,11,Lajosváros – Autóbusz-állomás – Felnémet,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/eger,152B32,FFFFFF,local
