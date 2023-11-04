@@ -2986,7 +2986,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 43-GY,43-GY_30_1,30,"Révai Miklós utca – Győrszentiván, Kálmán Imre út – Homoksor",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,152B32,FFFFFF,local
 43-GY,43-GY_31A_1,31A,"Révai Miklós utca – Győrszentiván, Homoksor – Kálmán Imre út",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,152B32,FFFFFF,local
 43-GY,43-GY_31_1,31,"Révai Miklós utca – Győrszentiván, Homoksor – Kálmán Imre út",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,152B32,FFFFFF,local
-43-GY,43-GY_37T_1,37T,Zechmeister utca – Adyváros – Nádorvárosi köztemető – Marcalváros,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,152B32,FFFFFF,local
 43-GY,43-GY_37_1,37,Révai Miklós utca – Adyváros – Nádorvárosi köztemető – Gyirmót,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,152B32,FFFFFF,local
 43-GY,43-GY_38A_1,38A,Révai Miklós utca – Adyváros – Szabadhegy – Ipari Park,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,152B32,FFFFFF,local
 43-GY,43-GY_38_1,38,Révai Miklós utca – Adyváros – Szabadhegy – Ipari Park,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/gyor,152B32,FFFFFF,local
@@ -3029,7 +3028,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 43-NK,43-NK_10A_1,10A,"Kalmár utca – Eötvös tér – Sánc, óvoda (– Csónakázó-tó) – Nagyfakos, alsó",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
 43-NK,43-NK_10Y_1,10Y,"Kalmár utca – Eötvös tér – Sánc, óvoda (– Csónakázó-tó) – Nagyfakos, alsó",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
 43-NK,43-NK_10_1,10,"Kalmár utca – Eötvös tér – Sánc, óvoda (– Csónakázó-tó) – Nagyfakos, alsó",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
-43-NK,43-NK_14C_1,14C,Városkapu körút – Köztemető,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
 43-NK,43-NK_15_1,15,Kalmár utca – Kórház utca – Napraforgó tér – Kalmár utca (– Vasútállomás),3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
 43-NK,43-NK_16A_1,16A,"Kalmár utca – Napraforgó tér – Városkapu körút – Eötvös tér – Kiskanizsa, Rozmaring utca",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
 43-NK,43-NK_16E_1,16E,"Kalmár utca – Napraforgó tér – Városkapu körút – Eötvös tér – Kiskanizsa, Rozmaring utca",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/nagykanizsa,152B32,FFFFFF,local
