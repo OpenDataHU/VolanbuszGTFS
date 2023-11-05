@@ -18085,7 +18085,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 26680,"Ortaháza, Fő utca 67.",46.617906,16.676100,,,
 26681,"Ortaháza, Fő utca 67.",46.617707,16.675876,,,
 26682,"Ortaháza, vasútállomás",46.626910,16.685053,,,
-26683,"Ortaháza, vasútállomás",46.626736,16.684988,,,
 26684,"Ortaháza, vegyesbolt",46.622402,16.681021,,,
 26685,"Ortaháza, vegyesbolt",46.622388,16.681342,,,
 26686,"Őrtilos, forduló",46.280641,16.925429,,,
@@ -19132,6 +19131,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 27710,"Pásztó, tejüzem",47.932193,19.713139,,,
 27711,"Pásztó, városerdő",47.884251,19.705058,,,
 27712,"Pásztó, városerdő",47.883952,19.704733,,,
+27714,"Pásztó, vasútállomás",47.919094,19.689364,,41813,
 27714_1,"Pásztó, vasútállomás",47.919094,19.689364,,41813,1
 27714_2,"Pásztó, vasútállomás",47.919094,19.689364,,41813,2
 27714_3,"Pásztó, vasútállomás",47.919094,19.689364,,41813,3
@@ -27683,6 +27683,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 35520,Táplánypuszta,47.642706,17.731144,,,
 35521,Táplánypuszta,47.643219,17.729897,,,
 35522,"Tapolca, Arany János utca",46.880178,17.443154,,,
+35524,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41954,
 35524_0,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41954,0
 35524_1,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41954,1
 35524_2,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41954,2
@@ -29247,7 +29248,12 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 36929_8,"Tiszaújváros, autóbusz-állomás",47.929818,21.032005,,41968,8
 36929_9,"Tiszaújváros, autóbusz-állomás",47.929818,21.032005,,41968,9
 3693,Béke út 35.,47.976993,19.821189,,,
+36930_2,"Tiszaújváros, autóbusz-állomás",47.929818,21.032004,,41968,2
+36930_3,"Tiszaújváros, autóbusz-állomás",47.929818,21.032004,,41968,3
 36930_4,"Tiszaújváros, autóbusz-állomás",47.929818,21.032004,,41968,4
+36930_5,"Tiszaújváros, autóbusz-állomás",47.929818,21.032004,,41968,5
+36930_6,"Tiszaújváros, autóbusz-állomás",47.929818,21.032004,,41968,6
+36930_7,"Tiszaújváros, autóbusz-állomás",47.929818,21.032004,,41968,7
 36931,"Tiszaújváros, bejárati út",47.926104,21.039999,,,
 36932,"Tiszaújváros, bejárati út",47.927038,21.037219,,,
 36933,"Tiszaújváros, bejárati út",47.926218,21.038292,,,
