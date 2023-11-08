@@ -5519,7 +5519,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 15127,"Izmény, iskola",46.312867,18.411304,,,
 15128,"Izmény, iskola",46.312807,18.411106,,,
 15129,"Izsák, 10. sz. vegyesbolt (52. sz. út)",46.861975,19.379593,,,
-1513,Autóbuszállomás,47.177437,20.192948,,,
 15130,"Izsák, 10. sz. vegyesbolt (52. sz. út)",46.861784,19.378098,,,
 15131,"Izsák, 10. sz. vegyesbolt (52. sz. út)",46.862096,19.378569,,,
 15132,"Izsák, 6. sz. bolt",46.817859,19.401030,,,
@@ -5530,7 +5529,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 15137,"Izsák, felső temető",46.811678,19.343888,,,
 15138,"Izsák, Gedeon-dűlő",46.856874,19.353368,,,
 15139,"Izsák, Gedeon-dűlő",46.856627,19.351726,,,
-1514,Autóbuszállomás,47.177482,20.193849,,,
 15140,"Izsák, gépállomás",46.779182,19.372445,,,
 15141,"Izsák, gépállomás",46.779273,19.372366,,,
 15142,"Izsák, Határút",46.823918,19.413575,,,
@@ -24424,6 +24422,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 32593,"Szántód, vasúti átjáró",46.863062,17.903030,,,
 32594,Szántó körút,47.183078,20.192315,,,
 32595,Szántó körút,47.183114,20.192491,,,
+32596,Szántó körút,47.182802,20.191015,,,
 32597,Szántó utca,46.776600,21.131601,,,
 32598,Szántó utca,46.776643,21.131556,,,
 32599,"Szany, József Attila utca",47.454169,17.314209,,,
@@ -26806,10 +26805,13 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 34743_11,"Szolnok, autóbusz-állomás",47.177644,20.192800,,41944,11
 34743_12,"Szolnok, autóbusz-állomás",47.177644,20.192800,,41944,12
 34743_13,"Szolnok, autóbusz-állomás",47.177644,20.192800,,41944,13
+34743_15,"Szolnok, autóbusz-állomás",47.177644,20.192800,,41944,15
+34743_16,"Szolnok, autóbusz-állomás",47.177644,20.192800,,41944,16
 34743_2,"Szolnok, autóbusz-állomás",47.177644,20.192800,,41944,2
 34743_5,"Szolnok, autóbusz-állomás",47.177644,20.192800,,41944,5
 34743_6,"Szolnok, autóbusz-állomás",47.177644,20.192800,,41944,6
 34743_7,"Szolnok, autóbusz-állomás",47.177644,20.192800,,41944,7
+34744_14,"Szolnok, autóbusz-állomás",47.177476,20.192666,,41944,14
 34744_8,"Szolnok, autóbusz-állomás",47.177476,20.192666,,41944,8
 34745,"Szolnok, Bajcsy-Zsilinszky út",47.173613,20.175926,,,
 34746,"Szolnok, Bajcsy-Zsilinszky út",47.174195,20.176265,,,
