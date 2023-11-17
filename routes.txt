@@ -2724,7 +2724,9 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 40-BC,40-BC_8MJ_1,8MJ,LINAMAR – TESCO – Autóbusz-állomás – Varságh utca,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/bekescsaba,152B32,FFFFFF,local
 40-BC,40-BC_8V_1,8V,LINAMAR – TESCO – Autóbusz-állomás – Varságh utca,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/bekescsaba,152B32,FFFFFF,local
 40-BC,40-BC_8_1,8,LINAMAR – TESCO – Autóbusz-állomás – Varságh utca,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/bekescsaba,152B32,FFFFFF,local
-40-BE,40-BE_HI_1,HI,Volán telep – Fürdő,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/bekes,152B32,FFFFFF,local
+40-BE,40-BE_1A_1,1A,Autóbusz-állomás  Városháza  Fürdő – Hepp Ferenc Iskola – Szántó utca – Hőzső utca – Szántó utca – Volán-telep/Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/bekes,152B32,FFFFFF,local
+40-BE,40-BE_1B_1,1B,Autóbusz-állomás  Városháza  Fürdő – Hepp Ferenc Iskola – Szántó utca – Hőzső utca – Szántó utca – Volán-telep/Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/bekes,152B32,FFFFFF,local
+40-BE,40-BE_1_1,1,Autóbusz-állomás  Városháza  Fürdő – Hepp Ferenc Iskola – Szántó utca – Hőzső utca – Szántó utca – Volán-telep/Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/bekes,152B32,FFFFFF,local
 40-C,40-C_1A_1,1A,Autóbusz-forduló – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/csongrad,152B32,FFFFFF,local
 40-C,40-C_1_1,1,Autóbusz-állomás – Kőkereszt,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/csongrad,152B32,FFFFFF,local
 40-C,40-C_3_1,3,Autóbusz-állomás – Kőkereszt,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/csongrad,152B32,FFFFFF,local
@@ -2739,7 +2741,9 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 40-H,40-H_4_1,4,"Kisfaludy utca – METRIPOND, vasútállomás bejárati út – Malom – Porcelángyár",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/hodmezovasarhely,152B32,FFFFFF,local
 40-H,40-H_7_1,7,Kálvin János tér – Árok utca – Kincses temető,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/hodmezovasarhely,152B32,FFFFFF,local
 40-H,40-H_9_1,9,Katolikus temető – Vásártér – Piactér – Kórház – Kincses temető,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/hodmezovasarhely,152B32,FFFFFF,local
-40-MB,40-MB_HI_1,HI,Szénáskert utca – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/mezobereny,152B32,FFFFFF,local
+40-MB,40-MB_1_1,1,Gázfogadó – Vasútállomás – Luther tér – Szénáskert utca,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/mezobereny,152B32,FFFFFF,local
+40-MB,40-MB_2_1,2,Szénáskert utca – (Köröstarcsai út) – Liget utca – Vasútállomás – Temető,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/mezobereny,152B32,FFFFFF,local
+40-MB,40-MB_3_1,3,Szénáskert utca – Dózsa György út – Liget utca – Luther tér – Vasútállomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/mezobereny,152B32,FFFFFF,local
 40-M,40-M_5_1,5,Autóbusz állomás – Justh Gyula utca – MEDICOR – Ipari Park,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/mako,152B32,FFFFFF,local
 40-MÓRA,40-MÓRA_1_1,1,Autóbusz állomás – Nyár utca – Munkácsy utca – Röszkei út – Autóbusz állomás,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/morahalom,152B32,FFFFFF,local
 40-OH,40-OH_2A_1,2A,"Autóbusz-állomás – Gyökeres, Szántó Kovács János utca",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/oroshaza,152B32,FFFFFF,local
