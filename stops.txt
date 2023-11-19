@@ -27684,6 +27684,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 35520,Táplánypuszta,47.642706,17.731144,,,
 35521,Táplánypuszta,47.643219,17.729897,,,
 35522,"Tapolca, Arany János utca",46.880178,17.443154,,,
+35524,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41954,
 35524_0,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41954,0
 35524_1,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41954,1
 35524_2,"Tapolca, autóbusz-állomás",46.882759,17.435863,,41954,2
@@ -34388,6 +34389,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41924,"Szentgotthárd, autóbusz-állomás",46.957710,16.264850,1,,
 41925,"Szentgotthárd, Hunyadi János út",46.955797,16.269508,1,,
 41928,"Szerencs, vasútállomás",48.155616,21.213852,1,,
+41929,"Szigetcsép, HÉV-állomás",47.270242,18.956388,,,
 4193,"Bicske, tűzoltóság",47.496243,18.629406,,,
 41930,"Szigethalom, autóbusz-állomás",47.331669,19.002686,1,,
 41932,"Szigetvár, autóbusz-állomás",46.044147,17.802897,1,,
@@ -40207,7 +40209,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 9388,"Érd, Bem tér",47.413372,18.883030,,,
 9389,"Érd, Bem tér",47.413419,18.883126,,,
 939,"Alsónemesapáti, búcsúszentlászlói elágazás",46.829027,16.929331,,,
-9390,"Érd, Betonozó utca",47.414915,18.870797,,,
 9393,"Érd, Bihari utca",47.395875,18.894187,,,
 9394,"Érd, Bihari utca",47.395376,18.894696,,,
 9397,"Érd, Börzsöny utca",47.398536,18.890970,,,
