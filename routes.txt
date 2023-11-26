@@ -1047,7 +1047,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_4720_1,4720,[Karcag – ]Kisújszállás – Kunhegyes – Tiszabura,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4720,F6AC00,152B32,regional
 21,21_4730_1,4730,Karcag – Berekfürdő – Kunhegyes – Tiszaderzs,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4730,F6AC00,152B32,regional
 21,21_4731_1,4731,"Abádszalók, aut. áll – Abádszalók, vá.",3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4731,F6AC00,152B32,regional
-21,21_4735_1,4735,Kisújszállás – Dévaványa – Szeghalom,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4735,F6AC00,152B32,national
+21,21_4735_1,4735,Kisújszállás – Dévaványa – Szeghalom,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4735,F6AC00,152B32,regional
 21,21_4738_1,4738,"Kisújszállás – Kisújszállás, Csorba",3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4738,F6AC00,152B32,regional
 21,21_4753_1,4753,"Tiszafüred – Tiszafüred, Kócsújfalu",3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4753,F6AC00,152B32,regional
 21,21_4755_1,4755,Tiszafüred – Tiszaörs – Nagyiván,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4755,F6AC00,152B32,regional
