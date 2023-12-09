@@ -2913,7 +2913,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 42-9700$,42-9700$_902_1,902,"Nyíregyháza, Szakiskola és Kollégium – Nyíregyháza, Szakiskola és Kollégium",3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_90E_1,90E,"Ipari Park, Electrolux – Révész-Michelin Logisztikai Központ",3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_90_1,90,"Ipari Park, Electrolux – Révész-Michelin Logisztikai Központ",3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
-42-9700$,42-9700$_918_1,918,Vasútállomás – Bessenyei tér – Sóstógyógyfürdő – Örökösföld – Vasútállomás,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_91_1,91,"Autóbusz-állomás – Ipari Park, Electrolux",3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_920_1,920,Vasútállomás – Bessenyei tér – Sóstógyógyfürdő – Örökösföld – Vasútállomás,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
 42-9700$,42-9700$_92_1,92,Sóstói úti kórház – LEGO,3,https://nyiregyhaza.volanbusz.hu/hu/,152B32,FFFFFF,local
