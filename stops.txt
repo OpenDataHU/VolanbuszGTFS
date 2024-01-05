@@ -13746,7 +13746,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 22771,"Moha, bejárati út",47.234091,18.327419,,,
 22772,"Mohács, ABC",45.991719,18.677247,,,
 22773,"Mohács, ABC",45.991768,18.676605,,,
-22776,"Mohács, autóbusz-állomás",45.989168,18.685914,,41599,
 22776_0,"Mohács, autóbusz-állomás",45.989168,18.685914,,41599,0
 22776_1,"Mohács, autóbusz-állomás",45.989168,18.685914,,41599,1
 22776_2,"Mohács, autóbusz-állomás",45.989168,18.685914,,41599,2
@@ -33690,7 +33689,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41142,Bácskai utca,47.190217,18.449823,,,
 41143,"Baja, autóbusz-állomás",46.183693,18.956124,1,,
 41144,"Baja, vonatkerti autóbusz-állomás",46.186077,18.957984,1,,
-41145,"Bakonybél, Petőfi utca",47.252138,17.728728,,,
 41146,"Baktalórántháza, Fő tér",47.997815,22.075692,1,,
 41147,"Balassagyarmat, autóbusz-állomás",48.083947,19.296898,1,,
 4115,"Bezeréd, templom",46.869658,17.013525,,,
@@ -33745,7 +33743,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41212,"Budapest, Beller Imre utca",47.561575,19.117494,,,
 41213,"Budapest, Beller Imre utca",47.561174,19.118853,,,
 41217,"Budapest (Csepel), Vermes Miklós utca",47.432208,19.066784,1,,
-41218,"Budapest, Déli pályaudvar",47.499362,19.024136,,,
 4122,"Biatorbágy, Alsómajor",47.451529,18.821301,,,
 41221,"Budapest, Erzsébet királyné útja, aluljáró",47.515741,19.092653,,,
 41223,"Budapest, Kelenföld vasútállomás",47.463567,19.022441,1,,
