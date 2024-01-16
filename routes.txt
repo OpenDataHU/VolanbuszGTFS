@@ -1956,7 +1956,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 21,21_657_1,657,Budapest – Taksony – Dunavarsány – Délegyháza – Kiskunlacháza – Kunszentmiklós,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2610,F6AC00,152B32,regional
 21,21_6580_1,6580,Lenti – Csesztreg – Szentgyörgyvölgy – Őriszentpéter – Zalalövő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6580,F6AC00,152B32,regional
 21,21_6585_1,6585,Lenti – Zalabaksa – Szilvágy – Zalalövő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6585,F6AC00,152B32,regional
-21,21_659_1,659,Budapest – Dunaharaszti – Taksony – Dunavarsány – Délegyháza – Kiskunlacháza – Kunszentm.,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2611,F6AC00,152B32,regional
 21,21_6600_1,6600,Szombathely – Perenye – Gencsapáti,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6600,F6AC00,152B32,regional
 21,21_6602_1,6602,Szombathely – Gencsapáti – Lukácsháza – Velem – Bozsok,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6602,F6AC00,152B32,regional
 21,21_6603_1,6603,Szombathely – Kőszeg,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6603,F6AC00,152B32,regional
