@@ -774,7 +774,7 @@ VB,VB_1362_1,1362,Eger – Heves – Jászberény – Kecskemét,200,https://www
 VB,VB_1369_1,1369,Ózd – Miskolc – Tiszaújváros – Hajdúnánás – Nyíregyháza,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1369,F6AC00,152B32,regional
 VB,VB_1370_1,1370,Miskolc – Polgár – Nyíregyháza,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1370,F6AC00,152B32,regional
 VB,VB_1372_1,1372,Miskolc – Polgár – Debrecen – Hajdúszoboszló,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1372,F6AC00,152B32,regional
-VB,VB_1373_1,1373,Miskolc – Tiszaújváros – M3 – Debrecen – Gyula,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1373,F6AC00,152B32,regional
+VB,VB_1373_1,1373,Miskolc – Tiszaújváros – M3 – Debrecen – Gyula,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1373,F6AC00,152B32,national
 VB,VB_1374_1,1374,Miskolc – Debrecen – Békéscsaba – Szeged,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1374,F6AC00,152B32,national
 VB,VB_1375_1,1375,Miskolc – Tiszafüred – Szeged,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1375,F6AC00,152B32,national
 VB,VB_1376_1,1376,Miskolc – Mezőkövesd – Jászberény – Kecskemét,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1376,F6AC00,152B32,national
@@ -2622,6 +2622,7 @@ VB,VB_6577_1,6577,Lenti – Csesztreg – Zalabaksa – Szilvágy,200,https://ww
 VB,VB_657_1,657,Budapest – Taksony – Dunavarsány – Délegyháza – Kiskunlacháza – Kunszentmiklós,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2610,F6AC00,152B32,regional
 VB,VB_6580_1,6580,Lenti – Csesztreg – Szentgyörgyvölgy – Őriszentpéter – Zalalövő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6580,F6AC00,152B32,regional
 VB,VB_6585_1,6585,Lenti – Zalabaksa – Szilvágy – Zalalövő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6585,F6AC00,152B32,regional
+VB,VB_659_1,659,Budapest – Dunaharaszti – Taksony – Dunavarsány – Délegyháza – Kiskunlacháza – Kunszentm.,200,,F6AC00,152B32,regional
 VB,VB_6600_1,6600,Szombathely – Perenye – Gencsapáti,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6600,F6AC00,152B32,regional
 VB,VB_6602_1,6602,Szombathely – Gencsapáti – Lukácsháza – Velem – Bozsok,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6602,F6AC00,152B32,regional
 VB,VB_6603_1,6603,Szombathely – Kőszeg,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6603,F6AC00,152B32,regional
