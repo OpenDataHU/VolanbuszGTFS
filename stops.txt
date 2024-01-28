@@ -3885,6 +3885,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 13428,"Halesz, bejárati út",46.674478,19.820680,,,
 13429,"Halesz, bejárati út",46.674453,19.820633,,,
 1343,"Ásotthalom, autóbusz-váróterem",46.199204,19.783223,,,
+13430,Haleszi szőlő,46.824744,20.184369,,,
 13431,Haleszi szőlő,46.824454,20.184601,,,
 13432,"Haleszi szőlő, autóbusz-forduló",46.825267,20.171747,,,
 13433,Haleszi szőlő bejárati út,46.819093,20.188779,,,
@@ -12508,7 +12509,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 2146,"Baksa, gyógynövényüzem",45.961712,18.103587,,,
 21460,"Mártély, községháza bejárati út",46.464306,20.244127,,,
 21461,"Mártély, községháza bejárati út",46.464830,20.243548,,,
-21462,"Martfű, autóbusz-váróterem",47.017826,20.284454,,100110,
 21462_1,"Martfű, autóbusz-váróterem",47.017826,20.284454,,100110,1
 21462_2,"Martfű, autóbusz-váróterem",47.017826,20.284454,,100110,2
 21463_3,"Martfű, autóbusz-váróterem",47.018225,20.284588,,100110,3
@@ -27731,6 +27731,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 35520,Táplánypuszta,47.642706,17.731144,,,
 35521,Táplánypuszta,47.643219,17.729897,,,
 35522,"Tapolca, Arany János utca",46.880178,17.443154,,,
+35524,"Tapolca, autóbusz-állomás",46.882759,17.435863,,100190,
 35524_0,"Tapolca, autóbusz-állomás",46.882759,17.435863,,100190,0
 35524_1,"Tapolca, autóbusz-állomás",46.882759,17.435863,,100190,1
 35524_2,"Tapolca, autóbusz-állomás",46.882759,17.435863,,100190,2
@@ -28804,7 +28805,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 36498,"Tiszaföldvár, Árvai József utca",46.982222,20.246511,,,
 365,"Agárd, Óvoda utca",47.188078,18.607952,,,
 3650,"Békéssámson, iskola",46.424054,20.618568,,,
-36502,"Tiszaföldvár, autóbusz-állomás",46.980442,20.254534,,100197,
 36502_1,"Tiszaföldvár, autóbusz-állomás",46.980442,20.254534,,100197,1
 36502_2,"Tiszaföldvár, autóbusz-állomás",46.980442,20.254534,,100197,2
 36502_3,"Tiszaföldvár, autóbusz-állomás",46.980442,20.254534,,100197,3
@@ -29846,7 +29846,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 37438,"Törökszentmiklós, Arany János utca",47.182171,20.426119,,,
 37439,"Törökszentmiklós, Arany János utca",47.182287,20.426308,,,
 3744,"Belezna, Kossuth utca 81.",46.320112,16.939297,,,
-37441,"Törökszentmiklós, autóbusz-állomás",47.179288,20.414151,,100202,
 37441_5,"Törökszentmiklós, autóbusz-állomás",47.179288,20.414151,,100202,5
 37441_6,"Törökszentmiklós, autóbusz-állomás",47.179288,20.414151,,100202,6
 37442_1,"Törökszentmiklós, autóbusz-állomás",47.179110,20.414111,,100202,1
@@ -33871,6 +33870,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41217,"Székesfehérvár, Repkény utca",47.179736,18.475052,,,
 4122,"Biatorbágy, Alsómajor",47.451529,18.821301,,,
 41221,Kőrösi utca,47.206233,18.352901,,,
+41228,"Szelevény, Kákis tanya",46.811345,20.168998,,,
 4123,"Biatorbágy, Alsómajor",47.451123,18.821978,,,
 41230,"Nyársapát, Hosszú-dűlő",47.094863,19.782916,,,
 41232,"Mözs, vasútállomás",46.414732,18.750305,,,
