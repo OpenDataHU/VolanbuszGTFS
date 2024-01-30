@@ -1,23 +1,24 @@
 agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color,route_network
-21-GÖ,21-GÖ_466_1,466,Autóbusz-állomás – Vasútállomás – Gödöllői Gépgyár,3,,152B32,FFFFFF,local
-21-GÖ,21-GÖ_468_1,468,Autóbusz-állomás – Klapka u. – Máriabesnyő – Autóbusz-állomás,3,,152B32,FFFFFF,local
-21-GÖ,21-GÖ_469_1,469,Autóbusz-állomás – Klapka u. – Máriabesnyő – Autóbusz-állomás,3,,152B32,FFFFFF,local
-21-GÖ,21-GÖ_470_1,470,Autóbusz-állomás – Babati u. – Királytelep – Autóbusz-állomás,3,,152B32,FFFFFF,local
-21-GÖ,21-GÖ_471_1,471,Autóbusz-állomás – Babati u. – Királytelep – Autóbusz-állomás,3,,152B32,FFFFFF,local
-21-GÖ,21-GÖ_472_1,472,Autóbusz-állomás – Babati u. – Királytelep – Autóbusz-állomás,3,,152B32,FFFFFF,local
-21-GÖ,21-GÖ_473_1,473,Autóbusz-állomás – Babati u. – Királytelep – Autóbusz-állomás,3,,152B32,FFFFFF,local
-21-GÖ,21-GÖ_474_1,474,Autóbusz-állomás – Királytelep – Klapka u. – Autóbusz-állomás,3,,152B32,FFFFFF,local
-21-GÖ,21-GÖ_475_1,475,Autóbusz-állomás – Mátyás kir. u. – Hegy u.,3,,152B32,FFFFFF,local
-21-GÖ,21-GÖ_476_1,476,Autóbusz-állomás – Királytelep – Hegy u. – Autóbusz-állomás,3,,152B32,FFFFFF,local
-21-GÖ,21-GÖ_477_1,477,Aut. áll. – Tessedik S. u. – Üzleti Park – Aut. áll.,3,,152B32,FFFFFF,local
-21-GÖ,21-GÖ_478_1,478,Aut. áll. – Tessedik S. u. – Üzleti Park – Aut. áll.,3,,152B32,FFFFFF,local
-21-GÖ,21-GÖ_479_1,479,Autóbusz-állomás – Haraszti ipari terület – Autóbusz-állomás,3,,152B32,FFFFFF,local
-21-VÁ,21-VÁ_360_1,360,Szérűskert – Nagymező u. – Kórház – Híradó tér,3,,152B32,FFFFFF,local
-21-VÁ,21-VÁ_361_1,361,Telep u. – Autóbusz-állomás – Szérűskert,3,,152B32,FFFFFF,local
-21-VÁ,21-VÁ_363_1,363,DDC – Autóbusz-állomás – Gombás – Sejce lakótelep,3,,152B32,FFFFFF,local
-21-VÁ,21-VÁ_364_1,364,Szérűskert – Autóbusz-állomás – Március 15. tér – Kórház – Autóbusz-állomás,3,,152B32,FFFFFF,local
-21-VÁ,21-VÁ_365_1,365,Autóbusz-állomás – Kórház – Március 15. tér – Autóbusz-állomás – Szérűskert,3,,152B32,FFFFFF,local
-21-VÁ,21-VÁ_366_1,366,Gombási út – Deákvár – Alsóváros,3,,152B32,FFFFFF,local
+21-ER,21-ER_706_1,706,Vasútállomás – Vásártér,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=706,152B32,FFFFFF,local
+21-GÖ,21-GÖ_466_1,466,Autóbusz-állomás – Vasútállomás – Gödöllői Gépgyár,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=466,152B32,FFFFFF,local
+21-GÖ,21-GÖ_468_1,468,Autóbusz-állomás – Klapka u. – Máriabesnyő – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=468,152B32,FFFFFF,local
+21-GÖ,21-GÖ_469_1,469,Autóbusz-állomás – Klapka u. – Máriabesnyő – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=468,152B32,FFFFFF,local
+21-GÖ,21-GÖ_470_1,470,Autóbusz-állomás – Babati u. – Királytelep – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=470,152B32,FFFFFF,local
+21-GÖ,21-GÖ_471_1,471,Autóbusz-állomás – Babati u. – Királytelep – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=470,152B32,FFFFFF,local
+21-GÖ,21-GÖ_472_1,472,Autóbusz-állomás – Babati u. – Királytelep – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=470,152B32,FFFFFF,local
+21-GÖ,21-GÖ_473_1,473,Autóbusz-állomás – Babati u. – Királytelep – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=470,152B32,FFFFFF,local
+21-GÖ,21-GÖ_474_1,474,Autóbusz-állomás – Királytelep – Klapka u. – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=474,152B32,FFFFFF,local
+21-GÖ,21-GÖ_475_1,475,Autóbusz-állomás – Mátyás kir. u. – Hegy u.,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=475,152B32,FFFFFF,local
+21-GÖ,21-GÖ_476_1,476,Autóbusz-állomás – Királytelep – Hegy u. – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=476,152B32,FFFFFF,local
+21-GÖ,21-GÖ_477_1,477,Aut. áll. – Tessedik S. u. – Üzleti Park – Aut. áll.,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=477,152B32,FFFFFF,local
+21-GÖ,21-GÖ_478_1,478,Aut. áll. – Tessedik S. u. – Üzleti Park – Aut. áll.,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=477,152B32,FFFFFF,local
+21-GÖ,21-GÖ_479_1,479,Autóbusz-állomás – Haraszti ipari terület – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=479,152B32,FFFFFF,local
+21-VÁ,21-VÁ_360_1,360,Szérűskert – Nagymező u. – Kórház – Híradó tér,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=360,152B32,FFFFFF,local
+21-VÁ,21-VÁ_361_1,361,Telep u. – Autóbusz-állomás – Szérűskert,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=361,152B32,FFFFFF,local
+21-VÁ,21-VÁ_363_1,363,DDC – Autóbusz-állomás – Gombás – Sejce lakótelep,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=363,152B32,FFFFFF,local
+21-VÁ,21-VÁ_364_1,364,Szérűskert – Autóbusz-állomás – Március 15. tér – Kórház – Autóbusz-állomás,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=364,152B32,FFFFFF,local
+21-VÁ,21-VÁ_365_1,365,Autóbusz-állomás – Kórház – Március 15. tér – Autóbusz-állomás – Szérűskert,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=365,152B32,FFFFFF,local
+21-VÁ,21-VÁ_366_1,366,Gombási út – Deákvár – Alsóváros,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=366,152B32,FFFFFF,local
 40-BA,40-BA_1_1,1,Vámház – Dobó István utcai forduló – Barátság téri iskola – Déri Frigyes sétány,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/baja,152B32,FFFFFF,local
 40-BA,40-BA_2_1,2,Vasutastelep – Dobó István utcai forduló – Vámház – Déri Frigyes sétány,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/baja,152B32,FFFFFF,local
 40-BA,40-BA_3_1,3,Déri sétány – Gólya sor,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/baja,152B32,FFFFFF,local
@@ -2812,7 +2813,6 @@ VB,VB_7063_1,7063,Győr – Csorna – Rábapordány – Rábacsanak/Egyed,200,h
 VB,VB_7065_1,7065,Győr – Enese – Kisbabot – Mórichida – Árpás,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7065,F6AC00,152B32,regional
 VB,VB_7068_1,7068,Győr – Csorna – Kapuvár – Fertődszentmiklós – Fertőd,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7068,F6AC00,152B32,regional
 VB,VB_7069_1,7069,"Győr,Audi – gyár – Csorna – Kapuvár",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7069,F6AC00,152B32,regional
-VB,VB_706_1,706,Vasútállomás – Vásártér,3,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=8706,F6AC00,152B32,local
 VB,VB_7070_1,7070,Győr – Enese – Kóny – Csorna,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7070,F6AC00,152B32,regional
 VB,VB_7071_1,7071,Győr – Csorna – Kapuvár – Sopron,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7071,F6AC00,152B32,regional
 VB,VB_7072_1,7072,Győr – Csorna – Kapuvár – Petőháza – Sopron,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7072,F6AC00,152B32,regional
