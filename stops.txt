@@ -3605,7 +3605,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 13170,"Hajdúböszörmény, hajdúvidi elágazás",47.748235,21.509318,,,
 13171,"Hajdúböszörmény, hajdúvidi elágazás",47.746946,21.509363,,,
 13172,"Hajdúböszörmény, ipartelep",47.678679,21.534187,,,
-13175,"Hajdúböszörmény, Kálvin tér",47.669034,21.512941,,100063,
 13175_1,"Hajdúböszörmény, Kálvin tér",47.669034,21.512941,,100063,1
 13175_2,"Hajdúböszörmény, Kálvin tér",47.669034,21.512941,,100063,2
 13176_3,"Hajdúböszörmény, Kálvin tér",47.668894,21.513382,,100063,3
@@ -12484,6 +12483,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 2146,"Baksa, gyógynövényüzem",45.961712,18.103587,,,
 21460,"Mártély, községháza bejárati út",46.464306,20.244127,,,
 21461,"Mártély, községháza bejárati út",46.464830,20.243548,,,
+21462,"Martfű, autóbusz-váróterem",47.017826,20.284454,,100110,
 21462_1,"Martfű, autóbusz-váróterem",47.017826,20.284454,,100110,1
 21462_2,"Martfű, autóbusz-váróterem",47.017826,20.284454,,100110,2
 21463_3,"Martfű, autóbusz-váróterem",47.018225,20.284588,,100110,3
@@ -20120,7 +20120,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 28560,"Polány, posta",46.556637,17.772701,,,
 28561,"Polgár, 41-es km-kő (3315. sz. út)",47.821771,21.129027,,,
 28562,"Polgár, 41-es km-kő (3315. sz. út)",47.821779,21.128974,,,
-28564,"Polgár, autóbusz-váróterem",47.871421,21.114579,,100149,
 28564_1,"Polgár, autóbusz-váróterem",47.871421,21.114579,,100149,1
 28564_2,"Polgár, autóbusz-váróterem",47.871421,21.114579,,100149,2
 28564_3,"Polgár, autóbusz-váróterem",47.871421,21.114579,,100149,3
@@ -28751,6 +28750,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 36498,"Tiszaföldvár, Árvai József utca",46.982222,20.246511,,,
 365,"Agárd, Óvoda utca",47.188078,18.607952,,,
 3650,"Békéssámson, iskola",46.424054,20.618568,,,
+36502,"Tiszaföldvár, autóbusz-állomás",46.980442,20.254534,,100197,
 36502_1,"Tiszaföldvár, autóbusz-állomás",46.980442,20.254534,,100197,1
 36502_2,"Tiszaföldvár, autóbusz-állomás",46.980442,20.254534,,100197,2
 36502_3,"Tiszaföldvár, autóbusz-állomás",46.980442,20.254534,,100197,3
@@ -29792,6 +29792,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 37438,"Törökszentmiklós, Arany János utca",47.182171,20.426119,,,
 37439,"Törökszentmiklós, Arany János utca",47.182287,20.426308,,,
 3744,"Belezna, Kossuth utca 81.",46.320112,16.939297,,,
+37441,"Törökszentmiklós, autóbusz-állomás",47.179288,20.414151,,100202,
 37441_5,"Törökszentmiklós, autóbusz-állomás",47.179288,20.414151,,100202,5
 37441_6,"Törökszentmiklós, autóbusz-állomás",47.179288,20.414151,,100202,6
 37442_1,"Törökszentmiklós, autóbusz-állomás",47.179110,20.414111,,100202,1
