@@ -18115,6 +18115,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 26690,Orvosi rendelő,46.823576,21.026029,,,
 26691,"Ősagárd, Kossuth utca",47.860533,19.188168,,,
 26692,"Ősagárd, Kossuth utca",47.860659,19.187568,,,
+26693,"Ősagárd, orvosi rendelő",47.856703,19.197925,,,
 26694,"Ősagárd, orvosi rendelő",47.856754,19.197586,,,
 26695,"Ősagárd, Rákóczi utca 51.",47.859104,19.191812,,,
 26696,"Ősagárd, Rákóczi utca 51.",47.858792,19.192744,,,
@@ -27662,6 +27663,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 35520,Táplánypuszta,47.642706,17.731144,,,
 35521,Táplánypuszta,47.643219,17.729897,,,
 35522,"Tapolca, Arany János utca",46.880178,17.443154,,,
+35524,"Tapolca, autóbusz-állomás",46.882759,17.435863,,100189,
 35524_0,"Tapolca, autóbusz-állomás",46.882759,17.435863,,100189,0
 35524_1,"Tapolca, autóbusz-állomás",46.882759,17.435863,,100189,1
 35524_2,"Tapolca, autóbusz-állomás",46.882759,17.435863,,100189,2
@@ -33766,7 +33768,9 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41173,"Rád, Rákóczi út 32.",47.795215,19.221056,,,
 4118,"Bezi, malom",47.669544,17.409374,,,
 4119,"Bezi, malom",47.669739,17.409069,,,
+41197,"Szirák, Szőlők",47.830283,19.507600,,,
 4120,"Biatorbágy, ALPINE",47.468028,18.874750,,,
+41202,"Bakonybél, Petőfi utca",47.252138,17.728728,,,
 4121,"Biatorbágy, ALPINE",47.468226,18.874734,,,
 41213,Bácskai utca,47.190217,18.449823,,,
 41216,"Komárom, TESCO áruház",47.746898,18.118678,,,
@@ -35609,6 +35613,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5406_6,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,100030,6
 5406_7,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,100030,7
 5406_8,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,100030,8
+5406_99,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,100030,99
 5407,"Budapest, Ungvári utca",47.587483,19.082200,,,
 5408,"Budapest, Ungvári utca",47.587424,19.081916,,,
 5409,"Budapest, Ürömhegyi út",47.577790,19.010037,,,
