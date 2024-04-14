@@ -232,7 +232,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 100028_3,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,100028,3
 100028_4,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,100028,4
 100028_5,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,100028,5
-100028_50,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,100028,50
 100028_7,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,100028,7
 100028_8,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,100028,8
 100028_9,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,100028,9
@@ -1227,7 +1226,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 100142_1,"Pacsa, autóbusz-állomás",46.722425,17.008861,,100142,1
 100142_2,"Pacsa, autóbusz-állomás",46.722425,17.008861,,100142,2
 100142_3,"Pacsa, autóbusz-állomás",46.722425,17.008861,,100142,3
-100142_4,"Pacsa, autóbusz-állomás",46.722425,17.008861,,100142,4
 100143,"Paks, autóbusz-állomás",46.620037,18.858569,1,,
 100143_1,"Paks, autóbusz-állomás",46.620037,18.858569,,100143,1
 100143_10,"Paks, autóbusz-állomás",46.620037,18.858569,,100143,10
@@ -34009,6 +34007,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41112,"Zubogy, Ságvári Endre utca 22.",48.375588,20.581206,,,
 41113,"Marcali, Kossuth Lajos utca",46.582989,17.412802,,,
 41117,"Szűcsi, Széchenyi István utca",47.799665,19.760253,,,
+41118,"Lőrinci, Temető",47.735475,19.690893,,,
 41119,"Mátramindszent, faluszéle",47.990760,19.935350,,,
 4112,"Bezeréd, Petőfi utca 1.",46.869022,17.007438,,,
 41121,"Pacsa, Vásár tér",46.727825,17.003222,,,
@@ -34052,9 +34051,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41173,"Rád, Rákóczi út 32.",47.795215,19.221056,,,
 4118,"Bezi, malom",47.669544,17.409374,,,
 4119,"Bezi, malom",47.669739,17.409069,,,
-41197,"Szirák, Szőlők",47.830283,19.507600,,,
 4120,"Biatorbágy, ALPINE",47.468028,18.874750,,,
-41202,"Bakonybél, Petőfi utca",47.252138,17.728728,,,
 4121,"Biatorbágy, ALPINE",47.468226,18.874734,,,
 41213,Bácskai utca,47.190217,18.449823,,,
 41216,"Komárom, TESCO áruház",47.746898,18.118678,,,
@@ -34063,7 +34060,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41221,Kőrösi utca,47.206233,18.352901,,,
 4123,"Biatorbágy, Alsómajor",47.451123,18.821978,,,
 41232,"Mözs, vasútállomás",46.414732,18.750305,,,
-41233,"Budapest, Déli pályaudvar",47.499362,19.024136,,,
 41236,"Eger, Törvényszék",47.899133,20.370181,,,
 41237,"Petőfibánya, Rózsaszentmártoni út",47.766580,19.702703,,,
 41238,"Zalaegerszeg, Rheinmetall",46.886786,16.829846,,,
@@ -34363,6 +34359,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41721,"Surány, Holló utca",47.700148,19.104822,,,
 41722,"Surány, Holló utca",47.700438,19.105057,,,
 41723,"Biatorbágy, Innovatív Technikum és Gimnázium",47.478877,18.811565,,,
+41725,"Szigetcsép, HÉV-állomás",47.270242,18.956388,,,
 41726,"Murony, Arany J. u.",46.760711,21.040709,,,
 41727,"Murony, Arany J. u.",46.760529,21.040336,,,
 41729,"Balassagyarmat, vasútállomás",48.071267,19.292902,,,
@@ -34602,7 +34599,9 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 42484,"Dunavecse, Schneider Electric Kft.",46.917571,18.992457,,,
 42486,"Mórahalom, Ökoszállás",46.171793,19.913558,,,
 42487,"Sándorfalva, Szabadság tér",46.360865,20.097939,,,
+42488,"Cigánd, autóbusz-forduló",48.251150,21.896916,,,
 4249,"Bikal, községháza",46.331934,18.285564,,,
+42490,"Cigánd, Hősök tere",48.255163,21.889240,,,
 425,"Ajak, Rákóczi utca 26.",48.180725,22.057080,,,
 4250,"Bikal, Szabadság utca 25.",46.334137,18.294342,,,
 4251,"Bikal, Szabadság utca 25.",46.334131,18.294101,,,
@@ -36333,10 +36332,8 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 5919,"Cigánd, Árpád utca",48.261605,21.881970,,,
 592,Akác úti ABC,46.998806,20.601505,,,
 5920,"Cigánd, Árpád utca",48.261603,21.882108,,,
-5921,"Cigánd, autóbusz-forduló",48.254928,21.892297,,,
 5922,"Cigánd, Felszabadulás utca",48.259057,21.871525,,,
 5923,"Cigánd, Felszabadulás utca",48.259128,21.871588,,,
-5924,"Cigánd, Hősök tere",48.256260,21.891715,,,
 5925,"Cigánd, Hősök tere",48.256102,21.891754,,,
 5926,Cigándi útelágazás,48.337895,21.875035,,,
 5927,Cigándi útelágazás,48.338226,21.875690,,,
