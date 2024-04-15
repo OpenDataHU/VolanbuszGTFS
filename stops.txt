@@ -264,6 +264,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 100030_7,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,100030,7
 100030_8,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,100030,8
 100030_9,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,100030,9
+100030_99,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,100030,99
 100031,"Bükfürdő, autóbusz-állomás",47.379363,16.787834,1,,
 100031_1,"Bükfürdő, autóbusz-állomás",47.379363,16.787834,,100031,1
 100031_2,"Bükfürdő, autóbusz-állomás",47.379363,16.787834,,100031,2
@@ -34051,7 +34052,9 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41173,"Rád, Rákóczi út 32.",47.795215,19.221056,,,
 4118,"Bezi, malom",47.669544,17.409374,,,
 4119,"Bezi, malom",47.669739,17.409069,,,
+41197,"Szirák, Szőlők",47.830283,19.507600,,,
 4120,"Biatorbágy, ALPINE",47.468028,18.874750,,,
+41202,"Bakonybél, Petőfi utca",47.252138,17.728728,,,
 4121,"Biatorbágy, ALPINE",47.468226,18.874734,,,
 41213,Bácskai utca,47.190217,18.449823,,,
 41216,"Komárom, TESCO áruház",47.746898,18.118678,,,
