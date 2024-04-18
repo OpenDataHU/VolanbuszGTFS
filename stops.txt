@@ -265,7 +265,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 100030_7,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,100030,7
 100030_8,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,100030,8
 100030_9,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,100030,9
-100030_99,"Budapest, Újpest-Városkapu XIII. kerület",47.558879,19.078711,,100030,99
 100031,"Bükfürdő, autóbusz-állomás",47.379363,16.787834,1,,
 100031_1,"Bükfürdő, autóbusz-állomás",47.379363,16.787834,,100031,1
 100031_2,"Bükfürdő, autóbusz-állomás",47.379363,16.787834,,100031,2
@@ -34063,8 +34062,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41217,"Székesfehérvár, Repkény utca",47.179736,18.475052,,,
 4122,"Biatorbágy, Alsómajor",47.451529,18.821301,,,
 41221,Kőrösi utca,47.206233,18.352901,,,
-41224,"Répáshuta, Bánya-hegyi elágazás",48.058609,20.505516,,,
-41225,"Bükkzsérc, Pazsag turistaház bejárati út",48.042389,20.492460,,,
 4123,"Biatorbágy, Alsómajor",47.451123,18.821978,,,
 41232,"Mözs, vasútállomás",46.414732,18.750305,,,
 41233,"Budapest, Déli pályaudvar",47.499362,19.024136,,,
@@ -38377,7 +38374,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 7834,"Diósd, törökbálinti elágazás",47.410619,18.956383,,,
 7835,"Diósd, Valéria utca",47.414107,18.932722,,,
 7836,"Diósd, Valéria utca",47.414089,18.932652,,,
-7837,"Diósjenő, Arany János út",47.945908,19.034339,,,
 7838,"Diósjenő, Arany János út",47.945908,19.034063,,,
 7839,"Diósjenő, Hantai dűlő",47.922307,19.067738,,,
 784,"Alibánfa, templom",46.885266,16.920432,,,
@@ -40435,7 +40431,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 9878,"Etyek, Palatinus utca",47.444436,18.745155,,,
 9879,"Etyek, Vért erdészlak",47.444464,18.726069,,,
 988,"Alsórajk, Béke utca 44.",46.658292,16.995759,,,
-9880,"Etyek, Vért erdészlak",47.444372,18.726425,,,
 9881,Európa Ipari Park,47.212865,18.428898,,,
 9884,Éva utca,47.154559,20.213540,,,
 9885,Éva utca,47.154468,20.213519,,,
