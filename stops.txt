@@ -232,7 +232,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 100028_3,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,100028,3
 100028_4,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,100028,4
 100028_5,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,100028,5
-100028_50,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,100028,50
 100028_7,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,100028,7
 100028_8,"Budapest, Népliget autóbusz-pályaudvar",47.474315,19.097822,,100028,8
 100028_9,"Budapest, Népliget autóbusz-pályaudvar",47.474420,19.098804,,100028,9
@@ -1227,7 +1226,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 100142_1,"Pacsa, autóbusz-állomás",46.722425,17.008861,,100142,1
 100142_2,"Pacsa, autóbusz-állomás",46.722425,17.008861,,100142,2
 100142_3,"Pacsa, autóbusz-állomás",46.722425,17.008861,,100142,3
-100142_4,"Pacsa, autóbusz-állomás",46.722425,17.008861,,100142,4
 100143,"Paks, autóbusz-állomás",46.620037,18.858569,1,,
 100143_1,"Paks, autóbusz-állomás",46.620037,18.858569,,100143,1
 100143_10,"Paks, autóbusz-állomás",46.620037,18.858569,,100143,10
@@ -34053,9 +34051,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41173,"Rád, Rákóczi út 32.",47.795215,19.221056,,,
 4118,"Bezi, malom",47.669544,17.409374,,,
 4119,"Bezi, malom",47.669739,17.409069,,,
-41197,"Szirák, Szőlők",47.830283,19.507600,,,
 4120,"Biatorbágy, ALPINE",47.468028,18.874750,,,
-41202,"Bakonybél, Petőfi utca",47.252138,17.728728,,,
 4121,"Biatorbágy, ALPINE",47.468226,18.874734,,,
 41213,Bácskai utca,47.190217,18.449823,,,
 41216,"Komárom, TESCO áruház",47.746898,18.118678,,,
@@ -34064,7 +34060,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 41221,Kőrösi utca,47.206233,18.352901,,,
 4123,"Biatorbágy, Alsómajor",47.451123,18.821978,,,
 41232,"Mözs, vasútállomás",46.414732,18.750305,,,
-41233,"Budapest, Déli pályaudvar",47.499362,19.024136,,,
 41236,"Eger, Törvényszék",47.899133,20.370181,,,
 41237,"Petőfibánya, Rózsaszentmártoni út",47.766580,19.702703,,,
 41238,"Zalaegerszeg, Rheinmetall",46.886786,16.829846,,,
