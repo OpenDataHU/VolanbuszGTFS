@@ -105,6 +105,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 100012_5,"Balatonalmádi, autóbusz-állomás",47.030277,18.015144,,100012,5
 100012_6,"Balatonalmádi, autóbusz-állomás",47.030277,18.015144,,100012,6
 100013,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,1,,
+100013_0,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,100013,0
 100013_1,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,100013,1
 100013_2,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,100013,2
 100013_3,"Balatonfüred, autóbusz-állomás",46.955554,17.883016,,100013,3
@@ -445,6 +446,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 100052,"Esztergom, vasútállomás",47.779089,18.743161,1,,
 100052_0,"Esztergom, vasútállomás",47.779097,18.743071,,100052,0
 100052_1,"Esztergom, vasútállomás",47.779097,18.743071,,100052,1
+100052_10,"Esztergom, vasútállomás",47.779089,18.743161,,100052,10
 100052_11,"Esztergom, vasútállomás",47.779097,18.743071,,100052,11
 100052_12,"Esztergom, vasútállomás",47.779097,18.743071,,100052,12
 100052_2,"Esztergom, vasútállomás",47.779097,18.743071,,100052,2
@@ -620,7 +622,6 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 100069_99,"Heves, autóbusz-állomás",47.593708,20.281006,,100069,99
 10007,"Farkaslyuk, Eperjes dülő",48.192872,20.300433,,,
 100070,"Hévíz, autóbusz-állomás",46.793002,17.192345,1,,
-100070_0,"Hévíz, autóbusz-állomás",46.793002,17.192345,,100070,0
 100070_1,"Hévíz, autóbusz-állomás",46.793002,17.192345,,100070,1
 100070_2,"Hévíz, autóbusz-állomás",46.793002,17.192345,,100070,2
 100070_3,"Hévíz, autóbusz-állomás",46.793002,17.192345,,100070,3
@@ -777,6 +778,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 100085_7,"Kecskemét, Daimler 1. kapu",46.869306,19.716998,,100085,7
 100085_8,"Kecskemét, Daimler 1. kapu",46.869306,19.716998,,100085,8
 100086,"Keszthely, autóbusz-állomás",46.757972,17.246481,1,,
+100086_0,"Keszthely, autóbusz-állomás",46.757972,17.246481,,100086,0
 100086_1,"Keszthely, autóbusz-állomás",46.757964,17.246476,,100086,1
 100086_2,"Keszthely, autóbusz-állomás",46.757964,17.246476,,100086,2
 100086_3,"Keszthely, autóbusz-állomás",46.757964,17.246476,,100086,3
@@ -1492,6 +1494,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 100171_9,"Szeged, autóbusz-állomás",46.257061,20.140881,,100171,9
 100171_90,"Szeged, autóbusz-állomás",46.257061,20.140881,,100171,90
 100172,"Székesfehérvár, autóbusz-állomás",47.188699,18.409320,1,,
+100172_0,"Székesfehérvár, autóbusz-állomás",47.188699,18.409320,,100172,0
 100172_1,"Székesfehérvár, autóbusz-állomás",47.188699,18.409320,,100172,1
 100172_10,"Székesfehérvár, autóbusz-állomás",47.188699,18.409320,,100172,10
 100172_11,"Székesfehérvár, autóbusz-állomás",47.188699,18.409320,,100172,11
@@ -1786,6 +1789,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 100205,"Vajszló, autóbusz-váróterem",45.861591,17.988002,1,,
 100205_1,"Vajszló, autóbusz-váróterem",45.861591,17.988002,,100205,1
 100206,"Várpalota, autóbusz-állomás",47.202703,18.146133,1,,
+100206_0,"Várpalota, autóbusz-állomás",47.202703,18.146133,,100206,0
 100206_1,"Várpalota, autóbusz-állomás",47.202703,18.146133,,100206,1
 100206_10,"Várpalota, autóbusz-állomás",47.202703,18.146133,,100206,10
 100206_11,"Várpalota, autóbusz-állomás",47.202703,18.146133,,100206,11
@@ -20129,6 +20133,7 @@ stop_id,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code
 27778,"Páty, Arany János utca",47.519818,18.833074,,,
 27779,"Páty, Arany János utca",47.519765,18.833089,,,
 2778,Balinkabánya bejárati út,47.319412,18.157662,,,
+27780,"Páty, autóbusz-forduló",47.511957,18.811399,,,
 27781,"Páty, erdészház",47.525673,18.835850,,,
 27782,"Páty, erdészház",47.525889,18.835931,,,
 27783,Patyi-dűlő,46.694291,19.793742,,,
