@@ -130,7 +130,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_c
 41-96,41-96_1_1,1,Autóbusz-állomás – Balatonszéplak alsó vasúti megállóhely,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/siofok,152B32,FFFFFF,local
 41-96,41-96_21_1,21,Darnay Kálmán tér – Perczel Mór utca,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/siofok,152B32,FFFFFF,local
 41-96,41-96_24_1,24,"Autóbusz-állomás – Sóstó, kemping",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/siofok,152B32,FFFFFF,local
-41-96,41-96_2A_1,2A,"Gábor Áron utca – Sóstó, kemping",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/siofok,152B32,FFFFFF,local
 41-96,41-96_2_1,2,"Gábor Áron utca – Sóstó, kemping",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/siofok,152B32,FFFFFF,local
 41-96,41-96_3_1,3,Autóbusz-állomás – Volán-telep / Somlay Artúr utca,3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/siofok,152B32,FFFFFF,local
 41-96,41-96_4_1,4,"Kiliti, Béke tér – Autóbusz-állomás",3,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/siofok,152B32,FFFFFF,local
@@ -2046,7 +2045,6 @@ VB,VB_5252_1,5252,Kiskunfélegyháza – Tiszaalpár – Tiszakécske,200,https:
 VB,VB_5253_1,5253,Kiskunfélegyháza – Tiszaalpár – Lakitelek,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5253,F6AC00,152B32,regional
 VB,VB_5255_1,5255,Kecskemét – Kiskunfélegyháza – Csongrád – Szentes,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5255,F6AC00,152B32,regional
 VB,VB_5256_1,5256,Kiskunfélegyháza – Petőfiszállás,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5256,F6AC00,152B32,regional
-VB,VB_5257_1,5257,Kiskunfélegyháza – Petőfiszálás,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5257,F6AC00,152B32,regional
 VB,VB_5258_1,5258,"Kecskemét – Kiskunfélegyháza, Szegedi u.",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5258,F6AC00,152B32,regional
 VB,VB_5259_1,5259,Kiskunfélegyháza – Gátér,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5259,F6AC00,152B32,regional
 VB,VB_525_1,525,Cegléd – Tápiószőlős – Újszilvás – Farmos – Nagykáta,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2415,F6AC00,152B32,regional
@@ -2625,7 +2623,6 @@ VB,VB_636_1,636,Budapest – Alsónémedi – Ócsa,200,https://www.volanbusz.hu
 VB,VB_6370_1,6370,Keszthely – Hévíz – Zalaapáti,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6370,F6AC00,152B32,regional
 VB,VB_6372_1,6372,Hévíz – Felsőpáhok – Zalaköszvényes,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6372,F6AC00,152B32,regional
 VB,VB_6373_1,6373,Hévíz – Keszthely – Balatonszentgyörgy,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6373,F6AC00,152B32,regional
-VB,VB_6374_1,6374,Keszthely – Balatonszentgyörgy – Balatonboglár – Siófok,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6374,F6AC00,152B32,regional
 VB,VB_6375_1,6375,Keszthely – Hévíz – Alsópáhok – Zalaszabar/Balatonmagyaród,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6375,F6AC00,152B32,regional
 VB,VB_6377_1,6377,Pacsa – Zalaszentmárton – Dióskál – Zalaszabar – Zalavár – Sármellék,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6377,F6AC00,152B32,regional
 VB,VB_6383_1,6383,"Hévíz, aut.áll. – Móricz Zsigmond lakótelep – Hévíz, aut.áll.",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6383,F6AC00,152B32,regional
