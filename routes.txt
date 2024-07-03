@@ -21,7 +21,6 @@ hkir_V-03115,hkir_V-03115-H-3-33,33,Pálhalma - Domanovszky tér - Autóbusz-ál
 hkir_V-03115,hkir_V-03115-H-3-35,35,Pálhalma - Ujtelep - TESCO - Szórád M.út - Autóbusz-állomás - Római krt. - TESCO - Ujtelep - Pálhalma,3,,152B32,FFFFFF,local
 hkir_V-03115,hkir_V-03115-H-3-40,40,"Békeváros,Bagolyvár - Hajnal u. - Autóbusz-állomás - Római krt. - Bocskai u. - Hajnal u. - Békeváros,Bagolyvár",3,,152B32,FFFFFF,local
 hkir_V-03115,hkir_V-03115-H-3-44,44,Békeváros - Bocskai u. - Autóbusz-állomás - Ferrobeton - Papírgyár,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-5,5,Kertváros - Bocskai u. - Szórád M.út - Autóbusz-állomás - Római krt. - Ujtelep - Békeváros - Volán-telep,3,,152B32,FFFFFF,local
 hkir_V-03115,hkir_V-03115-H-3-8,8,Kokszvegyészet - Autóbusz-állomás - Szórád M.út - Vasmű út - Kokszvegyészet,3,,152B32,FFFFFF,local
 hkir_V-03522,hkir_V-03522-H-3-1,1,Déri sétány - Vámház - Dobó István utcai forduló - Barátság téri iskola - Déri sétány,3,,152B32,FFFFFF,local
 hkir_V-03522,hkir_V-03522-H-3-2,2,Déri sétány - Vasutas telep - Dobó István utcai forduló - Vámház - Déri sétány,3,,152B32,FFFFFF,local
@@ -206,8 +205,6 @@ hkir_V-14827,hkir_V-14827-H-3-22,22,Jancsár u. - Budai út - Kisfalud,3,,152B32
 hkir_V-14827,hkir_V-14827-H-3-23,23,Jancsár u. - Vá. - Budai út - Európa IP.,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-23E,23E,Jancsár u. - Budai út - Fiskális út - Videoton,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-24,24,Jancsár utca - Zsolnai út,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-25,25,Jancsár utca - Püspökkertváros,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-26,26,Jancsár u. - Autóbusz-állomás - Berényi út - Béla u.- Nagyszombati u.,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-26A,26A,Jancsár u. - Autóbusz-állomás - Berényi út - Kassai u.,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-26C,26C,Csala - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-26G,26G,Autóbusz-állomás - Berényi út - Videoton,3,,152B32,FFFFFF,local
@@ -289,9 +286,7 @@ hkir_V-17206,hkir_V-17206-H-3-8E,8E,Vasútállomás - Sóstói úti kórház - S
 hkir_V-17206,hkir_V-17206-H-3-8T,8T,Vasútállomás - Szódaház utca - Fürdő utca (játszóház),3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-9,9,Örökösföld - Kórház - Búza tér - Huszár telep,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-90,90,"Autóbusz-állomás - Ipari park, Electrolux",3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-900,900,Vasútállomás - Jósaváros - Sóstógyógyfürdő - Jósaváros - Örökösföld - Vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-901,901,Szakiskola és Kollégium - Vasútállomás - Jósaváros - Örök,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-902,902,Vasútállomás - Szakiskola és Kollégium - Jósaváros - Örök,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-90E,90E,Sóstói úti kórház - - Autóbusz-állomás - - Révész - Michelin Logisztikai Központ,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-91,91,"Autóbusz-állomás - Ipari park, Electrolux",3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-92,92,Sóstói úti kórház - Jósaváros - LEGO,3,,152B32,FFFFFF,local
@@ -330,7 +325,6 @@ hkir_V-17631,hkir_V-17631-H-3-N5,N5,"Autóbusz-állomás - Szépvölgyi u. - Kil
 hkir_V-17941,hkir_V-17941-H-3-1,1,"Autóbusz-állomás - Henész, forduló",3,,152B32,FFFFFF,local
 hkir_V-17941,hkir_V-17941-H-3-4,4,Autóbusz-állomás - Kivadár,3,,152B32,FFFFFF,local
 hkir_V-17941,hkir_V-17941-H-3-5,5,Autóbusz-állomás - Éltes Mátyás Iskola,3,,152B32,FFFFFF,local
-hkir_V-18209,hkir_V-18209-H-3-1,1,Hatvani út - Autóbusz-állomás - Platán u. - Szent István krt - Kórház - Vasútállomás - Electrolux,3,,152B32,FFFFFF,local
 hkir_V-18209,hkir_V-18209-H-3-2A,2A,Autóbusz-állomás - Szt. István krt.,3,,152B32,FFFFFF,local
 hkir_V-18421,hkir_V-18421-H-3-1,1,"Autóbusz-állomás - Kórház - Gyenesdiás, sportpálya",3,,152B32,FFFFFF,local
 hkir_V-18421,hkir_V-18421-H-3-2,2,Autóbusz-állomás - Vaszary utca - Fodor utca - Autóbusz-állomás,3,,152B32,FFFFFF,local
@@ -421,7 +415,6 @@ hkir_V-25131,hkir_V-25131-H-3-A,A,Vá. - Földműves - Kertváros,3,,152B32,FFFF
 hkir_V-25131,hkir_V-25131-H-3-B,B,Kertváros - Földműves - Vá.,3,,152B32,FFFFFF,local
 hkir_V-25131,hkir_V-25131-H-3-C,C,Vá. - Bámoni - Kertváros - Vá.,3,,152B32,FFFFFF,local
 hkir_V-25131,hkir_V-25131-H-3-G,G,Vá. - Dobozi - Vá.,3,,152B32,FFFFFF,local
-hkir_V-25131,hkir_V-25131-H-3-N,N,Vá. - Dobozi - Vá.,3,,152B32,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-1,1,"Gyirmót - Ménfőcsanak - Marcalváros - Pápai út - Belváros - Újváros, Nép utca",3,,152B32,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-11,11,"Marcalváros - Adyváros - Belváros - Sziget - Egyetem - Bácsa, Ergényi lakótelep",3,,152B32,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-11Y,11Y,"Marcalváros - Adyváros - Belváros - Bácsa, Ergényi lakótelep",3,,152B32,FFFFFF,local
@@ -571,11 +564,9 @@ hkir_V-27854,hkir_V-27854-H-3-34,34,Hild Viktor utca - Ipari Park - Vegyiművek,
 hkir_V-27854,hkir_V-27854-H-3-34A,34A,Vasútállomás - Ipari Park - Piroska vmh.,3,,152B32,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-34B,34B,Széchenyi lakótelep - Repülőtér,3,,152B32,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-34E,34E,Hild Viktor utca - Vegyiművek,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-35,35,Tallinn városrész - Üteg utca - Kőrösi út,3,,152B32,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-36,36,"Tallinn városrész - Tiszaliget, Campus",3,,152B32,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-37,37,Tallinn városrész - Repülőtér - Tallinn városrész,3,,152B32,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-41,41,Repülőtér - Hild Viktor utca,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-44,44,Autóbusz-állomás - Véső úti Strand,3,,152B32,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-5,5,Tallinn városrész - Rákóczi út - Cukorgyári lakótelep,3,,152B32,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-6,6,Vasútállomás - Alamand dűlő,3,,152B32,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-6Y,6Y,Vasútállomás - Holt-Tiszapart,3,,152B32,FFFFFF,local
@@ -613,7 +604,6 @@ hkir_V-30933,hkir_V-30933-H-3-46,46,Városkapu krt.- Kk. Templom - Kk. Bornemiss
 hkir_V-30933,hkir_V-30933-H-3-4A,4A,"Autóbusz-állomás - Nagyrác - Kiskanizsa, Bornemissza utca",3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-4Y,4Y,"Autóbusz-állomás - Templom tér - Nagyrác - Kiskanizsa, Bornemissza utca",3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-5,5,Vá. - Kalmár utca - Hevesi u - Kalmár utca,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-5Y,5Y,Vasút - Kalmár u - Hevesi u. - Kalmár u.,3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-6,6,"Városkapu körút - Eötvös tér - Kiskanizsa, Rozmaring utca",3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-6A,6A,"Városkapu körút - Rózsa utca - Kiskanizsa, temető",3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-6E,6E,"Városkapu - Kalmár u. - Kiskanizsa, temető",3,,152B32,FFFFFF,local
@@ -724,6 +714,8 @@ hkir_V-33367,hkir_V-33367-H-3-90H,90H,Lugas utca - Gumigyár - Szegedi Ipari Log
 hkir_V-33367,hkir_V-33367-H-3-91E,91E,"Széchenyi tér - Szőreg, Malom - Mars tér",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-92E,92E,"Széchenyi tér - Tarján, Víztorony tér - Petőfitelep, Fő tér - Új-Petőfitelep - Tarján, Víztorony",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-93E,93E,"Széchenyi tér - Makkosházi krt. - Rókusi krt. - Kiskundorozsma, Czékus utca",3,,152B32,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-H3774,H3774,"Gyálarét - Mars tér - Tápé, Csatár utca",3,,152B32,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-H3871,H3871,"Mars tér - Marostői városrész, Katalin utca",3,,152B32,FFFFFF,local
 hkir_V-33534,hkir_V-33534-H-3-1,1,"Nagybátony, va. - Szorospatak",3,,152B32,FFFFFF,local
 hkir_V-33534,hkir_V-33534-H-3-2,2,"Nagybátony, vá - Maconka",3,,152B32,FFFFFF,local
 hkir_V-33534,hkir_V-33534-H-3-3,3,"Szorospatak - Kisterenye, bányatelep",3,,152B32,FFFFFF,local
@@ -732,13 +724,10 @@ hkir_V-33534,hkir_V-33534-H-3-3C,3C,Nagybátony Ózdi út 10 - Kisterenye Jászi
 hkir_V,hkir_V-N-200-223,223,Esztergom - Stúrovo,200,https://www.volanbusz.hu/hu/menetrendek/nemzetkozi-jaratok/celallomasok,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-228,228,Komárom - Komárno,200,https://www.volanbusz.hu/hu/menetrendek/nemzetkozi-jaratok/celallomasok,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-230,230,Budapest - Rétság - Nagyoroszi - Hont - Sahy,200,https://www.volanbusz.hu/hu/menetrendek/nemzetkozi-jaratok/celallomasok,F6AC00,152B32,international
-hkir_V,hkir_V-N-200-433,433,Liberec - Budapest - Vinnica,200,,F6AC00,152B32,international
-hkir_V,hkir_V-N-200-540,540,Budapest - Miercurea Ciuc - Balan,200,,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-547,547,Pécs - Szeged - OdorheiuSecuiesc,200,,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-551,551,Budapest - Odorheiu Secuiesc,200,,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-581,581,Kecskemét - Szeged - TarguMures,200,,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-586,586,Budapest - Sfantu Gheorghe - Targu Secuiec,200,,F6AC00,152B32,international
-hkir_V,hkir_V-N-200-612,612,Budapest - Beograd,200,,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-715,715,Szombathely - Oberwart,200,https://www.volanbusz.hu/hu/menetrendek/nemzetkozi-jaratok/celallomasok,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-717,717,Szombathely - Ebarau,200,https://www.volanbusz.hu/hu/menetrendek/nemzetkozi-jaratok/celallomasok,F6AC00,152B32,international
 hkir_V,hkir_V-O-200-1020,1020,Budapest - Mátraverebély - Salgótarján,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1020,F6AC00,152B32,national
@@ -748,22 +737,14 @@ hkir_V,hkir_V-O-200-1031,1031,Budapest - Bátonyterenye - Ózd,200,https://www.v
 hkir_V,hkir_V-O-200-1034,1034,Budapest - Bátonyterenye - Ózd - Jósvafő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1034,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1040,1040,Budapest - Gödöllő - Hatvan - Gyöngyös,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1040,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1044,1044,Budapest - Gyöngyös - Mátraháza - Mátraszentimre - Fallóskút,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1044,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1045,1045,Budapest - Gyöngyös - Mátraháza - Kékestető,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1045,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1046,1046,Budapest - Gyöngyös - Mátraháza - Recsk - Bükkszék,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1046,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1049,1049,Budapest - Gyöngyös - Verpelét - Eger,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1049,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1050,1050,Budapest - Gyöngyös - Eger - Mezőkövesd - Miskolc,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1050,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1051,1051,Budapest - Eger - Ózd,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1051,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1052,1052,Budapest - Gödöllő - Hatvan - Gyöngyös - Eger,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1052,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1053,1053,Budapest - Eger - Bükkszentkereszt - Lillafüred - Miskolc,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1053,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1054,1054,Budapest - Eger - Szilvásvárad - Kazincbarcika - Jósvafő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1054,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1066,1066,Budapest - Gyöngyös - Heves - Abádszalók - Karcag,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1066,F6AC00,152B32,national
+hkir_V,hkir_V-O-200-1054,1054,Budapest - Eger - Ózd,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1054,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1067,1067,Budapest - M3 - Erdőtelek - Heves,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1067,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1068,1068,Budapest - Gyöngyös - Heves - Tiszafüred,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1068,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1069,1069,Budapest - Gyöngyös - Heves - Abádszalók - Tiszafüred,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1069,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1070,1070,Budapest - Jászberény - Jászszentandrás,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1070,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1075,1075,Budapest - Jászberény - Heves - Abádszalók - Tiszafüred,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1075,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1077,1077,Budapest - Jászberény - Nagykörű - Szolnok,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1077,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1078,1078,Budapest - Jászberény - Jászalsószentgyörgy,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1078,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1080,1080,Budapest - Dabas - Lajosmizse - Kecskemét,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1080,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1081,1081,Budapest - Dabas - Lajosmizse - Kecskemét - Tiszakécske,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1081,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1085,1085,Budapest - Kecskemét - Szarvas - Békéscsaba - Gyula,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1085,F6AC00,152B32,national
@@ -780,7 +761,6 @@ hkir_V,hkir_V-O-200-1125,1125,Budapest - Dunaújváros - Dunaföldvár - Paks - 
 hkir_V,hkir_V-O-200-1131,1131,Budapest - Dunaújváros - Szekszárd - Mohács - Harkány,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1131,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1134,1134,Budapest - Dunaújváros - Szekszárd - Pécs - Siklós,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1134,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1136,1136,Budapest - Szekszárd - Bonyhád - Komló,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1136,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1172,1172,Budapest - Siófok - Tab - Igal - Kaposvár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1172,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1173,1173,Budapest - Székesfehérvár - Enying - Tamási,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1173,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1174,1174,Budapest - Székesfehérvár - Siófok - Igal - Kaposvár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1174,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1175,1175,Budapest - Mernye - Kaposvár - Kadarkút - Nagyatád,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1175,F6AC00,152B32,national
@@ -794,39 +774,25 @@ hkir_V,hkir_V-O-200-1189,1189,Budapest - Székesfehérvár - Veszprém - Balaton
 hkir_V,hkir_V-O-200-1193,1193,Budapest - Hévíz / Sármellék - Pacsa - Lenti,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1193,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1194,1194,Budapest - Keszthely - Zalaszentgrót,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1194,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1205,1205,Budapest - Székesfehérvár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1205,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1212,1212,Budapest - Veszprém - Tapolca - Keszthely - Hévíz,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1212,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1215,1215,Budapest - Székesfehérvár - Várpalota - Veszprém - Tapolca,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1215,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1216,1216,Budapest - Veszprém - Tapolca - Sümeg - Zalaszentgrót,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1216,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1229,1229,Budapest - Veszprém - Farkasgyepű - Pápa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1229,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1251,1251,Budapest - Bakonycsernye - Zirc - Bakonybél - Pápa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1251,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1301,1301,Salgótarján - Gyöngyös - Tiszafüred - Debrecen,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1301,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1302,1302,Salgótarján - Pásztó - Lőrinci - M3 - M7 - Siófok,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1302,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1343,1343,Eger - Füzesabony - Debrecen - Hajdúszoboszló,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1343,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1346,1346,Eger - Békéscsaba,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1346,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1348,1348,Eger - Gyöngyös - Jászberény - Kecskemét,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1348,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1362,1362,Eger - Heves - Jászberény - Kecskemét,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1362,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1372,1372,Miskolc - Polgár - Debrecen - Hajdúszoboszló,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1372,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1373,1373,Miskolc - Tiszaújváros - M3 - Debrecen - Gyula,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1373,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1374,1374,Miskolc - Debrecen - Békéscsaba - Szeged,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1374,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1375,1375,Miskolc - Tiszafüred - Szeged,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1375,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1376,1376,Miskolc - Mezőkövesd - Jászberény - Kecskemét,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1376,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1377,1377,Miskolc - Mezőkövesd - Tiszafüred - Szolnok,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1377,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1402,1402,Eger - Gyöngyös - M3 - M7 - Siófok - Hévíz,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1402,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1410,1410,Ózd - Miskolc - Tiszaújváros - Debrecen,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1410,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1411,1411,Ózd - Miskolc - M3 autópálya - Debrecen,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1411,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1426,1426,Nyíregyháza - Mezőkövesd - Eger,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1426,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1427,1427,Nyíregyháza - Mezőkövesd - Eger - Gyöngyös - Hatvan,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1427,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1428,1428,Nyíregyháza - Hajdúnánás - Eger,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1428,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1432,1432,Debrecen - Szeghalom - Szarvas,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1432,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1441,1441,Debrecen - Békéscsaba - Szeged,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1441,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1443,1443,Debrecen - Heves - Jászberény,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1443,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1447,1447,Debrecen - Eger - Salgótarján,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1447,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1448,1448,Debrecen - Tiszafüred - Eger - Salgótarján,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1448,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1449,1449,Debrecen - Nyíregyháza - Tokaj - Sátoraljaújhely,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1449,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1466,1466,Szolnok - Jászberény - Eger,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1466,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1468,1468,Szolnok - Tiszafüred - Eger,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1468,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1486,1486,Békéscsaba - Szeged - Baja - Pécs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1486,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1499,1499,Békéscsaba - Kecskemét - Dunaújváros - Siófok - Zalaegerszeg,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1499,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1503,1503,Szeged - Baja - Pécs - Kaposvár - Zalaegerszeg,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1503,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1504,1504,Szeged - Baja - Mohács/M6 - Pécs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1504,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1506,1506,Szeged - Baja - Szekszárd - Siófok - Hévíz,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1506,F6AC00,152B32,national
@@ -837,7 +803,6 @@ hkir_V,hkir_V-O-200-1513,1513,Szeged - Kiskunhalas/Kiskunmajsa - Solt - Dunaföl
 hkir_V,hkir_V-O-200-1515,1515,Szeged - Szolnok - Jászberény - Gyöngyös - Parádfürdő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1515,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1516,1516,Szeged - Szarvas - Kisújszállás - Tiszafüred,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1516,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1517,1517,Szeged - Csongrád/M5 - Kiskunfélegyháza - Szolnok - Jászapáti - Heves - Eger,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1517,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1518,1518,Szeged - Csongrád - Kunszentmárton - Szolnok,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1518,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1524,1524,Kecskemét - Baja - Pécs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1524,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1528,1528,Kecskemét - Solt - Dunaújváros - Siófok - Fonyód,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1528,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1529,1529,Kecskemét - Székesfehérvár - Veszprém - Balatonfüred,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1529,F6AC00,152B32,national
@@ -858,20 +823,15 @@ hkir_V,hkir_V-O-200-1620,1620,Győr - Pápa - Sümeg - Zalaegerszeg,200,https://
 hkir_V,hkir_V-O-200-1631,1631,Keszthely - Balatonfüred - Veszprém - Zirc - Győr,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1631,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1639,1639,Lenti - Zalaegerszeg - Győr,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1639,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1641,1641,Lenti/Zalaegerszeg - Nagykanizsa - Kaposvár/Nagyatád - Pécs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1641,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1642,1642,Nagykanizsa - Zalaegerszeg - Szombathely - Sopron,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1642,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1643,1643,Lenti - Őriszentpéter - Szombathely - Bükfürdő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1643,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1652,1652,Kaposvár - Szekszárd - Baja - Szeged,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1652,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1663,1663,Szombathely - Sárvár - Pápa - Győr,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1663,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1665,1665,Zalaegerszeg - Keszthely - Balatonlelle - Kaposvár - Pécs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1665,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1668,1668,Szombathely - Zalaegerszeg - Kaposvár - Pécs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1668,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1673,1673,Szombathely - Keszthely - Kaposvár - Pécs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1673,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1707,1707,Győr - Székesfehérvár - Szekszárd - Pécs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1707,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1708,1708,Győr  - Veszprém - Balatonalmádi - Siófok - Szántód,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1708,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1714,1714,Győr - Pápa - Ajka - Tapolca - Keszthely - Hévíz,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1714,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1715,1715,Győr - Csorna - Szombathely,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1715,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1717,1717,Győr - Pápa - Ajka - Tapolca - Révfülöp,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1717,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1720,1720,Sopron - Csorna - Pápa - Veszprém - Balatonfüred,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1720,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1722,1722,Sopron - Pápa - Veszprém - Balatonalmádi - Balatonfüred,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1722,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1723,1723,Sopron - Sárvár - Sümeg - Keszthely - Fonyód,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1723,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1724,1724,Sopron - Sárvár - Sümeg - Keszthely,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1724,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1725,1725,Sopron - Sümeg - Keszthely - Kaposvár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1725,F6AC00,152B32,national
@@ -879,25 +839,16 @@ hkir_V,hkir_V-O-200-1726,1726,Sopron - Kőszeg - Zalaegerszeg - Nagykanizsa,200,
 hkir_V,hkir_V-O-200-1727,1727,Kőszeg - Szombathely - Tapolca,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1727,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1731,1731,Veszprém - Enying - Szekszárd - Baja,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1731,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1732,1732,Veszprém - Tapolca - Várvölgy - Keszthely - Hévíz,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1732,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1735,1735,Székesfehérvár - Veszprém - Balatonfüred - Keszthely - Nagykanizsa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1735,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1736,1736,Veszprém - Tapolca - Keszthely - Nagykanizsa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1736,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1740,1740,Balatonfüred - Veszprém - Siófok - Dombóvár - Pécs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1740,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1742,1742,Veszprém - Siófok - Kaposvár - Pécs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1742,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1758,1758,Balatonfüred - Veszprém - Tatabánya,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1758,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1784,1784,Veszprém - Tatabánya - Esztergom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1784,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1794,1794,Győr - Pápa - Sümeg - Hévíz - Keszthely - Nagykanizsa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1794,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1803,1803,Székesfehérvár - Dunaújváros - Solt - Kalocsa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1803,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1804,1804,Székesfehérvár - Siófok - Dombóvár - Komló,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1804,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1806,1806,Veszprém - Balatonfüred - Keszthely - Zalaegerszeg - Szombathely,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1806,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1808,1808,Székesfehérvár - Veszprém - Balatonfüred - Keszthely - Zalaegerszeg,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1808,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1824,1824,Dunaújváros - Székesfehérvár - Tatabánya - Komárom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1824,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1826,1826,Győr - Kisbér - Székesfehérvár - Perkáta - Dunaújváros,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1826,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1842,1842,Tatabánya - Székesfehérvár - Siófok - Hévíz,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1842,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1843,1843,Tatabánya - Székesfehérvár - Szekszárd - Pécs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1843,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1846,1846,Tatabánya - Székesfehérvár - Balatonfüred - Keszthely,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1846,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1848,1848,Tatabánya - Kisbér - Pápa - Szombathely,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1848,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1850,1850,Tatabánya - Bábolna - Győr - Csorna - Kapuvár - Bükfürdő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1850,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1851,1851,Tatabánya - Kisbér - Pápa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1851,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1853,1853,Esztergom - Zsámbék - Székesfehérvár - Veszprém - Balatonfüred,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1853,F6AC00,152B32,national
 hkir_V,hkir_V-R-200-1010,1010,Budapest - Balassagyarmat - Szécsény - Salgótarján,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1010,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1011,1011,Budapest - Balassagyarmat - Szécsény - Litke,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1011,F6AC00,152B32,regional
@@ -942,17 +893,14 @@ hkir_V,hkir_V-R-200-1446,1446,Debrecen - Hajdúnánás - Nyíregyháza,200,https
 hkir_V,hkir_V-R-200-1450,1450,Debrecen - Tiszacsege - Polgár - Tiszaújváros,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1450,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1464,1464,Szolnok - Nagykőrös,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1464,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1467,1467,Szolnok - Jászberény - Jászfényszaru - Hatvan,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1467,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-1469,1469,Szolnok - Jászberény - Gyöngyös,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1469,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1563,1563,Siófok - Székesfehérvár - Mór - Győr,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1563,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1620,1620,Győr - Pápa - Sümeg - Zalaegerszeg,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1620,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1622,1622,Zalaegerszeg - Körmend - Szombathely,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1622,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1625,1625,Lenti - Zalaegerszeg - Keszthely - Tapolca - Veszprém,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1625,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1636,1636,Tapolca - Keszthely - Vasvár - Szombathely - Bükfürdő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1636,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-1658,1658,Lenti - Zalaegerszeg - Keszthely - Balatonfüred - Veszprém,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1658,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1660,1660,Szombathely - Kőszeg - Sopron,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1660,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1662,1662,Szombathely - Csepreg - Sopron,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1662,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1664,1664,Szombathely - Sárvár - Sümeg - Tapolca,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1664,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-1666,1666,Szombathely - Hévíz - Keszthely - Pacsa - Nagykanizsa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1666,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1667,1667,Szombathely - Vasvár - Zalaegerszeg - Nagykanizsa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1667,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1668,1668,Szombathely - Zalaegerszeg - Kaposvár - Pécs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1668,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1669,1669,Lenti - Körmend - Szombathely,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1669,F6AC00,152B32,regional
@@ -964,7 +912,6 @@ hkir_V,hkir_V-R-200-1709,1709,Győr - Zirc - Veszprém - Balatonalmádi - Balato
 hkir_V,hkir_V-R-200-1710,1710,Győr - Zirc - Veszprém - Csopak - Balatonfüred,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1710,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1711,1711,Győr - Pápa - Devecser - Ajka,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1711,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1719,1719,Sopron - Répcelak - Kenyeri - Celldömölk,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1719,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-1721,1721,Győr - Komárom - Esztergom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1721,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1794,1794,Győr - Pápa - Sümeg - Hévíz - Keszthely - Nagykanizsa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1794,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1803,1803,Székesfehérvár - Dunaújváros - Solt - Kalocsa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1803,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1809,1809,Székesfehérvár - Bakonycsernye - Dudar - Zirc,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1809,F6AC00,152B32,regional
@@ -1009,7 +956,7 @@ hkir_V,hkir_V-R-200-3072,3072,Salgótarján - Ságújfalu - Szécsény - Pászt�
 hkir_V,hkir_V-R-200-3075,3075,Salgótarján - Nógrádmegyer - Szécsény,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3075,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-308,308,Budapest - Dunakeszi - Fót - Budapest,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2010,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3080,3080,Salgótarján - Ságújfalu - Szécsény - Balassagyarmat,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3080,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3081,3081,Salgótarján - Szécsény - Balassagyarmat - Szügy,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3081,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-3081,3081,Salgótarján - Ságújfalu - Szécsény - Balassagyarmat,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3081,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3082,3082,Salgótarján - Ludányhalászi - Szécsény - Nógrádszakál,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3082,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3084,3084,Salgótarján - Karancskeszi - Litke - Balassagyarmat,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3084,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-309,309,Budapest - Dunakeszi - Fót - Budapest,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2010,F6AC00,152B32,regional
@@ -1183,7 +1130,6 @@ hkir_V,hkir_V-R-200-3550,3550,"Heves - Kál - Kápolna, vá.",200,https://www.vo
 hkir_V,hkir_V-R-200-356,356,Vámosmikola - Tésa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2093,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3560,3560,Heves - Pély,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3560,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3561,3561,Heves - Kömlő - Kisköre - Abádszalók - Tiszafüred,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3561,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3562,3562,Heves - Kömlő - Tiszafüred,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3562,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3565,3565,Recsk - Parád - Parádsasvár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3565,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3566,3566,Recsk - Parád - Bodony,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3566,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3567,3567,Recsk - Parád - Parádhuta,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3567,F6AC00,152B32,regional
@@ -1224,7 +1170,6 @@ hkir_V,hkir_V-R-200-3675,3675,Gyöngyös - Hort - Hatvan,200,https://www.volanbu
 hkir_V,hkir_V-R-200-3676,3676,Gyöngyös - Hort - Ecséd,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3676,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3677,3677,Gyöngyös - Szűcsi - Pbánya - Apc,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3677,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3678,3678,Gyöngyös - Rózsaszentmárton - Petőfibánya - Vörösmajor - Hatvan,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3678,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3679,3679,MVM Mátra Energia Zrt. - Gyöngyös - Hatvan - Lőrinci - Apc,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3679,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3680,3680,Gyöngyös - Gy.tarján - Gy.pata - Rózsaszentmárton,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3680,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3681,3681,Gyöngyös - Gyöngyösoroszi - Károlytáró,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3681,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3683,3683,MVM Mátra Energia Zrt. - Kápolna - Feldebrő - VerpelétKisnánaTarnaszentmária,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3683,F6AC00,152B32,regional
@@ -1239,7 +1184,6 @@ hkir_V,hkir_V-R-200-3694,3694,Gyöngyös - Abasár - MVM Mátra Energia Zrt.,200
 hkir_V,hkir_V-R-200-3695,3695,Heves - Tarnaméra - Ludas - MVM Mátra Energia Zrt.,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3695,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3696,3696,Gyöngyös - Visonta - MVM Mátra Energia Zrt.,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3696,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3697,3697,Adács - Atkár - Gyöngyös - Gyöngyössolymos - Pálosvörösmart - MVM Mátra Energia Zrt.,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3697,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3698,3698,"Visonta, bánya irodaház - Gyöngyös - Gy.pata - R.sz.márton - Ecséd",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3698,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3699,3699,Gyöngyös - Abasár - MVM Mátra Energia Zrt.,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3699,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3700,3700,Miskolc - Szirmabesenyő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3700,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3701,3701,Miskolc - Szirmabesenyő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3701,F6AC00,152B32,regional
@@ -1256,7 +1200,6 @@ hkir_V,hkir_V-R-200-3710,3710,Miskolc - Szikszó - Homrogd,200,https://www.volan
 hkir_V,hkir_V-R-200-3711,3711,Miskolc - Edelény - Tomor - Irota,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3711,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3712,3712,Miskolc - Szikszó - Abaújszolnok - Abaújlak - Homrogd,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3712,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3713,3713,Edelény - Lak - Tomor - Homrogd - Irota,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3713,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3714,3714,Miskolc - Sajóvámos - Sajópálfala - Sajósenye,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3714,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3715,3715,Miskolc - Szikszó - Aszaló,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3715,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3716,3716,Miskolc - Szikszó - Baktakék,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3716,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3717,3717,Miskolc - Homrogd - Abaújszolnok - Abaújlak - Gagybátor - Krasznokvajda - Viszló,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3717,F6AC00,152B32,regional
@@ -1977,7 +1920,6 @@ hkir_V,hkir_V-R-200-510,510,Budapest - 31 - es út - Maglód - Gyömrő - Monor,
 hkir_V,hkir_V-R-200-5100,5100,Csongrád - Csongrád - Bokros - Tiszaalpár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5100,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5105,5105,Csongrád - Hódmezővásárhely - Maroslele - Makó,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5105,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5107,5107,Csongrád - Kettőshalom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5107,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5109,5109,Szeged - Csongrád - Szentes - Kunszentmárton,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5109,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5110,5110,Szentes - Csongrád - Felgyő - Csanytelek - Tömörkény,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5110,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5111,5111,Csongrád - Felgyő - Maszlaghalom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5111,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5112,5112,Csongrád - Csanytelek - Tömörkény - Pusztaszer - Kistelek - Szeged,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5112,F6AC00,152B32,regional
@@ -1985,7 +1927,6 @@ hkir_V,hkir_V-R-200-512,512,"Hosszúberek - Péteri v. mh. - Péteri, aut. ford.
 hkir_V,hkir_V-R-200-5120,5120,Szeged - Szentes - Cserebökény - Szarvas,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5120,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5121,5121,Szentes - Szentes(Magyartés) - Zalota - Nagytőke,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5121,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5122,5122,Szentes - Kunszentmárton,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5122,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5123,5123,Szentes - Csongrád - Kiskunfélegyháza - Kiskunmajsa - Kiskunhalas,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5123,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5125,5125,Szentes - Fábiánsebestyén - Árpádhalom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5125,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5126,5126,Szentes - Fábiánsebestyén - Eperjes - Gádoros - Nagyszénás - Orosháza,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5126,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5127,5127,Szentes - Gádoros - Eperjes,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5127,F6AC00,152B32,regional
@@ -2206,7 +2147,7 @@ hkir_V,hkir_V-R-200-5420,5420,Szekszárd - Bonyhád - Nagymányok - Szászvár,2
 hkir_V,hkir_V-R-200-5421,5421,Szekszárd - Bonyhád - Kurd - Dombóvár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5421,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5422,5422,Szekszárd - Sióagárd - Harc,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5422,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5423,5423,Szekszárd - Keselyűs/Ózsákpuszta - Szekszárd (körjárat),200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5423,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5424,5424,Szekszárd - Decs - Bátaszék,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5424,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-5424,5424,"Sárpilis - Várdomb/Decs - Szekszárd, szőlőhegy/ - Szekszárd - Decs - Várdomb - Bátaszék",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5424,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5425,5425,Szekszárd - Alsónána - Bátaszék - Báta,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5425,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5426,5426,Szekszárd - Szálka - Mőcsény - Bonyhád,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5426,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5427,5427,"Szekszárd - Bonyhád, Gimnázium",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5427,F6AC00,152B32,regional
@@ -2303,7 +2244,6 @@ hkir_V,hkir_V-R-200-5611,5611,Pécs - Komló - Szászvár - Dombóvár,200,https
 hkir_V,hkir_V-R-200-5612,5612,"Pécs, Francia u. - Mánfa - Komló",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5612,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-562,562,"Cegléd - Cegléd, Ugyeri szőlők",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2466,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5620,5620,Pécs - Hosszúhetény - Komló,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5620,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5621,5621,"Pécs - Hosszúhetény - Komló, Móricz u.",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5621,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5622,5622,Pécs - Hosszúhetény - Komló,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5622,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5623,5623,Pécs - Hosszúhetény - Szászvár - Mágocs,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5623,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5624,5624,Pécs - Szászvár - Bonyhád - Szekszárd,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5624,F6AC00,152B32,regional
@@ -2432,7 +2372,6 @@ hkir_V,hkir_V-R-200-5853,5853,Vajszló-Kórós,200,https://www.volanbusz.hu/hu/m
 hkir_V,hkir_V-R-200-5854,5854,Siklós - Siklós(Máriagyüd) - Harkány,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5854,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5855,5855,Siklós - Harkány - Rádfalva,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5855,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5856,5856,Siklós - Pécs - Komló - Nagymányok,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5856,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5857,5857,Siklós - Pécs - Komló - Nagymányok,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5857,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-586,586,Monor - Vasad - Nyáregyháza,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2240,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-587,587,Monor - Csévharaszt,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2243,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5870,5870,"Szigetvár - Somogyapáti - Lad - Kőkút,Alsótapazd",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5870,F6AC00,152B32,regional
@@ -2580,7 +2519,6 @@ hkir_V,hkir_V-R-200-6214,6214,Zalaegerszeg - Nagykapornak - Bezeréd - Pókaszep
 hkir_V,hkir_V-R-200-6215,6215,Zalaegerszeg - Nagykapornak,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6215,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6216,6216,Zalaegerszeg - Nagykapornak - Héviz - Keszthely,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6216,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6217,6217,Zalaegerszeg - Nagykapornak - Zalacsány - Zalaszentlászló - Zalaszentgrót,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6217,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-6218,6218,Zalaegerszeg - Bak - Pacsa - Hévíz - Keszthely - Tapolca,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6218,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6219,6219,Zalaegerszeg - Alsónemesapáti - Búcsúszentlászló - Pölöske - Pacsa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6219,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-622,622,"Dabas, Sári okmányhivatal - Dabas, Kossuth Zs. Szki.",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2504,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6220,6220,Zalaegerszeg - Nagykapornak - Nemesrádó - Pacsa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6220,F6AC00,152B32,regional
@@ -2693,7 +2631,6 @@ hkir_V,hkir_V-R-200-6470,6470,Nagykanizsa - Zalaszentbalázs - Hahót(Fakospuszt
 hkir_V,hkir_V-R-200-6472,6472,Nagykanizsa - Zalaszentbalázs - Gelse - Orosztony,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6472,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-648,648,"Kiskunlacháza, vá. - Kiskunlacháza, Dunapart",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2686,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-649,649,Dömsöd - Apaj,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2662,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-650,650,Budapest - Kunszentmiklós - Szabadszállás - Kiskőrös - Kiskunhalas,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2608,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6506,6506,Letenye - Kistolmács - Bázakerettye - Borsfa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6506,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-651,651,Taksony - Kiskunlacháza,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2609,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-652,652,Majosháza - Dunavarsány - Délegyháza - Áporka,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2672,F6AC00,152B32,regional
@@ -2762,7 +2699,6 @@ hkir_V,hkir_V-R-200-674,674,Budapest - Szigetszentmiklós - Szigethalom - Tökö
 hkir_V,hkir_V-R-200-6740,6740,Sárvár - Hegyfalu - Tompaládony,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6740,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6742,6742,Sárvár - Hegyfalu - Répceszentgyörgy - Bük,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6742,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6744,6744,Sárvár - Tompaládony - Bő - Bükfürdő - Csepreg,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6744,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-6745,6745,Sárvár - Bükfürdő - Kőszeg,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6745,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6748,6748,Sárvár - Tompaládony/Vasegerszeg - Nagygeresd - Simaság,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6748,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6749,6749,Kőszeg - Csepreg - Bükfürdő - Simaság,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=6749,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-675,675,Budapest - Szigetszentmiklós - Szigethalom - Makád,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2624,F6AC00,152B32,regional
@@ -3017,7 +2953,6 @@ hkir_V,hkir_V-R-200-7306,7306,Veszprém - Zirc - Bakonybél,200,https://www.vola
 hkir_V,hkir_V-R-200-7307,7307,Veszprém - Zirc - Porva,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7307,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7308,7308,Jásd - Zirc - Veszprém,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7308,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7309,7309,Veszprém - Hajmáskér - Pétfürdő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7309,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-731,731,"Budapest - Bp., Sasadi út - M7 - Érd, Riminyáki u. - Érd",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2731,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7311,7311,Veszprém - Hajmáskér - Várpalota,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7311,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7313,7313,Veszprém - Hajmáskér - Székesfehérvár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7313,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7314,7314,Veszprém-Öskü-Várpalota/Pétfürdő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7314,F6AC00,152B32,regional
@@ -3069,7 +3004,6 @@ hkir_V,hkir_V-R-200-7381,7381,Veszprém - Hárskút,200,https://www.volanbusz.hu
 hkir_V,hkir_V-R-200-7382,7382,Hárskút - Herend,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7382,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7383,7383,Veszprém - Szentgál - Úrkút - Ajka,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7383,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7386,7386,Veszprém - Szentgál - Úrkút - Ajka - Tapolca,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7386,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-7387,7387,Veszprém - Ajka - Tapolca - Révfülöp,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7387,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7388,7388,Veszprém - Herend - Szentgál - Úrkút - Ajka,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7388,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7391,7391,Veszprém - Városlőd - Bakonyjákó - Pápa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7391,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7395,7395,Veszprém - Herend - Városlőd - Kislőd - Csehbánya,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7395,F6AC00,152B32,regional
@@ -3147,7 +3081,7 @@ hkir_V,hkir_V-R-200-7708,7708,Tapolca - Nemesgulács - Badacsonytomaj - Ábrahá
 hkir_V,hkir_V-R-200-7709,7709,Tapolca - Nemesgulács - Ábrahámhegy - Salföld,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7709,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7710,7710,Tapolca - Badacsonytördemic - Szigliget vá. - Badacsony,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7710,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7711,7711,Tapolca - Szigliget - Tapolca,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7711,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-7721,7721,Tapolca - Keszthely - Hévíz,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7721,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-7721,7721,Tapolca-Balatongyörök-Keszthely-Hévíz,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7721,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7722,7722,Keszthely - Hévíz - Sümeg - Tapolca,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7722,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-773,773,Budapest - M1 - Páty - Budajenő - Zsámbék,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2820,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7730,7730,Tapolca - Lesencetomaj - Lesencefalu,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7730,F6AC00,152B32,regional
@@ -3162,7 +3096,7 @@ hkir_V,hkir_V-R-200-7752,7752,"Sümeg - Hosztót - Karakószörcsök,v.mh - Kert
 hkir_V,hkir_V-R-200-7753,7753,Sümeg - Jánosháza - Somlóvásárhely - Dabrony,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7753,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7754,7754,Sümeg - Karakószörcsök - Pápa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7754,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7755,7755,"Sümeg - Csabrendek,Nagytárkány - Nyirád",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7755,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-7757,7757,Sümeg - Tapolca,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7757,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-7757,7757,Budapest - Veszprém - Tapolca - Sümeg - Zalaszentgrót,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7757,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7759,7759,Sümeg - Sümegprága - Sümeg,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7759,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-777,777,Budapest - M1 - Zsámbék - Bajna - Nagysáp,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2834,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7771,7771,Sümeg - Nagygörbő - Vindornyaszőlős,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7771,F6AC00,152B32,regional
@@ -3455,6 +3389,5 @@ hkir_V,hkir_V-R-200-884,884,Budapest - Szentendre - Visegrád - Esztergom,200,ht
 hkir_V,hkir_V-R-200-889,889,Budapest - Szentendre - Visegrád - Esztergom,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2920,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-890,890,Budapest - Szentendre - Tahitótfalu - Váci rév,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2951,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-893,893,Budapest - Szentendre - Tahitótfalu - Surány - Szigetmonostor,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2923,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-894,894,Tahitótfalu - Pócsmegyer - Tahitótfalu,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2924,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-895,895,Budapest - Szentendre - Tahitótfalu - Surány - Szigetmonostor,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2923,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-898,898,Szentendre - Tahitótfalu - Kisoroszi,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2943,F6AC00,152B32,regional
