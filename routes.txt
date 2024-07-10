@@ -743,7 +743,6 @@ hkir_V,hkir_V-N-200-586,586,Budapest - Sfantu Gheorghe - Targu Secuiec,200,,F6AC
 hkir_V,hkir_V-N-200-612,612,Budapest - Beograd,200,,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-715,715,Szombathely - Oberwart,200,https://www.volanbusz.hu/hu/menetrendek/nemzetkozi-jaratok/celallomasok,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-717,717,Szombathely - Ebarau,200,https://www.volanbusz.hu/hu/menetrendek/nemzetkozi-jaratok/celallomasok,F6AC00,152B32,international
-hkir_V,hkir_V-N-200-IK311,IK311,Nosztalgia járat,200,,F6AC00,152B32,international
 hkir_V,hkir_V-O-200-1020,1020,Budapest - Mátraverebély - Salgótarján,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1020,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1021,1021,Budapest - Pásztó - Bátonyterenye - Salgótarján,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1021,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1024,1024,Budapest - Pásztó - Hollókő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=1024,F6AC00,152B32,national
