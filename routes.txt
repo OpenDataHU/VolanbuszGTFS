@@ -32,8 +32,6 @@ hkir_V-03522,hkir_V-03522-H-3-6,6,Déri sétány - Pásztor utca - Vöröskeresz
 hkir_V-03522,hkir_V-03522-H-3-7,7,Déri sétány - DÉLHÚS - (Vaskúti úti laktanya forduló) - Vöröskereszt tér - Déri sétány - Dobó István u,3,,152B32,FFFFFF,local
 hkir_V-03522,hkir_V-03522-H-3-8,8,Déri sétány - DÉLHÚS - (Vaskúti úti laktanya) - Vöröskereszt tér - Déri sétány,3,,152B32,FFFFFF,local
 hkir_V-03522,hkir_V-03522-H-3-9,9,Tanítóképző Főiskola - Svraka tanya - Tanítóképző Főiskola,3,,152B32,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-H3111,H3111,Éjszakai járat (Alvég),3,,152B32,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-H3112,H3112,Éjszakai járat (Szentistván),3,,152B32,FFFFFF,local
 hkir_V-04260,hkir_V-04260-H-3-1,1,"Mezőtúr, aut. áll. - Kossuth tér. - aut. áll.",3,,152B32,FFFFFF,local
 hkir_V-04349,hkir_V-04349-H-3-1,1,Autóbusz-állomás - Nyár utca - Munkácsy utca - Röszkei út - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-04783,hkir_V-04783-H-3-10,10,Vasútállomás - Moson - Evangélikus templom - Ujhelyi iskola - Tündérfátyol utca,3,,152B32,FFFFFF,local
