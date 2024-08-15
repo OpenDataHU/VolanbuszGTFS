@@ -1567,7 +1567,6 @@ hkir_V,hkir_V-R-200-4242,4242,Nyíregyháza - Halmosbokor - Nyíregyháza,200,ht
 hkir_V,hkir_V-R-200-4243,4243,Nyíregyháza - Nyírtelek - Rakamaz  - Gávavencsellő ,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4243,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4244,4244,Rakamaz - Tiszaeszlár - Tiszalök - Tiszavasvári,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4244,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4245,4245,Tokaj - Rakamaz - Gávavencsellő,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4245,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4246,4246,Rakamaz - Ibrány - Kemecse,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4246,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4247,4247,"Tiszadob - Tiszadob, Rejetanya",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4247,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4248,4248,Nyíregyháza - Cigánybokor - Bánfibokor - Nyíregyháza,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4248,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4250,4250,Nyíregyháza - Napkor - Nagykálló,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4250,F6AC00,152B32,regional
