@@ -3222,7 +3222,6 @@ hkir_V,hkir_V-R-200-7922,7922,Pápa - Ugod - Bakonybél - Zirc,200,https://www.v
 hkir_V,hkir_V-R-200-7926,7926,Pápa - Ganna - Döbrönte,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7926,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7927,7927,Pápa - Döbrönte - Farkasgyepü,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7927,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7928,7928,Pápa - Ganna - Kup,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7928,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-7929,7929,Pápa - Noszlop - Badacsony,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7929,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-793,793,Budapest - Budajenő - Perbál - Zsámbék,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2840,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7931,7931,Pápa - Nóráp - Dáka,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7931,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7932,7932,Pápa - Noszlop - Ajka,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7932,F6AC00,152B32,regional
