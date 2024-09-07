@@ -300,7 +300,6 @@ hkir_V-17206,hkir_V-17206-H-3-95L,95L,Örökösföld - Autóbusz-állomás - Mic
 hkir_V-17206,hkir_V-17206-H-3-96,96,Autóbusz-állomás - Ipari utca - Alma utcai iskola,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-97,97,"Örökösföld - Lujza utca - Ipari park, Sematic",3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-9A,9A,Huszár telep - Tiszavasvári út - Huszár telep,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-H2632,H2632,Autóbusz-állomás - Nyírjes - Nagyszállás,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-H30,H30,Autóbusz-állomás - Rozsrét - Újsortanya - Butykasor - Oláhrét,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-H31,H31,Autóbusz-állomás - Butykasor - Oláhrét,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-H32,H32,Autóbusz-állomás - Nyírjes - Nagyszállás,3,,152B32,FFFFFF,local
@@ -2912,7 +2911,6 @@ hkir_V,hkir_V-R-200-7122,7122,Csorna - Szany - Sobor,200,https://www.volanbusz.h
 hkir_V,hkir_V-R-200-7127,7127,Csorna - Vág - Szany,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7127,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7135,7135,Csorna - Szil - Vág - Kemenesszentpéter/Rábasebes - Szany,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7135,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7138,7138,Csorna - Szil - Beled/Vág,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7138,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-7139,7139,Csorna - Farád,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7139,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7140,7140,Csorna - Bogyoszló - Magyarkeresztúr - Beled,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7140,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7146,7146,Csorna - Bősárkány - Földsziget - Tárnokréti,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7146,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-715,715,Budapest - Érd - Százhalombatta,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2710,F6AC00,152B32,regional
