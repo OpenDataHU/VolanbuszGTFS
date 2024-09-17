@@ -50,7 +50,6 @@ hkir_V-05032,hkir_V-05032-H-3-4,4,Vasútállomás - Gyulavári kastély/Dénesma
 hkir_V-05032,hkir_V-05032-H-3-5,5,Vasútállomás - Várfürdő,3,,152B32,FFFFFF,local
 hkir_V-05111,hkir_V-05111-H-3-1,1,Autóbusz-forduló - Autóbusz-állomás - Kőkereszt,3,,152B32,FFFFFF,local
 hkir_V-05111,hkir_V-05111-H-3-1A,1A,Autóbusz-forduló - Autóbusz-állomás - Kőkereszt,3,,152B32,FFFFFF,local
-hkir_V-05111,hkir_V-05111-H-3-2,2,1A Autóbusz-forduló - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-05111,hkir_V-05111-H-3-3,3,Autóbusz-forduló - Autóbusz-állomás - Kőkereszt,3,,152B32,FFFFFF,local
 hkir_V-05175,hkir_V-05175-H-3-1,1,Kösely Zrt. - Autóbusz-állomás - Vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-05175,hkir_V-05175-H-3-1A,1A,Autóbusz-állomás - Vasútállomás,3,,152B32,FFFFFF,local
