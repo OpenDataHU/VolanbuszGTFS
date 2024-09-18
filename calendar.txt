@@ -12,15 +12,21 @@ hkir_132-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240922,20241023,nyári időszám�
 hkir_133-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241130,"tanév tartama alatt szabadnapokon, kivéve december 24-én"
 hkir_139-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241027,20241208,téli időszámítás tartama alatt szabad- és munkaszüneti napokon
 hkir_14-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240920,20241213,a hetek utolsó iskolai előadási napján
+hkir_140-2024-09-16_2024-09-30,0,0,0,0,0,0,0,20240921,20240929,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
 hkir_140-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241026,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
+hkir_140-2024-10-01_2024-10-06,0,0,0,0,0,0,0,20241005,20241006,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
+hkir_140-2024-10-07_2024-12-14,0,0,0,0,0,0,0,20241012,20241026,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
 hkir_145-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,"tanév tartama alatt naponta, nyári tanszünetben munkanapokon"
 hkir_146-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241029,20241029,tanszünetben keddi és pénteki munkanapokon
+hkir_15-2024-09-16_2024-10-06,0,0,0,0,0,0,0,20240922,20241006,a hetek első iskolai előadási napját megelőző munkaszüneti napon
 hkir_15-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240922,20241208,a hetek első iskolai előadási napját megelőző munkaszüneti napon
+hkir_15-2024-10-07_2024-12-14,0,0,0,0,0,0,0,20241013,20241208,a hetek első iskolai előadási napját megelőző munkaszüneti napon
 hkir_154-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240917,20241213,iskolai előadási napokon kedden és pénteken
 hkir_156-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
 hkir_157-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240919,20241212,csütörtöki iskolai előadási napokon
 hkir_16-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,tanév tartama alatt munkanapokon
 hkir_164-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241130,"szabadnapokon, valamint tanszünetben munkanapokon"
+hkir_164-2024-10-07_2024-12-14,0,0,0,0,0,0,0,20241012,20241130,"szabadnapokon, valamint tanszünetben munkanapokon"
 hkir_165-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240922,20241208,a hetek első iskolai előadási napját megelőző napon
 hkir_167-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241030,20241030,tanszünetben szerdai munkanapokon
 hkir_172-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241212,iskolai előadási napokon hétfőtől csütörtökig
@@ -30,6 +36,7 @@ hkir_18-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,páros számú het
 hkir_19-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240923,20241207,páratlan számú heteken munkanapokon
 hkir_2-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240917,20241210,keddi munkanapokon
 hkir_207-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240917,20241213,keddi és pénteki munkanapokon
+hkir_209-2024-09-16_2024-09-20,0,0,0,0,0,0,0,20240917,20240920,a hetek első munkanapja kivételével munkanapokon
 hkir_212-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,"naponta, kivéve december 24-ét és 31-ét"
 hkir_213-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,január 8-tól június 30-ig és augusztus 21-től december 23-ig tanszünetben munkanapokon
 hkir_216-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241003,20241205,minden hónap első csütörtöki munkanapján
@@ -59,7 +66,10 @@ hkir_256-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241005,20241130,április 30-ig é
 hkir_257-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240917,20241212,keddi és csütörtöki munkanapokon
 hkir_258-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241026,április 1-től október 31-ig szabadnapokon
 hkir_259-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241028,20241028,tanszünetben a hetek első munkanapján
+hkir_26-2024-09-16_2024-09-30,0,0,0,0,0,0,0,20240916,20240930,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
 hkir_26-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
+hkir_26-2024-10-01_2024-10-11,0,0,0,0,0,0,0,20241001,20241011,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
+hkir_26-2024-10-12_2024-12-14,0,0,0,0,0,0,0,20241014,20241214,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
 hkir_260-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokat és december 24-ét"
 hkir_261-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20240928,május 1-től szeptember 30-ig szabadnapokon
 hkir_262-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241029,20241031,"tanszünetben munkanapokon, kivéve a hetek első munkanapját"
@@ -106,9 +116,15 @@ hkir_2V9-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241031,20241101,"2023. október 3
 hkir_2W7-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241208,"IX.1-től VI.16-ig szabad- és munkaszüneti napokon, szeptember 2-től június 21-ig szabad- és munkaszüneti napokon"
 hkir_2X4-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240922,20241208,munkaszüneti napokon
 hkir_2X5-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,szabadnap kivételével naponta
+hkir_2X6-2024-09-16_2024-09-20,0,0,0,0,0,0,0,20240916,20240920,iskolai előadási napokon
 hkir_2X6-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,iskolai előadási napokon
+hkir_2X6-2024-09-21_2024-12-14,0,0,0,0,0,0,0,20240923,20241214,iskolai előadási napokon
+hkir_2X7-2024-09-16_2024-09-20,0,0,0,0,0,0,0,20240916,20240919,a hetek utolsó munkanapja kivételével munkanapokon
+hkir_2X8-2024-09-16_2024-09-20,0,0,0,0,0,0,0,20240916,20240920,munkanapokon
 hkir_2X8-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,munkanapokon
+hkir_2X8-2024-09-21_2024-12-14,0,0,0,0,0,0,0,20240923,20241214,munkanapokon
 hkir_2X9-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241130,szabadnapokon
+hkir_2Y1-2024-09-16_2024-09-20,0,0,0,0,0,0,0,20240920,20240920,a hetek utolsó munkanapján
 hkir_2Y2-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,tanszünetben munkanapokon
 hkir_2Y3-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,munkaszüneti napok kivételével naponta
 hkir_2Y4-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241208,szabad- és munkaszüneti napokon
@@ -142,7 +158,10 @@ hkir_35L-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240922,20241208,"tanév tartama a
 hkir_364-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241030,20241030,tanszünetben szerdai munkanapokon
 hkir_367-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240920,20241213,"a hetek utolsó iskolai előadási napján, valamint a hetek első iskolai előadási napját megelőző napon"
 hkir_369-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_37-2024-09-16_2024-09-30,0,0,0,0,0,0,0,20240921,20240929,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
 hkir_37-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241208,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
+hkir_37-2024-10-01_2024-10-06,0,0,0,0,0,0,0,20241005,20241006,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
+hkir_37-2024-10-07_2024-12-14,0,0,0,0,0,0,0,20241012,20241208,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
 hkir_374-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241015,április 1-től október 15-ig munkanapokon
 hkir_375-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,"naponta, kivéve a hetek utolsó iskolai előadási napját"
 hkir_381-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241208,munkanapot követő szabad- és munkaszüneti napokon
@@ -291,6 +310,7 @@ hkir_5T1-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240922,20241208,tanév tartama al
 hkir_5T2-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240922,20241208,"tanév tartama alatt a hetek első munkanapját és első iskolai előadási napját megelőző napon, kivéve december 26-án"
 hkir_5T4-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240922,20241208,"tanév tartama alatt a hetek első munkanapját megelőző napon, kivéve december 26-án"
 hkir_5T7-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240920,20241214,"tanév tartama alatt a hetek utolsó munkanapján és a hetek utolsó iskolai előadási napján, kivéve december 29-én"
+hkir_5T8-2024-09-16_2024-10-06,0,0,0,0,0,0,0,20240920,20241004,"tanév tartama alatt a hetek utolsó munkanapján, tanév tartama alatt a hetek utolsó munkanapján, kivéve december 29-én"
 hkir_5T8-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240920,20241213,"tanév tartama alatt a hetek utolsó munkanapján, tanév tartama alatt a hetek utolsó munkanapján, kivéve december 29-én"
 hkir_5T8-2024-09-30_2024-12-14,0,0,0,0,0,0,0,20241004,20241213,"tanév tartama alatt a hetek utolsó munkanapján, tanév tartama alatt a hetek utolsó munkanapján, kivéve december 29-én"
 hkir_5T9-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240920,20241213,"tanév tartama alatt a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző napon, kivéve december 26-át és december 29-ét"
@@ -307,6 +327,7 @@ hkir_5WB-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241025,nyári időszám�
 hkir_5WD-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241026,nyári időszámítás tartama alatt szabadnapokon
 hkir_5Z1-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241208,"szabad- és munkaszüneti napokon, kivéve december 24-én"
 hkir_5Z2-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241208,"szabad- és munkaszüneti napokon, kivéve december 24-én és 31-én"
+hkir_6-2024-10-05_2024-10-06,0,0,0,0,0,0,0,20241005,20241005,szombati napokon
 hkir_602-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240917,20241213,keddi és pénteki munkanapokon
 hkir_603-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240918,20241213,szerdai és pénteki munkanapokon
 hkir_618-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,"iskolai előadási napokon, kivéve csütörtökön"
@@ -362,13 +383,21 @@ hkir_765-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240922,20240929,"március 29-től
 hkir_773-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, illetve közlekedik december 26-án"
 hkir_776-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240920,20241213,a hetek utolsó munkanapján és a hetek első munkanapját megelőző napokon
 hkir_779-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első munkanapját megelőző napon"
+hkir_781-2024-09-16_2024-10-30,0,0,0,0,0,0,0,20240921,20241026,munkanapot követő szabad- és munkaszüneti napokon
 hkir_781-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241208,munkanapot követő szabad- és munkaszüneti napokon
+hkir_781-2024-10-31_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,munkanapot követő szabad- és munkaszüneti napokon
 hkir_784-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240917,20241214,munkanapot követő napokon
 hkir_785-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241028,20241028,a hetek első tanszünetes munkanapján
 hkir_79-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,"munkanapokon, kivéve szerdai munkanapokon"
 hkir_790-2024-09-21_2024-09-22,0,0,0,0,0,0,0,20240921,20240922,"március 29-től szeptember 29-ig szabad- és munkaszüneti napokon, április 1-től szeptember 24-ig szabad- és munkaszüneti napokon"
 hkir_790-2024-09-28_2024-09-29,0,0,0,0,0,0,0,20240928,20240929,"március 29-től szeptember 29-ig szabad- és munkaszüneti napokon, április 1-től szeptember 24-ig szabad- és munkaszüneti napokon"
-hkir_791-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241005,20241208,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
+hkir_791-2024-10-05_2024-10-06,0,0,0,0,0,0,0,20241005,20241006,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
+hkir_791-2024-10-07_2024-10-18,0,0,0,0,0,0,0,20241012,20241013,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
+hkir_791-2024-10-07_2024-10-25,0,0,0,0,0,0,0,20241012,20241023,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
+hkir_791-2024-10-19_2024-10-20,0,0,0,0,0,0,0,20241019,20241020,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
+hkir_791-2024-10-21_2024-12-14,0,0,0,0,0,0,0,20241023,20241208,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
+hkir_791-2024-10-26_2024-10-27,0,0,0,0,0,0,0,20241026,20241027,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
+hkir_791-2024-10-28_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
 hkir_793-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240930,20241214,"március 28-ig és szeptember 30-tól munkanapokon, március 31-ig és szeptember 25-től munkanapokon"
 hkir_796-2024-09-16_2024-09-20,0,0,0,0,0,0,0,20240916,20240920,"március 29-től június 21-ig, valamint szeptember 2-től szeptember 29-ig naponta, április 1-től június 16-ig, valamint szeptember 1-től szeptember 24-ig naponta"
 hkir_796-2024-09-21_2024-09-22,0,0,0,0,0,0,0,20240921,20240922,"március 29-től június 21-ig, valamint szeptember 2-től szeptember 29-ig naponta, április 1-től június 16-ig, valamint szeptember 1-től szeptember 24-ig naponta"
@@ -383,33 +412,142 @@ hkir_?17-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240922,20241208,munkaszüneti nap
 hkir_?19-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241130,szabadnapokon
 hkir_A1V-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240922,20241208,"munkaszüneti napokon, kivéve ünnepnapokon"
 hkir_D-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,"naponta, kivéve szabadnapokon"
+hkir_H-2024-09-16_2024-09-20,0,0,0,0,0,0,0,20240916,20240916,a hetek első munkanapján
 hkir_H-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241209,a hetek első munkanapján
+hkir_I-2024-09-16_2024-09-18,0,0,0,0,0,0,0,20240916,20240918,iskolai előadási napokon
+hkir_I-2024-09-16_2024-09-20,0,0,0,0,0,0,0,20240916,20240920,iskolai előadási napokon
+hkir_I-2024-09-16_2024-09-23,0,0,0,0,0,0,0,20240916,20240923,iskolai előadási napokon
+hkir_I-2024-09-16_2024-09-30,0,0,0,0,0,0,0,20240916,20240930,iskolai előadási napokon
+hkir_I-2024-09-16_2024-10-06,0,0,0,0,0,0,0,20240916,20241004,iskolai előadási napokon
+hkir_I-2024-09-16_2024-10-13,0,0,0,0,0,0,0,20240916,20241011,iskolai előadási napokon
+hkir_I-2024-09-16_2024-10-30,0,0,0,0,0,0,0,20240916,20241025,iskolai előadási napokon
 hkir_I-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,iskolai előadási napokon
+hkir_I-2024-09-19_2024-09-23,0,0,0,0,0,0,0,20240919,20240923,iskolai előadási napokon
+hkir_I-2024-09-19_2024-09-25,0,0,0,0,0,0,0,20240919,20240925,iskolai előadási napokon
+hkir_I-2024-09-21_2024-12-14,0,0,0,0,0,0,0,20240923,20241214,iskolai előadási napokon
+hkir_I-2024-09-24_2024-09-25,0,0,0,0,0,0,0,20240924,20240925,iskolai előadási napokon
+hkir_I-2024-09-24_2024-12-14,0,0,0,0,0,0,0,20240924,20241214,iskolai előadási napokon
+hkir_I-2024-09-26_2024-12-14,0,0,0,0,0,0,0,20240926,20241214,iskolai előadási napokon
+hkir_I-2024-10-01_2024-10-11,0,0,0,0,0,0,0,20241001,20241011,iskolai előadási napokon
+hkir_I-2024-10-07_2024-12-14,0,0,0,0,0,0,0,20241007,20241214,iskolai előadási napokon
+hkir_I-2024-10-12_2024-12-14,0,0,0,0,0,0,0,20241014,20241214,iskolai előadási napokon
+hkir_I-2024-10-14_2024-10-14,0,0,0,0,0,0,0,20241014,20241014,iskolai előadási napokon
+hkir_I-2024-10-15_2024-12-14,0,0,0,0,0,0,0,20241015,20241214,iskolai előadási napokon
+hkir_I-2024-10-31_2024-12-14,0,0,0,0,0,0,0,20241104,20241214,iskolai előadási napokon
 hkir_L-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,"munkanapokon, kivéve a hetek utolsó munkanapján"
+hkir_M-2024-09-16_2024-09-18,0,0,0,0,0,0,0,20240916,20240918,munkanapokon
+hkir_M-2024-09-16_2024-09-30,0,0,0,0,0,0,0,20240916,20240930,munkanapokon
+hkir_M-2024-09-16_2024-10-06,0,0,0,0,0,0,0,20240916,20241004,munkanapokon
+hkir_M-2024-09-16_2024-10-13,0,0,0,0,0,0,0,20240916,20241011,munkanapokon
+hkir_M-2024-09-16_2024-10-30,0,0,0,0,0,0,0,20240916,20241030,munkanapokon
 hkir_M-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,munkanapokon
+hkir_M-2024-09-19_2024-09-23,0,0,0,0,0,0,0,20240919,20240923,munkanapokon
+hkir_M-2024-09-19_2024-09-25,0,0,0,0,0,0,0,20240919,20240925,munkanapokon
+hkir_M-2024-09-21_2024-12-14,0,0,0,0,0,0,0,20240923,20241214,munkanapokon
+hkir_M-2024-09-24_2024-09-25,0,0,0,0,0,0,0,20240924,20240925,munkanapokon
+hkir_M-2024-09-24_2024-12-14,0,0,0,0,0,0,0,20240924,20241214,munkanapokon
+hkir_M-2024-09-26_2024-12-14,0,0,0,0,0,0,0,20240926,20241214,munkanapokon
+hkir_M-2024-10-01_2024-10-06,0,0,0,0,0,0,0,20241001,20241004,munkanapokon
+hkir_M-2024-10-01_2024-10-11,0,0,0,0,0,0,0,20241001,20241011,munkanapokon
+hkir_M-2024-10-07_2024-10-11,0,0,0,0,0,0,0,20241007,20241011,munkanapokon
+hkir_M-2024-10-07_2024-12-14,0,0,0,0,0,0,0,20241007,20241214,munkanapokon
+hkir_M-2024-10-12_2024-12-14,0,0,0,0,0,0,0,20241014,20241214,munkanapokon
+hkir_M-2024-10-14_2024-10-14,0,0,0,0,0,0,0,20241014,20241014,munkanapokon
+hkir_M-2024-10-15_2024-12-14,0,0,0,0,0,0,0,20241015,20241214,munkanapokon
+hkir_M-2024-10-31_2024-12-14,0,0,0,0,0,0,0,20241031,20241214,munkanapokon
+hkir_MS-2024-09-16_2024-09-30,0,0,0,0,0,0,0,20240922,20240929,munkaszüneti napokon
+hkir_MS-2024-09-16_2024-10-06,0,0,0,0,0,0,0,20240922,20241006,munkaszüneti napokon
 hkir_MS-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240922,20241208,munkaszüneti napokon
+hkir_MS-2024-10-01_2024-10-06,0,0,0,0,0,0,0,20241006,20241006,munkaszüneti napokon
+hkir_MS-2024-10-07_2024-12-14,0,0,0,0,0,0,0,20241013,20241208,munkaszüneti napokon
+hkir_O-2024-09-16_2024-10-06,0,0,0,0,0,0,0,20240921,20241005,szabadnapokon
+hkir_O-2024-09-16_2024-10-11,0,0,0,0,0,0,0,20240921,20241005,szabadnapokon
 hkir_O-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241130,szabadnapokon
+hkir_O-2024-10-07_2024-12-14,0,0,0,0,0,0,0,20241012,20241130,szabadnapokon
+hkir_O-2024-10-12_2024-10-13,0,0,0,0,0,0,0,20241012,20241012,szabadnapokon
+hkir_O-2024-10-14_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,szabadnapokon
+hkir_T-2024-09-16_2024-10-30,0,0,0,0,0,0,0,20241028,20241030,tanszünetben munkanapokon
 hkir_T-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,tanszünetben munkanapokon
+hkir_T-2024-09-24_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,tanszünetben munkanapokon
+hkir_T-2024-09-26_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,tanszünetben munkanapokon
+hkir_T-2024-10-07_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,tanszünetben munkanapokon
+hkir_T-2024-10-15_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,tanszünetben munkanapokon
+hkir_T-2024-10-31_2024-12-14,0,0,0,0,0,0,0,20241031,20241031,tanszünetben munkanapokon
 hkir_TS-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241102,20241130,téli időszámítás tartama alatt szabadnapokon
 hkir_TV-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20241027,20241208,téli időszámítás tartama alatt munkaszüneti napokon
 hkir_U-2024-09-16_2024-09-29,0,0,0,0,0,0,0,20240920,20240927,a hetek utolsó munkanapján
 hkir_U-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240920,20241213,a hetek utolsó munkanapján
 hkir_V-2024-09-16_2024-09-29,0,0,0,0,0,0,0,20240922,20240929,a hetek első munkanapját megelőző napon
+hkir_V-2024-09-16_2024-09-30,0,0,0,0,0,0,0,20240922,20240929,a hetek első munkanapját megelőző napon
 hkir_V-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240922,20241208,a hetek első munkanapját megelőző napon
+hkir_V-2024-10-01_2024-10-06,0,0,0,0,0,0,0,20241006,20241006,a hetek első munkanapját megelőző napon
+hkir_V-2024-10-07_2024-12-14,0,0,0,0,0,0,0,20241013,20241208,a hetek első munkanapját megelőző napon
+hkir_X-2024-09-16_2024-10-06,0,0,0,0,0,0,0,20240916,20241005,"naponta, kivéve munkaszüneti napokon"
+hkir_X-2024-09-16_2024-10-11,0,0,0,0,0,0,0,20240916,20241011,"naponta, kivéve munkaszüneti napokon"
 hkir_X-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,"naponta, kivéve munkaszüneti napokon"
+hkir_X-2024-10-07_2024-12-14,0,0,0,0,0,0,0,20241007,20241214,"naponta, kivéve munkaszüneti napokon"
+hkir_X-2024-10-12_2024-10-13,0,0,0,0,0,0,0,20241012,20241012,"naponta, kivéve munkaszüneti napokon"
+hkir_X-2024-10-14_2024-12-14,0,0,0,0,0,0,0,20241014,20241214,"naponta, kivéve munkaszüneti napokon"
+hkir_Z-2024-09-16_2024-09-30,0,0,0,0,0,0,0,20240921,20240929,szabad- és munkaszüneti napokon
+hkir_Z-2024-09-16_2024-10-06,0,0,0,0,0,0,0,20240921,20241006,szabad- és munkaszüneti napokon
+hkir_Z-2024-09-16_2024-10-11,0,0,0,0,0,0,0,20240921,20241006,szabad- és munkaszüneti napokon
+hkir_Z-2024-09-16_2024-10-25,0,0,0,0,0,0,0,20240921,20241023,szabad- és munkaszüneti napokon
+hkir_Z-2024-09-16_2024-10-30,0,0,0,0,0,0,0,20240921,20241027,szabad- és munkaszüneti napokon
 hkir_Z-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240921,20241208,szabad- és munkaszüneti napokon
 hkir_Z-2024-09-21_2024-09-22,0,0,0,0,0,0,0,20240921,20240922,szabad- és munkaszüneti napokon
 hkir_Z-2024-09-21_2024-09-27,0,0,0,0,0,0,0,20240921,20240922,szabad- és munkaszüneti napokon
 hkir_Z-2024-09-21_2024-09-29,0,0,0,0,0,0,0,20240921,20240929,szabad- és munkaszüneti napokon
-hkir_Z-2024-09-23_2024-12-14,0,0,0,0,0,0,0,20240928,20241208,szabad- és munkaszüneti napokon
+hkir_Z-2024-09-23_2024-10-11,0,0,0,0,0,0,0,20240928,20241006,szabad- és munkaszüneti napokon
+hkir_Z-2024-09-23_2024-10-25,0,0,0,0,0,0,0,20240928,20241023,szabad- és munkaszüneti napokon
 hkir_Z-2024-09-28_2024-09-29,0,0,0,0,0,0,0,20240928,20240929,szabad- és munkaszüneti napokon
 hkir_Z-2024-09-28_2024-12-14,0,0,0,0,0,0,0,20240928,20241208,szabad- és munkaszüneti napokon
+hkir_Z-2024-09-30_2024-10-18,0,0,0,0,0,0,0,20241005,20241013,szabad- és munkaszüneti napokon
+hkir_Z-2024-09-30_2024-10-25,0,0,0,0,0,0,0,20241005,20241023,szabad- és munkaszüneti napokon
 hkir_Z-2024-09-30_2024-12-14,0,0,0,0,0,0,0,20241005,20241208,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-01_2024-10-06,0,0,0,0,0,0,0,20241005,20241006,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-05_2024-10-06,0,0,0,0,0,0,0,20241005,20241006,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-07_2024-10-18,0,0,0,0,0,0,0,20241012,20241013,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-07_2024-10-25,0,0,0,0,0,0,0,20241012,20241023,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-07_2024-10-30,0,0,0,0,0,0,0,20241012,20241027,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-07_2024-12-14,0,0,0,0,0,0,0,20241012,20241208,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-12_2024-10-13,0,0,0,0,0,0,0,20241012,20241013,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-14_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-19_2024-10-20,0,0,0,0,0,0,0,20241019,20241020,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-21_2024-12-14,0,0,0,0,0,0,0,20241023,20241208,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-26_2024-10-27,0,0,0,0,0,0,0,20241026,20241027,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-28_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-31_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,szabad- és munkaszüneti napokon
+hkir__-2024-09-16_2024-09-16,0,0,0,0,0,0,0,20240916,20240916,naponta
 hkir__-2024-09-16_2024-09-20,0,0,0,0,0,0,0,20240916,20240920,naponta
+hkir__-2024-09-16_2024-09-30,0,0,0,0,0,0,0,20240916,20240930,naponta
+hkir__-2024-09-16_2024-10-04,0,0,0,0,0,0,0,20240916,20241004,naponta
+hkir__-2024-09-16_2024-10-06,0,0,0,0,0,0,0,20240916,20241006,naponta
+hkir__-2024-09-16_2024-10-11,0,0,0,0,0,0,0,20240916,20241011,naponta
+hkir__-2024-09-16_2024-10-25,0,0,0,0,0,0,0,20240916,20241025,naponta
+hkir__-2024-09-16_2024-10-30,0,0,0,0,0,0,0,20240916,20241030,naponta
 hkir__-2024-09-16_2024-12-14,0,0,0,0,0,0,0,20240916,20241214,naponta
 hkir__-2024-09-16_2024-12-16,0,0,0,0,0,0,0,20240916,20241214,naponta
+hkir__-2024-09-17_2024-09-17,0,0,0,0,0,0,0,20240917,20240917,naponta
+hkir__-2024-09-17_2024-09-22,0,0,0,0,0,0,0,20240917,20240922,naponta
 hkir__-2024-09-21_2024-09-22,0,0,0,0,0,0,0,20240921,20240922,naponta
+hkir__-2024-09-21_2024-12-14,0,0,0,0,0,0,0,20240921,20241214,naponta
 hkir__-2024-09-23_2024-09-27,0,0,0,0,0,0,0,20240923,20240927,naponta
+hkir__-2024-09-23_2024-10-11,0,0,0,0,0,0,0,20240923,20241011,naponta
 hkir__-2024-09-23_2024-12-14,0,0,0,0,0,0,0,20240923,20241214,naponta
 hkir__-2024-09-28_2024-09-29,0,0,0,0,0,0,0,20240928,20240929,naponta
-hkir__-2024-09-30_2024-12-14,0,0,0,0,0,0,0,20240930,20241214,naponta
+hkir__-2024-09-30_2024-10-04,0,0,0,0,0,0,0,20240930,20241004,naponta
+hkir__-2024-10-01_2024-10-06,0,0,0,0,0,0,0,20241001,20241006,naponta
+hkir__-2024-10-01_2024-10-11,0,0,0,0,0,0,0,20241001,20241011,naponta
+hkir__-2024-10-05_2024-10-06,0,0,0,0,0,0,0,20241005,20241006,naponta
+hkir__-2024-10-07_2024-10-11,0,0,0,0,0,0,0,20241007,20241011,naponta
+hkir__-2024-10-07_2024-10-18,0,0,0,0,0,0,0,20241007,20241018,naponta
+hkir__-2024-10-07_2024-10-25,0,0,0,0,0,0,0,20241007,20241025,naponta
+hkir__-2024-10-07_2024-12-14,0,0,0,0,0,0,0,20241007,20241214,naponta
+hkir__-2024-10-12_2024-10-13,0,0,0,0,0,0,0,20241012,20241013,naponta
+hkir__-2024-10-12_2024-12-14,0,0,0,0,0,0,0,20241012,20241214,naponta
+hkir__-2024-10-14_2024-12-14,0,0,0,0,0,0,0,20241014,20241214,naponta
+hkir__-2024-10-19_2024-10-20,0,0,0,0,0,0,0,20241019,20241020,naponta
+hkir__-2024-10-21_2024-12-14,0,0,0,0,0,0,0,20241021,20241214,naponta
+hkir__-2024-10-26_2024-10-27,0,0,0,0,0,0,0,20241026,20241027,naponta
+hkir__-2024-10-28_2024-12-14,0,0,0,0,0,0,0,20241028,20241214,naponta
+hkir__-2024-10-31_2024-12-14,0,0,0,0,0,0,0,20241031,20241214,naponta
