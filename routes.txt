@@ -2199,7 +2199,6 @@ hkir_V,hkir_V-R-200-5429,5429,Szekszárd - Tolna - Fadd - Paks/Fadd - Dombori,20
 hkir_V,hkir_V-R-200-543,543,Nagykőrös - Törtel,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2471,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5430,5430,Szekszárd - Kakasd - Bonyhád,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5430,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5431,5431,Szekszárd - Bonyhád - Kurd - Dombóvár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5431,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5432,5432,Szekszárd - Szálka - Bonyhád - Lengyel - Dombóvár,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5432,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5434,5434,Szekszárd - Bonyhád - Nagymányok - Izmény - Kárász,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5434,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5435,5435,Szekszárd - Zomba - Hőgyész,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5435,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5436,5436,Szekszárd - Hőgyész - Tamási - Iregszemcse,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=5436,F6AC00,152B32,regional
