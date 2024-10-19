@@ -1,394 +1,394 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date,service_desc
-hkir_1-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241021,20241209,hétfői munkanapokon
-hkir_103-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"a tanév tartama alatt munkanapokon, kivéve a hetek utolsó munkanapját"
-hkir_117-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"tanév tartama alatt a hetek első munkanapját megelőző napon, tanév tartama alatt a hetek első munkanapját megelőző napon, kivéve december 26-án"
-hkir_122-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,tanév tartama alatt munkaszüneti napokon
-hkir_124-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,keddi és csütörtöki munkanapokon
-hkir_127-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,keddi és pénteki munkanapokon
-hkir_13-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241021,20241209,a hetek első iskolai előadási napján
-hkir_132-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241023,nyári időszámítás tartama alatt munkaszüneti napokon
-hkir_133-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"tanév tartama alatt szabadnapokon, kivéve december 24-én"
-hkir_139-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241027,20241208,téli időszámítás tartama alatt szabad- és munkaszüneti napokon
-hkir_14-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,a hetek utolsó iskolai előadási napján
-hkir_140-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241026,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
-hkir_145-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"tanév tartama alatt naponta, nyári tanszünetben munkanapokon"
-hkir_146-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241029,20241029,tanszünetben keddi és pénteki munkanapokon
-hkir_15-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,a hetek első iskolai előadási napját megelőző munkaszüneti napon
-hkir_154-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,iskolai előadási napokon kedden és pénteken
-hkir_156-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_157-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,csütörtöki iskolai előadási napokon
-hkir_16-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,tanév tartama alatt munkanapokon
-hkir_164-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, valamint tanszünetben munkanapokon"
-hkir_165-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,a hetek első iskolai előadási napját megelőző napon
-hkir_167-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241030,20241030,tanszünetben szerdai munkanapokon
-hkir_172-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,iskolai előadási napokon hétfőtől csütörtökig
-hkir_176-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241214,téli időszámítás tartama alatt munkanapokon
-hkir_179-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"tanszünetben munkaszüneti napokon, valamint I.1., III.15., IV.15., IV.18., VI.6, VIII.20-án, tanszünetben munkaszüneti napokon, valamint I.1., III.15., V.1., V.19., X.23-án"
-hkir_18-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,páros számú heteken munkanapokon
-hkir_19-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241021,20241207,páratlan számú heteken munkanapokon
-hkir_2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241022,20241210,keddi munkanapokon
-hkir_207-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,keddi és pénteki munkanapokon
-hkir_212-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve december 24-ét és 31-ét"
-hkir_213-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,január 8-tól június 30-ig és augusztus 21-től december 23-ig tanszünetben munkanapokon
-hkir_216-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241107,20241205,minden hónap első csütörtöki munkanapján
-hkir_217-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241021,20241210,hétfői és keddi munkanapokon
-hkir_219-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve december 25-ét, 26-át és január 1-jét"
-hkir_220-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"szerdai, csütörtöki és pénteki munkanapokon"
-hkir_221-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,a hetek első iskolai előadási napját megelőző napon
-hkir_228-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,keddtől péntekig munkanapokon
-hkir_229-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve december 24-ét"
-hkir_23-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkanapokon, valamint munkanapot követő napon a MERCEDES-gyár munkarendje szerint"
-hkir_230-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241025,nyári időszámítás tartama alatt a hetek utolsó munkanapján
-hkir_234-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,július 5-ig és szeptember 1-től munkanapokon
-hkir_236-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, valamint tanszünetben munkanapokon"
-hkir_237-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241021,20241211,hétfői és szerdai munkanapokon
-hkir_239-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241113,20241211,minden hónap második szerdáján
-hkir_240-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,április 30-ig és október 1-től szabad- és munkaszüneti napokon
-hkir_241-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,május 31-ig és szeptember 1-től munkanapokon
-hkir_243-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,"tanszünetben hétfői és csütörtöki munkanapokon, valamint január 2-án, április 2-án és augusztus 21-én, tanszünetben hétfői és csütörtöki munkanapokon, valamint április 11-én"
-hkir_244-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, valamint tanszünetben munkanapokon"
-hkir_249-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve december 25-ét, 26-át és január 1-jét"
-hkir_25-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241201,"szabad- és munkaszüneti napokon, kivéve munkanapot követő napon"
-hkir_251-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"december 10-től május 5-ig és szeptember 1-től december 8-ig a hetek első iskolai előadási napját megelőző munkaszüneti napon, december 11-től május 1-ig és szeptember 3-tól december 3-ig a hetek első iskolai előadási napját megelőző munkaszüneti napon"
-hkir_252-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241213,"keddi, csütörtöki és pénteki munkanapokon"
-hkir_254-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241029,20241030,"tanszünetben keddi, szerdai és pénteki munkanapokon, kivéve január 2-án, április 2-án és augusztus 21-én, tanszünetben keddi, szerdai és pénteki munkanapokon, kivéve április 11-én"
-hkir_255-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_256-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,április 30-ig és október 1-től szabadnapokon
-hkir_257-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,keddi és csütörtöki munkanapokon
-hkir_258-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241026,április 1-től október 31-ig szabadnapokon
-hkir_259-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241028,tanszünetben a hetek első munkanapján
-hkir_26-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
-hkir_260-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokat és december 24-ét"
-hkir_262-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241029,20241031,"tanszünetben munkanapokon, kivéve a hetek első munkanapját"
-hkir_263-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"iskolai előadási napokon, valamint június 17-től július 1-ig munkanapokon, iskolai előadási napokon, valamint június 22-től július 1-ig munkanapokon"
-hkir_264-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 25-én, 26-án és január 1-én"
-hkir_265-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"hétfői, szerdai és pénteki munkanapokon"
-hkir_266-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241030,"tanszünetben hétfői, szerdai, valamint pénteki munkanapokon"
-hkir_267-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,a hetek utolsó munkanapján és munkaszüneti napokon
-hkir_269-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkaszüneti napokon, valamint iskolai előadási napokon"
-hkir_27-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,tanév tartama alatt naponta
-hkir_271-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,hétfői és csütörtöki munkanapokon
-hkir_272-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"szeptember 1-től június 30 -ig a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző munkaszüneti napokon"
-hkir_273-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"iskolai előadási napokon hétfőn, szerdán és pénteken"
-hkir_275-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241023,április 1-től október 23-ig munkaszüneti napokon
-hkir_276-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241027,20241208,október 24-től március 31-ig munkaszüneti napokon
-hkir_279-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, de a szeptember 1-től június 30-ig tartó időszakban nem közlekedik a hetek utolsó munkanapján és a hetek első munkanapját megelőző napon"
-hkir_280-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,iskolai előadási napokon kedden és csütörtökön
-hkir_282-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_283-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"iskolai előadási napokon, valamint július 1-től július 31-ig munkanapokon"
-hkir_284-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,csütörtöki iskolai előadási napokon
-hkir_285-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"iskolai előadási napokon, kivéve csütörtökön"
-hkir_29-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkanapokon, valamint a MERCEDES-gyár munkarendje szerint külön rendeletre szabad- és munkaszüneti napokon"
-hkir_291-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241029,20241031,tanszünetben keddi és csütörtöki munkanapokon
-hkir_293-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkanapokon, valamint május 1-től szeptember 30-ig szabad- és munkaszüneti napokon"
-hkir_294-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_297-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241031,20241031,tanszünetben csütörtöki munkanapokon
-hkir_299-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,ünnepnapok kivételével naponta
-hkir_2A0-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241103,"március 29-től november 3-ig naponta, március 29-től november 5-ig naponta"
-hkir_2B0-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241104,20241214,"november 4-től március 28-ig naponta, november 6-tól március 28-ig naponta"
-hkir_2C7-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,"tanszünetben munkanapokon, kivéve június 17-től július 1-ig, tanszünetben munkanapokon, kivéve június 22-től július 1-ig"
-hkir_2D2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"keddi és csütörtöki munkanapokon, kivéve január 2-án, március 14-én, március 28-án, április 2-án, május 21-én és október 31-én, keddi és csütörtöki munkanapokon, kivéve április 6-án, április 11-én, május 2-án, május 30-án és október 24-én"
-hkir_2G3-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,IX.1-től VI.30-ig munkanapokon
-hkir_2K2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241030,20241211,"szerdai munkanapokon, kivéve augusztus 21-én, szerdai munkanapokon, kivéve december 27-én"
-hkir_2L0-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,csütörtöki munkanapokon
-hkir_2L5-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"IX.1-től VI.16-ig munkanapokon, szeptember 1-től június 21-ig munkanapokon"
-hkir_2L6-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"IX.1-től VI.16-ig szabadnapokon, szeptember 1-től június 21-ig szabadnapokon"
-hkir_2L7-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"IX.1-től VI.16-ig munkaszüneti napokon, szeptember 1-től június 21-ig munkaszüneti napokon"
-hkir_2Q2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,szeptember 2-től június 21-ig naponta
-hkir_2R4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241102,20241130,XI.1-től III.31-ig szabadnapokon
-hkir_2UT-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"közlekedik szeptember 2-től november 1-jéig, valamint március 15-től június 21-ig ünnepnapokon"
-hkir_2V9-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241031,20241101,"2023. október 31-én és november 1-jén, 2024. október 31-én és november 1-jén"
-hkir_2W7-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"IX.1-től VI.16-ig szabad- és munkaszüneti napokon, szeptember 2-től június 21-ig szabad- és munkaszüneti napokon"
-hkir_2X4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,munkaszüneti napokon
-hkir_2X5-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,szabadnap kivételével naponta
-hkir_2X6-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,iskolai előadási napokon
-hkir_2X8-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,munkanapokon
-hkir_2X9-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,szabadnapokon
-hkir_2Y2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,tanszünetben munkanapokon
-hkir_2Y3-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,munkaszüneti napok kivételével naponta
-hkir_2Y4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,szabad- és munkaszüneti napokon
-hkir_2Y6-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"IX.1-től VI.16-ig munkanapokon, szeptember 1-től június 21-ig munkanapokon"
-hkir_2Y7-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241103,"IV.8-tól XI.1-ig szabad- és munkaszüneti napokon, március 29-től november 3-ig szabad- és munkaszüneti napokon"
-hkir_2Y8-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241109,20241208,"XI.2-től IV.7-ig szabad- és munkaszüneti napokon, november 4-től március 28-ig szabad- és munkaszüneti napokon"
-hkir_2YU-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"Szabad- és munkaszüneti napokon, kivéve ünnepnapokon"
-hkir_3-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241030,20241211,szerdai munkanapokon
-hkir_300-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,a hét utolsó munkanapja kivételével munkanapokon és szabadnapokon
-hkir_303-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241211,szerdai napokon
-hkir_304-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, kivéve június 1-től augusztus 31-ig"
-hkir_306-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, kivéve december 24-én"
-hkir_308-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve június 1-től augusztus 31-ig"
-hkir_32-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241026,nyári időszámítás tartama alatt munkaszüneti napok kivételével naponta
-hkir_324-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,keddi és pénteki munkanapokon
-hkir_331-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"tanév tartama alatt szabadnapokon, kivéve december 24-én"
-hkir_341-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241029,20241029,tanszünetben keddi és pénteki munkanapokon
-hkir_343-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_344-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"naponta, kivéve a tanév tartama alatti munkanapokat"
-hkir_345-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,március 31-ig és október 16-tól naponta
-hkir_348-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve június 1-től augusztus 31-ig"
-hkir_34L-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot és december 24-én"
-hkir_350-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,március 31-ig és október 16-tól munkanapokon
-hkir_354-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,március 31-ig és október 16-tól szabad- és munkaszüneti napokon
-hkir_355-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,május 31-ig és szeptember 1-től munkanapokon
-hkir_35L-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"tanév tartama alatt munkaszüneti napokon, kivéve december 24-én"
-hkir_364-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241030,20241030,tanszünetben szerdai munkanapokon
-hkir_367-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"a hetek utolsó iskolai előadási napján, valamint a hetek első iskolai előadási napját megelőző napon"
-hkir_369-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_37-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
-hkir_375-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve a hetek utolsó iskolai előadási napját"
-hkir_381-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,munkanapot követő szabad- és munkaszüneti napokon
-hkir_384-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve a munkaszüneti napokat és a hetek utolsó iskolai előadási napját"
-hkir_385-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, valamint május 1-től augusztus 31-ig munkanapokon"
-hkir_386-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,szeptember 1-től április 30-ig munkanapokon
-hkir_388-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabadnapokon, valamint tanév tartama alatt munkaszüneti napokon"
-hkir_38C-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,Domaszéki Bálint Sándor Általános Iskola (csütörtöki iskolai előadási napokon) külön rendeletre
-hkir_38D-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,Bálint Sándor Általános Iskola Domaszék (külön rendeletre) csütörtök kivételével iskolai előadási napokon közlekedő járatai
-hkir_38I-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,Szabad Waldorf Ált. Isk. és Bálint Sándor Ált. Isk. (külön rendeletre) iskolai előadási napokon közlekedő járatai
-hkir_38U-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,Bedő Albert Erdészeti Szakképző Iskola (külön rendeletre) hetek utolsó iskolai előadási napján közlekedő járatai
-hkir_39-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"munkanapokon, kivéve csütörtöki munkanapokon"
-hkir_391-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"tanév tartama alatt naponta, kivéve a hetek első munkanapját megelőző napon, valamint nyári tanszünetben naponta, valamint december 26-án"
-hkir_395-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkanapokon, kivéve keddi és pénteki munkanap"
-hkir_398-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,tanév tartama alatt szabad- és munkaszüneti napokon
-hkir_399-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve munkaszüneti napokon és december 24-én"
-hkir_3A5-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,a hetek első iskolai előadási napját megelőző napon
-hkir_3A6-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve a hetek első iskolai előadási napját megelőző napon és december 24-én"
-hkir_3DK-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve szabadnapokon és december 24-én"
-hkir_3HI-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241101,20241103,Szeged helyi temetői járatok
-hkir_3MN-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,Munkaszüneti napokon (Auchan Áruház nyitva tart)
-hkir_3MZ-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,Munkaszüneti napokon (Auchan Áruház zárva tart)
-hkir_3NK-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve december 24-én"
-hkir_3NZ-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve a hetek utolsó tanítási napját, valamint a hetek első tanítási napját megelőző napokon"
-hkir_3T3-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"péntek, szombat, vasárnap napokon, kivéve december 25-én"
-hkir_3TM-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,tanév tartama alatt munkanap
-hkir_3TW-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,"őszi, téli és tavaszi tanszünetben munkanapokon"
-hkir_3TZ-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,Tanév tartama alatt hétvégéken és ünnepnapokon
-hkir_3X2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_3X4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve december 24-én"
-hkir_3X9-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve december 25-én"
-hkir_3Y5-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"március 31-ig és október 16-tól naponta, kivéve december 24-én"
-hkir_3Z5-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve a hetek utolsó iskolai előadási napján és december 24-én"
-hkir_3ZI-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,hétvégéken és ünnepnapokon
-hkir_4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,csütörtöki munkanapokon
-hkir_426-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_427-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241030,"tanszünetben hétfői, szerdai és pénteki munkanapokon"
-hkir_431-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,tanév tartama alatt szabadnapokon
-hkir_432-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241213,a hetek utolsó előtti és utolsó iskolai előadási napján
-hkir_434-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_435-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, illetve közlekedik december 26-án"
-hkir_438-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,a hetek első iskolai előadási napját megelőző napokon
-hkir_439-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
-hkir_441-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,május 31-ig és szeptember 1-től munkanapokon
-hkir_442-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241026,március 1-től október 31-ig szabadnapokon
-hkir_443-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241102,20241130,"február 29-ig és november 1-től szabadnapokon, kivéve december 24-én"
-hkir_444-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve a keddi és pénteki munkanapokat, a munkaszüneti napokat és a minden hónap első hétfői munkanapját"
-hkir_445-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"minden hó első hétfői munkanapján, valamint keddi és pénteki munkanapokon"
-hkir_455-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,"hétfői, keddi és csütörtöki munkanapokon"
-hkir_457-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkanapokon, kivéve kedden és pénteken"
-hkir_459-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,a hetek utolsó iskolai előadási napján és a hetek első iskolai előadási napját megelőző munkaszüneti napon
-hkir_460-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,június 30-ig és szeptember 1-től munkanapokon
-hkir_463-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241027,március 1-től október 31-ig munkaszüneti napokon
-hkir_469-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,május 31-ig és szeptember 1-től munkaszüneti napokon
-hkir_480-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"hétfői, szerdai és pénteki munkanapokon"
-hkir_481-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"keddi, csütörtöki és szombati munkanapokon"
-hkir_483-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,február 28-ig és november 1-től munkaszüneti napokon
-hkir_485-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,május 31-ig és szeptember 1-től szabadnapokon
-hkir_486-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,május 31-ig és szeptember 21-től szabadnapokon
-hkir_492-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,keddi és pénteki munkanapokon
-hkir_494-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,szabadnapokon és tanszünetben munkanapokon
-hkir_495-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,július 9-ig és augusztus 31-től munkaszüneti napokon
-hkir_498-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,május 31-ig és szeptember 1-től munkaszüneti napok kivételével naponta és június 1-től augusztus 31-ig naponta
-hkir_499-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241029,20241031,"tanszünetben keddi, csütörtöki és szombati munkanapokon"
-hkir_4AA-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241101,20241214,március 31-ig és november 1-től naponta
-hkir_4AE-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241031,április 1-től október 31-ig naponta
-hkir_4FI-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241104,20241214,március 31-ig és november 1-től iskolai előadási napokon
-hkir_4HA-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241027,április 1-től június 16-ig és szeptember 1-től október 31-ig munkaszüneti napokon
-hkir_4HI-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241025,április 1-től október 31-ig iskolai előadási napokon
-hkir_4IA-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,március 31-ig és november 1-től munkaszüneti napokon
-hkir_4JA-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241031,április 1-től június 16-ig és szeptember 1-től október 31-ig naponta
-hkir_4ML-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkanapokon, kivéve a téli tanszünetben"
-hkir_4MV-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241104,20241214,március 31-ig és november 1-től munkanapokon
-hkir_4MY-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241031,április 1-től június 16-ig és szeptember 1-től október 31-ig munkanapokon
-hkir_4MZ-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241031,április 1-től október 31-ig munkanapokon
-hkir_4NB-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241027,április 1-től október 31-ig munkaszüneti napokon
-hkir_4NM-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241031,"április 1-től október 31-ig naponta, kivéve munkaszüneti napokon"
-hkir_4NN-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241102,20241214,"március 31-ig és november 1-től naponta, kivéve munkaszüneti napokon"
-hkir_4NY-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241031,"április 1-től június 16-ig és szeptember 1-től október 31-ig naponta, kivéve munkaszüneti napokon"
-hkir_4OC-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241102,20241130,március 31-ig és november 1-től szabadnapokon
-hkir_4OL-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241026,április 1-től június 16-ig és szeptember 1-től október 31-ig szabadnapokon
-hkir_4PC-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241027,április 1-től június 16-ig és szeptember 1-től október 31-ig szabad- és munkaszüneti napokon
-hkir_4PD-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,"június 16-ig és augusztus 28-tól tanszünetben munkanapokon, június 21-ig és szeptember 1-től tanszünetben munkanapokon"
-hkir_4PE-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"május 12-ig és szeptember 23-tól szabad- és munkaszüneti napokon, május 14-ig és szeptember 25-től szabad- és munkaszüneti napokon"
-hkir_4PG-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,március 31-ig és november 1-től szabad- és munkaszüneti napokon
-hkir_4SX-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"június 16-ig és augusztus 28-tól szabadnapokon, június 21-ig és szeptember 1-től szabadnapokon"
-hkir_4T8-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,tanév tartama alatt a hetek utolsó munkanapján
-hkir_4TQ-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"június 16-ig és augusztus 28-tól munkanapokon, június 21-ig és szeptember 1-től munkanapokon"
-hkir_4WR-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,április 1-től június 16-ig és szeptember 1-től október 31-ig tanszünetben munkanapokon
-hkir_4XA-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"június 16-ig és augusztus 28-tól szabad- és munkaszüneti napokon, június 21-ig és szeptember 1-től szabad- és munkaszüneti napokon"
-hkir_4XL-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"május 12-ig és szeptember 23-tól a hetek első iskolai előadási napját megelőző munkaszüneti napon, május 14-ig és szeptember 25-től a hetek első iskolai előadási napját megelőző munkaszüneti napon"
-hkir_4XQ-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"május 12-ig és szeptember 23-tól munkanapokon, május 14-ig és szeptember 25-től munkanapokon"
-hkir_5-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,pénteki munkanapokon
-hkir_51-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_54F-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,április 30-ig és október 1-től munkaszüneti napokon
-hkir_54I-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,április 30-ig és október 1-től szabad- és munkaszüneti napokon
-hkir_55T-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241213,"tanév tartama alatt a hetek utolsó előtti és utolsó munkanapján, kivéve december 28-át és december 29-ét"
-hkir_56-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve a hetek első munkanapját megelőző napot"
-hkir_58-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve ünnepnapokon"
-hkir_59-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,ünnepnapokon
-hkir_5B2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241101,20241101,november 1-jén
-hkir_5C0-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,LISS Kft. szénsavgyár munkarendje szerint
-hkir_5C1-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,a KACO Hungary Kft. munkarendje szerint
-hkir_5C2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,A Schunk Carbon Kft. munkarendje szerint
-hkir_5C5-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,az AUDI gyár munkarendje szerint
-hkir_5C6-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,Calida munkarendje szerint
-hkir_5C7-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"Győr, Ipari Park munkarendje szerint"
-hkir_5F1-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241206,"2023.II.6-tól V.12-ig és IX.4-től XII.8-ig, valamint 2024.II.5-től V.10-ig és IX.2-től XII.6-ig munkanapokon, Széchenyi István Egyetem tanévi rendje szerint"
-hkir_5H1-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,hétfő kivételével munkanapokon
-hkir_5H5-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241021,20241209,hétfői munkanapokon
-hkir_5H6-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"hétfői, szerdai és pénteki munkanapokon"
-hkir_5H7-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,hétfőtől csütörtökig osztrák iskolai előadási napokon
-hkir_5I2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,iskolai előadási napokon és szabadnapokon
-hkir_5I3-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
-hkir_5I4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_5I5-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"iskolai előadási napokon, kivéve az érettségi szünet időtartama alatt"
-hkir_5IM-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,a Magyar Műhely Alapítvány (Mezőörs) iskolai előadási napjain
-hkir_5IO-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241213,osztrák iskolai előadási napokon
-hkir_5IQ-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,pénteki osztrák iskolai előadási napokon
-hkir_5IR-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,Eberau oktatási intézményeinek a hetek utolsó iskolai előadási napján
-hkir_5IS-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241213,Eberau oktatási intézményeinek iskolai előadási napjain
-hkir_5IT-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,"Eberau oktatási intézményeinek iskolai előadási napjain, kivéve a hetek utolsó iskolai előadási napját"
-hkir_5K2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,keddi és pénteki munkanapokon
-hkir_5M4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkanapokon, kivéve a hetek első munkanapját"
-hkir_5M7-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkanapokon, kivéve december 31-én"
-hkir_5N2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve december 24-én"
-hkir_5N4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve december 24-ét és 31-ét"
-hkir_5N6-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve december 25-én"
-hkir_5N7-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve munkaszüneti napokat valamint december 24-ét és 31-ét"
-hkir_5N8-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve munkaszüneti napokon és december 24-én"
-hkir_5NA-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve tanév tartama alatt a hetek első munkanapját megelőző napokat, valamint közlekedik december 26-án"
-hkir_5S1-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,szabadnapokon és tanszünetben munkanapokon
-hkir_5S3-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, kivéve december 24-én"
-hkir_5S4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, kivéve december 24-ét és 31-ét"
-hkir_5T1-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,tanév tartama alatt a hetek első iskolai előadási napját megelőző napon
-hkir_5T2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"tanév tartama alatt a hetek első munkanapját és első iskolai előadási napját megelőző napon, kivéve december 26-án"
-hkir_5T4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"tanév tartama alatt a hetek első munkanapját megelőző napon, kivéve december 26-án"
-hkir_5T7-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"tanév tartama alatt a hetek utolsó munkanapján és a hetek utolsó iskolai előadási napján, kivéve december 29-én"
-hkir_5T8-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"tanév tartama alatt a hetek utolsó munkanapján, tanév tartama alatt a hetek utolsó munkanapján, kivéve december 29-én"
-hkir_5T9-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"tanév tartama alatt a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző napon, kivéve december 26-át és december 29-ét"
-hkir_5TA-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,tanév tartama alatt munkaszüneti napok kivételével naponta
-hkir_5TB-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,tanév tartama alatt szabad- és munkaszüneti napokon
-hkir_5V1-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,munkanapot megelőző munkaszüneti napokon
-hkir_5V3-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_5V4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve december 24-én"
-hkir_5V7-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve tanév tartama alatt a hetek első munkanapját megelőző munkaszüneti napokat, valamint december 26-án"
-hkir_5W3-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241030,tanszünetben keddi és csütörtöki munkanapok kivételével munkanapokon
-hkir_5W4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241029,20241031,tanszünetben keddi és csütörtöki munkanapokon
-hkir_5W6-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,"tanszünetben munkanapokon, kivéve december 31-én"
-hkir_5WB-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241025,nyári időszámítás tartama alatt munkanapokon
-hkir_5WD-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241026,nyári időszámítás tartama alatt szabadnapokon
-hkir_5Z1-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_5Z2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 24-én és 31-én"
-hkir_602-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,keddi és pénteki munkanapokon
-hkir_603-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,szerdai és pénteki munkanapokon
-hkir_618-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"iskolai előadási napokon, kivéve csütörtökön"
-hkir_621-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241031,20241031,tanszünetben csütörtöki munkanapokon
-hkir_627-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokon"
-hkir_629-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241212,iskolai előadási napokon csütörtökön
-hkir_633-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241211,szerdai munkanapokon és szabadnapokon
-hkir_647-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241025,április 24-től október 25-ig munkanapokon
-hkir_648-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241214,október 26-tól április 23-ig munkanapokon
-hkir_65-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve tanszünetes munkanapokon"
-hkir_651-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,szabadnapokon valamint tanszünetben munkanapokon
-hkir_653-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"tanév tartama alatt naponta,nyári tanszünetben munkanapokon"
-hkir_663-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"iskolai előadási napokon, valamint nyári tanszünetben szabadnapokon"
-hkir_666-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241213,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
-hkir_667-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241027,20241208,"téli időszámítás tartama alatt szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_672-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241030,20241214,téli időszámítás alatt szerdai munkanapokon és szabadnapokon
-hkir_6D3-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241027,20241208,Vásári napokon (minden hónap 2. és 4. vasárnapján)
-hkir_6D4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,Vásári napok kivételével naponta
-hkir_6E8-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241103,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik munkaszüneti napokon.
-hkir_6E9-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241109,20241130,November 8-tól március 31-ig közlekedik szabadnapokon
-hkir_6F1-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,Hétfőtől szombatig
-hkir_6F5-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241213,"Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik munkanapokon, valamint nov.8-tól márc.31-ig pénteki munkanapokon"
-hkir_6F6-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241102,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik szabadnapokon.
-hkir_6F7-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241111,20241212,November 8-tól március 31-ig hétfőtől csütörtökig közlekedik munkanapokon
-hkir_6J4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"naponta, kivéve iskolai előadási napokon"
-hkir_6J5-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"naponta, kivéve iskolai előadási napokon és december 24-én"
-hkir_6J7-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve december 24-én"
-hkir_6J8-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve december 24-én"
-hkir_6J9-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve december 25-én"
-hkir_6K1-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, kivéve december 24-én"
-hkir_6K2-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve munkaszüneti napokon és december 24-én"
-hkir_6K3-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_6K4-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 25-én"
-hkir_6K5-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve december 25-én"
-hkir_7*3-2024-10-17_2024-12-31,0,0,0,0,0,0,0,20241019,20241214,-/-/3/-/-/6/-
-hkir_7*I-2024-10-17_2024-12-31,0,0,0,0,0,0,0,20241018,20241213,-/2/-/-/5/-/7
-hkir_7*Q-2024-10-17_2024-12-31,0,0,0,0,0,0,0,20241017,20241214,1/-/-/4/-/6/-
-hkir_7-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,vasárnapi napokon
-hkir_7-2024-10-17_2024-12-31,0,0,0,0,0,0,0,20241020,20241208,vasárnapi napokon
-hkir_702-2024-10-17_2024-12-31,0,0,0,0,0,0,0,20241022,20241210,-/2/-/-/-/-/-
-hkir_703-2024-10-17_2024-12-31,0,0,0,0,0,0,0,20241023,20241211,-/-/3/-/-/-/-
-hkir_705-2024-10-17_2024-12-31,0,0,0,0,0,0,0,20241018,20241213,-/-/-/-/5/-/-
-hkir_71-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,tanév tartama alatt tanszünetben munkanapokon
-hkir_720-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkanapokon, kivéve a hetek első munkanapján"
-hkir_727-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
-hkir_73-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_732-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241025,nyári időszámítás tartama alatt munkanapokon
-hkir_733-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241026,"nyári időszámítás tartama alatt szabad- és munkaszüneti napokon, amennyiben a járatra érvényes menetjegy a VOLÁNBUSZ pénztáraiban az indulást megelőzően legalább 10 perccel megváltásra került"
-hkir_744-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"április 23-ig és szeptember 30-tól szabad- és munkaszüneti napokon, április 30-ig és október 1-től szabad- és munkaszüneti napokon"
-hkir_773-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, illetve közlekedik december 26-án"
-hkir_776-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,a hetek utolsó munkanapján és a hetek első munkanapját megelőző napokon
-hkir_779-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első munkanapját megelőző napon"
-hkir_781-2024-10-17_2024-10-30,0,0,0,0,0,0,0,20241019,20241026,munkanapot követő szabad- és munkaszüneti napokon
-hkir_781-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,munkanapot követő szabad- és munkaszüneti napokon
+hkir_1-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241209,hétfői munkanapokon
+hkir_103-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241214,"a tanév tartama alatt munkanapokon, kivéve a hetek utolsó munkanapját"
+hkir_117-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"tanév tartama alatt a hetek első munkanapját megelőző napon, tanév tartama alatt a hetek első munkanapját megelőző napon, kivéve december 26-án"
+hkir_122-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,tanév tartama alatt munkaszüneti napokon
+hkir_124-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241022,20241212,keddi és csütörtöki munkanapokon
+hkir_127-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,keddi és pénteki munkanapokon
+hkir_13-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241209,a hetek első iskolai előadási napján
+hkir_132-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241023,nyári időszámítás tartama alatt munkaszüneti napokon
+hkir_133-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"tanév tartama alatt szabadnapokon, kivéve december 24-én"
+hkir_139-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241027,20241208,téli időszámítás tartama alatt szabad- és munkaszüneti napokon
+hkir_14-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,a hetek utolsó iskolai előadási napján
+hkir_140-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241026,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
+hkir_145-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"tanév tartama alatt naponta, nyári tanszünetben munkanapokon"
+hkir_146-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241029,20241029,tanszünetben keddi és pénteki munkanapokon
+hkir_15-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,a hetek első iskolai előadási napját megelőző munkaszüneti napon
+hkir_154-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,iskolai előadási napokon kedden és pénteken
+hkir_156-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_157-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241024,20241212,csütörtöki iskolai előadási napokon
+hkir_16-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,tanév tartama alatt munkanapokon
+hkir_164-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, valamint tanszünetben munkanapokon"
+hkir_165-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,a hetek első iskolai előadási napját megelőző napon
+hkir_167-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241030,20241030,tanszünetben szerdai munkanapokon
+hkir_172-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241212,iskolai előadási napokon hétfőtől csütörtökig
+hkir_176-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241214,téli időszámítás tartama alatt munkanapokon
+hkir_179-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"tanszünetben munkaszüneti napokon, valamint I.1., III.15., IV.15., IV.18., VI.6, VIII.20-án, tanszünetben munkaszüneti napokon, valamint I.1., III.15., V.1., V.19., X.23-án"
+hkir_18-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,páros számú heteken munkanapokon
+hkir_19-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241207,páratlan számú heteken munkanapokon
+hkir_2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241022,20241210,keddi munkanapokon
+hkir_207-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,keddi és pénteki munkanapokon
+hkir_212-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve december 24-ét és 31-ét"
+hkir_213-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,január 8-tól június 30-ig és augusztus 21-től december 23-ig tanszünetben munkanapokon
+hkir_216-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241107,20241205,minden hónap első csütörtöki munkanapján
+hkir_217-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241210,hétfői és keddi munkanapokon
+hkir_219-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve december 25-ét, 26-át és január 1-jét"
+hkir_220-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"szerdai, csütörtöki és pénteki munkanapokon"
+hkir_221-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,a hetek első iskolai előadási napját megelőző napon
+hkir_228-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,keddtől péntekig munkanapokon
+hkir_229-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve december 24-ét"
+hkir_23-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"munkanapokon, valamint munkanapot követő napon a MERCEDES-gyár munkarendje szerint"
+hkir_230-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241025,nyári időszámítás tartama alatt a hetek utolsó munkanapján
+hkir_234-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,július 5-ig és szeptember 1-től munkanapokon
+hkir_236-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, valamint tanszünetben munkanapokon"
+hkir_237-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241211,hétfői és szerdai munkanapokon
+hkir_239-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241113,20241211,minden hónap második szerdáján
+hkir_240-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,április 30-ig és október 1-től szabad- és munkaszüneti napokon
+hkir_241-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,május 31-ig és szeptember 1-től munkanapokon
+hkir_243-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,"tanszünetben hétfői és csütörtöki munkanapokon, valamint január 2-án, április 2-án és augusztus 21-én, tanszünetben hétfői és csütörtöki munkanapokon, valamint április 11-én"
+hkir_244-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, valamint tanszünetben munkanapokon"
+hkir_249-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve december 25-ét, 26-át és január 1-jét"
+hkir_25-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241201,"szabad- és munkaszüneti napokon, kivéve munkanapot követő napon"
+hkir_251-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"december 10-től május 5-ig és szeptember 1-től december 8-ig a hetek első iskolai előadási napját megelőző munkaszüneti napon, december 11-től május 1-ig és szeptember 3-tól december 3-ig a hetek első iskolai előadási napját megelőző munkaszüneti napon"
+hkir_252-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"keddi, csütörtöki és pénteki munkanapokon"
+hkir_254-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241029,20241030,"tanszünetben keddi, szerdai és pénteki munkanapokon, kivéve január 2-án, április 2-án és augusztus 21-én, tanszünetben keddi, szerdai és pénteki munkanapokon, kivéve április 11-én"
+hkir_255-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_256-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,április 30-ig és október 1-től szabadnapokon
+hkir_257-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241022,20241212,keddi és csütörtöki munkanapokon
+hkir_258-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241026,április 1-től október 31-ig szabadnapokon
+hkir_259-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241028,tanszünetben a hetek első munkanapján
+hkir_26-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
+hkir_260-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokat és december 24-ét"
+hkir_262-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241029,20241031,"tanszünetben munkanapokon, kivéve a hetek első munkanapját"
+hkir_263-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"iskolai előadási napokon, valamint június 17-től július 1-ig munkanapokon, iskolai előadási napokon, valamint június 22-től július 1-ig munkanapokon"
+hkir_264-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 25-én, 26-án és január 1-én"
+hkir_265-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"hétfői, szerdai és pénteki munkanapokon"
+hkir_266-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241030,"tanszünetben hétfői, szerdai, valamint pénteki munkanapokon"
+hkir_267-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,a hetek utolsó munkanapján és munkaszüneti napokon
+hkir_269-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"munkaszüneti napokon, valamint iskolai előadási napokon"
+hkir_27-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,tanév tartama alatt naponta
+hkir_271-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241212,hétfői és csütörtöki munkanapokon
+hkir_272-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"szeptember 1-től június 30 -ig a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző munkaszüneti napokon"
+hkir_273-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"iskolai előadási napokon hétfőn, szerdán és pénteken"
+hkir_275-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241023,április 1-től október 23-ig munkaszüneti napokon
+hkir_276-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241027,20241208,október 24-től március 31-ig munkaszüneti napokon
+hkir_279-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241214,"naponta, de a szeptember 1-től június 30-ig tartó időszakban nem közlekedik a hetek utolsó munkanapján és a hetek első munkanapját megelőző napon"
+hkir_280-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241022,20241212,iskolai előadási napokon kedden és csütörtökön
+hkir_282-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_283-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"iskolai előadási napokon, valamint július 1-től július 31-ig munkanapokon"
+hkir_284-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241024,20241212,csütörtöki iskolai előadási napokon
+hkir_285-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"iskolai előadási napokon, kivéve csütörtökön"
+hkir_29-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"munkanapokon, valamint a MERCEDES-gyár munkarendje szerint külön rendeletre szabad- és munkaszüneti napokon"
+hkir_291-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241029,20241031,tanszünetben keddi és csütörtöki munkanapokon
+hkir_293-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"munkanapokon, valamint május 1-től szeptember 30-ig szabad- és munkaszüneti napokon"
+hkir_294-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_297-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241031,20241031,tanszünetben csütörtöki munkanapokon
+hkir_299-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,ünnepnapok kivételével naponta
+hkir_2A0-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241103,"március 29-től november 3-ig naponta, március 29-től november 5-ig naponta"
+hkir_2B0-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241104,20241214,"november 4-től március 28-ig naponta, november 6-tól március 28-ig naponta"
+hkir_2C7-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,"tanszünetben munkanapokon, kivéve június 17-től július 1-ig, tanszünetben munkanapokon, kivéve június 22-től július 1-ig"
+hkir_2D2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241022,20241214,"keddi és csütörtöki munkanapokon, kivéve január 2-án, március 14-én, március 28-án, április 2-án, május 21-én és október 31-én, keddi és csütörtöki munkanapokon, kivéve április 6-án, április 11-én, május 2-án, május 30-án és október 24-én"
+hkir_2G3-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,IX.1-től VI.30-ig munkanapokon
+hkir_2K2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241030,20241211,"szerdai munkanapokon, kivéve augusztus 21-én, szerdai munkanapokon, kivéve december 27-én"
+hkir_2L0-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241024,20241212,csütörtöki munkanapokon
+hkir_2L5-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"IX.1-től VI.16-ig munkanapokon, szeptember 1-től június 21-ig munkanapokon"
+hkir_2L6-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"IX.1-től VI.16-ig szabadnapokon, szeptember 1-től június 21-ig szabadnapokon"
+hkir_2L7-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"IX.1-től VI.16-ig munkaszüneti napokon, szeptember 1-től június 21-ig munkaszüneti napokon"
+hkir_2Q2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,szeptember 2-től június 21-ig naponta
+hkir_2R4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241102,20241130,XI.1-től III.31-ig szabadnapokon
+hkir_2UT-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"közlekedik szeptember 2-től november 1-jéig, valamint március 15-től június 21-ig ünnepnapokon"
+hkir_2V9-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241031,20241101,"2023. október 31-én és november 1-jén, 2024. október 31-én és november 1-jén"
+hkir_2W7-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"IX.1-től VI.16-ig szabad- és munkaszüneti napokon, szeptember 2-től június 21-ig szabad- és munkaszüneti napokon"
+hkir_2X4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,munkaszüneti napokon
+hkir_2X5-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,szabadnap kivételével naponta
+hkir_2X6-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,iskolai előadási napokon
+hkir_2X8-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,munkanapokon
+hkir_2X9-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,szabadnapokon
+hkir_2Y2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,tanszünetben munkanapokon
+hkir_2Y3-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,munkaszüneti napok kivételével naponta
+hkir_2Y4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,szabad- és munkaszüneti napokon
+hkir_2Y6-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"IX.1-től VI.16-ig munkanapokon, szeptember 1-től június 21-ig munkanapokon"
+hkir_2Y7-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241103,"IV.8-tól XI.1-ig szabad- és munkaszüneti napokon, március 29-től november 3-ig szabad- és munkaszüneti napokon"
+hkir_2Y8-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241109,20241208,"XI.2-től IV.7-ig szabad- és munkaszüneti napokon, november 4-től március 28-ig szabad- és munkaszüneti napokon"
+hkir_2YU-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"Szabad- és munkaszüneti napokon, kivéve ünnepnapokon"
+hkir_3-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241030,20241211,szerdai munkanapokon
+hkir_300-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241214,a hét utolsó munkanapja kivételével munkanapokon és szabadnapokon
+hkir_303-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241211,szerdai napokon
+hkir_304-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, kivéve június 1-től augusztus 31-ig"
+hkir_306-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, kivéve december 24-én"
+hkir_308-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve június 1-től augusztus 31-ig"
+hkir_32-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241026,nyári időszámítás tartama alatt munkaszüneti napok kivételével naponta
+hkir_324-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,keddi és pénteki munkanapokon
+hkir_331-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"tanév tartama alatt szabadnapokon, kivéve december 24-én"
+hkir_341-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241029,20241029,tanszünetben keddi és pénteki munkanapokon
+hkir_343-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_344-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"naponta, kivéve a tanév tartama alatti munkanapokat"
+hkir_345-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,március 31-ig és október 16-tól naponta
+hkir_348-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve június 1-től augusztus 31-ig"
+hkir_34L-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot és december 24-én"
+hkir_350-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,március 31-ig és október 16-tól munkanapokon
+hkir_354-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,március 31-ig és október 16-tól szabad- és munkaszüneti napokon
+hkir_355-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,május 31-ig és szeptember 1-től munkanapokon
+hkir_35L-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"tanév tartama alatt munkaszüneti napokon, kivéve december 24-én"
+hkir_364-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241030,20241030,tanszünetben szerdai munkanapokon
+hkir_367-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"a hetek utolsó iskolai előadási napján, valamint a hetek első iskolai előadási napját megelőző napon"
+hkir_369-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_37-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
+hkir_375-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241214,"naponta, kivéve a hetek utolsó iskolai előadási napját"
+hkir_381-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,munkanapot követő szabad- és munkaszüneti napokon
+hkir_384-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241214,"naponta, kivéve a munkaszüneti napokat és a hetek utolsó iskolai előadási napját"
+hkir_385-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, valamint május 1-től augusztus 31-ig munkanapokon"
+hkir_386-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,szeptember 1-től április 30-ig munkanapokon
+hkir_388-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabadnapokon, valamint tanév tartama alatt munkaszüneti napokon"
+hkir_38C-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241024,20241212,Domaszéki Bálint Sándor Általános Iskola (csütörtöki iskolai előadási napokon) külön rendeletre
+hkir_38D-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,Bálint Sándor Általános Iskola Domaszék (külön rendeletre) csütörtök kivételével iskolai előadási napokon közlekedő járatai
+hkir_38I-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,Szabad Waldorf Ált. Isk. és Bálint Sándor Ált. Isk. (külön rendeletre) iskolai előadási napokon közlekedő járatai
+hkir_38U-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,Bedő Albert Erdészeti Szakképző Iskola (külön rendeletre) hetek utolsó iskolai előadási napján közlekedő járatai
+hkir_39-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"munkanapokon, kivéve csütörtöki munkanapokon"
+hkir_391-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"tanév tartama alatt naponta, kivéve a hetek első munkanapját megelőző napon, valamint nyári tanszünetben naponta, valamint december 26-án"
+hkir_395-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241214,"munkanapokon, kivéve keddi és pénteki munkanap"
+hkir_398-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,tanév tartama alatt szabad- és munkaszüneti napokon
+hkir_399-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve munkaszüneti napokon és december 24-én"
+hkir_3A5-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,a hetek első iskolai előadási napját megelőző napon
+hkir_3A6-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve a hetek első iskolai előadási napját megelőző napon és december 24-én"
+hkir_3DK-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve szabadnapokon és december 24-én"
+hkir_3HI-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241101,20241103,Szeged helyi temetői járatok
+hkir_3MN-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,Munkaszüneti napokon (Auchan Áruház nyitva tart)
+hkir_3MZ-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,Munkaszüneti napokon (Auchan Áruház zárva tart)
+hkir_3NK-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve december 24-én"
+hkir_3NZ-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241214,"naponta, kivéve a hetek utolsó tanítási napját, valamint a hetek első tanítási napját megelőző napokon"
+hkir_3T3-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"péntek, szombat, vasárnap napokon, kivéve december 25-én"
+hkir_3TM-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,tanév tartama alatt munkanap
+hkir_3TW-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,"őszi, téli és tavaszi tanszünetben munkanapokon"
+hkir_3TZ-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,Tanév tartama alatt hétvégéken és ünnepnapokon
+hkir_3X2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_3X4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve december 24-én"
+hkir_3X9-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve december 25-én"
+hkir_3Y5-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"március 31-ig és október 16-tól naponta, kivéve december 24-én"
+hkir_3Z5-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241214,"naponta, kivéve a hetek utolsó iskolai előadási napján és december 24-én"
+hkir_3ZI-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,hétvégéken és ünnepnapokon
+hkir_4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241024,20241212,csütörtöki munkanapokon
+hkir_426-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_427-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241030,"tanszünetben hétfői, szerdai és pénteki munkanapokon"
+hkir_431-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,tanév tartama alatt szabadnapokon
+hkir_432-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,a hetek utolsó előtti és utolsó iskolai előadási napján
+hkir_434-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_435-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, illetve közlekedik december 26-án"
+hkir_438-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,a hetek első iskolai előadási napját megelőző napokon
+hkir_439-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
+hkir_441-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,május 31-ig és szeptember 1-től munkanapokon
+hkir_442-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241026,március 1-től október 31-ig szabadnapokon
+hkir_443-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241102,20241130,"február 29-ig és november 1-től szabadnapokon, kivéve december 24-én"
+hkir_444-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241214,"naponta, kivéve a keddi és pénteki munkanapokat, a munkaszüneti napokat és a minden hónap első hétfői munkanapját"
+hkir_445-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"minden hó első hétfői munkanapján, valamint keddi és pénteki munkanapokon"
+hkir_455-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241212,"hétfői, keddi és csütörtöki munkanapokon"
+hkir_457-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241214,"munkanapokon, kivéve kedden és pénteken"
+hkir_459-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,a hetek utolsó iskolai előadási napján és a hetek első iskolai előadási napját megelőző munkaszüneti napon
+hkir_460-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,június 30-ig és szeptember 1-től munkanapokon
+hkir_463-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241027,március 1-től október 31-ig munkaszüneti napokon
+hkir_469-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,május 31-ig és szeptember 1-től munkaszüneti napokon
+hkir_480-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"hétfői, szerdai és pénteki munkanapokon"
+hkir_481-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241022,20241214,"keddi, csütörtöki és szombati munkanapokon"
+hkir_483-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,február 28-ig és november 1-től munkaszüneti napokon
+hkir_485-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,május 31-ig és szeptember 1-től szabadnapokon
+hkir_486-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,május 31-ig és szeptember 21-től szabadnapokon
+hkir_492-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,keddi és pénteki munkanapokon
+hkir_494-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,szabadnapokon és tanszünetben munkanapokon
+hkir_495-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,július 9-ig és augusztus 31-től munkaszüneti napokon
+hkir_498-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,május 31-ig és szeptember 1-től munkaszüneti napok kivételével naponta és június 1-től augusztus 31-ig naponta
+hkir_499-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241029,20241031,"tanszünetben keddi, csütörtöki és szombati munkanapokon"
+hkir_4AA-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241101,20241214,március 31-ig és november 1-től naponta
+hkir_4AE-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241031,április 1-től október 31-ig naponta
+hkir_4FI-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241104,20241214,március 31-ig és november 1-től iskolai előadási napokon
+hkir_4HA-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241027,április 1-től június 16-ig és szeptember 1-től október 31-ig munkaszüneti napokon
+hkir_4HI-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241025,április 1-től október 31-ig iskolai előadási napokon
+hkir_4IA-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,március 31-ig és november 1-től munkaszüneti napokon
+hkir_4JA-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241031,április 1-től június 16-ig és szeptember 1-től október 31-ig naponta
+hkir_4ML-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"munkanapokon, kivéve a téli tanszünetben"
+hkir_4MV-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241104,20241214,március 31-ig és november 1-től munkanapokon
+hkir_4MY-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241031,április 1-től június 16-ig és szeptember 1-től október 31-ig munkanapokon
+hkir_4MZ-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241031,április 1-től október 31-ig munkanapokon
+hkir_4NB-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241027,április 1-től október 31-ig munkaszüneti napokon
+hkir_4NM-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241031,"április 1-től október 31-ig naponta, kivéve munkaszüneti napokon"
+hkir_4NN-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241102,20241214,"március 31-ig és november 1-től naponta, kivéve munkaszüneti napokon"
+hkir_4NY-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241031,"április 1-től június 16-ig és szeptember 1-től október 31-ig naponta, kivéve munkaszüneti napokon"
+hkir_4OC-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241102,20241130,március 31-ig és november 1-től szabadnapokon
+hkir_4OL-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241026,április 1-től június 16-ig és szeptember 1-től október 31-ig szabadnapokon
+hkir_4PC-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241027,április 1-től június 16-ig és szeptember 1-től október 31-ig szabad- és munkaszüneti napokon
+hkir_4PD-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,"június 16-ig és augusztus 28-tól tanszünetben munkanapokon, június 21-ig és szeptember 1-től tanszünetben munkanapokon"
+hkir_4PE-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"május 12-ig és szeptember 23-tól szabad- és munkaszüneti napokon, május 14-ig és szeptember 25-től szabad- és munkaszüneti napokon"
+hkir_4PG-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,március 31-ig és november 1-től szabad- és munkaszüneti napokon
+hkir_4SX-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"június 16-ig és augusztus 28-tól szabadnapokon, június 21-ig és szeptember 1-től szabadnapokon"
+hkir_4T8-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,tanév tartama alatt a hetek utolsó munkanapján
+hkir_4TQ-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"június 16-ig és augusztus 28-tól munkanapokon, június 21-ig és szeptember 1-től munkanapokon"
+hkir_4WR-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,április 1-től június 16-ig és szeptember 1-től október 31-ig tanszünetben munkanapokon
+hkir_4XA-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"június 16-ig és augusztus 28-tól szabad- és munkaszüneti napokon, június 21-ig és szeptember 1-től szabad- és munkaszüneti napokon"
+hkir_4XL-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"május 12-ig és szeptember 23-tól a hetek első iskolai előadási napját megelőző munkaszüneti napon, május 14-ig és szeptember 25-től a hetek első iskolai előadási napját megelőző munkaszüneti napon"
+hkir_4XQ-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"május 12-ig és szeptember 23-tól munkanapokon, május 14-ig és szeptember 25-től munkanapokon"
+hkir_5-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,pénteki munkanapokon
+hkir_51-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_54F-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,április 30-ig és október 1-től munkaszüneti napokon
+hkir_54I-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,április 30-ig és október 1-től szabad- és munkaszüneti napokon
+hkir_55T-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"tanév tartama alatt a hetek utolsó előtti és utolsó munkanapján, kivéve december 28-át és december 29-ét"
+hkir_56-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve a hetek első munkanapját megelőző napot"
+hkir_58-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve ünnepnapokon"
+hkir_59-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,ünnepnapokon
+hkir_5B2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241101,20241101,november 1-jén
+hkir_5C0-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,LISS Kft. szénsavgyár munkarendje szerint
+hkir_5C1-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,a KACO Hungary Kft. munkarendje szerint
+hkir_5C2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,A Schunk Carbon Kft. munkarendje szerint
+hkir_5C5-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,az AUDI gyár munkarendje szerint
+hkir_5C6-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,Calida munkarendje szerint
+hkir_5C7-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"Győr, Ipari Park munkarendje szerint"
+hkir_5F1-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241206,"2023.II.6-tól V.12-ig és IX.4-től XII.8-ig, valamint 2024.II.5-től V.10-ig és IX.2-től XII.6-ig munkanapokon, Széchenyi István Egyetem tanévi rendje szerint"
+hkir_5H1-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,hétfő kivételével munkanapokon
+hkir_5H5-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241209,hétfői munkanapokon
+hkir_5H6-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"hétfői, szerdai és pénteki munkanapokon"
+hkir_5H7-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241212,hétfőtől csütörtökig osztrák iskolai előadási napokon
+hkir_5I2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,iskolai előadási napokon és szabadnapokon
+hkir_5I3-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
+hkir_5I4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_5I5-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"iskolai előadási napokon, kivéve az érettségi szünet időtartama alatt"
+hkir_5IM-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,a Magyar Műhely Alapítvány (Mezőörs) iskolai előadási napjain
+hkir_5IO-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,osztrák iskolai előadási napokon
+hkir_5IQ-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,pénteki osztrák iskolai előadási napokon
+hkir_5IR-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,Eberau oktatási intézményeinek a hetek utolsó iskolai előadási napján
+hkir_5IS-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,Eberau oktatási intézményeinek iskolai előadási napjain
+hkir_5IT-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241212,"Eberau oktatási intézményeinek iskolai előadási napjain, kivéve a hetek utolsó iskolai előadási napját"
+hkir_5K2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,keddi és pénteki munkanapokon
+hkir_5M4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"munkanapokon, kivéve a hetek első munkanapját"
+hkir_5M7-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"munkanapokon, kivéve december 31-én"
+hkir_5N2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve december 24-én"
+hkir_5N4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve december 24-ét és 31-ét"
+hkir_5N6-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve december 25-én"
+hkir_5N7-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve munkaszüneti napokat valamint december 24-ét és 31-ét"
+hkir_5N8-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve munkaszüneti napokon és december 24-én"
+hkir_5NA-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve tanév tartama alatt a hetek első munkanapját megelőző napokat, valamint közlekedik december 26-án"
+hkir_5S1-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,szabadnapokon és tanszünetben munkanapokon
+hkir_5S3-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, kivéve december 24-én"
+hkir_5S4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, kivéve december 24-ét és 31-ét"
+hkir_5T1-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,tanév tartama alatt a hetek első iskolai előadási napját megelőző napon
+hkir_5T2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"tanév tartama alatt a hetek első munkanapját és első iskolai előadási napját megelőző napon, kivéve december 26-án"
+hkir_5T4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"tanév tartama alatt a hetek első munkanapját megelőző napon, kivéve december 26-án"
+hkir_5T7-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"tanév tartama alatt a hetek utolsó munkanapján és a hetek utolsó iskolai előadási napján, kivéve december 29-én"
+hkir_5T8-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"tanév tartama alatt a hetek utolsó munkanapján, tanév tartama alatt a hetek utolsó munkanapján, kivéve december 29-én"
+hkir_5T9-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"tanév tartama alatt a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző napon, kivéve december 26-át és december 29-ét"
+hkir_5TA-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,tanév tartama alatt munkaszüneti napok kivételével naponta
+hkir_5TB-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,tanév tartama alatt szabad- és munkaszüneti napokon
+hkir_5V1-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,munkanapot megelőző munkaszüneti napokon
+hkir_5V3-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_5V4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve december 24-én"
+hkir_5V7-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve tanév tartama alatt a hetek első munkanapját megelőző munkaszüneti napokat, valamint december 26-án"
+hkir_5W3-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241030,tanszünetben keddi és csütörtöki munkanapok kivételével munkanapokon
+hkir_5W4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241029,20241031,tanszünetben keddi és csütörtöki munkanapokon
+hkir_5W6-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,"tanszünetben munkanapokon, kivéve december 31-én"
+hkir_5WB-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241025,nyári időszámítás tartama alatt munkanapokon
+hkir_5WD-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241026,nyári időszámítás tartama alatt szabadnapokon
+hkir_5Z1-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_5Z2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 24-én és 31-én"
+hkir_602-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,keddi és pénteki munkanapokon
+hkir_603-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,szerdai és pénteki munkanapokon
+hkir_618-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"iskolai előadási napokon, kivéve csütörtökön"
+hkir_621-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241031,20241031,tanszünetben csütörtöki munkanapokon
+hkir_627-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokon"
+hkir_629-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241024,20241212,iskolai előadási napokon csütörtökön
+hkir_633-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241211,szerdai munkanapokon és szabadnapokon
+hkir_647-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241025,április 24-től október 25-ig munkanapokon
+hkir_648-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241214,október 26-tól április 23-ig munkanapokon
+hkir_65-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve tanszünetes munkanapokon"
+hkir_651-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,szabadnapokon valamint tanszünetben munkanapokon
+hkir_653-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"tanév tartama alatt naponta,nyári tanszünetben munkanapokon"
+hkir_663-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"iskolai előadási napokon, valamint nyári tanszünetben szabadnapokon"
+hkir_666-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241213,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
+hkir_667-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241027,20241208,"téli időszámítás tartama alatt szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_672-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241030,20241214,téli időszámítás alatt szerdai munkanapokon és szabadnapokon
+hkir_6D3-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241027,20241208,Vásári napokon (minden hónap 2. és 4. vasárnapján)
+hkir_6D4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,Vásári napok kivételével naponta
+hkir_6E8-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241103,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik munkaszüneti napokon.
+hkir_6E9-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241109,20241130,November 8-tól március 31-ig közlekedik szabadnapokon
+hkir_6F1-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,Hétfőtől szombatig
+hkir_6F5-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,"Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik munkanapokon, valamint nov.8-tól márc.31-ig pénteki munkanapokon"
+hkir_6F6-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241102,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik szabadnapokon.
+hkir_6F7-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241111,20241212,November 8-tól március 31-ig hétfőtől csütörtökig közlekedik munkanapokon
+hkir_6J4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"naponta, kivéve iskolai előadási napokon"
+hkir_6J5-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"naponta, kivéve iskolai előadási napokon és december 24-én"
+hkir_6J7-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve december 24-én"
+hkir_6J8-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve december 24-én"
+hkir_6J9-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve december 25-én"
+hkir_6K1-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,"szabadnapokon, kivéve december 24-én"
+hkir_6K2-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve munkaszüneti napokon és december 24-én"
+hkir_6K3-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_6K4-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"szabad- és munkaszüneti napokon, kivéve december 25-én"
+hkir_6K5-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve december 25-én"
+hkir_7*3-2024-10-18_2024-12-31,0,0,0,0,0,0,0,20241019,20241214,-/-/3/-/-/6/-
+hkir_7*I-2024-10-18_2024-12-31,0,0,0,0,0,0,0,20241018,20241213,-/2/-/-/5/-/7
+hkir_7*Q-2024-10-18_2024-12-31,0,0,0,0,0,0,0,20241019,20241214,1/-/-/4/-/6/-
+hkir_7-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,vasárnapi napokon
+hkir_7-2024-10-18_2024-12-31,0,0,0,0,0,0,0,20241020,20241208,vasárnapi napokon
+hkir_702-2024-10-18_2024-12-31,0,0,0,0,0,0,0,20241022,20241210,-/2/-/-/-/-/-
+hkir_703-2024-10-18_2024-12-31,0,0,0,0,0,0,0,20241023,20241211,-/-/3/-/-/-/-
+hkir_705-2024-10-18_2024-12-31,0,0,0,0,0,0,0,20241018,20241213,-/-/-/-/5/-/-
+hkir_71-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,tanév tartama alatt tanszünetben munkanapokon
+hkir_720-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"munkanapokon, kivéve a hetek első munkanapján"
+hkir_727-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241214,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
+hkir_73-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241214,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_732-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241025,nyári időszámítás tartama alatt munkanapokon
+hkir_733-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241026,"nyári időszámítás tartama alatt szabad- és munkaszüneti napokon, amennyiben a járatra érvényes menetjegy a VOLÁNBUSZ pénztáraiban az indulást megelőzően legalább 10 perccel megváltásra került"
+hkir_744-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,"április 23-ig és szeptember 30-tól szabad- és munkaszüneti napokon, április 30-ig és október 1-től szabad- és munkaszüneti napokon"
+hkir_773-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, illetve közlekedik december 26-án"
+hkir_776-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,a hetek utolsó munkanapján és a hetek első munkanapját megelőző napokon
+hkir_779-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"munkaszüneti napokon, kivéve a hetek első munkanapját megelőző napon"
+hkir_781-2024-10-18_2024-10-30,0,0,0,0,0,0,0,20241019,20241026,munkanapot követő szabad- és munkaszüneti napokon
+hkir_781-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,munkanapot követő szabad- és munkaszüneti napokon
 hkir_781-2024-10-31_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,munkanapot követő szabad- és munkaszüneti napokon
-hkir_784-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,munkanapot követő napokon
-hkir_785-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241028,a hetek első tanszünetes munkanapján
-hkir_79-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkanapokon, kivéve szerdai munkanapokon"
-hkir_791-2024-10-17_2024-10-25,0,0,0,0,0,0,0,20241019,20241023,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
+hkir_784-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,munkanapot követő napokon
+hkir_785-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241028,a hetek első tanszünetes munkanapján
+hkir_79-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"munkanapokon, kivéve szerdai munkanapokon"
+hkir_791-2024-10-18_2024-10-25,0,0,0,0,0,0,0,20241019,20241023,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
 hkir_791-2024-10-19_2024-10-20,0,0,0,0,0,0,0,20241019,20241020,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
 hkir_791-2024-10-21_2024-12-14,0,0,0,0,0,0,0,20241023,20241208,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
 hkir_791-2024-10-26_2024-10-27,0,0,0,0,0,0,0,20241026,20241027,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
 hkir_791-2024-10-28_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,"március 24-ig és október 5-től szabad- és munkaszüneti napokon, március 26-ig és szeptember 30-tól szabad- és munkaszüneti napokon"
-hkir_793-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"március 28-ig és szeptember 30-tól munkanapokon, március 31-ig és szeptember 25-től munkanapokon"
-hkir_7Z7-2024-10-17_2024-12-31,0,0,0,0,0,0,0,20241018,20241213,1/-/-/-/5/-/-
-hkir_92-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkanapokon a MERCEDES-gyár munkarendje szerint, kivéve hétfői munkanapokat"
-hkir_?10-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"Hétfői, keddi, szerdai, csütörtöki vagy pénteki szabad-és munkaszüneti napokon"
-hkir_?15-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241031,"2024. október 02-án és 05-én kívül, közlekedik 2022.09.09-én"
-hkir_?17-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,munkaszüneti napokon
-hkir_?19-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,szabadnapokon
-hkir_A1V-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve ünnepnapokon"
-hkir_D-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve szabadnapokon"
-hkir_H-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241021,20241209,a hetek első munkanapján
-hkir_I-2024-10-17_2024-10-30,0,0,0,0,0,0,0,20241017,20241025,iskolai előadási napokon
-hkir_I-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,iskolai előadási napokon
+hkir_793-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"március 28-ig és szeptember 30-tól munkanapokon, március 31-ig és szeptember 25-től munkanapokon"
+hkir_7Z7-2024-10-18_2024-12-31,0,0,0,0,0,0,0,20241018,20241213,1/-/-/-/5/-/-
+hkir_92-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"munkanapokon a MERCEDES-gyár munkarendje szerint, kivéve hétfői munkanapokat"
+hkir_?10-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241023,20241101,"Hétfői, keddi, szerdai, csütörtöki vagy pénteki szabad-és munkaszüneti napokon"
+hkir_?15-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241031,"2024. október 02-án és 05-én kívül, közlekedik 2022.09.09-én"
+hkir_?17-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,munkaszüneti napokon
+hkir_?19-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,szabadnapokon
+hkir_A1V-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,"munkaszüneti napokon, kivéve ünnepnapokon"
+hkir_D-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve szabadnapokon"
+hkir_H-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241209,a hetek első munkanapján
+hkir_I-2024-10-18_2024-10-30,0,0,0,0,0,0,0,20241018,20241025,iskolai előadási napokon
+hkir_I-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,iskolai előadási napokon
 hkir_I-2024-10-31_2024-12-14,0,0,0,0,0,0,0,20241104,20241214,iskolai előadási napokon
-hkir_L-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"munkanapokon, kivéve a hetek utolsó munkanapján"
-hkir_M-2024-10-17_2024-10-30,0,0,0,0,0,0,0,20241017,20241030,munkanapokon
-hkir_M-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,munkanapokon
+hkir_L-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241021,20241214,"munkanapokon, kivéve a hetek utolsó munkanapján"
+hkir_M-2024-10-18_2024-10-30,0,0,0,0,0,0,0,20241018,20241030,munkanapokon
+hkir_M-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,munkanapokon
 hkir_M-2024-10-31_2024-12-14,0,0,0,0,0,0,0,20241031,20241214,munkanapokon
-hkir_MS-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,munkaszüneti napokon
-hkir_O-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,szabadnapokon
-hkir_T-2024-10-17_2024-10-30,0,0,0,0,0,0,0,20241028,20241030,tanszünetben munkanapokon
-hkir_T-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,tanszünetben munkanapokon
+hkir_MS-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,munkaszüneti napokon
+hkir_O-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241130,szabadnapokon
+hkir_T-2024-10-18_2024-10-30,0,0,0,0,0,0,0,20241028,20241030,tanszünetben munkanapokon
+hkir_T-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241028,20241031,tanszünetben munkanapokon
 hkir_T-2024-10-31_2024-12-14,0,0,0,0,0,0,0,20241031,20241031,tanszünetben munkanapokon
-hkir_TS-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241102,20241130,téli időszámítás tartama alatt szabadnapokon
-hkir_TV-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241027,20241208,téli időszámítás tartama alatt munkaszüneti napokon
-hkir_U-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,a hetek utolsó munkanapján
-hkir_V-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,a hetek első munkanapját megelőző napon
-hkir_X-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,"naponta, kivéve munkaszüneti napokon"
-hkir_Z-2024-10-17_2024-10-25,0,0,0,0,0,0,0,20241019,20241023,szabad- és munkaszüneti napokon
-hkir_Z-2024-10-17_2024-10-30,0,0,0,0,0,0,0,20241019,20241027,szabad- és munkaszüneti napokon
-hkir_Z-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,szabad- és munkaszüneti napokon
+hkir_TS-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241102,20241130,téli időszámítás tartama alatt szabadnapokon
+hkir_TV-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241027,20241208,téli időszámítás tartama alatt munkaszüneti napokon
+hkir_U-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241213,a hetek utolsó munkanapján
+hkir_V-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241020,20241208,a hetek első munkanapját megelőző napon
+hkir_X-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,"naponta, kivéve munkaszüneti napokon"
+hkir_Z-2024-10-18_2024-10-25,0,0,0,0,0,0,0,20241019,20241023,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-18_2024-10-30,0,0,0,0,0,0,0,20241019,20241027,szabad- és munkaszüneti napokon
+hkir_Z-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241019,20241208,szabad- és munkaszüneti napokon
 hkir_Z-2024-10-19_2024-10-20,0,0,0,0,0,0,0,20241019,20241020,szabad- és munkaszüneti napokon
 hkir_Z-2024-10-21_2024-12-14,0,0,0,0,0,0,0,20241023,20241208,szabad- és munkaszüneti napokon
 hkir_Z-2024-10-26_2024-10-27,0,0,0,0,0,0,0,20241026,20241027,szabad- és munkaszüneti napokon
 hkir_Z-2024-10-28_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,szabad- és munkaszüneti napokon
 hkir_Z-2024-10-31_2024-12-14,0,0,0,0,0,0,0,20241101,20241208,szabad- és munkaszüneti napokon
-hkir__-2024-10-17_2024-10-18,0,0,0,0,0,0,0,20241017,20241018,naponta
-hkir__-2024-10-17_2024-10-25,0,0,0,0,0,0,0,20241017,20241025,naponta
-hkir__-2024-10-17_2024-10-30,0,0,0,0,0,0,0,20241017,20241030,naponta
-hkir__-2024-10-17_2024-12-14,0,0,0,0,0,0,0,20241017,20241214,naponta
-hkir__-2024-10-17_2024-12-31,0,0,0,0,0,0,0,20241017,20241214,naponta
+hkir__-2024-10-18_2024-10-18,0,0,0,0,0,0,0,20241018,20241018,naponta
+hkir__-2024-10-18_2024-10-25,0,0,0,0,0,0,0,20241018,20241025,naponta
+hkir__-2024-10-18_2024-10-30,0,0,0,0,0,0,0,20241018,20241030,naponta
+hkir__-2024-10-18_2024-12-14,0,0,0,0,0,0,0,20241018,20241214,naponta
+hkir__-2024-10-18_2024-12-31,0,0,0,0,0,0,0,20241018,20241214,naponta
 hkir__-2024-10-19_2024-10-20,0,0,0,0,0,0,0,20241019,20241020,naponta
 hkir__-2024-10-21_2024-12-14,0,0,0,0,0,0,0,20241021,20241214,naponta
 hkir__-2024-10-26_2024-10-27,0,0,0,0,0,0,0,20241026,20241027,naponta
