@@ -31,7 +31,6 @@ hkir_V-03522,hkir_V-03522-H-3-6,6,Déri sétány - Pásztor utca - Vöröskeresz
 hkir_V-03522,hkir_V-03522-H-3-7,7,Déri sétány - DÉLHÚS - (Vaskúti úti laktanya forduló) - Vöröskereszt tér - Déri sétány - Dobó István u,3,,152B32,FFFFFF,local
 hkir_V-03522,hkir_V-03522-H-3-8,8,Déri sétány - DÉLHÚS - (Vaskúti úti laktanya) - Vöröskereszt tér - Déri sétány,3,,152B32,FFFFFF,local
 hkir_V-03522,hkir_V-03522-H-3-9,9,Tanítóképző Főiskola - Svraka tanya - Tanítóképző Főiskola,3,,152B32,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-H3110,H3110,TEMETŐ JÁRAT,3,,152B32,FFFFFF,local
 hkir_V-04260,hkir_V-04260-H-3-1,1,"Mezőtúr, aut. áll. - Kossuth tér. - aut. áll.",3,,152B32,FFFFFF,local
 hkir_V-04349,hkir_V-04349-H-3-1,1,Autóbusz-állomás - Nyár utca - Munkácsy utca - Röszkei út - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-04783,hkir_V-04783-H-3-10,10,Vasútállomás - Moson - Evangélikus templom - Ujhelyi iskola - Tündérfátyol utca,3,,152B32,FFFFFF,local
@@ -314,11 +313,9 @@ hkir_V-17631,hkir_V-17631-H-3-2,2,"Autóbusz-állomás - Sóstó, Kemping",3,,15
 hkir_V-17631,hkir_V-17631-H-3-21,21,Darnay Kálmán tér - Perczel Mór u.,3,,152B32,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-2A,2A,Aut. áll. - Gábor Áron u.,3,,152B32,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-3,3,Autóbusz-állomás - Volán-telep,3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-3T,3T,Autóbusz-állomás - Kele utcai temető,3,,152B32,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-4,4,"Autóbusz-állomás - Kiliti, Béke tér",3,,152B32,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-5,5,"Autóbusz-állomás - Szépvölgyi u. - Kiliti,Béke tér",3,,152B32,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-6,6,"Autóbusz-állomás - Balatonszéplak, Felső v. mh. - Somogyfok",3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-6T,6T,Autóbusz-állomás - Szépvölgyi utcai temető,3,,152B32,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-7,7,"Autóbusz-állomás - Boróka u. - Somogyfok - Töreki, Alsó",3,,152B32,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-8,8,Autóbusz-állomás - Boróka u. - Somogyfok,3,,152B32,FFFFFF,local
 hkir_V-17941,hkir_V-17941-H-3-1,1,"Autóbusz-állomás - Henész, forduló",3,,152B32,FFFFFF,local
@@ -1174,7 +1171,6 @@ hkir_V,hkir_V-R-200-3604,3604,Eger - Parádfürdő - Gyöngyös - Hatvan - Pető
 hkir_V,hkir_V-R-200-3605,3605,Hatvan - Lőrinci - Ecseg,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3605,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3607,3607,Hatvan - Apc - Pásztó( - Szentkút),200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3607,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3608,3608,Hatvan - Vörösmajor - Petőfibánya - R.sz.márton - Gyöngyös,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3608,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3609,3609,"Apc - Petőfibánya - Lőrinci, temető",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3609,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3610,3610,Hatvan - Ecséd - Rózsaszentmárton - Szücsi - Gyöngyöspata,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3610,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3612,3612,Gyöngyös - Csány - Hatvan,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3612,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3617,3617,Szolnok-Jászberény-Jászfényszaru-Boldog-Hatvan,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=3617,F6AC00,152B32,regional
