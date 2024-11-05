@@ -678,7 +678,6 @@ hkir_V-32559,hkir_V-32559-H-3-45,45,GÖDÖLLŐ HELYI Autóbusz-állomás - Kirá
 hkir_V-32559,hkir_V-32559-H-3-4A,4A,GÖDÖLLŐ HELYI Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-32559,hkir_V-32559-H-3-5,5,GÖDÖLLŐ HELYI Autóbusz-állomás - Mátyás király u. - Hegy u.,3,,152B32,FFFFFF,local
 hkir_V-32559,hkir_V-32559-H-3-9,9,GÖDÖLLŐ HELYI Autóbusz-állomás - Vasútállomás - Gödöllői Gépgyár,3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-12,12,Temetői járat,3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-20,20,"Petőfitelep, Fő tér - Szeged vasútállomás - Alsóváros, Vadkerti tér",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-21,21,Új-Petőfitelep - Mars tér - Szeged vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-24,24,"Petőfitelep, Fő tér - Klebersberg telep",3,,152B32,FFFFFF,local
