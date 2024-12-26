@@ -3118,7 +3118,7 @@ hkir_V,hkir_V-R-200-773,773,Budapest - M1 - Páty - Budajenő - Zsámbék,200,ht
 hkir_V,hkir_V-R-200-7730,7730,Tapolca - Lesencetomaj - Lesencefalu,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7730,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7736,7736,Tapolca - Uzsa - Sümeg,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7736,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-774,774,Budapest - M1 - Páty - Budajenő - Zsámbék,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2820,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-7742,7742,Monostorapáti - Tapolca - Sáska,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7742,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-7742,7742,Tapolca - Nyirád - Devecser,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7742,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7744,7744,"Zánka - Révfülöp,vá. - Kővágóörs - Balatonhenye",200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7744,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7746,7746,Badacsonytördemic - Ábrahámhegy - Salföld,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=7746,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-775,775,Budapest - M1 - Zsámbék - Gyermely,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2836,F6AC00,152B32,regional
