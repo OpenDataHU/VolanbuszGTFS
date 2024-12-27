@@ -694,20 +694,16 @@ hkir_V-33367,hkir_V-33367-H-3-71,71,"Szegedi Ipari Logisztikai Központ - Marost
 hkir_V-33367,hkir_V-33367-H-3-71A,71A,"Mars tér - Marostői városrész, Katalin utca",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-72,72,"Szegedi Ipari Logisztikai Központ - Marostői városrész, Erdélyi tér",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-72A,72A,"ELI lézeres kutatóközpont - Mars tér - Marostői városrész, Erdélyi tér",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-72K,72K,"Mars tér - Marostői városrész, Erdélyi tér",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-73,73,"Mars tér - Tápé, Csatár utca",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-73K,73K,"Széchenyi tér - Tápé, Csatár utca",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-73Y,73Y,"Mars tér - Petőfitelep, Fő tér - Tápé, Csatár utca",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-74,74,"Gyálarét - Mars tér - Tápé, Csatár utca",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-74A,74A,Mars tér - Gyálarét,3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-74K,74K,"Széchenyi tér - Holt-Tisza - Kecskés telep, Bódi Vera utca",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-74Y,74Y,"Gyálarét - Mars tér - Petőfitelep, Fő tér - Tápé, Csatár utca",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-75,75,"Mars tér - Kiskundorozsma, Czékus utca",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-76,76,Mars tér - Szentmihály,3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-76Y,76Y,Mars tér - Szentmihály,3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-77,77,"Baktó, Völgyérhát utca - Mars tér - Szeged vasútállomás",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-77A,77A,"Baktó, Völgyérhát utca - Mars tér",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-77K,77K,"Széchenyi tér - Baktó, Völgyérhát utca",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-77Y,77Y,"Baktó, Völgyérhát utca - József Attila sugárút - Mars tér",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-78,78,Mars tér - Béketelep - Rókusi körút - Mars tér (körjárat),3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-78A,78A,Mars tér - Rókusi körút - Béketelep - Mars tér (körjárat),3,,152B32,FFFFFF,local
