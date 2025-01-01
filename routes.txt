@@ -1814,6 +1814,7 @@ hkir_V,hkir_V-R-200-4816,4816,Békéscsaba - Békés - Szeghalom - Vésztő,200,
 hkir_V,hkir_V-R-200-4819,4819,Békéscsaba - Doboz - Sarkadkeresztúr,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4819,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-482,482,Nagytarcsa - Budapest (Rákoscsaba) - Nagytarcsa,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=2116,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4820,4820,Békéscsaba - Doboz,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4820,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-4821,4821,Békéscsaba - Doboz - Szanazug,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4821,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4824,4824,Békéscsaba - Gyula - Sarkad - Szeghalom/Körösújfalu,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4824,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4825,4825,Békéscsaba - Gyula,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4825,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4826,4826,Békéscsaba - Gyula - Medgyesegyháza - Kunágota - Mezőkovácsháza,200,https://www.volanbusz.hu/hu/menetrendek/vonal-lista/vonal?menetrend=4826,F6AC00,152B32,regional
