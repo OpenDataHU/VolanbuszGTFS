@@ -21,7 +21,6 @@ hkir_V-07357,VOLÁNBUSZ - Makó,https://www.volanbusz.hu/hu/menetrendek/helyi-ja
 hkir_V-08518,VOLÁNBUSZ - Sopron,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/sopron,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-08864,VOLÁNBUSZ - Bátaszék,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/bataszek,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-09760,VOLÁNBUSZ - Békés,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/bekes,Europe/Budapest,hu,+36 1 382 0888
-hkir_V-11439,VOLÁNBUSZ - Várpalota,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/varpalota,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-12575,VOLÁNBUSZ - Lenti,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/lenti,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-13532,VOLÁNBUSZ - Körmend,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/kormend,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-13657,VOLÁNBUSZ - Balassagyarmat,https://www.volanbusz.hu/hu/menetrendek/helyi-jaratok/balassagyarmat,Europe/Budapest,hu,+36 1 382 0888
