@@ -715,6 +715,7 @@ hkir_V-33534,hkir_V-33534-H-3-3C,3C,Nagybátony Ózdi út 10 - Kisterenye Jászi
 hkir_V,hkir_V-N-200-223,223,Esztergom - Stúrovo,200,https://www.volanbusz.hu/hu/menetrendek/nemzetkozi-jaratok/celallomasok,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-228,228,Komárom - Komárno,200,https://www.volanbusz.hu/hu/menetrendek/nemzetkozi-jaratok/celallomasok,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-230,230,Budapest - Rétság - Nagyoroszi - Hont - Sahy,200,https://www.volanbusz.hu/hu/menetrendek/nemzetkozi-jaratok/celallomasok,F6AC00,152B32,international
+hkir_V,hkir_V-N-200-433,433,Liberec - Budapest - Vinnica,200,,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-540,540,Budapest - Miercurea Ciuc - Balan,200,,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-547,547,Pécs - Szeged - OdorheiuSecuiesc,200,,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-551,551,Budapest - Odorheiu Secuiesc,200,,F6AC00,152B32,international
