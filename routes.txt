@@ -119,7 +119,6 @@ hkir_V-09760,hkir_V-09760-H-3-1,1,Békés helyijárat,3,,152B32,FFFFFF,local
 hkir_V-12575,hkir_V-12575-H-3-2,2,Autóbusz-állomás - Gyár utca,3,,152B32,FFFFFF,local
 hkir_V-12575,hkir_V-12575-H-3-3,3,Autóbusz-állomás - Lentihegy,3,,152B32,FFFFFF,local
 hkir_V-12575,hkir_V-12575-H-3-35,35,Autóbusz-állomás - Máhomfa,3,,152B32,FFFFFF,local
-hkir_V-12575,hkir_V-12575-H-3-90,90,Autóbusz-állomás - Lentiszombathely,3,,152B32,FFFFFF,local
 hkir_V-12575,hkir_V-12575-H-3-94,94,Autóbusz-állomás - Bárszentmihályfa  Lentikápolna - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-13532,hkir_V-13532-H-3-1,1,Autóbusz-állomás - Horvátnádalja - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-13532,hkir_V-13532-H-3-1A,1A,Autóbusz-állomás - Felsőberkifalu - Alsóberkifalu - Autóbusz-állomás,3,,152B32,FFFFFF,local
