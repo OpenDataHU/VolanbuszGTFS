@@ -118,7 +118,6 @@ hkir_V-08864,hkir_V-08864-H-3-2,2,Aut.vt. - Vasútáll. - Lajvér - Kövesd - Va
 hkir_V-09760,hkir_V-09760-H-3-1,1,Békés helyijárat,3,,152B32,FFFFFF,local
 hkir_V-12575,hkir_V-12575-H-3-2,2,Autóbusz-állomás - Gyár utca,3,,152B32,FFFFFF,local
 hkir_V-12575,hkir_V-12575-H-3-3,3,Autóbusz-állomás - Lentihegy,3,,152B32,FFFFFF,local
-hkir_V-12575,hkir_V-12575-H-3-35,35,Autóbusz-állomás - Máhomfa,3,,152B32,FFFFFF,local
 hkir_V-12575,hkir_V-12575-H-3-94,94,Autóbusz-állomás - Bárszentmihályfa  Lentikápolna - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-13532,hkir_V-13532-H-3-1,1,Autóbusz-állomás - Horvátnádalja - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-13532,hkir_V-13532-H-3-1A,1A,Autóbusz-állomás - Felsőberkifalu - Alsóberkifalu - Autóbusz-állomás,3,,152B32,FFFFFF,local
@@ -290,7 +289,6 @@ hkir_V-17206,hkir_V-17206-H-3-94L,94L,Jósavárosi piac -- Sóstói úti kórhá
 hkir_V-17206,hkir_V-17206-H-3-95,95,Örökösföld - Autóbusz-állomás - Michelin - Huszár telep,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-95E,95E,Örökösföld - Autóbusz-állomás - Michelin - Huszár telep,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-96,96,Autóbusz-állomás -- Debreceni út -- Alma utcai iskola,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-97,97,"Örökösföld -- Lujza utca -- Ipari park, Wittur (-Újsortanya)",3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-97B,97B,"Örökösföld -- Lujza utca -- Ipari park, Wittur (-Újsortanya)",3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-H30,H30,Autóbusz-állomás - Rozsrét - Újsortanya - Butykasor - Oláhrét,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-H31,H31,Autóbusz-állomás - Butykasor - Oláhrét,3,,152B32,FFFFFF,local
@@ -1254,6 +1252,7 @@ hkir_V,hkir_V-R-200-3742,3742,Miskolc - Hejőkeresztúr - Nemesbikk,200,https://
 hkir_V,hkir_V-R-200-3743,3743,Miskolc - Mezőcsát,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3743,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3744,3744,Miskolc - Nyékládháza - Ónod - Tiszaújváros - Polgár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3744,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3745,3745,Miskolc - Nyékládháza - Tiszaújváros,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3745,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-3746,3746,Miskolc - Mezőkövesd - Bogács,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3746,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3747,3747,Miskolc - Bükkábrány - Gelej,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3747,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3748,3748,Miskolc - Emőd - Kács,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3748,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3749,3749,Miskolc - Bükkábrány - Mezőkövesd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3749,F6AC00,152B32,regional
