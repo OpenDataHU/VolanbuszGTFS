@@ -127,7 +127,6 @@ hkir_V-13532,hkir_V-13532-H-3-2A,2A,Autóbusz-állomás - Szabasdág tér - Bart
 hkir_V-13657,hkir_V-13657-H-3-1,1,Kenessey Kórház - Bajcsy út - Vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-1A,1A,Kenessey Kórház - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-1C,1C,Vasútállomás - Madách L. - Kenessey Kórház,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-2,2,Kenessey Kórház - Vasútállomás - Ruhagyár,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-2C,2C,Autóbusz-állomás - Kis posta - Ruhagyár - Volán telep,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-3,3,Bremas Kft - Vasútállomás - Ruhagyár - Szabó L. iskola,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-3B,3B,Vasútállomás - Szabó L. iskola,3,,152B32,FFFFFF,local
@@ -135,17 +134,14 @@ hkir_V-13657,hkir_V-13657-H-3-3C,3C,Kábelgyár - Huszár Aladár út - Ruhagyá
 hkir_V-13657,hkir_V-13657-H-3-4,4,Kenessey Kórház - Bremas Kft,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-5,5,Kenessey Kórház - Madách L. - Ruhagyár - Veres Pálné út - Kenessey Kórház,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-6,6,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-6A,6A,Kórház - Hétvezér út - Volán telep - Mahle Kft.,3,,152B32,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-6A,6A,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-6B,6B,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-6C,6C,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-7,7,Kenessey Kórház - Madách L. - Ruhagyár - Kossuth út - Kenessey Kórház,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-7A,7A,Kenessey Kórház - Kossúth út - Huszár A. út,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-7B,7B,Kenessey Kórház - Madách L. - Ruhagyár - Kossuth út - Kenessey Kórház,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-7D,7D,Civitas Fortissima tér - Szabó L. iskola,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-8,8,Autóbusz-állomás - Arany J.út - Május 1. - út - Ruhagyár - Madách L. - Kenessey Kórház,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-8A,8A,Autóbusz-állomás - Arany J. út - Szabó L. iskola - Szügyi út - MAHLE KFT,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-8B,8B,Kenessey Kórház - Arany J. út - Szabó L. iskola - Volán telep,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-8C,8C,Kenessey Kórház - Arany J. út - Szabó L. iskola - Volán telep,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-9,9,Kenessey Kórház - Madách L. - Ruhagyár - Veres Pálné út - Kenessey Kórház,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-9A,9A,Autóbusz-állomás - Vasútállomás - Kábelgyár - Madách L. Ruhagyár - Veres Pálné út - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-14456,hkir_V-14456-H-3-1,1,Autóbusz-állomás - Drahos István utca,3,,152B32,FFFFFF,local
