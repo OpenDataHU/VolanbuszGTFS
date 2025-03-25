@@ -64,6 +64,7 @@ hkir_V-05449,hkir_V-05449-H-3-2T,2T,"Autóbusz-állomás - Rendőrség - Vasút�
 hkir_V-05449,hkir_V-05449-H-3-3,3,Autóbusz-állomás - Termálfürdő - Kórház - MOL Városrész,3,,152B32,FFFFFF,local
 hkir_V-05449,hkir_V-05449-H-3-32,32,"MOL Városrész - Kórház - Termálfürdő - Autóbusz-állomás - Laktanya köz - Koppánymonostor,tábor",3,,152B32,FFFFFF,local
 hkir_V-05449,hkir_V-05449-H-3-32K,32K,Kórház - K.monostor,3,,152B32,FFFFFF,local
+hkir_V-05449,hkir_V-05449-H-3-3A,3A,Aut.áll.-MOL városrész,3,,152B32,FFFFFF,local
 hkir_V-05449,hkir_V-05449-H-3-3K,3K,Kórház - Aut.áll.,3,,152B32,FFFFFF,local
 hkir_V-05519,hkir_V-05519-H-3-1,1,Aut.áll. - Máriagyűd - Aut.áll.,3,,152B32,FFFFFF,local
 hkir_V-06497,hkir_V-06497-H-3-1,1,"Autóbusz-állomás - Majos, alsó",3,,152B32,FFFFFF,local
@@ -2800,6 +2801,7 @@ hkir_V,hkir_V-R-200-6898,6898,Körmend - Nádasd/Katafa - Bagod - Zalaegerszeg,2
 hkir_V,hkir_V-R-200-690,690,Budapest - Halásztelek - Szigethalom,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2615,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6900,6900,Körmend - Nádasd - Szőce,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6900,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6902,6902,Körmend - Szőce - Zalalövő - Pankasz - Őriszentpéter - Bajánsenye,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6902,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-6904,6904,Körmend - Vadása - tó - Őriszentpéter,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6904,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6905,6905,Körmend - Zalalövő - Őriszentpéter,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6905,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6909,6909,Őriszentpéter - Ispánk,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6909,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-691,691,"Budapest, Kelenföld - Szigetszentmiklós - Szigethalom",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2620,F6AC00,152B32,regional
