@@ -1,601 +1,587 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date,service_desc
-hkir_1-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250623,hétfői munkanapokon
-hkir_103-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250619,"a tanév tartama alatt munkanapokon, kivéve a hetek utolsó munkanapját"
-hkir_11-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250501,20250628,május 1-től szeptember 30-ig naponta
-hkir_117-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,tanév tartama alatt a hetek első munkanapját megelőző napon
-hkir_117-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250615,tanév tartama alatt a hetek első munkanapját megelőző napon
-hkir_117-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250406,20250615,tanév tartama alatt a hetek első munkanapját megelőző napon
-hkir_122-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250615,tanév tartama alatt munkaszüneti napokon
-hkir_123-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250622,20250622,nyári tanszünetben munkaszüneti napokon
-hkir_123-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250622,20250622,nyári tanszünetben munkaszüneti napokon
-hkir_124-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250626,keddi és csütörtöki munkanapokon
-hkir_127-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,keddi és pénteki munkanapokon
-hkir_13-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,a hetek első iskolai előadási napján
-hkir_13-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250616,a hetek első iskolai előadási napján
-hkir_132-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,nyári időszámítás tartama alatt munkaszüneti napokon
-hkir_133-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250614,tanév tartama alatt szabadnapokon
-hkir_139-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250329,téli időszámítás tartama alatt szabad- és munkaszüneti napokon
-hkir_14-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250404,20250620,a hetek utolsó iskolai előadási napján
-hkir_14-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250404,20250620,a hetek utolsó iskolai előadási napján
-hkir_140-2025-03-29_2025-04-25,0,0,0,0,0,0,0,20250330,20250421,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
-hkir_140-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250628,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
-hkir_140-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
+hkir_1-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250623,hétfői munkanapokon
+hkir_103-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250619,"a tanév tartama alatt munkanapokon, kivéve a hetek utolsó munkanapját"
+hkir_11-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250501,20250629,május 1-től szeptember 30-ig naponta
+hkir_117-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,tanév tartama alatt a hetek első munkanapját megelőző napon
+hkir_117-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,tanév tartama alatt a hetek első munkanapját megelőző napon
+hkir_117-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250406,20250615,tanév tartama alatt a hetek első munkanapját megelőző napon
+hkir_122-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,tanév tartama alatt munkaszüneti napokon
+hkir_123-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250622,20250629,nyári tanszünetben munkaszüneti napokon
+hkir_123-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250622,20250629,nyári tanszünetben munkaszüneti napokon
+hkir_124-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250626,keddi és csütörtöki munkanapokon
+hkir_127-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,keddi és pénteki munkanapokon
+hkir_13-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,a hetek első iskolai előadási napján
+hkir_13-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250616,a hetek első iskolai előadási napján
+hkir_132-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,nyári időszámítás tartama alatt munkaszüneti napokon
+hkir_133-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250614,tanév tartama alatt szabadnapokon
+hkir_14-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250404,20250620,a hetek utolsó iskolai előadási napján
+hkir_14-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250404,20250620,a hetek utolsó iskolai előadási napján
+hkir_140-2025-03-30_2025-04-25,0,0,0,0,0,0,0,20250330,20250421,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
+hkir_140-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
+hkir_140-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250629,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
 hkir_140-2025-04-26_2025-04-27,0,0,0,0,0,0,0,20250426,20250427,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
-hkir_140-2025-04-28_2025-06-28,0,0,0,0,0,0,0,20250501,20250628,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
-hkir_142-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben szabad- és munkaszüneti napokon
-hkir_145-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250627,"tanév tartama alatt naponta, nyári tanszünetben munkanapokon"
-hkir_146-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250422,20250627,tanszünetben keddi és pénteki munkanapokon
-hkir_15-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,a hetek első iskolai előadási napját megelőző munkaszüneti napon
-hkir_15-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250615,a hetek első iskolai előadási napját megelőző munkaszüneti napon
-hkir_15-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250406,20250615,a hetek első iskolai előadási napját megelőző munkaszüneti napon
-hkir_154-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,iskolai előadási napokon kedden és pénteken
-hkir_156-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_156-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_157-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250403,20250619,csütörtöki iskolai előadási napokon
-hkir_159-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250627,20250627,nyári tanszünetben a hetek utolsó munkanapján
-hkir_16-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,tanév tartama alatt munkanapokon
-hkir_16-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250620,tanév tartama alatt munkanapokon
-hkir_16-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,tanév tartama alatt munkanapokon
-hkir_164-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabadnapokon, valamint tanszünetben munkanapokon"
-hkir_164-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,"szabadnapokon, valamint tanszünetben munkanapokon"
-hkir_165-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250615,a hetek első iskolai előadási napját megelőző napon
-hkir_167-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250423,20250625,tanszünetben szerdai munkanapokon
-hkir_16T-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,március 29-től október 25-ig szabadnapokon
-hkir_172-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,iskolai előadási napokon hétfőtől csütörtökig
-hkir_179-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250622,"hetek első tanítási napját megelőző maunkaszünati napok kivételével munkaszüneti napokon, tanszünetben munkaszüneti napokon, valamint I.1., III.15., V.1., V.19., X.23-án"
-hkir_18-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,páros számú heteken munkanapokon
-hkir_186-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben csütörtöktől vasárnapig naponta
-hkir_19-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250407,20250620,páratlan számú heteken munkanapokon
-hkir_2-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250624,keddi munkanapokon
-hkir_20-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250623,20250627,nyári tanszünetben munkanapokon
-hkir_20-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250623,20250627,nyári tanszünetben munkanapokon
-hkir_207-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,keddi és pénteki munkanapokon
-hkir_216-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250403,20250605,minden hónap első csütörtöki munkanapján
-hkir_217-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250624,hétfői és keddi munkanapokon
-hkir_219-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve december 25-ét, 26-át és január 1-jét"
-hkir_220-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250402,20250627,"szerdai, csütörtöki és pénteki munkanapokon"
-hkir_221-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250615,a hetek első iskolai előadási napját megelőző napon
-hkir_225-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,"június 22-től augusztus 31-ig naponta, nyári tanszünetben naponta"
-hkir_228-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,keddtől péntekig munkanapokon
-hkir_229-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve december 24-ét"
-hkir_23-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"munkanapokon, valamint munkanapot követő napon a MERCEDES-gyár munkarendje szerint"
-hkir_230-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250404,20250627,nyári időszámítás tartama alatt a hetek utolsó munkanapján
-hkir_234-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,július 5-ig és szeptember 1-től munkanapokon
-hkir_234-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,július 5-ig és szeptember 1-től munkanapokon
-hkir_234-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,július 5-ig és szeptember 1-től munkanapokon
-hkir_236-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250627,"munkaszüneti napokon, valamint tanszünetben munkanapokon"
-hkir_237-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250625,hétfői és szerdai munkanapokon
-hkir_239-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250409,20250611,minden hónap második szerdáján
-hkir_240-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250427,április 30-ig és október 1-től szabad- és munkaszüneti napokon
-hkir_241-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250530,május 31-ig és szeptember 1-től munkanapokon
-hkir_242-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250501,20250628,május 1-től augusztus 31-ig naponta
-hkir_243-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250626,"tanszünetben hétfői és csütörtöki munkanapokon, valamint január 2-án, április 2-án és augusztus 21-én, tanszünetben hétfői és csütörtöki munkanapokon, valamint április 22-én"
-hkir_244-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250329,"szabadnapokon, valamint tanszünetben munkanapokon"
-hkir_244-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabadnapokon, valamint tanszünetben munkanapokon"
-hkir_244-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,"szabadnapokon, valamint tanszünetben munkanapokon"
-hkir_246-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabadnapokon, valamint iskolai előadási napokon"
-hkir_247-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250623,20250627,"június 22-től augusztus 31-ig munkanapokon, nyári tanszünetben munkanapokon"
-hkir_249-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,"munkaszüneti napokon, kivéve december 25-ét, 26-át és január 1-jét"
-hkir_25-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,"szabad- és munkaszüneti napokon, kivéve munkanapot követő napon"
-hkir_250-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250601,20250622,június 1-től augusztus 31-ig munkaszüneti napokon
-hkir_251-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250504,"december 10-től május 5-ig és szeptember 1-től december 8-ig a hetek első iskolai előadási napját megelőző munkaszüneti napon, május 4-ig és augusztus 31-től a hetek első iskolai előadási napját megelőző munkaszüneti napon"
-hkir_252-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,"keddi, csütörtöki és pénteki munkanapokon"
-hkir_254-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250423,20250627,"tanszünetben keddi, szerdai és pénteki munkanapokon, kivéve január 2-án, április 2-án és augusztus 21-én"
-hkir_255-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_256-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250426,április 30-ig és október 1-től szabadnapokon
-hkir_257-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250626,keddi és csütörtöki munkanapokon
-hkir_258-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,április 1-től október 31-ig szabadnapokon
-hkir_259-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250422,20250623,tanszünetben a hetek első munkanapján
-hkir_26-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
-hkir_26-2025-03-29_2025-04-06,0,0,0,0,0,0,0,20250331,20250404,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
-hkir_26-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250620,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
-hkir_26-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
+hkir_140-2025-04-28_2025-06-29,0,0,0,0,0,0,0,20250501,20250629,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
+hkir_142-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,nyári tanszünetben szabad- és munkaszüneti napokon
+hkir_145-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250627,"tanév tartama alatt naponta, nyári tanszünetben munkanapokon"
+hkir_146-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250422,20250627,tanszünetben keddi és pénteki munkanapokon
+hkir_15-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,a hetek első iskolai előadási napját megelőző munkaszüneti napon
+hkir_15-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,a hetek első iskolai előadási napját megelőző munkaszüneti napon
+hkir_15-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250406,20250615,a hetek első iskolai előadási napját megelőző munkaszüneti napon
+hkir_154-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,iskolai előadási napokon kedden és pénteken
+hkir_156-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_156-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_157-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250403,20250619,csütörtöki iskolai előadási napokon
+hkir_159-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250627,20250627,nyári tanszünetben a hetek utolsó munkanapján
+hkir_16-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,tanév tartama alatt munkanapokon
+hkir_16-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,tanév tartama alatt munkanapokon
+hkir_16-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,tanév tartama alatt munkanapokon
+hkir_164-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,"szabadnapokon, valamint tanszünetben munkanapokon"
+hkir_164-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,"szabadnapokon, valamint tanszünetben munkanapokon"
+hkir_165-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,a hetek első iskolai előadási napját megelőző napon
+hkir_167-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250423,20250625,tanszünetben szerdai munkanapokon
+hkir_16T-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,március 29-től október 25-ig szabadnapokon
+hkir_172-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,iskolai előadási napokon hétfőtől csütörtökig
+hkir_179-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250629,"hetek első tanítási napját megelőző maunkaszünati napok kivételével munkaszüneti napokon, tanszünetben munkaszüneti napokon, valamint I.1., III.15., V.1., V.19., X.23-án"
+hkir_18-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,páros számú heteken munkanapokon
+hkir_186-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,nyári tanszünetben csütörtöktől vasárnapig naponta
+hkir_19-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250407,20250620,páratlan számú heteken munkanapokon
+hkir_2-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250624,keddi munkanapokon
+hkir_20-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250623,20250627,nyári tanszünetben munkanapokon
+hkir_20-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250623,20250627,nyári tanszünetben munkanapokon
+hkir_207-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,keddi és pénteki munkanapokon
+hkir_216-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250403,20250605,minden hónap első csütörtöki munkanapján
+hkir_217-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250624,hétfői és keddi munkanapokon
+hkir_219-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve december 25-ét, 26-át és január 1-jét"
+hkir_220-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250402,20250627,"szerdai, csütörtöki és pénteki munkanapokon"
+hkir_221-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,a hetek első iskolai előadási napját megelőző napon
+hkir_225-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,"június 22-től augusztus 31-ig naponta, nyári tanszünetben naponta"
+hkir_228-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,keddtől péntekig munkanapokon
+hkir_229-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve december 24-ét"
+hkir_23-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,"munkanapokon, valamint munkanapot követő napon a MERCEDES-gyár munkarendje szerint"
+hkir_230-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250404,20250627,nyári időszámítás tartama alatt a hetek utolsó munkanapján
+hkir_234-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,július 5-ig és szeptember 1-től munkanapokon
+hkir_234-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,július 5-ig és szeptember 1-től munkanapokon
+hkir_234-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,július 5-ig és szeptember 1-től munkanapokon
+hkir_236-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"munkaszüneti napokon, valamint tanszünetben munkanapokon"
+hkir_237-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250625,hétfői és szerdai munkanapokon
+hkir_239-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250409,20250611,minden hónap második szerdáján
+hkir_240-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250427,április 30-ig és október 1-től szabad- és munkaszüneti napokon
+hkir_241-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250530,május 31-ig és szeptember 1-től munkanapokon
+hkir_242-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250501,20250629,május 1-től augusztus 31-ig naponta
+hkir_243-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250626,"tanszünetben hétfői és csütörtöki munkanapokon, valamint január 2-án, április 2-án és augusztus 21-én, tanszünetben hétfői és csütörtöki munkanapokon, valamint április 22-én"
+hkir_244-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,"szabadnapokon, valamint tanszünetben munkanapokon"
+hkir_244-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,"szabadnapokon, valamint tanszünetben munkanapokon"
+hkir_246-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,"szabadnapokon, valamint iskolai előadási napokon"
+hkir_247-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250623,20250627,"június 22-től augusztus 31-ig munkanapokon, nyári tanszünetben munkanapokon"
+hkir_249-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"munkaszüneti napokon, kivéve december 25-ét, 26-át és január 1-jét"
+hkir_25-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"szabad- és munkaszüneti napokon, kivéve munkanapot követő napon"
+hkir_250-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250601,20250629,június 1-től augusztus 31-ig munkaszüneti napokon
+hkir_251-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250504,"december 10-től május 5-ig és szeptember 1-től december 8-ig a hetek első iskolai előadási napját megelőző munkaszüneti napon, május 4-ig és augusztus 31-től a hetek első iskolai előadási napját megelőző munkaszüneti napon"
+hkir_252-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,"keddi, csütörtöki és pénteki munkanapokon"
+hkir_254-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250423,20250627,"tanszünetben keddi, szerdai és pénteki munkanapokon, kivéve január 2-án, április 2-án és augusztus 21-én"
+hkir_255-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_256-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250426,április 30-ig és október 1-től szabadnapokon
+hkir_257-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250626,keddi és csütörtöki munkanapokon
+hkir_258-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,április 1-től október 31-ig szabadnapokon
+hkir_259-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250422,20250623,tanszünetben a hetek első munkanapján
+hkir_26-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
+hkir_26-2025-03-30_2025-04-06,0,0,0,0,0,0,0,20250331,20250404,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
+hkir_26-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
+hkir_26-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
 hkir_26-2025-04-07_2025-04-11,0,0,0,0,0,0,0,20250407,20250411,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
-hkir_26-2025-04-12_2025-06-28,0,0,0,0,0,0,0,20250414,20250620,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
-hkir_260-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokat és december 24-ét"
-hkir_261-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250502,20250628,május 1-től szeptember 30-ig szabadnapokon
-hkir_262-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250627,"tanszünetben munkanapokon, kivéve a hetek első munkanapját"
-hkir_263-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,"iskolai előadási napokon, valamint június 22-től július 1-ig munkanapokon"
-hkir_264-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabad- és munkaszüneti napokon, kivéve december 25-én, 26-án és január 1-én"
-hkir_265-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,"hétfői, szerdai és pénteki munkanapokon"
-hkir_266-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250423,20250627,"tanszünetben hétfői, szerdai, valamint pénteki munkanapokon"
-hkir_267-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,a hetek utolsó munkanapján és munkaszüneti napokon
-hkir_267-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250627,a hetek utolsó munkanapján és munkaszüneti napokon
-hkir_267-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250404,20250627,a hetek utolsó munkanapján és munkaszüneti napokon
-hkir_269-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,"munkaszüneti napokon, valamint iskolai előadási napokon"
-hkir_27-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250331,tanév tartama alatt naponta
-hkir_27-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250620,tanév tartama alatt naponta
-hkir_27-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,tanév tartama alatt naponta
-hkir_270-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250406,20250622,április 1-től szeptember 30-ig munkaszüneti napokon
-hkir_271-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250626,hétfői és csütörtöki munkanapokon
-hkir_272-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250627,"szeptember 1-től június 30 -ig a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző munkaszüneti napokon"
-hkir_273-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250620,"iskolai előadási napokon hétfőn, szerdán és pénteken"
-hkir_275-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250406,20250622,április 1-től október 23-ig munkaszüneti napokon
-hkir_276-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250330,október 24-től március 31-ig munkaszüneti napokon
-hkir_278-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250622,20250622,"június 22-től augusztus 31-ig munkaszüneti napokon, nyári tanszünetben munkaszüneti napokon"
-hkir_279-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, de a szeptember 1-től június 30-ig tartó időszakban nem közlekedik a hetek utolsó munkanapján és a hetek első munkanapját megelőző napon"
-hkir_280-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250619,iskolai előadási napokon kedden és csütörtökön
-hkir_282-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_283-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250620,"iskolai előadási napokon, valamint július 1-től július 31-ig munkanapokon"
-hkir_284-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250403,20250619,csütörtöki iskolai előadási napokon
-hkir_285-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250620,"iskolai előadási napokon, kivéve csütörtökön"
-hkir_287-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250601,20250628,június 1-től augusztus 31-ig szabad- és munkaszüneti napokon
-hkir_29-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,"munkanapokon, valamint a MERCEDES-gyár munkarendje szerint külön rendeletre szabad- és munkaszüneti napokon"
-hkir_291-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250626,tanszünetben keddi és csütörtöki munkanapokon
-hkir_292-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250501,20250622,május 1-től szeptember 30-ig munkaszüneti napokon
-hkir_294-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250622,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_296-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250601,20250628,június 1-től augusztus 31-ig naponta
-hkir_297-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250626,tanszünetben csütörtöki munkanapokon
-hkir_299-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,ünnepnapok kivételével naponta
-hkir_2A0-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"március 15-től november 2-ig naponta, március 29-től november 3-ig naponta"
-hkir_2A0-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250628,"március 15-től november 2-ig naponta, március 29-től november 3-ig naponta"
-hkir_2C1-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250602,20250627,június 1-től augusztus 31-ig munkanapokon
-hkir_2C7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250425,"tanszünetben munkanapokon, kivéve június 22-től július 1-ig"
-hkir_2D2-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250626,"keddi és csütörtöki munkanapokon, kivéve január 2-án, március 14-én, március 28-án, április 2-án, május 21-én és október 31-én"
-hkir_2G3-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,IX.1-től VI.30-ig munkanapokon
-hkir_2G3-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,IX.1-től VI.30-ig munkanapokon
-hkir_2G3-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,IX.1-től VI.30-ig munkanapokon
-hkir_2K2-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250402,20250625,"szerdai munkanapokon, kivéve augusztus 21-én, szerdai munkanapokon, kivéve április 30-án és október 22-én"
-hkir_2L0-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250403,20250626,csütörtöki munkanapokon
-hkir_2L0-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250403,20250626,csütörtöki munkanapokon
-hkir_2L5-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250620,"szeptember 1-től június 21-ig munkanapokon, tanév tartama alatt munkanapokon"
-hkir_2L6-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250614,"szeptember 1-től június 21-ig szabadnapokon, tanév tartama alatt szabadnapokon"
-hkir_2L7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250615,"szeptember 1-től június 21-ig munkaszüneti napokon, tanév tartama alatt munkaszüneti napokon"
-hkir_2L8-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250622,20250622,"június 22-től augusztus 31-ig munkaszüneti napokon, nyári tanszünetben munkaszüneti napokon"
-hkir_2P0-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,"március 15-től november 2-ig munkanapokon, március 29-től november 3-ig munkanapokon"
-hkir_2P0-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,"március 15-től november 2-ig munkanapokon, március 29-től november 3-ig munkanapokon"
-hkir_2R4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250329,XI.1-től III.31-ig szabadnapokon
-hkir_2U2-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,"június 21-től augusztus 31-ig szabad- és munkaszüneti napokon, június 22-től szeptember 1-ig szabad- és munkaszüneti napokon"
-hkir_2UT-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250615,"közlekedik szeptember 1-től november 1-jéig, valamint március 15-től június 20-ig ünnepnapokon, közlekedik szeptember 2-től november 1-jéig, valamint március 15-től június 21-ig ünnepnapokon, közlekedik április 18-tól június 20-ig szabad- és munkaszüneti napokon, valamint 03.15-én, 10.23-án és 11.01-jén"
-hkir_2W7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250615,"szeptember 1-jétől június 20-ig szabad- és munkaszüneti napokon, szeptember 2-től június 21-ig szabad- és munkaszüneti napokon"
-hkir_2X4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,munkaszüneti napokon
-hkir_2X6-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,iskolai előadási napokon
-hkir_2X6-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250620,iskolai előadási napokon
-hkir_2X6-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,iskolai előadási napokon
-hkir_2X8-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,munkanapokon
-hkir_2X8-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,munkanapokon
-hkir_2X8-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,munkanapokon
-hkir_2X9-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,szabadnapokon
-hkir_2Y2-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250627,tanszünetben munkanapokon
-hkir_2Y2-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250417,20250627,tanszünetben munkanapokon
-hkir_2Y3-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,munkaszüneti napok kivételével naponta
-hkir_2Y4-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250330,szabad- és munkaszüneti napokon
-hkir_2Y4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,szabad- és munkaszüneti napokon
-hkir_2Y4-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,szabad- és munkaszüneti napokon
-hkir_2Y7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"március 15-től november 2-ig szabad- és munkaszüneti napokon, március 29-től november 3-ig szabad- és munkaszüneti napokon"
-hkir_2YL-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250627,március 15-től november 2-ig tanszünetben munkanapokon
-hkir_2YU-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"Szabad- és munkaszüneti napokon, kivéve ünnepnapokon"
-hkir_3-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250402,20250625,szerdai munkanapokon
-hkir_300-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,a hét utolsó munkanapja kivételével munkanapokon és szabadnapokon
-hkir_303-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250402,20250625,szerdai napokon
-hkir_304-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250531,"szabadnapokon, kivéve június 1-től augusztus 31-ig"
-hkir_306-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabadnapokon, kivéve december 24-én"
-hkir_308-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250531,"naponta, kivéve június 1-től augusztus 31-ig"
-hkir_309-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250502,20250628,május 1-től szeptember 30-ig munkaszüneti napok kivételével naponta
-hkir_310-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,"nyári tanszünetben szombati és vasárnapi napokon, valamint augusztus 31-én"
-hkir_32-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250628,nyári időszámítás tartama alatt munkaszüneti napok kivételével naponta
-hkir_324-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,keddi és pénteki munkanapokon
-hkir_330-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben szabad- és munkaszüneti napokon
-hkir_331-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250614,"tanév tartama alatt szabadnapokon, kivéve december 24-én"
-hkir_332-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250403,20250620,"tanév tartama alatt a hetek utolsó előtti és utolsó munkanapján, valamint a hetek első munkanapját megelőző nap"
-hkir_335-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,április 1-től október 15-ig szabad- és munkaszüneti napokon
-hkir_34-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250501,20250628,május 1-től szeptember 30-ig szabad- és munkaszüneti napokon
-hkir_340-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250607,20250628,június 1-től augusztus 31-ig szabadnapokon
-hkir_341-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250422,20250627,tanszünetben keddi és pénteki munkanapokon
-hkir_343-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250622,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_344-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve a tanév tartama alatti munkanapokat"
-hkir_345-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250331,március 31-ig és október 16-tól naponta
-hkir_348-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250525,"munkaszüneti napokon, kivéve június 1-től augusztus 31-ig"
-hkir_34L-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250622,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot és december 24-én"
-hkir_350-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250331,március 31-ig és október 16-tól munkanapokon
-hkir_354-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250330,március 31-ig és október 16-tól szabad- és munkaszüneti napokon
-hkir_355-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250530,május 31-ig és szeptember 1-től munkanapokon
-hkir_357-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250628,április 1-től október 15-ig naponta
-hkir_35L-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250615,"tanév tartama alatt munkaszüneti napokon, kivéve december 24-én"
-hkir_363-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250601,20250628,június 1-től augusztus 31-ig naponta
-hkir_364-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250423,20250625,tanszünetben szerdai munkanapokon
-hkir_367-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,"a hetek utolsó iskolai előadási napján, valamint a hetek első iskolai előadási napját megelőző napon"
-hkir_367-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250620,"a hetek utolsó iskolai előadási napján, valamint a hetek első iskolai előadási napját megelőző napon"
-hkir_369-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_37-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250330,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
-hkir_37-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
-hkir_37-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
-hkir_370-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben munkaszüneti napok kivételével naponta
-hkir_374-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,április 1-től október 15-ig munkanapokon
-hkir_375-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve a hetek utolsó iskolai előadási napját"
-hkir_378-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250622,20250622,nyári tanszünetben munkaszüneti napokon
-hkir_379-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250620,"tanév tartama alatt munkaszüneti napok kivételével naponta, kivéve december 24-én"
-hkir_37K-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon, kivéve december 24-én"
-hkir_381-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,munkanapot követő szabad- és munkaszüneti napokon
-hkir_383-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250501,20250622,május 1-től szeptember 30-ig munkaszüneti napokon
-hkir_384-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve a munkaszüneti napokat és a hetek utolsó iskolai előadási napját"
-hkir_385-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabad- és munkaszüneti napokon, valamint május 1-től augusztus 31-ig munkanapokon"
-hkir_386-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250430,szeptember 1-től április 30-ig munkanapokon
-hkir_388-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabadnapokon, valamint tanév tartama alatt munkaszüneti napokon"
-hkir_389-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250505,20250627,május 1-től augusztus 31-ig munkanapokon
-hkir_38C-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250403,20250619,Domaszéki Bálint Sándor Általános Iskola (csütörtöki iskolai előadási napokon) külön rendeletre
-hkir_38C-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250403,20250619,Domaszéki Bálint Sándor Általános Iskola (csütörtöki iskolai előadási napokon) külön rendeletre
-hkir_38D-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,Bálint Sándor Általános Iskola Domaszék (külön rendeletre) csütörtök kivételével iskolai előadási napokon közlekedő járatai
-hkir_38D-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,Bálint Sándor Általános Iskola Domaszék (külön rendeletre) csütörtök kivételével iskolai előadási napokon közlekedő járatai
-hkir_38I-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250620,Szabad Waldorf Ált. Isk. és Bálint Sándor Ált. Isk. (külön rendeletre) iskolai előadási napokon közlekedő járatai
-hkir_38U-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250404,20250620,Bedő Albert Erdészeti Szakképző Iskola (külön rendeletre) hetek utolsó iskolai előadási napján közlekedő járatai
-hkir_38U-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250404,20250620,Bedő Albert Erdészeti Szakképző Iskola (külön rendeletre) hetek utolsó iskolai előadási napján közlekedő járatai
-hkir_39-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,"munkanapokon, kivéve csütörtöki munkanapokon"
-hkir_39-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,"munkanapokon, kivéve csütörtöki munkanapokon"
-hkir_39-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,"munkanapokon, kivéve csütörtöki munkanapokon"
-hkir_391-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250331,"tanév tartama alatt naponta, kivéve a hetek első munkanapját megelőző napon, valamint nyári tanszünetben naponta, valamint december 26-án"
-hkir_391-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"tanév tartama alatt naponta, kivéve a hetek első munkanapját megelőző napon, valamint nyári tanszünetben naponta, valamint december 26-án"
-hkir_395-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250626,"munkanapokon, kivéve keddi és pénteki munkanap"
-hkir_397-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250601,20250627,"június 1-től augusztus 31-ig naponta, kivéve szabadnapokon"
-hkir_398-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250615,tanév tartama alatt szabad- és munkaszüneti napokon
-hkir_399-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve munkaszüneti napokon és december 24-én"
-hkir_3A5-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,a hetek első iskolai előadási napját megelőző napon
-hkir_3A5-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250615,a hetek első iskolai előadási napját megelőző napon
-hkir_3A5-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250406,20250615,a hetek első iskolai előadási napját megelőző napon
-hkir_3A6-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve a hetek első iskolai előadási napját megelőző napon és december 24-én"
-hkir_3DK-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250627,"naponta, kivéve szabadnapokon és december 24-én"
-hkir_3E8-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250608,20250608,"június 8-án, május 19-én"
-hkir_3MN-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,Munkaszüneti napokon (Auchan Áruház nyitva tart)
-hkir_3MZ-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250609,Munkaszüneti napokon (Auchan Áruház zárva tart)
-hkir_3NK-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250331,"naponta, kivéve december 24-én"
-hkir_3NK-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve december 24-én"
-hkir_3NK-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250628,"naponta, kivéve december 24-én"
-hkir_3NT-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,szabad- és munkaszüneti napokon Orosháza TESCO nyitva
-hkir_3NZ-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve a hetek utolsó tanítási napját, valamint a hetek első tanítási napját megelőző napokon"
-hkir_3SU-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250627,20250627,nyári tanszünetben a hetek utolsó munkanapján
-hkir_3SU-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250627,20250627,nyári tanszünetben a hetek utolsó munkanapján
-hkir_3SZ-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,Nyári tanszünetben hétvégéken és ünnepnapokon
-hkir_3T3-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"péntek, szombat, vasárnap napokon, kivéve december 25-én"
-hkir_3TM-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250620,tanév tartama alatt munkanap
-hkir_3TM-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,tanév tartama alatt munkanap
-hkir_3TW-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250425,"őszi, téli és tavaszi tanszünetben munkanapokon"
-hkir_3TZ-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250615,Tanév tartama alatt hétvégéken és ünnepnapokon
-hkir_3X2-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250330,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_3X2-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_3X2-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_3X4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,"munkaszüneti napokon, kivéve december 24-én"
-hkir_3X9-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250331,"naponta, kivéve december 25-én"
-hkir_3X9-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250628,"naponta, kivéve december 25-én"
-hkir_3Y5-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250331,"március 31-ig és október 16-tól naponta, kivéve december 24-én"
-hkir_3Z5-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve a hetek utolsó iskolai előadási napján és december 24-én"
-hkir_3ZI-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,hétvégéken és ünnepnapokon
-hkir_3ZT-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250609,szabad- és munkaszüneti napokon Orosháza TESCO zárva
-hkir_4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250403,20250626,csütörtöki munkanapokon
-hkir_410-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,"nyári tanszünetben naponta, kivéve munkaszüneti napokon"
-hkir_419-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben szabad- és munkaszüneti napokon
-hkir_419-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben szabad- és munkaszüneti napokon
-hkir_421-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250601,20250628,június 1-től augusztus 31-ig naponta
-hkir_422-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250602,20250627,június 1-től augusztus 31-ig munkanapokon
-hkir_424-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250607,20250628,június 1-től augusztus 31-ig szabadnapokon
-hkir_425-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250601,20250622,június 1-től augusztus 31-ig munkaszüneti napokon
-hkir_426-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_427-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250627,"tanszünetben hétfői, szerdai és pénteki munkanapokon"
-hkir_428-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,március 1-től szeptember 15-ig munkaszüneti napokon
-hkir_430-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250505,20250627,május 1-től szeptember 30-ig munkanapokon
-hkir_431-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250329,tanév tartama alatt szabadnapokon
-hkir_431-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250614,tanév tartama alatt szabadnapokon
-hkir_431-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250614,tanév tartama alatt szabadnapokon
-hkir_432-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250403,20250620,a hetek utolsó előtti és utolsó iskolai előadási napján
-hkir_432-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250403,20250620,a hetek utolsó előtti és utolsó iskolai előadási napján
-hkir_434-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250622,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_435-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, illetve közlekedik december 26-án"
-hkir_438-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250615,a hetek első iskolai előadási napját megelőző napokon
-hkir_439-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
-hkir_441-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250530,május 31-ig és szeptember 1-től munkanapokon
-hkir_442-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,március 1-től október 31-ig szabadnapokon
-hkir_444-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve a keddi és pénteki munkanapokat, a munkaszüneti napokat és a minden hónap első hétfői munkanapját"
-hkir_445-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,"minden hó első hétfői munkanapján, valamint keddi és pénteki munkanapokon"
-hkir_446-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250622,20250622,nyári tanszünetben munkaszüneti napokon
-hkir_447-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,"nyári tanszünetben pénteki, szombati és vasárnapi napokon"
-hkir_455-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250626,"hétfői, keddi és csütörtöki munkanapokon"
-hkir_457-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250626,"munkanapokon, kivéve kedden és pénteken"
-hkir_459-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250620,a hetek utolsó iskolai előadási napján és a hetek első iskolai előadási napját megelőző munkaszüneti napon
-hkir_460-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,június 30-ig és szeptember 1-től munkanapokon
-hkir_461-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"március 16-tól szeptember 15-ig naponta, kivéve munkaszüneti napokon"
-hkir_463-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,március 1-től október 31-ig munkaszüneti napokon
-hkir_469-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250525,május 31-ig és szeptember 1-től munkaszüneti napokon
-hkir_470-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250601,20250622,"június 1-től szeptember 20-ig munkaszüneti napokon, június 1-től szeptember 21-ig munkaszüneti napokon"
-hkir_477-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250627,20250627,nyári tanszünetben a hetek utolsó munkanapján
-hkir_478-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250623,20250626,"nyári tanszünetben munkanapokon, kivéve a hetek utolsó munkanapját"
-hkir_480-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,"hétfői, szerdai és pénteki munkanapokon"
-hkir_481-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250626,"keddi, csütörtöki és szombati munkanapokon"
-hkir_485-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250531,május 31-ig és szeptember 1-től szabadnapokon
-hkir_486-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250531,május 31-ig és szeptember 21-től szabadnapokon
-hkir_488-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250607,20250628,június 1-től szeptember 20-ig szabadnapokon
-hkir_49-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben naponta
-hkir_49-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben naponta
-hkir_492-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,keddi és pénteki munkanapokon
-hkir_494-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,szabadnapokon és tanszünetben munkanapokon
-hkir_494-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon és tanszünetben munkanapokon
-hkir_495-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,július 9-ig és augusztus 31-től munkaszüneti napokon
-hkir_498-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,május 31-ig és szeptember 1-től munkaszüneti napok kivételével naponta és június 1-től augusztus 31-ig naponta
-hkir_499-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250626,"tanszünetben keddi, csütörtöki és szombati munkanapokon"
-hkir_4AA-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250331,március 31-ig és november 1-től naponta
-hkir_4AE-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250628,április 1-től október 31-ig naponta
-hkir_4BL-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250516,20250620,május 13-tól június 21-ig és szeptember 1-től szeptember 22-ig a hetek utolsó munkanapján
-hkir_4FI-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250331,március 31-ig és november 1-től iskolai előadási napokon
-hkir_4HA-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250406,20250615,április 1-től június 20-ig és augusztus 31-től október 31-ig munkaszüneti napokon
-hkir_4HI-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,április 1-től október 31-ig iskolai előadási napokon
-hkir_4IA-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250330,március 31-ig és november 1-től munkaszüneti napokon
-hkir_4JA-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,naponta április 1-től június 20-ig és augusztus 31-től október 31-ig
-hkir_4ML-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,"munkanapokon, kivéve a téli tanszünetben"
-hkir_4MV-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250331,március 31-ig és november 1-től munkanapokon
-hkir_4MY-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,április 1-től június 20-ig és szeptember 1-től október 31-ig munkanapokon
-hkir_4MZ-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,április 1-től október 31-ig munkanapokon
-hkir_4NA-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250622,20250622,június 22-től augusztus 31-ig munkaszüneti napokon
-hkir_4NB-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250406,20250622,április 1-től október 31-ig munkaszüneti napokon
-hkir_4NC-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250628,20250628,június 22-től augusztus 31-ig szabadnapokon
-hkir_4NH-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250623,20250627,június 22-től augusztus 31-ig munkanapokon
-hkir_4NM-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250628,"április 1-től október 31-ig naponta, kivéve munkaszüneti napokon"
-hkir_4NN-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250331,"március 31-ig és november 1-től naponta, kivéve munkaszüneti napokon"
-hkir_4NU-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250627,20250627,június 22-től augusztus 31-ig a hetek utolsó munkanapján
-hkir_4NX-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250622,20250628,június 22-től augusztus 31-ig szabad- és munkaszüneti napokon
-hkir_4NY-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,"április 1-től június 20-ig és szeptember 1-től október 31-ig naponta, kivéve munkaszüneti napokon"
-hkir_4OC-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250329,március 31-ig és november 1-től szabadnapokon
-hkir_4OL-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250405,20250614,április 1-től június 20-ig és szeptember 1-től október 31-ig szabadnapokon
-hkir_4PC-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250405,20250615,április 1-től június 20-ig és augusztus 31-től október 31-ig szabad- és munkaszüneti napokon
-hkir_4PD-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250425,június 21-ig és szeptember 1-től tanszünetben munkanapokon
-hkir_4PE-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250511,május 12-ig és szeptember 23-tól szabad- és munkaszüneti napokon
-hkir_4PG-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250330,március 31-ig és november 1-től szabad- és munkaszüneti napokon
-hkir_4SX-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250621,június 21-ig és szeptember 1-től szabadnapokon
-hkir_4T8-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250404,20250620,tanév tartama alatt a hetek utolsó munkanapján
-hkir_4T8-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250404,20250620,tanév tartama alatt a hetek utolsó munkanapján
-hkir_4TQ-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250620,június 21-ig és szeptember 1-től munkanapokon
-hkir_4VD-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250524,20250621,május 13-tól június 21-ig és szeptember 1-től szeptember 22-ig szabadnapokon és pünkösd vasárnap
-hkir_4WR-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250425,április 1-től június 20-ig és szeptember 1-től október 31-ig tanszünetben munkanapokon
-hkir_4XA-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250615,június 21-ig és szeptember 1-től szabad- és munkaszüneti napokon
-hkir_4XB-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250622,20250628,június 22-től augusztus 31-ig naponta
-hkir_4XL-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250511,május 12-ig és szeptember 23-tól a hetek első iskolai előadási napját megelőző munkaszüneti napon
-hkir_4XQ-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250512,május 12-ig és szeptember 23-tól munkanapokon
-hkir_4XR-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250513,20250620,május 13-tól június 21-ig és szeptember 1-től szeptember 22-ig munkanapokon
-hkir_4XX-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250518,20250621,május 13-tól június 21-ig és szeptember 1-től szeptember 22-ig szabad- és munkaszüneti napokon
-hkir_4ZB-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250623,20250626,"június 22-től augusztus 31-ig munkanapokon, kivéve a hetek utolsó munkanapját"
-hkir_5-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250404,20250627,pénteki munkanapokon
-hkir_51-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_54F-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250427,április 30-ig és október 1-től munkaszüneti napokon
-hkir_55T-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250403,20250620,tanév tartama alatt a hetek utolsó előtti és utolsó munkanapján
-hkir_56-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250331,"naponta, kivéve a hetek első munkanapját megelőző napot"
-hkir_56-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve a hetek első munkanapját megelőző napot"
-hkir_56-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250628,"naponta, kivéve a hetek első munkanapját megelőző napot"
-hkir_58-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,"munkaszüneti napokon, kivéve ünnepnapokon"
-hkir_59-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250609,ünnepnapokon
-hkir_5C0-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250331,LISS Kft. szénsavgyár munkarendje szerint
-hkir_5C0-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,LISS Kft. szénsavgyár munkarendje szerint
-hkir_5C0-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250628,LISS Kft. szénsavgyár munkarendje szerint
-hkir_5C1-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,a KACO Hungary Kft. munkarendje szerint
-hkir_5C2-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250627,A Schunk Carbon Kft. munkarendje szerint
-hkir_5C5-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,az AUDI gyár munkarendje szerint
-hkir_5C6-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,Calida munkarendje szerint
-hkir_5C7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"Győr, Ipari Park munkarendje szerint"
-hkir_5F1-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250509,"2023.II.6-tól V.12-ig és IX.4-től XII.8-ig, valamint 2024.II.5-től V.10-ig és IX.2-től XII.6-ig munkanapokon, Széchenyi István Egyetem szorgalmi időszakában munkanapokon"
-hkir_5H1-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,hétfő kivételével munkanapokon
-hkir_5H5-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250623,hétfői munkanapokon
-hkir_5H6-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,"hétfői, szerdai és pénteki munkanapokon"
-hkir_5H7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250626,hétfőtől csütörtökig osztrák iskolai előadási napokon
-hkir_5I2-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,iskolai előadási napokon és szabadnapokon
-hkir_5I3-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
-hkir_5I4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_5I5-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250620,"iskolai előadási napokon, kivéve az érettségi szünet időtartama alatt"
-hkir_5IM-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,a Magyar Műhely Alapítvány (Mezőörs) iskolai előadási napjain
-hkir_5IM-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250620,a Magyar Műhely Alapítvány (Mezőörs) iskolai előadási napjain
-hkir_5IM-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,a Magyar Műhely Alapítvány (Mezőörs) iskolai előadási napjain
-hkir_5IO-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,osztrák iskolai előadási napokon
-hkir_5IQ-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250404,20250627,pénteki osztrák iskolai előadási napokon
-hkir_5IR-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250404,20250627,Eberau oktatási intézményeinek a hetek utolsó iskolai előadási napján
-hkir_5IS-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,Eberau oktatási intézményeinek iskolai előadási napjain
-hkir_5IT-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250626,"Eberau oktatási intézményeinek iskolai előadási napjain, kivéve a hetek utolsó iskolai előadási napját"
-hkir_5K2-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,keddi és pénteki munkanapokon
-hkir_5M4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,"munkanapokon, kivéve a hetek első munkanapját"
-hkir_5M7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,"munkanapokon, kivéve december 31-én"
-hkir_5N2-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve december 24-én"
-hkir_5N4-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250331,"naponta, kivéve december 24-ét és 31-ét"
-hkir_5N4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve december 24-ét és 31-ét"
-hkir_5N4-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250628,"naponta, kivéve december 24-ét és 31-ét"
-hkir_5N6-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve december 25-én"
-hkir_5N7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve munkaszüneti napokat valamint december 24-ét és 31-ét"
-hkir_5N8-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve munkaszüneti napokon és december 24-én"
-hkir_5NA-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve tanév tartama alatt a hetek első munkanapját megelőző napokat"
-hkir_5S1-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250329,szabadnapokon és tanszünetben munkanapokon
-hkir_5S1-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,szabadnapokon és tanszünetben munkanapokon
-hkir_5S1-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon és tanszünetben munkanapokon
-hkir_5S3-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabadnapokon, kivéve december 24-én"
-hkir_5S4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabadnapokon, kivéve december 24-ét és 31-ét"
-hkir_5T1-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250615,tanév tartama alatt a hetek első iskolai előadási napját megelőző napon
-hkir_5T2-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250615,tanév tartama alatt a hetek első munkanapját és első iskolai előadási napját megelőző napon
-hkir_5T4-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,tanév tartama alatt a hetek első munkanapját megelőző napon
-hkir_5T4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250615,tanév tartama alatt a hetek első munkanapját megelőző napon
-hkir_5T4-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250406,20250615,tanév tartama alatt a hetek első munkanapját megelőző napon
-hkir_5T7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250404,20250620,tanév tartama alatt a hetek utolsó munkanapján és a hetek utolsó iskolai előadási napján
-hkir_5T8-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250404,20250620,tanév tartama alatt a hetek utolsó munkanapján
-hkir_5T8-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250404,20250620,tanév tartama alatt a hetek utolsó munkanapján
-hkir_5T9-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250620,"tanév tartama alatt a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző napon"
-hkir_5TA-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250620,tanév tartama alatt munkaszüneti napok kivételével naponta
-hkir_5TB-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250615,tanév tartama alatt szabad- és munkaszüneti napokon
-hkir_5UM-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250430,"utazási igény előzetes bejelentése esetén, munkanapokon"
-hkir_5UN-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250430,"utazási igény előzetes bejelentése esetén, naponta"
-hkir_5V1-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,munkanapot megelőző munkaszüneti napokon
-hkir_5V3-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250622,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_5V4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,"munkaszüneti napokon, kivéve december 24-én"
-hkir_5V7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250622,"munkaszüneti napokon, kivéve tanév tartama alatt a hetek első munkanapját megelőző munkaszüneti napokat"
-hkir_5W3-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250423,20250627,tanszünetben keddi és csütörtöki munkanapok kivételével munkanapokon
-hkir_5W4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250626,tanszünetben keddi és csütörtöki munkanapokon
-hkir_5W6-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250627,"tanszünetben munkanapokon, kivéve december 31-én"
-hkir_5WB-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,nyári időszámítás tartama alatt munkanapokon
-hkir_5WD-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,nyári időszámítás tartama alatt szabadnapokon
-hkir_5WG-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250626,20250627,nyári tanszünetben csütörtöktől munkanapokon
-hkir_5WH-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250623,20250625,nyári tanszünetben hétfőtől szerdáig munkanapokon
-hkir_5WJ-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250622,20250622,nyári tanszünetben munkaszüneti napokon
-hkir_5WK-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,"nyári tanszünetben naponta, kivéve munkaszüneti napokon"
-hkir_5WL-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,"nyári tanszünetben pénteki, szombati és vasárnapi napokon"
-hkir_5WM-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben szabad- és munkaszüneti napokon
-hkir_5WM-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben szabad- és munkaszüneti napokon
-hkir_5WN-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben pénteki és szombati napokon
-hkir_5WO-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben szombati és vasárnapi napokon
-hkir_5X1-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250628,20250628,a Csömödéri Állami Erdei Vasút Napján (a 6506/384 és 6440/226 számú járatokkal összevontan) közlekedik
-hkir_5Z1-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_5Z2-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabad- és munkaszüneti napokon, kivéve december 24-én és 31-én"
-hkir_602-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,keddi és pénteki munkanapokon
-hkir_603-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250402,20250627,szerdai és pénteki munkanapokon
-hkir_627-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250622,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokon"
-hkir_628-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250601,20250628,június 1-től augusztus 31-ig naponta
-hkir_63-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250403,20250627,hetek utolsó előtti és utolsó munkanapján
-hkir_633-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,szerdai munkanapokon és szabadnapokon
-hkir_643-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben szabad- és munkaszüneti napokon
-hkir_647-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250424,20250627,április 24-től október 25-ig munkanapokon
-hkir_648-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250423,október 26-tól április 23-ig munkanapokon
-hkir_65-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve tanszünetes munkanapokon"
-hkir_651-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,szabadnapokon valamint tanszünetben munkanapokon
-hkir_653-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250627,"tanév tartama alatt naponta,nyári tanszünetben munkanapokon"
-hkir_663-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250628,"iskolai előadási napokon, valamint nyári tanszünetben szabadnapokon"
-hkir_664-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250622,20250622,nyári tanszünetben munkaszüneti napokon
-hkir_666-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
-hkir_667-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250329,"téli időszámítás tartama alatt szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_672-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250329,téli időszámítás alatt szerdai munkanapokon és szabadnapokon
-hkir_6A8-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben szabadnapokon
-hkir_6D3-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250413,20250622,Vásári napokon (minden hónap 2. és 4. vasárnapján)
-hkir_6D4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,Vásári napok kivételével naponta
-hkir_6E8-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250406,20250622,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik munkaszüneti napokon.
-hkir_6E9-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250329,November 8-tól március 31-ig közlekedik szabadnapokon
-hkir_6F1-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,Hétfőtől szombatig
-hkir_6F5-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,"Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik iskolai napokon, valamint nov.8-tól márc.31-ig pénteki iskolai napokon, Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik munkanapokon, valamint nov.8-tól márc.31-ig pénteki munkanapokon"
-hkir_6F6-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik szabadnapokon.
-hkir_6F7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250331,"November 8-tól március 31-ig hétfőtől csütörtökig közlekedik iskolai napokon, November 8-tól március 31-ig hétfőtől csütörtökig közlekedik munkanapokon"
-hkir_6F8-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250417,20250627,"Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik tanszünetben munkanapokon, valamint nov.8-tól márc.31-ig pénteki tanszünetes munkanapokon, Április 1-től november 4-ig munkanapokon"
-hkir_6J4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve iskolai előadási napokon"
-hkir_6J4-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,"naponta, kivéve iskolai előadási napokon"
-hkir_6J7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,"munkaszüneti napokon, kivéve december 24-én"
-hkir_6J8-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250331,"naponta, kivéve december 24-én"
-hkir_6J8-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve december 24-én"
-hkir_6J8-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250628,"naponta, kivéve december 24-én"
-hkir_6J9-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250331,"naponta, kivéve december 25-én"
-hkir_6J9-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve december 25-én"
-hkir_6J9-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250628,"naponta, kivéve december 25-én"
-hkir_6K1-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabadnapokon, kivéve december 24-én"
-hkir_6K2-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve munkaszüneti napokon és december 24-én"
-hkir_6K3-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250330,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_6K3-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_6K3-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_6K4-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250330,"szabad- és munkaszüneti napokon, kivéve december 25-én"
-hkir_6K4-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"szabad- és munkaszüneti napokon, kivéve december 25-én"
-hkir_6K4-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,"szabad- és munkaszüneti napokon, kivéve december 25-én"
-hkir_6K5-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,"munkaszüneti napokon, kivéve december 25-én"
-hkir_7*3-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,-/-/3/-/-/6/-
-hkir_7*I-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250627,-/2/-/-/5/-/7
-hkir_7*Q-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,1/-/-/4/-/6/-
-hkir_7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,vasárnapi napokon
-hkir_703-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250402,20250625,-/-/3/-/-/-/-
-hkir_705-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250404,20250627,-/-/-/-/5/-/-
-hkir_71-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250425,tanév tartama alatt tanszünetben munkanapokon
-hkir_71-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250417,20250425,tanév tartama alatt tanszünetben munkanapokon
-hkir_720-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,"munkanapokon, kivéve a hetek első munkanapján"
-hkir_727-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
-hkir_727-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
-hkir_73-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_73-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_73-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_732-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,nyári időszámítás tartama alatt munkanapokon
-hkir_732-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,nyári időszámítás tartama alatt munkanapokon
-hkir_733-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250628,"nyári időszámítás tartama alatt szabad- és munkaszüneti napokon, amennyiben a járatra érvényes menetjegy a VOLÁNBUSZ pénztáraiban az indulást megelőzően legalább 10 perccel megváltásra került, utazási igény előzetes bejelentése esetén, nyári időszámítás tartama alatt szabad- és munkaszüneti napokon"
-hkir_741-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250404,20250627,"március 28-tól szeptember 26-ig a hetek utolsó munkanapján, március 28-tól szeptember 27-ig a hetek utolsó munkanapján"
-hkir_743-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250622,20250622,nyári tanszünetben munkaszüneti napokon
-hkir_744-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250427,április 30-ig és október 1-től szabad- és munkaszüneti napokon
-hkir_752-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250404,20250628,pénteki és szombati napokon
-hkir_753-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,szombati és vasárnapi napokon
-hkir_762-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250616,tanév tartama alatt a hetek első munkanapján
-hkir_764-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"március 29-től szeptember 27-ig szabadnapokon, március 30-tól szeptember 28-ig szabadnapokon"
-hkir_765-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,"március 29-től szeptember 29-ig munkaszüneti napokon, március 30-tól szeptember 28-ig munkaszüneti napokon"
-hkir_773-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon"
-hkir_776-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250627,a hetek utolsó munkanapján és a hetek első munkanapját megelőző napokon
-hkir_778-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben szabad- és munkaszüneti napokon
-hkir_779-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250608,"munkaszüneti napokon, kivéve a hetek első munkanapját megelőző napon"
-hkir_781-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,munkanapot követő szabad- és munkaszüneti napokon
-hkir_784-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,munkanapot követő napokon
-hkir_785-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250422,20250623,a hetek első tanszünetes munkanapján
-hkir_79-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,"munkanapokon, kivéve szerdai munkanapokon"
-hkir_790-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"március 29-től szeptember 28-ig szabad- és munkaszüneti napokon, március 29-től szeptember 29-ig szabad- és munkaszüneti napokon"
-hkir_796-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250620,"március 29-től június 20-ig, valamint szeptember 1-től szeptember 28-ig naponta, március 29-től június 21-ig, valamint szeptember 2-től szeptember 29-ig naponta"
-hkir_797-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250615,"március 29-től június 15-ig, valamint szeptember 6-tól szeptember 28-ig szabad- és munkaszüneti napokon, március 29-től június 16-ig, valamint szeptember 7-től szeptember 29-ig szabad- és munkaszüneti napokon"
-hkir_798-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,"június 21-től augusztus 31-ig naponta, június 22-től szeptember 1-ig naponta"
-hkir_799-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,"június 21-től augusztus 31-ig szabad- és munkaszüneti napokon, június 22-től szeptember 1-ig szabad- és munkaszüneti napokon"
-hkir_7Z7-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,1/-/-/-/5/-/-
-hkir_82-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben szabadnapokon
-hkir_87-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250623,20250627,"nyári tanszünetben munkanapokon, valamint december 27-től december 31-ig munkanapokon"
-hkir_89-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250622,20250622,nyári tanszünetben a hetek első munkanapját megelőző napon
-hkir_92-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,"munkanapokon a MERCEDES-gyár munkarendje szerint, kivéve hétfői munkanapokat"
-hkir_?07-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,"A hetek utolsó előtti és utolsó munkanapja kivételével munkapokon, Forgalmi változás 2023.07.24-29. között szabadnapokon"
-hkir_?10-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250418,20250609,"Hétfői, keddi, szerdai, csütörtöki vagy pénteki szabad-és munkaszüneti napokon"
-hkir_?17-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,munkaszüneti napokon
-hkir_?17-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250406,20250622,munkaszüneti napokon
-hkir_?18-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250623,20250627,nyári tanszünetben munkanapokon
-hkir_?19-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,szabadnapokon
-hkir_?19-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon
-hkir_A1V-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,"munkaszüneti napokon, kivéve ünnepnapokon"
-hkir_D-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250330,20250331,"naponta, kivéve szabadnapokon"
-hkir_D-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250627,"naponta, kivéve szabadnapokon"
-hkir_D-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,"naponta, kivéve szabadnapokon"
-hkir_H-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,a hetek első munkanapján
-hkir_H-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250623,a hetek első munkanapján
-hkir_H-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250407,20250623,a hetek első munkanapján
-hkir_I-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,iskolai előadási napokon
-hkir_I-2025-03-29_2025-04-06,0,0,0,0,0,0,0,20250331,20250404,iskolai előadási napokon
-hkir_I-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250620,iskolai előadási napokon
+hkir_26-2025-04-12_2025-06-29,0,0,0,0,0,0,0,20250414,20250620,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
+hkir_260-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250629,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokat és december 24-ét"
+hkir_261-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250502,20250628,május 1-től szeptember 30-ig szabadnapokon
+hkir_262-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250627,"tanszünetben munkanapokon, kivéve a hetek első munkanapját"
+hkir_263-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,"iskolai előadási napokon, valamint június 22-től július 1-ig munkanapokon"
+hkir_264-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"szabad- és munkaszüneti napokon, kivéve december 25-én, 26-án és január 1-én"
+hkir_265-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,"hétfői, szerdai és pénteki munkanapokon"
+hkir_266-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250423,20250627,"tanszünetben hétfői, szerdai, valamint pénteki munkanapokon"
+hkir_267-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,a hetek utolsó munkanapján és munkaszüneti napokon
+hkir_267-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,a hetek utolsó munkanapján és munkaszüneti napokon
+hkir_267-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250404,20250629,a hetek utolsó munkanapján és munkaszüneti napokon
+hkir_269-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"munkaszüneti napokon, valamint iskolai előadási napokon"
+hkir_27-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250331,tanév tartama alatt naponta
+hkir_27-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250620,tanév tartama alatt naponta
+hkir_27-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,tanév tartama alatt naponta
+hkir_270-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250406,20250629,április 1-től szeptember 30-ig munkaszüneti napokon
+hkir_271-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250626,hétfői és csütörtöki munkanapokon
+hkir_272-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"szeptember 1-től június 30 -ig a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző munkaszüneti napokon"
+hkir_273-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,"iskolai előadási napokon hétfőn, szerdán és pénteken"
+hkir_275-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250406,20250629,április 1-től október 23-ig munkaszüneti napokon
+hkir_276-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250330,október 24-től március 31-ig munkaszüneti napokon
+hkir_278-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250622,20250629,"június 22-től augusztus 31-ig munkaszüneti napokon, nyári tanszünetben munkaszüneti napokon"
+hkir_279-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,"naponta, de a szeptember 1-től június 30-ig tartó időszakban nem közlekedik a hetek utolsó munkanapján és a hetek első munkanapját megelőző napon"
+hkir_280-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250619,iskolai előadási napokon kedden és csütörtökön
+hkir_282-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_283-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,"iskolai előadási napokon, valamint július 1-től július 31-ig munkanapokon"
+hkir_284-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250403,20250619,csütörtöki iskolai előadási napokon
+hkir_285-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,"iskolai előadási napokon, kivéve csütörtökön"
+hkir_287-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250601,20250629,június 1-től augusztus 31-ig szabad- és munkaszüneti napokon
+hkir_29-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,"munkanapokon, valamint a MERCEDES-gyár munkarendje szerint külön rendeletre szabad- és munkaszüneti napokon"
+hkir_291-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250626,tanszünetben keddi és csütörtöki munkanapokon
+hkir_292-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250501,20250629,május 1-től szeptember 30-ig munkaszüneti napokon
+hkir_294-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250629,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_296-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250601,20250629,június 1-től augusztus 31-ig naponta
+hkir_297-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250626,tanszünetben csütörtöki munkanapokon
+hkir_299-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,ünnepnapok kivételével naponta
+hkir_2A0-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"március 15-től november 2-ig naponta, március 29-től november 3-ig naponta"
+hkir_2A0-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250629,"március 15-től november 2-ig naponta, március 29-től november 3-ig naponta"
+hkir_2C1-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250602,20250627,június 1-től augusztus 31-ig munkanapokon
+hkir_2C7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250425,"tanszünetben munkanapokon, kivéve június 22-től július 1-ig"
+hkir_2D2-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250626,"keddi és csütörtöki munkanapokon, kivéve január 2-án, március 14-én, március 28-án, április 2-án, május 21-én és október 31-én"
+hkir_2G3-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,IX.1-től VI.30-ig munkanapokon
+hkir_2G3-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,IX.1-től VI.30-ig munkanapokon
+hkir_2G3-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,IX.1-től VI.30-ig munkanapokon
+hkir_2K2-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250402,20250625,"szerdai munkanapokon, kivéve augusztus 21-én, szerdai munkanapokon, kivéve április 30-án és október 22-én"
+hkir_2L0-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250403,20250626,csütörtöki munkanapokon
+hkir_2L0-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250403,20250626,csütörtöki munkanapokon
+hkir_2L5-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,"szeptember 1-től június 21-ig munkanapokon, tanév tartama alatt munkanapokon"
+hkir_2L6-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250614,"szeptember 1-től június 21-ig szabadnapokon, tanév tartama alatt szabadnapokon"
+hkir_2L7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,"szeptember 1-től június 21-ig munkaszüneti napokon, tanév tartama alatt munkaszüneti napokon"
+hkir_2L8-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250622,20250629,"június 22-től augusztus 31-ig munkaszüneti napokon, nyári tanszünetben munkaszüneti napokon"
+hkir_2P0-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,"március 15-től november 2-ig munkanapokon, március 29-től november 3-ig munkanapokon"
+hkir_2P0-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,"március 15-től november 2-ig munkanapokon, március 29-től november 3-ig munkanapokon"
+hkir_2U2-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,"június 21-től augusztus 31-ig szabad- és munkaszüneti napokon, június 22-től szeptember 1-ig szabad- és munkaszüneti napokon"
+hkir_2UT-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250615,"közlekedik szeptember 1-től november 1-jéig, valamint március 15-től június 20-ig ünnepnapokon, közlekedik szeptember 2-től november 1-jéig, valamint március 15-től június 21-ig ünnepnapokon, közlekedik április 18-tól június 20-ig szabad- és munkaszüneti napokon, valamint 03.15-én, 10.23-án és 11.01-jén"
+hkir_2W7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,"szeptember 1-jétől június 20-ig szabad- és munkaszüneti napokon, szeptember 2-től június 21-ig szabad- és munkaszüneti napokon"
+hkir_2X4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,munkaszüneti napokon
+hkir_2X6-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,iskolai előadási napokon
+hkir_2X6-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,iskolai előadási napokon
+hkir_2X6-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,iskolai előadási napokon
+hkir_2X8-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,munkanapokon
+hkir_2X8-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,munkanapokon
+hkir_2X8-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,munkanapokon
+hkir_2X9-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon
+hkir_2Y2-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250627,tanszünetben munkanapokon
+hkir_2Y2-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250417,20250627,tanszünetben munkanapokon
+hkir_2Y3-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,munkaszüneti napok kivételével naponta
+hkir_2Y4-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,szabad- és munkaszüneti napokon
+hkir_2Y4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,szabad- és munkaszüneti napokon
+hkir_2Y4-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250629,szabad- és munkaszüneti napokon
+hkir_2Y7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"március 15-től november 2-ig szabad- és munkaszüneti napokon, március 29-től november 3-ig szabad- és munkaszüneti napokon"
+hkir_2YL-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250627,március 15-től november 2-ig tanszünetben munkanapokon
+hkir_2YU-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"Szabad- és munkaszüneti napokon, kivéve ünnepnapokon"
+hkir_3-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250402,20250625,szerdai munkanapokon
+hkir_300-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,a hét utolsó munkanapja kivételével munkanapokon és szabadnapokon
+hkir_303-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250402,20250625,szerdai napokon
+hkir_304-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250531,"szabadnapokon, kivéve június 1-től augusztus 31-ig"
+hkir_306-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,"szabadnapokon, kivéve december 24-én"
+hkir_308-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250531,"naponta, kivéve június 1-től augusztus 31-ig"
+hkir_309-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250502,20250628,május 1-től szeptember 30-ig munkaszüneti napok kivételével naponta
+hkir_310-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,"nyári tanszünetben szombati és vasárnapi napokon, valamint augusztus 31-én"
+hkir_32-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,nyári időszámítás tartama alatt munkaszüneti napok kivételével naponta
+hkir_324-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,keddi és pénteki munkanapokon
+hkir_330-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,nyári tanszünetben szabad- és munkaszüneti napokon
+hkir_331-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250614,"tanév tartama alatt szabadnapokon, kivéve december 24-én"
+hkir_332-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250403,20250620,"tanév tartama alatt a hetek utolsó előtti és utolsó munkanapján, valamint a hetek első munkanapját megelőző nap"
+hkir_335-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250629,április 1-től október 15-ig szabad- és munkaszüneti napokon
+hkir_34-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250501,20250629,május 1-től szeptember 30-ig szabad- és munkaszüneti napokon
+hkir_340-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250607,20250628,június 1-től augusztus 31-ig szabadnapokon
+hkir_341-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250422,20250627,tanszünetben keddi és pénteki munkanapokon
+hkir_343-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250629,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_344-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve a tanév tartama alatti munkanapokat"
+hkir_345-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250331,március 31-ig és október 16-tól naponta
+hkir_348-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250525,"munkaszüneti napokon, kivéve június 1-től augusztus 31-ig"
+hkir_34L-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250629,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot és december 24-én"
+hkir_350-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250331,március 31-ig és október 16-tól munkanapokon
+hkir_354-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250330,március 31-ig és október 16-tól szabad- és munkaszüneti napokon
+hkir_355-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250530,május 31-ig és szeptember 1-től munkanapokon
+hkir_357-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250629,április 1-től október 15-ig naponta
+hkir_35L-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,"tanév tartama alatt munkaszüneti napokon, kivéve december 24-én"
+hkir_363-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250601,20250629,június 1-től augusztus 31-ig naponta
+hkir_364-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250423,20250625,tanszünetben szerdai munkanapokon
+hkir_367-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,"a hetek utolsó iskolai előadási napján, valamint a hetek első iskolai előadási napját megelőző napon"
+hkir_367-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250620,"a hetek utolsó iskolai előadási napján, valamint a hetek első iskolai előadási napját megelőző napon"
+hkir_369-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_37-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
+hkir_37-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
+hkir_37-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250629,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
+hkir_370-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben munkaszüneti napok kivételével naponta
+hkir_374-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,április 1-től október 15-ig munkanapokon
+hkir_375-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve a hetek utolsó iskolai előadási napját"
+hkir_378-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250622,20250629,nyári tanszünetben munkaszüneti napokon
+hkir_379-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,"tanév tartama alatt munkaszüneti napok kivételével naponta, kivéve december 24-én"
+hkir_37K-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250629,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon, kivéve december 24-én"
+hkir_381-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,munkanapot követő szabad- és munkaszüneti napokon
+hkir_383-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250501,20250629,május 1-től szeptember 30-ig munkaszüneti napokon
+hkir_384-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,"naponta, kivéve a munkaszüneti napokat és a hetek utolsó iskolai előadási napját"
+hkir_385-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"szabad- és munkaszüneti napokon, valamint május 1-től augusztus 31-ig munkanapokon"
+hkir_386-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250430,szeptember 1-től április 30-ig munkanapokon
+hkir_388-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250628,"szabadnapokon, valamint tanév tartama alatt munkaszüneti napokon"
+hkir_389-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250505,20250627,május 1-től augusztus 31-ig munkanapokon
+hkir_38C-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250403,20250619,Domaszéki Bálint Sándor Általános Iskola (csütörtöki iskolai előadási napokon) külön rendeletre
+hkir_38C-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250403,20250619,Domaszéki Bálint Sándor Általános Iskola (csütörtöki iskolai előadási napokon) külön rendeletre
+hkir_38D-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,Bálint Sándor Általános Iskola Domaszék (külön rendeletre) csütörtök kivételével iskolai előadási napokon közlekedő járatai
+hkir_38D-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,Bálint Sándor Általános Iskola Domaszék (külön rendeletre) csütörtök kivételével iskolai előadási napokon közlekedő járatai
+hkir_38I-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,Szabad Waldorf Ált. Isk. és Bálint Sándor Ált. Isk. (külön rendeletre) iskolai előadási napokon közlekedő járatai
+hkir_38U-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250404,20250620,Bedő Albert Erdészeti Szakképző Iskola (külön rendeletre) hetek utolsó iskolai előadási napján közlekedő járatai
+hkir_38U-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250404,20250620,Bedő Albert Erdészeti Szakképző Iskola (külön rendeletre) hetek utolsó iskolai előadási napján közlekedő járatai
+hkir_39-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,"munkanapokon, kivéve csütörtöki munkanapokon"
+hkir_39-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,"munkanapokon, kivéve csütörtöki munkanapokon"
+hkir_39-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,"munkanapokon, kivéve csütörtöki munkanapokon"
+hkir_391-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,"tanév tartama alatt naponta, kivéve a hetek első munkanapját megelőző napon, valamint nyári tanszünetben naponta, valamint december 26-án"
+hkir_391-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250629,"tanév tartama alatt naponta, kivéve a hetek első munkanapját megelőző napon, valamint nyári tanszünetben naponta, valamint december 26-án"
+hkir_395-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250626,"munkanapokon, kivéve keddi és pénteki munkanap"
+hkir_397-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250601,20250629,"június 1-től augusztus 31-ig naponta, kivéve szabadnapokon"
+hkir_398-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,tanév tartama alatt szabad- és munkaszüneti napokon
+hkir_399-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,"naponta, kivéve munkaszüneti napokon és december 24-én"
+hkir_3A5-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,a hetek első iskolai előadási napját megelőző napon
+hkir_3A5-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,a hetek első iskolai előadási napját megelőző napon
+hkir_3A5-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250406,20250615,a hetek első iskolai előadási napját megelőző napon
+hkir_3A6-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250629,"naponta, kivéve a hetek első iskolai előadási napját megelőző napon és december 24-én"
+hkir_3DK-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve szabadnapokon és december 24-én"
+hkir_3E8-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250608,20250608,"június 8-án, május 19-én"
+hkir_3MN-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,Munkaszüneti napokon (Auchan Áruház nyitva tart)
+hkir_3MZ-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250609,Munkaszüneti napokon (Auchan Áruház zárva tart)
+hkir_3NK-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250331,"naponta, kivéve december 24-én"
+hkir_3NK-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve december 24-én"
+hkir_3NK-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250629,"naponta, kivéve december 24-én"
+hkir_3NT-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,szabad- és munkaszüneti napokon Orosháza TESCO nyitva
+hkir_3NZ-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250629,"naponta, kivéve a hetek utolsó tanítási napját, valamint a hetek első tanítási napját megelőző napokon"
+hkir_3SU-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250627,20250627,nyári tanszünetben a hetek utolsó munkanapján
+hkir_3SU-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250627,20250627,nyári tanszünetben a hetek utolsó munkanapján
+hkir_3SZ-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,Nyári tanszünetben hétvégéken és ünnepnapokon
+hkir_3T3-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"péntek, szombat, vasárnap napokon, kivéve december 25-én"
+hkir_3TM-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,tanév tartama alatt munkanap
+hkir_3TM-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,tanév tartama alatt munkanap
+hkir_3TW-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250425,"őszi, téli és tavaszi tanszünetben munkanapokon"
+hkir_3TZ-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,Tanév tartama alatt hétvégéken és ünnepnapokon
+hkir_3X2-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_3X2-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_3X2-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250629,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_3X4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"munkaszüneti napokon, kivéve december 24-én"
+hkir_3X9-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250331,"naponta, kivéve december 25-én"
+hkir_3X9-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250629,"naponta, kivéve december 25-én"
+hkir_3Y5-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250331,"március 31-ig és október 16-tól naponta, kivéve december 24-én"
+hkir_3Z5-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve a hetek utolsó iskolai előadási napján és december 24-én"
+hkir_3ZI-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,hétvégéken és ünnepnapokon
+hkir_3ZT-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250609,szabad- és munkaszüneti napokon Orosháza TESCO zárva
+hkir_4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250403,20250626,csütörtöki munkanapokon
+hkir_410-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250628,"nyári tanszünetben naponta, kivéve munkaszüneti napokon"
+hkir_419-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,nyári tanszünetben szabad- és munkaszüneti napokon
+hkir_419-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,nyári tanszünetben szabad- és munkaszüneti napokon
+hkir_421-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250601,20250629,június 1-től augusztus 31-ig naponta
+hkir_422-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250602,20250627,június 1-től augusztus 31-ig munkanapokon
+hkir_424-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250607,20250628,június 1-től augusztus 31-ig szabadnapokon
+hkir_425-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250601,20250629,június 1-től augusztus 31-ig munkaszüneti napokon
+hkir_426-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_427-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250627,"tanszünetben hétfői, szerdai és pénteki munkanapokon"
+hkir_428-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,március 1-től szeptember 15-ig munkaszüneti napokon
+hkir_430-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250505,20250627,május 1-től szeptember 30-ig munkanapokon
+hkir_431-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250614,tanév tartama alatt szabadnapokon
+hkir_431-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250614,tanév tartama alatt szabadnapokon
+hkir_432-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250403,20250620,a hetek utolsó előtti és utolsó iskolai előadási napján
+hkir_432-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250403,20250620,a hetek utolsó előtti és utolsó iskolai előadási napján
+hkir_434-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250629,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_435-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250629,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon, illetve közlekedik december 26-án"
+hkir_438-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,a hetek első iskolai előadási napját megelőző napokon
+hkir_439-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
+hkir_441-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250530,május 31-ig és szeptember 1-től munkanapokon
+hkir_442-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,március 1-től október 31-ig szabadnapokon
+hkir_444-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,"naponta, kivéve a keddi és pénteki munkanapokat, a munkaszüneti napokat és a minden hónap első hétfői munkanapját"
+hkir_445-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,"minden hó első hétfői munkanapján, valamint keddi és pénteki munkanapokon"
+hkir_446-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250622,20250629,nyári tanszünetben munkaszüneti napokon
+hkir_447-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,"nyári tanszünetben pénteki, szombati és vasárnapi napokon"
+hkir_455-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250626,"hétfői, keddi és csütörtöki munkanapokon"
+hkir_457-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250626,"munkanapokon, kivéve kedden és pénteken"
+hkir_459-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250620,a hetek utolsó iskolai előadási napján és a hetek első iskolai előadási napját megelőző munkaszüneti napon
+hkir_460-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,június 30-ig és szeptember 1-től munkanapokon
+hkir_461-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,"március 16-tól szeptember 15-ig naponta, kivéve munkaszüneti napokon"
+hkir_463-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,március 1-től október 31-ig munkaszüneti napokon
+hkir_469-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250525,május 31-ig és szeptember 1-től munkaszüneti napokon
+hkir_470-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250601,20250629,"június 1-től szeptember 20-ig munkaszüneti napokon, június 1-től szeptember 21-ig munkaszüneti napokon"
+hkir_477-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250627,20250627,nyári tanszünetben a hetek utolsó munkanapján
+hkir_478-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250623,20250626,"nyári tanszünetben munkanapokon, kivéve a hetek utolsó munkanapját"
+hkir_480-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,"hétfői, szerdai és pénteki munkanapokon"
+hkir_481-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250626,"keddi, csütörtöki és szombati munkanapokon"
+hkir_485-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250531,május 31-ig és szeptember 1-től szabadnapokon
+hkir_486-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250531,május 31-ig és szeptember 21-től szabadnapokon
+hkir_488-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250607,20250628,június 1-től szeptember 20-ig szabadnapokon
+hkir_49-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,nyári tanszünetben naponta
+hkir_49-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,nyári tanszünetben naponta
+hkir_492-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,keddi és pénteki munkanapokon
+hkir_494-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon és tanszünetben munkanapokon
+hkir_494-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon és tanszünetben munkanapokon
+hkir_495-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,július 9-ig és augusztus 31-től munkaszüneti napokon
+hkir_498-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250629,május 31-ig és szeptember 1-től munkaszüneti napok kivételével naponta és június 1-től augusztus 31-ig naponta
+hkir_499-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250626,"tanszünetben keddi, csütörtöki és szombati munkanapokon"
+hkir_4AA-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250331,március 31-ig és november 1-től naponta
+hkir_4AE-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250629,április 1-től október 31-ig naponta
+hkir_4BL-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250516,20250620,május 13-tól június 21-ig és szeptember 1-től szeptember 22-ig a hetek utolsó munkanapján
+hkir_4FI-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250331,március 31-ig és november 1-től iskolai előadási napokon
+hkir_4HA-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250406,20250615,április 1-től június 20-ig és augusztus 31-től október 31-ig munkaszüneti napokon
+hkir_4HI-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,április 1-től október 31-ig iskolai előadási napokon
+hkir_4IA-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250330,március 31-ig és november 1-től munkaszüneti napokon
+hkir_4JA-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,naponta április 1-től június 20-ig és augusztus 31-től október 31-ig
+hkir_4ML-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,"munkanapokon, kivéve a téli tanszünetben"
+hkir_4MV-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250331,március 31-ig és november 1-től munkanapokon
+hkir_4MY-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,április 1-től június 20-ig és szeptember 1-től október 31-ig munkanapokon
+hkir_4MZ-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,április 1-től október 31-ig munkanapokon
+hkir_4NA-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250622,20250629,június 22-től augusztus 31-ig munkaszüneti napokon
+hkir_4NB-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250406,20250629,április 1-től október 31-ig munkaszüneti napokon
+hkir_4NC-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250628,20250628,június 22-től augusztus 31-ig szabadnapokon
+hkir_4NH-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250623,20250627,június 22-től augusztus 31-ig munkanapokon
+hkir_4NM-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250628,"április 1-től október 31-ig naponta, kivéve munkaszüneti napokon"
+hkir_4NN-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250331,"március 31-ig és november 1-től naponta, kivéve munkaszüneti napokon"
+hkir_4NU-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250627,20250627,június 22-től augusztus 31-ig a hetek utolsó munkanapján
+hkir_4NX-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250622,20250629,június 22-től augusztus 31-ig szabad- és munkaszüneti napokon
+hkir_4NY-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,"április 1-től június 20-ig és szeptember 1-től október 31-ig naponta, kivéve munkaszüneti napokon"
+hkir_4OL-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250614,április 1-től június 20-ig és szeptember 1-től október 31-ig szabadnapokon
+hkir_4PC-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250615,április 1-től június 20-ig és augusztus 31-től október 31-ig szabad- és munkaszüneti napokon
+hkir_4PD-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250425,június 21-ig és szeptember 1-től tanszünetben munkanapokon
+hkir_4PE-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250511,május 12-ig és szeptember 23-tól szabad- és munkaszüneti napokon
+hkir_4PG-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250330,március 31-ig és november 1-től szabad- és munkaszüneti napokon
+hkir_4SX-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250621,június 21-ig és szeptember 1-től szabadnapokon
+hkir_4T8-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250404,20250620,tanév tartama alatt a hetek utolsó munkanapján
+hkir_4T8-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250404,20250620,tanév tartama alatt a hetek utolsó munkanapján
+hkir_4TQ-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,június 21-ig és szeptember 1-től munkanapokon
+hkir_4VD-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250524,20250621,május 13-tól június 21-ig és szeptember 1-től szeptember 22-ig szabadnapokon és pünkösd vasárnap
+hkir_4WR-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250425,április 1-től június 20-ig és szeptember 1-től október 31-ig tanszünetben munkanapokon
+hkir_4XA-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,június 21-ig és szeptember 1-től szabad- és munkaszüneti napokon
+hkir_4XB-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250622,20250629,június 22-től augusztus 31-ig naponta
+hkir_4XL-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250511,május 12-ig és szeptember 23-tól a hetek első iskolai előadási napját megelőző munkaszüneti napon
+hkir_4XQ-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250512,május 12-ig és szeptember 23-tól munkanapokon
+hkir_4XR-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250513,20250620,május 13-tól június 21-ig és szeptember 1-től szeptember 22-ig munkanapokon
+hkir_4XX-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250518,20250621,május 13-tól június 21-ig és szeptember 1-től szeptember 22-ig szabad- és munkaszüneti napokon
+hkir_4ZB-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250623,20250626,"június 22-től augusztus 31-ig munkanapokon, kivéve a hetek utolsó munkanapját"
+hkir_5-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250404,20250627,pénteki munkanapokon
+hkir_51-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250629,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_54F-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250427,április 30-ig és október 1-től munkaszüneti napokon
+hkir_55T-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250403,20250620,tanév tartama alatt a hetek utolsó előtti és utolsó munkanapján
+hkir_56-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,"naponta, kivéve a hetek első munkanapját megelőző napot"
+hkir_56-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,"naponta, kivéve a hetek első munkanapját megelőző napot"
+hkir_56-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250628,"naponta, kivéve a hetek első munkanapját megelőző napot"
+hkir_58-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"munkaszüneti napokon, kivéve ünnepnapokon"
+hkir_59-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250609,ünnepnapokon
+hkir_5C0-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,LISS Kft. szénsavgyár munkarendje szerint
+hkir_5C0-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,LISS Kft. szénsavgyár munkarendje szerint
+hkir_5C0-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250628,LISS Kft. szénsavgyár munkarendje szerint
+hkir_5C1-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,a KACO Hungary Kft. munkarendje szerint
+hkir_5C2-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,A Schunk Carbon Kft. munkarendje szerint
+hkir_5C5-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,az AUDI gyár munkarendje szerint
+hkir_5C6-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,Calida munkarendje szerint
+hkir_5C7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"Győr, Ipari Park munkarendje szerint"
+hkir_5F1-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250509,"2023.II.6-tól V.12-ig és IX.4-től XII.8-ig, valamint 2024.II.5-től V.10-ig és IX.2-től XII.6-ig munkanapokon, Széchenyi István Egyetem szorgalmi időszakában munkanapokon"
+hkir_5H1-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,hétfő kivételével munkanapokon
+hkir_5H5-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250623,hétfői munkanapokon
+hkir_5H6-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,"hétfői, szerdai és pénteki munkanapokon"
+hkir_5H7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250626,hétfőtől csütörtökig osztrák iskolai előadási napokon
+hkir_5I2-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,iskolai előadási napokon és szabadnapokon
+hkir_5I3-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
+hkir_5I4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_5I5-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,"iskolai előadási napokon, kivéve az érettségi szünet időtartama alatt"
+hkir_5IM-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,a Magyar Műhely Alapítvány (Mezőörs) iskolai előadási napjain
+hkir_5IM-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,a Magyar Műhely Alapítvány (Mezőörs) iskolai előadási napjain
+hkir_5IM-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,a Magyar Műhely Alapítvány (Mezőörs) iskolai előadási napjain
+hkir_5IO-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,osztrák iskolai előadási napokon
+hkir_5IQ-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250404,20250627,pénteki osztrák iskolai előadási napokon
+hkir_5IR-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250404,20250627,Eberau oktatási intézményeinek a hetek utolsó iskolai előadási napján
+hkir_5IS-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,Eberau oktatási intézményeinek iskolai előadási napjain
+hkir_5IT-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250626,"Eberau oktatási intézményeinek iskolai előadási napjain, kivéve a hetek utolsó iskolai előadási napját"
+hkir_5K2-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,keddi és pénteki munkanapokon
+hkir_5M4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,"munkanapokon, kivéve a hetek első munkanapját"
+hkir_5M7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,"munkanapokon, kivéve december 31-én"
+hkir_5N2-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve december 24-én"
+hkir_5N4-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250331,"naponta, kivéve december 24-ét és 31-ét"
+hkir_5N4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve december 24-ét és 31-ét"
+hkir_5N4-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250629,"naponta, kivéve december 24-ét és 31-ét"
+hkir_5N6-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve december 25-én"
+hkir_5N7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,"naponta, kivéve munkaszüneti napokat valamint december 24-ét és 31-ét"
+hkir_5N8-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,"naponta, kivéve munkaszüneti napokon és december 24-én"
+hkir_5NA-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250629,"naponta, kivéve tanév tartama alatt a hetek első munkanapját megelőző napokat"
+hkir_5S1-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon és tanszünetben munkanapokon
+hkir_5S1-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon és tanszünetben munkanapokon
+hkir_5S3-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,"szabadnapokon, kivéve december 24-én"
+hkir_5S4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,"szabadnapokon, kivéve december 24-ét és 31-ét"
+hkir_5T1-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,tanév tartama alatt a hetek első iskolai előadási napját megelőző napon
+hkir_5T2-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,tanév tartama alatt a hetek első munkanapját és első iskolai előadási napját megelőző napon
+hkir_5T4-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,tanév tartama alatt a hetek első munkanapját megelőző napon
+hkir_5T4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,tanév tartama alatt a hetek első munkanapját megelőző napon
+hkir_5T4-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250406,20250615,tanév tartama alatt a hetek első munkanapját megelőző napon
+hkir_5T7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250404,20250620,tanév tartama alatt a hetek utolsó munkanapján és a hetek utolsó iskolai előadási napján
+hkir_5T8-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250404,20250620,tanév tartama alatt a hetek utolsó munkanapján
+hkir_5T8-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250404,20250620,tanév tartama alatt a hetek utolsó munkanapján
+hkir_5T9-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250620,"tanév tartama alatt a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző napon"
+hkir_5TA-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,tanév tartama alatt munkaszüneti napok kivételével naponta
+hkir_5TB-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,tanév tartama alatt szabad- és munkaszüneti napokon
+hkir_5UM-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250430,"utazási igény előzetes bejelentése esetén, munkanapokon"
+hkir_5UN-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250430,"utazási igény előzetes bejelentése esetén, naponta"
+hkir_5V1-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,munkanapot megelőző munkaszüneti napokon
+hkir_5V3-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250629,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_5V4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"munkaszüneti napokon, kivéve december 24-én"
+hkir_5V7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250629,"munkaszüneti napokon, kivéve tanév tartama alatt a hetek első munkanapját megelőző munkaszüneti napokat"
+hkir_5W3-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250423,20250627,tanszünetben keddi és csütörtöki munkanapok kivételével munkanapokon
+hkir_5W4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250626,tanszünetben keddi és csütörtöki munkanapokon
+hkir_5W6-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250627,"tanszünetben munkanapokon, kivéve december 31-én"
+hkir_5WB-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,nyári időszámítás tartama alatt munkanapokon
+hkir_5WD-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,nyári időszámítás tartama alatt szabadnapokon
+hkir_5WG-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250626,20250627,nyári tanszünetben csütörtöktől munkanapokon
+hkir_5WH-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250623,20250625,nyári tanszünetben hétfőtől szerdáig munkanapokon
+hkir_5WJ-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250622,20250629,nyári tanszünetben munkaszüneti napokon
+hkir_5WK-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250628,"nyári tanszünetben naponta, kivéve munkaszüneti napokon"
+hkir_5WL-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,"nyári tanszünetben pénteki, szombati és vasárnapi napokon"
+hkir_5WM-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,nyári tanszünetben szabad- és munkaszüneti napokon
+hkir_5WM-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,nyári tanszünetben szabad- és munkaszüneti napokon
+hkir_5WN-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben pénteki és szombati napokon
+hkir_5WO-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,nyári tanszünetben szombati és vasárnapi napokon
+hkir_5X1-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250628,20250628,a Csömödéri Állami Erdei Vasút Napján (a 6506/384 és 6440/226 számú járatokkal összevontan) közlekedik
+hkir_5Z1-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_5Z2-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"szabad- és munkaszüneti napokon, kivéve december 24-én és 31-én"
+hkir_602-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,keddi és pénteki munkanapokon
+hkir_603-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250402,20250627,szerdai és pénteki munkanapokon
+hkir_627-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250629,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokon"
+hkir_628-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250601,20250629,június 1-től augusztus 31-ig naponta
+hkir_63-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250403,20250627,hetek utolsó előtti és utolsó munkanapján
+hkir_633-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250402,20250628,szerdai munkanapokon és szabadnapokon
+hkir_643-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,nyári tanszünetben szabad- és munkaszüneti napokon
+hkir_647-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250424,20250627,április 24-től október 25-ig munkanapokon
+hkir_648-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250423,október 26-tól április 23-ig munkanapokon
+hkir_65-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve tanszünetes munkanapokon"
+hkir_651-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon valamint tanszünetben munkanapokon
+hkir_653-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250627,"tanév tartama alatt naponta,nyári tanszünetben munkanapokon"
+hkir_663-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,"iskolai előadási napokon, valamint nyári tanszünetben szabadnapokon"
+hkir_664-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250622,20250629,nyári tanszünetben munkaszüneti napokon
+hkir_666-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
+hkir_6A8-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben szabadnapokon
+hkir_6D3-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250413,20250622,Vásári napokon (minden hónap 2. és 4. vasárnapján)
+hkir_6D4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,Vásári napok kivételével naponta
+hkir_6E8-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250406,20250629,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik munkaszüneti napokon.
+hkir_6F1-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,Hétfőtől szombatig
+hkir_6F5-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,"Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik iskolai napokon, valamint nov.8-tól márc.31-ig pénteki iskolai napokon, Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik munkanapokon, valamint nov.8-tól márc.31-ig pénteki munkanapokon"
+hkir_6F6-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik szabadnapokon.
+hkir_6F7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250331,"November 8-tól március 31-ig hétfőtől csütörtökig közlekedik iskolai napokon, November 8-tól március 31-ig hétfőtől csütörtökig közlekedik munkanapokon"
+hkir_6F8-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250417,20250627,"Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik tanszünetben munkanapokon, valamint nov.8-tól márc.31-ig pénteki tanszünetes munkanapokon, Április 1-től november 4-ig munkanapokon"
+hkir_6J4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve iskolai előadási napokon"
+hkir_6J4-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250629,"naponta, kivéve iskolai előadási napokon"
+hkir_6J7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"munkaszüneti napokon, kivéve december 24-én"
+hkir_6J8-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250331,"naponta, kivéve december 24-én"
+hkir_6J8-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve december 24-én"
+hkir_6J8-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250629,"naponta, kivéve december 24-én"
+hkir_6J9-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250331,"naponta, kivéve december 25-én"
+hkir_6J9-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve december 25-én"
+hkir_6J9-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250629,"naponta, kivéve december 25-én"
+hkir_6K1-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,"szabadnapokon, kivéve december 24-én"
+hkir_6K2-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,"naponta, kivéve munkaszüneti napokon és december 24-én"
+hkir_6K3-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_6K3-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_6K3-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250629,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_6K4-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,"szabad- és munkaszüneti napokon, kivéve december 25-én"
+hkir_6K4-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"szabad- és munkaszüneti napokon, kivéve december 25-én"
+hkir_6K4-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250629,"szabad- és munkaszüneti napokon, kivéve december 25-én"
+hkir_6K5-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"munkaszüneti napokon, kivéve december 25-én"
+hkir_7*3-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250402,20250628,-/-/3/-/-/6/-
+hkir_7*I-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,-/2/-/-/5/-/7
+hkir_7*Q-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,1/-/-/4/-/6/-
+hkir_7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,vasárnapi napokon
+hkir_703-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250402,20250625,-/-/3/-/-/-/-
+hkir_705-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250404,20250627,-/-/-/-/5/-/-
+hkir_71-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250425,tanév tartama alatt tanszünetben munkanapokon
+hkir_71-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250417,20250425,tanév tartama alatt tanszünetben munkanapokon
+hkir_720-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,"munkanapokon, kivéve a hetek első munkanapján"
+hkir_727-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
+hkir_727-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250619,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
+hkir_73-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_73-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_73-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_732-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,nyári időszámítás tartama alatt munkanapokon
+hkir_732-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,nyári időszámítás tartama alatt munkanapokon
+hkir_733-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"nyári időszámítás tartama alatt szabad- és munkaszüneti napokon, amennyiben a járatra érvényes menetjegy a VOLÁNBUSZ pénztáraiban az indulást megelőzően legalább 10 perccel megváltásra került, utazási igény előzetes bejelentése esetén, nyári időszámítás tartama alatt szabad- és munkaszüneti napokon"
+hkir_741-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250404,20250627,"március 28-tól szeptember 26-ig a hetek utolsó munkanapján, március 28-tól szeptember 27-ig a hetek utolsó munkanapján"
+hkir_743-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250622,20250629,nyári tanszünetben munkaszüneti napokon
+hkir_744-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250427,április 30-ig és október 1-től szabad- és munkaszüneti napokon
+hkir_752-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250404,20250628,pénteki és szombati napokon
+hkir_753-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250629,szombati és vasárnapi napokon
+hkir_762-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250616,tanév tartama alatt a hetek első munkanapján
+hkir_764-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,"március 29-től szeptember 27-ig szabadnapokon, március 30-tól szeptember 28-ig szabadnapokon"
+hkir_765-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"március 29-től szeptember 29-ig munkaszüneti napokon, március 30-tól szeptember 28-ig munkaszüneti napokon"
+hkir_773-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250629,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon"
+hkir_776-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,a hetek utolsó munkanapján és a hetek első munkanapját megelőző napokon
+hkir_778-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,nyári tanszünetben szabad- és munkaszüneti napokon
+hkir_779-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250608,"munkaszüneti napokon, kivéve a hetek első munkanapját megelőző napon"
+hkir_781-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,munkanapot követő szabad- és munkaszüneti napokon
+hkir_784-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250628,munkanapot követő napokon
+hkir_785-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250422,20250623,a hetek első tanszünetes munkanapján
+hkir_79-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,"munkanapokon, kivéve szerdai munkanapokon"
+hkir_790-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"március 29-től szeptember 28-ig szabad- és munkaszüneti napokon, március 29-től szeptember 29-ig szabad- és munkaszüneti napokon"
+hkir_796-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250620,"március 29-től június 20-ig, valamint szeptember 1-től szeptember 28-ig naponta, március 29-től június 21-ig, valamint szeptember 2-től szeptember 29-ig naponta"
+hkir_797-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250615,"március 29-től június 15-ig, valamint szeptember 6-tól szeptember 28-ig szabad- és munkaszüneti napokon, március 29-től június 16-ig, valamint szeptember 7-től szeptember 29-ig szabad- és munkaszüneti napokon"
+hkir_798-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,"június 21-től augusztus 31-ig naponta, június 22-től szeptember 1-ig naponta"
+hkir_799-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250629,"június 21-től augusztus 31-ig szabad- és munkaszüneti napokon, június 22-től szeptember 1-ig szabad- és munkaszüneti napokon"
+hkir_7Z7-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,1/-/-/-/5/-/-
+hkir_82-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250621,20250628,nyári tanszünetben szabadnapokon
+hkir_87-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250623,20250627,"nyári tanszünetben munkanapokon, valamint december 27-től december 31-ig munkanapokon"
+hkir_89-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250622,20250629,nyári tanszünetben a hetek első munkanapját megelőző napon
+hkir_92-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,"munkanapokon a MERCEDES-gyár munkarendje szerint, kivéve hétfői munkanapokat"
+hkir_?07-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,"A hetek utolsó előtti és utolsó munkanapja kivételével munkapokon, Forgalmi változás 2023.07.24-29. között szabadnapokon"
+hkir_?10-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250418,20250609,"Hétfői, keddi, szerdai, csütörtöki vagy pénteki szabad-és munkaszüneti napokon"
+hkir_?17-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,munkaszüneti napokon
+hkir_?17-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250406,20250629,munkaszüneti napokon
+hkir_?18-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250623,20250627,nyári tanszünetben munkanapokon
+hkir_?19-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon
+hkir_?19-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon
+hkir_A1V-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"munkaszüneti napokon, kivéve ünnepnapokon"
+hkir_D-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250331,"naponta, kivéve szabadnapokon"
+hkir_D-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,"naponta, kivéve szabadnapokon"
+hkir_D-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250629,"naponta, kivéve szabadnapokon"
+hkir_H-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,a hetek első munkanapján
+hkir_H-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250623,a hetek első munkanapján
+hkir_H-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250407,20250623,a hetek első munkanapján
+hkir_I-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,iskolai előadási napokon
+hkir_I-2025-03-30_2025-04-06,0,0,0,0,0,0,0,20250331,20250404,iskolai előadási napokon
+hkir_I-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250620,iskolai előadási napokon
 hkir_I-2025-04-01_2025-04-30,0,0,0,0,0,0,0,20250401,20250430,iskolai előadási napokon
-hkir_I-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250620,iskolai előadási napokon
+hkir_I-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250620,iskolai előadási napokon
 hkir_I-2025-04-07_2025-04-11,0,0,0,0,0,0,0,20250407,20250411,iskolai előadási napokon
-hkir_I-2025-04-12_2025-06-28,0,0,0,0,0,0,0,20250414,20250620,iskolai előadási napokon
-hkir_I-2025-05-01_2025-06-28,0,0,0,0,0,0,0,20250505,20250620,iskolai előadási napokon
-hkir_L-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,"munkanapokon, kivéve a hetek utolsó munkanapján"
-hkir_L-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250626,"munkanapokon, kivéve a hetek utolsó munkanapján"
-hkir_M-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,munkanapokon
-hkir_M-2025-03-29_2025-04-06,0,0,0,0,0,0,0,20250331,20250404,munkanapokon
-hkir_M-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250331,20250627,munkanapokon
+hkir_I-2025-04-12_2025-06-29,0,0,0,0,0,0,0,20250414,20250620,iskolai előadási napokon
+hkir_I-2025-05-01_2025-06-29,0,0,0,0,0,0,0,20250505,20250620,iskolai előadási napokon
+hkir_L-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,"munkanapokon, kivéve a hetek utolsó munkanapján"
+hkir_L-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250626,"munkanapokon, kivéve a hetek utolsó munkanapján"
+hkir_M-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,munkanapokon
+hkir_M-2025-03-30_2025-04-06,0,0,0,0,0,0,0,20250331,20250404,munkanapokon
+hkir_M-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250627,munkanapokon
 hkir_M-2025-04-01_2025-04-30,0,0,0,0,0,0,0,20250401,20250430,munkanapokon
-hkir_M-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250627,munkanapokon
+hkir_M-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250627,munkanapokon
 hkir_M-2025-04-07_2025-04-11,0,0,0,0,0,0,0,20250407,20250411,munkanapokon
-hkir_M-2025-04-12_2025-06-28,0,0,0,0,0,0,0,20250414,20250627,munkanapokon
-hkir_M-2025-05-01_2025-06-28,0,0,0,0,0,0,0,20250505,20250627,munkanapokon
-hkir_MS-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,munkaszüneti napokon
-hkir_MS-2025-03-29_2025-04-25,0,0,0,0,0,0,0,20250330,20250421,munkaszüneti napokon
-hkir_MS-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,munkaszüneti napokon
-hkir_MS-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250406,20250622,munkaszüneti napokon
+hkir_M-2025-04-12_2025-06-29,0,0,0,0,0,0,0,20250414,20250627,munkanapokon
+hkir_M-2025-05-01_2025-06-29,0,0,0,0,0,0,0,20250505,20250627,munkanapokon
+hkir_MS-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,munkaszüneti napokon
+hkir_MS-2025-03-30_2025-04-25,0,0,0,0,0,0,0,20250330,20250421,munkaszüneti napokon
+hkir_MS-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,munkaszüneti napokon
+hkir_MS-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250406,20250629,munkaszüneti napokon
 hkir_MS-2025-04-26_2025-04-27,0,0,0,0,0,0,0,20250427,20250427,munkaszüneti napokon
-hkir_MS-2025-04-28_2025-06-28,0,0,0,0,0,0,0,20250501,20250622,munkaszüneti napokon
-hkir_O-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250329,szabadnapokon
-hkir_O-2025-03-29_2025-04-25,0,0,0,0,0,0,0,20250329,20250419,szabadnapokon
-hkir_O-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,szabadnapokon
-hkir_O-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon
+hkir_MS-2025-04-28_2025-06-29,0,0,0,0,0,0,0,20250501,20250629,munkaszüneti napokon
+hkir_O-2025-03-30_2025-04-25,0,0,0,0,0,0,0,20250405,20250419,szabadnapokon
+hkir_O-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon
+hkir_O-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250628,szabadnapokon
 hkir_O-2025-04-26_2025-04-27,0,0,0,0,0,0,0,20250426,20250426,szabadnapokon
-hkir_O-2025-04-28_2025-06-28,0,0,0,0,0,0,0,20250502,20250628,szabadnapokon
-hkir_T-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250417,20250627,tanszünetben munkanapokon
-hkir_T-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250417,20250627,tanszünetben munkanapokon
-hkir_TS-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250329,téli időszámítás tartama alatt szabadnapokon
-hkir_U-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250404,20250627,a hetek utolsó munkanapján
-hkir_U-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250404,20250627,a hetek utolsó munkanapján
-hkir_V-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,a hetek első munkanapját megelőző napon
-hkir_V-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250330,20250622,a hetek első munkanapját megelőző napon
-hkir_V-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250406,20250622,a hetek első munkanapját megelőző napon
-hkir_X-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250331,"naponta, kivéve munkaszüneti napokon"
-hkir_X-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,"naponta, kivéve munkaszüneti napokon"
-hkir_X-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250628,"naponta, kivéve munkaszüneti napokon"
-hkir_Z-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250330,szabad- és munkaszüneti napokon
-hkir_Z-2025-03-29_2025-04-25,0,0,0,0,0,0,0,20250329,20250421,szabad- és munkaszüneti napokon
-hkir_Z-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,szabad- és munkaszüneti napokon
+hkir_O-2025-04-28_2025-06-29,0,0,0,0,0,0,0,20250502,20250628,szabadnapokon
+hkir_T-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250417,20250627,tanszünetben munkanapokon
+hkir_T-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250417,20250627,tanszünetben munkanapokon
+hkir_U-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250404,20250627,a hetek utolsó munkanapján
+hkir_U-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250404,20250627,a hetek utolsó munkanapján
+hkir_V-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,a hetek első munkanapját megelőző napon
+hkir_V-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,a hetek első munkanapját megelőző napon
+hkir_V-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250406,20250629,a hetek első munkanapját megelőző napon
+hkir_X-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250331,20250331,"naponta, kivéve munkaszüneti napokon"
+hkir_X-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250331,20250628,"naponta, kivéve munkaszüneti napokon"
+hkir_X-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250628,"naponta, kivéve munkaszüneti napokon"
+hkir_Z-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250330,szabad- és munkaszüneti napokon
+hkir_Z-2025-03-30_2025-04-25,0,0,0,0,0,0,0,20250330,20250421,szabad- és munkaszüneti napokon
+hkir_Z-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,szabad- és munkaszüneti napokon
 hkir_Z-2025-04-01_2025-04-30,0,0,0,0,0,0,0,20250405,20250427,szabad- és munkaszüneti napokon
-hkir_Z-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250405,20250628,szabad- és munkaszüneti napokon
+hkir_Z-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250405,20250629,szabad- és munkaszüneti napokon
 hkir_Z-2025-04-26_2025-04-27,0,0,0,0,0,0,0,20250426,20250427,szabad- és munkaszüneti napokon
-hkir_Z-2025-04-28_2025-06-28,0,0,0,0,0,0,0,20250501,20250628,szabad- és munkaszüneti napokon
-hkir_Z-2025-05-01_2025-06-28,0,0,0,0,0,0,0,20250501,20250628,szabad- és munkaszüneti napokon
-hkir__-2025-03-29_2025-03-29,0,0,0,0,0,0,0,20250329,20250329,naponta
-hkir__-2025-03-29_2025-03-31,0,0,0,0,0,0,0,20250329,20250331,naponta
-hkir__-2025-03-29_2025-04-06,0,0,0,0,0,0,0,20250329,20250406,naponta
-hkir__-2025-03-29_2025-04-25,0,0,0,0,0,0,0,20250329,20250425,naponta
-hkir__-2025-03-29_2025-05-07,0,0,0,0,0,0,0,20250329,20250507,naponta
-hkir__-2025-03-29_2025-06-28,0,0,0,0,0,0,0,20250329,20250628,naponta
+hkir_Z-2025-04-28_2025-06-29,0,0,0,0,0,0,0,20250501,20250629,szabad- és munkaszüneti napokon
+hkir_Z-2025-05-01_2025-06-29,0,0,0,0,0,0,0,20250501,20250629,szabad- és munkaszüneti napokon
 hkir__-2025-03-30_2025-03-31,0,0,0,0,0,0,0,20250330,20250331,naponta
-hkir__-2025-03-30_2025-06-28,0,0,0,0,0,0,0,20250330,20250628,naponta
-hkir__-2025-04-01_2025-06-28,0,0,0,0,0,0,0,20250401,20250628,naponta
+hkir__-2025-03-30_2025-04-06,0,0,0,0,0,0,0,20250330,20250406,naponta
+hkir__-2025-03-30_2025-04-25,0,0,0,0,0,0,0,20250330,20250425,naponta
+hkir__-2025-03-30_2025-05-07,0,0,0,0,0,0,0,20250330,20250507,naponta
+hkir__-2025-03-30_2025-06-29,0,0,0,0,0,0,0,20250330,20250629,naponta
+hkir__-2025-04-01_2025-06-29,0,0,0,0,0,0,0,20250401,20250629,naponta
 hkir__-2025-04-07_2025-04-11,0,0,0,0,0,0,0,20250407,20250411,naponta
-hkir__-2025-04-12_2025-06-28,0,0,0,0,0,0,0,20250412,20250628,naponta
+hkir__-2025-04-12_2025-06-29,0,0,0,0,0,0,0,20250412,20250629,naponta
 hkir__-2025-04-26_2025-04-27,0,0,0,0,0,0,0,20250426,20250427,naponta
-hkir__-2025-04-28_2025-06-28,0,0,0,0,0,0,0,20250428,20250628,naponta
-hkir__-2025-05-08_2025-06-28,0,0,0,0,0,0,0,20250508,20250628,naponta
+hkir__-2025-04-28_2025-06-29,0,0,0,0,0,0,0,20250428,20250629,naponta
+hkir__-2025-05-08_2025-06-29,0,0,0,0,0,0,0,20250508,20250629,naponta
