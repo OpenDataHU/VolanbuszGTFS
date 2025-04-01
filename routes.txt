@@ -779,7 +779,6 @@ hkir_V,hkir_V-O-200-1184,1184,Budapest - Nagykanizsa - Letenye - Lenti,200,https
 hkir_V,hkir_V-O-200-1185,1185,Budapest - Sármellék - Zalaegerszeg - Zalalövő - Bajánsenye,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1185,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1186,1186,Budapest - Sármellék - Zalaegerszeg - Lenti,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1186,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1188,1188,Budapest - Hévíz - Zalaegerszeg - Zalalövő - Bajánsenye,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1188,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1189,1189,Budapest - Székesfehérvár - Veszprém - Balatonfüred - Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1189,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1193,1193,Budapest - Sármellék - Pacsa - Bak - Lenti,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1193,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1194,1194,Budapest - Keszthely - Zalaszentgrót,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1194,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1204,1204,Budapest - Székesfehérvár - Bakonycsernye - Zirc,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1204,F6AC00,152B32,national
