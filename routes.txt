@@ -50,6 +50,7 @@ hkir_V-05032,hkir_V-05032-H-3-4,4,Vasútállomás - Gyulavári kastély/Dénesma
 hkir_V-05032,hkir_V-05032-H-3-5,5,Vasútállomás - Várfürdő,3,,152B32,FFFFFF,local
 hkir_V-05111,hkir_V-05111-H-3-1,1,Autóbusz-forduló - Autóbusz-állomás - Kőkereszt,3,,152B32,FFFFFF,local
 hkir_V-05111,hkir_V-05111-H-3-1A,1A,Autóbusz-forduló - Autóbusz-állomás - Kőkereszt,3,,152B32,FFFFFF,local
+hkir_V-05111,hkir_V-05111-H-3-2,2,1A Autóbusz-forduló - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-05111,hkir_V-05111-H-3-3,3,Autóbusz-forduló - Autóbusz-állomás - Kőkereszt,3,,152B32,FFFFFF,local
 hkir_V-05175,hkir_V-05175-H-3-1,1,Kösely Zrt. - Autóbusz-állomás - Vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-05175,hkir_V-05175-H-3-1A,1A,Autóbusz-állomás - Vasútállomás,3,,152B32,FFFFFF,local
@@ -948,7 +949,6 @@ hkir_V,hkir_V-R-200-1826,1826,Győr - Kisbér - Székesfehérvár - Perkáta - D
 hkir_V,hkir_V-R-200-1841,1841,Tata-Tatabánya-Csákvár-Székesfehérvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1841,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1845,1845,Tatabánya-Oroszlány-Mór-Székesfehérvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1845,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1850,1850,Tatabánya - Bábolna - Győr - Csorna - Kapuvár - Bükfürdő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1850,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-2663,2663,Kunszentmiklós - Tass - Dömsöd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2663,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-300,300,Budapest - Dunakeszi - Vác,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2005,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-301,301,"Budapest - Dunakeszi, Barátság u. - Göd",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2007,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3015,3015,Salgótarján - Cered - Szilaspogony,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3015,F6AC00,152B32,regional
@@ -2151,7 +2151,7 @@ hkir_V,hkir_V-R-200-5366,5366,Kalocsa - Szakmár - Gombolyag - Felsőerek,200,ht
 hkir_V,hkir_V-R-200-5367,5367,Kalocsa - Szakmár - Szelidi tó - Dunapataj,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5367,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5368,5368,Kalocsa - Harta - Dunatetétlen,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5368,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5369,5369,"Kalocsa - Kecel - Kiskunhalas - Kiskunmajsa, Gárgyán - Szeged",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5369,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-537,537,Szolnok / Jászkarajenő - Törtel - Cegléd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4637,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-537,537,"Cegléd - Törtel - Jászkarajenő - Tiszajenő - Vezseny, vá.",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4637,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5370,5370,Kalocsa - Császártöltés,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5370,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5371,5371,Kalocsa - Császártöltés - Kecel,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5371,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5372,5372,Kalocsa-Öregcsertő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5372,F6AC00,152B32,regional
@@ -2907,7 +2907,6 @@ hkir_V,hkir_V-R-200-7088,7088,Győr - Hédervár - Lipót - Darnózseli,200,http
 hkir_V,hkir_V-R-200-7089,7089,"Mecsér - Mosonújhely - Lébény - Mosonszentmiklós, vá. - Lébény",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7089,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-709,709,Budapest - Érd - Százhalombatta,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2710,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7090,7090,Győr - Ásványráró - Darnózseli - Mosonmagyaróvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7090,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-7091,7091,Győr - Lébény - Mosonmagyaróvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7091,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7092,7092,Lébény - Mosonújhely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7092,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7098,7098,Győr - Dunaszeg - Darnózseli - Mosonmagyaróvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7098,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7099,7099,Győr - Dunaszeg - Dunaszentpál - Darnózseli - Mosonmagyaróvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7099,F6AC00,152B32,regional
