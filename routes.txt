@@ -744,6 +744,7 @@ hkir_V,hkir_V-O-200-1051,1051,Budapest - Eger - Ózd,200,https://www.mavcsoport.
 hkir_V,hkir_V-O-200-1052,1052,Budapest - Gödöllő - Hatvan - Gyöngyös - Eger,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1052,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1053,1053,Budapest - Eger - Bükkszentkereszt - Lillafüred - Miskolc,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1053,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1054,1054,Budapest - Eger - Szilvásvárad - Kazincbarcika - Jósvafő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1054,F6AC00,152B32,national
+hkir_V,hkir_V-O-200-1055,1055,Budapest - Tiszaújváros - Tiszavasvári - Vásárosnamény - Beregsurány,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1055,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1066,1066,Budapest - Gyöngyös - Heves - Abádszalók - Karcag,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1066,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1067,1067,Budapest - M3 - Erdőtelek - Heves,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1067,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1068,1068,Budapest - Gyöngyös - Heves - Tiszafüred,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1068,F6AC00,152B32,national
