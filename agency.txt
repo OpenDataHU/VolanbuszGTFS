@@ -35,6 +35,7 @@ hkir_V-17631,MÁV Személyszállítási Zrt. - Siófok,https://helyimenetrend.ma
 hkir_V-17941,MÁV Személyszállítási Zrt. - Nagyatád,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/nagyatad,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-18209,MÁV Személyszállítási Zrt. - Jászberény,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/jaszbereny,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-18421,MÁV Személyszállítási Zrt. - Keszthely,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/keszthely,Europe/Budapest,hu,+36 1 382 0888
+hkir_V-19433,MÁV Személyszállítási Zrt. - Mezőkövesd,https://www.mavcsoport.hu/,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-19628,MÁV Személyszállítási Zrt. - Mezőberény,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/mezobereny,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-20127,MÁV Személyszállítási Zrt. - Tata,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/tata,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-20491,MÁV Személyszállítási Zrt. - Eger,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/eger,Europe/Budapest,hu,+36 1 382 0888
