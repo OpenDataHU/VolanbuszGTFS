@@ -115,8 +115,6 @@ hkir_V-08518,hkir_V-08518-H-3-7,7,"Jereván lakótelep - Híd utca - Kórház - 
 hkir_V-08518,hkir_V-08518-H-3-7A,7A,"Jereván lakótelep - Híd utca - Csengery utca, Király Jenő utca",3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-7B,7B,"Jereván lakótelep - Virágvölgy - Híd utca - Csengery utca, Király Jenő utca",3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-7T,7T,SO7T Jereván ltp. - Virágvölgy - Aranyhegy - Thököly tér - Jereván ltp.,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-SF1,SF1,Jereván lakótelep - Lőver kemping (SopronFest),3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-SF2,SF2,Jereván lakótelep - Lőver kemping (SopronFest),3,,152B32,FFFFFF,local
 hkir_V-08864,hkir_V-08864-H-3-2,2,Aut.vt. - Vasútáll. - Lajvér - Kövesd - Vasútáll. - Aut.vt.,3,,152B32,FFFFFF,local
 hkir_V-09760,hkir_V-09760-H-3-1,1,Békés helyijárat,3,,152B32,FFFFFF,local
 hkir_V-12575,hkir_V-12575-H-3-2,2,Autóbusz-állomás - Gyár utca,3,,152B32,FFFFFF,local
@@ -2059,7 +2057,6 @@ hkir_V,hkir_V-R-200-5252,5252,Kiskunfélegyháza - Tiszaalpár - Tiszakécske,20
 hkir_V,hkir_V-R-200-5253,5253,Kiskunfélegyháza - Tiszaalpár - Lakitelek,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5253,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5255,5255,Kecskemét - Kiskunfélegyháza - Csongrád - Szentes,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5255,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5256,5256,Kiskunfélegyháza - Petőfiszállás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5256,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5257,5257,Kiskunfélegyháza - Petőfiszállás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5257,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5258,5258,"Kecskemét - Kiskunfélegyháza, Szegedi u.",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5258,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5259,5259,Kiskunfélegyháza - Gátér,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5259,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-526,526,Cegléd - Tápiószőlős - Újszilvás - Farmos - Nagykáta,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2415,F6AC00,152B32,regional
