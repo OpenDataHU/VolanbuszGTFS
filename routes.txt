@@ -325,7 +325,6 @@ hkir_V-18421,hkir_V-18421-H-3-C5,C5,KE0C5 Autóbusz-állomás - TESCO,3,,152B32,
 hkir_V-19433,hkir_V-19433-S-3-2-0,2,2 Dózsa Gy. u.--Mátyás király u.--Gyógyfürdő,3,,152B32,FFFFFF,local
 hkir_V-19433,hkir_V-19433-S-3-2B-0,2B,2B  Dózsa Gy u.--Vasútállomás--Gyógyfürdő,3,,152B32,FFFFFF,local
 hkir_V-19433,hkir_V-19433-S-3-3-0,3,3 Cseresznye u.--Dózsa Gy. u.--Mátyás király u.--Vasútállomás--Rutinpálya,3,,152B32,FFFFFF,local
-hkir_V-19628,hkir_V-19628-H-3-1,1,Mezőberény helyijárat,3,,152B32,FFFFFF,local
 hkir_V-20127,hkir_V-20127-H-3-1,1,Fellner Jakab úti forduló - Kossuth tér - Autóbusz-állomás - Vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-20127,hkir_V-20127-H-3-1M,1M,Fellner Jakab út - Újtelep - Vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-20127,hkir_V-20127-H-3-1R,1R,Fellner Jakab úti forduló - Tom - Ferr Zrt. - Tescon ruház - Kossuth tér - Autóbusz-állomás - Vasútállomás,3,,152B32,FFFFFF,local
