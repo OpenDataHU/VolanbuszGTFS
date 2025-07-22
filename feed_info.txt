@@ -1,2 +1,2 @@
 feed_id,feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_includes_prefixed_ids
-hkir,Delta Systems Kft.,https://deltatechnologies.hu/,hu,20250721,20251019,01090.20250721,true
+hkir,Delta Systems Kft.,https://deltatechnologies.hu/,hu,20250722,20251020,01091.20250722,true
