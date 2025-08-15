@@ -365,20 +365,20 @@ hkir_V-21175,hkir_V-21175-H-3-5,5,Autóbusz-állomás - Noszlopy utca - Illés u
 hkir_V-21175,hkir_V-21175-H-3-6,6,Autóbusz-állomás - Kiserdő - Arács - Illés utca - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-21175,hkir_V-21175-H-3-7,7,Autóbusz-állomás - Illés utca - Arács - Kiserdő - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-21315,hkir_V-21315-H-3-1,1,Arany János u. - Autóbusz-állomás - Szakközépiskola,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-1,1,Béla király tér - Remete u. - Hosszú-völgy,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-12,12,völgy - Otthon u./TESCO Áruház - Béri B. Ádám u. - Bottyán-hegy,3,,152B32,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-1,1,Autóbusz-állomás - Béla király tér - Remete u. - Hosszú-völgy,3,,152B32,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-12,12,Baranya-völgy - Otthon u./TESCO Áruház - Béri B. Ádám u. - Bottyán-hegy,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-13,13,13. Jobbparászta - Bottyán-hegy - Béri Balogh u. - TESCO,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-14,14,Áruház - Otthon u./Béri B. Ádám u. - Bottyán-hegy,3,,152B32,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-14,14,TESCO Áruház - Otthon u./Béri B. Ádám u. - Bottyán-hegy,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-16,16,Tót-völgy - Autóbusz-állomás - Újváros - Műszergyár - Palánk,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-17,17,17. Aut.áll. -TOLNATEJ - Aut. áll. - Csatár - Hosszú-völgy,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-19,19,Csatári forduló - Alisca u. - Kadarka u. - Műszergyár - Jobbparászta,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-1B,1B,1B Hosszú-völgy - (Kilátó u.) - Autóbusz-állomás - TESCO,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-4,4,Bottyán-hegy,3,,152B32,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-4,4,Autóbusz-állomás - Bottyán-hegy,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-4B,4B,TESCO Áruház - Autóbusz-állomás - Bottyán-hegy,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-6,6,Tót-völgy - Autóbusz-állomás - Újváros - Jobbparászta,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-6B,6B,6B. Autóbusz-állomás - Nyomda - TESCO - Tót-völgy,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-7,7,TESCO - Alisca u. - Aut.áll. - TOLNATEJ Zrt. - Aut.áll. - TESCO,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-9,9,Alisca u. - Fűtőmű - Május 1. u. - Kadarka u. - Jobbparászta,3,,152B32,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-9,9,TESCO - Alisca u. - Fűtőmű - Május 1. u. - Kadarka u. - Jobbparászta,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-9A,9A,TESCO - Alisca u. - Kadarka u. - Jobbparászta,3,,152B32,FFFFFF,local
 hkir_V-23065,hkir_V-23065-H-3-2,2,"Autóbusz-állomás - Gyökeres, Szántó Kovács János utca",3,,152B32,FFFFFF,local
 hkir_V-23065,hkir_V-23065-H-3-2A,2A,"Autóbusz-állomás - Gyökeres, Szántó Kovács János utca",3,,152B32,FFFFFF,local
