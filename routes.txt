@@ -219,6 +219,7 @@ hkir_V-15291,hkir_V-15291-H-3-1,1,Kastélyotthon - Nagy út (Vágóhíd út),3,,
 hkir_V-15291,hkir_V-15291-H-3-2,2,Nagy út - Vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-1,1,Autóbusz-állomás - Repülőtér,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-10,10,Örökösföld - Vasútállomás - Nyírszőlős,3,,152B32,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-10A,10A,Örökösföld - Vasútállomás - Nyírszőlős,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-10J,10J,Örökösföld - Vasútállomás - Nyírszőlős,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-10Y,10Y,Örökösföld - Vasútállomás - Nyírszőlős,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-11,11,Örörkösföld - Egyház utca,3,,152B32,FFFFFF,local
@@ -229,16 +230,20 @@ hkir_V-17206,hkir_V-17206-H-3-13Y,13Y,Sóstói úti kórház - Alma utcai iskola
 hkir_V-17206,hkir_V-17206-H-3-14,14,"Vasútállomás - Sóstóhegy, vasútállomás bejárati út",3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-14F,14F,"Vasútállomás - Sóstóhegy, vasútállomás bejárati út",3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-17,17,Örökösföld -- Rendelőintézet/Kórház -- Szélsőbokori út,3,,152B32,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-17B,17B,Örökösföld -- Rendelőintézet/Kórház -- Szélsőbokori út,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-17Y,17Y,Örökösföld -- Rendelőintézet/Kórház -- Szélsőbokori út,3,,152B32,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-19,19,Örökösföld -- Rendelőintézet/Kórház -- Szélsőbokori út,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-1A,1A,Autóbusz-állomás - Repülőtér,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-2,2,"Autóbusz-állomás - Csárda utca, forduló",3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-20,20,Vasútállomás - Törzs utca - Örökösföld - Család utca - Vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-21,21,Vasútállomás - Törzs utca - Örökösföld - Család utca - Vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-22,22,Autóbusz-állomás - Ipari utca - Alma utcai iskola,3,,152B32,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-22A,22A,Autóbusz-állomás - Ipari utca - Alma utcai iskola,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-24,24,Sóstói úti kórház - Autóbusz-állomás - Kistelekiszőlő,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-25,25,Vasútállomás - Északi körút - Jósaváros - Örökösföld - Alma utcai iskola,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-27,27,Sóstói úti kórház -- Jósaváros -- Szélsőbokori út - Sóstói út kórház,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-29,29,Vasútállomás -- Kertváros -- Vasútállomás,3,,152B32,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-2A,2A,"Autóbusz-állomás - Csárda utca, forduló",3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-3,3,Autóbusz-állomás - Kistelekiszőlő - Rozsrét,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-30,30,Autóbusz-állomás - Rozsrét,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-4,4,"Autóbusz-állomás - Rendelőintézet - Oros, Magyar utca",3,,152B32,FFFFFF,local
@@ -301,7 +306,6 @@ hkir_V-17631,hkir_V-17631-H-3-8,8,Autóbusz-állomás - Boróka u. - Somogyfok,3
 hkir_V-17631,hkir_V-17631-H-3-N2,N2,"Autóbusz-állomás - Indóház u. - Sóstó, Kemping",3,,152B32,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-N5,N5,"Autóbusz-állomás - Szépvölgyi u. - Kiliti,Béke tér - Autóbusz-állomás",3,,152B32,FFFFFF,local
 hkir_V-17941,hkir_V-17941-H-3-1,1,"Autóbusz-állomás - Henész, forduló",3,,152B32,FFFFFF,local
-hkir_V-17941,hkir_V-17941-H-3-4,4,Autóbusz-állomás - Kivadár,3,,152B32,FFFFFF,local
 hkir_V-17941,hkir_V-17941-H-3-5,5,Autóbusz-állomás - Éltes Mátyás Iskola,3,,152B32,FFFFFF,local
 hkir_V-18209,hkir_V-18209-H-3-1,1,Hatvani út - Autóbusz-állomás - Platán u. - Szent István krt - Kórház - Vasútállomás - Electrolux,3,,152B32,FFFFFF,local
 hkir_V-18209,hkir_V-18209-H-3-2A,2A,Autóbusz-állomás - Szt. István krt.,3,,152B32,FFFFFF,local
@@ -910,6 +914,7 @@ hkir_V,hkir_V-R-200-1446,1446,Debrecen - Hajdúnánás - Nyíregyháza,200,https
 hkir_V,hkir_V-R-200-1450,1450,Debrecen - Tiszacsege - Polgár - Tiszaújváros,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1450,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1464,1464,Szolnok - Nagykőrös,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1464,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1469,1469,Szolnok - Jászberény - Gyöngyös,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1469,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-1515,1515,Szeged - Szolnok - Jászberény - Gyöngyös - Parádfürdő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1515,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1563,1563,Siófok - Székesfehérvár - Mór - Győr,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1563,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1620,1620,Győr - Pápa - Sümeg - Zalaegerszeg,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1620,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1622,1622,Zalaegerszeg - Körmend - Szombathely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1622,F6AC00,152B32,regional
@@ -2698,6 +2703,7 @@ hkir_V,hkir_V-R-200-6610,6610,Szombathely - Söpte - Vasasszonyfa - Kőszegpaty,
 hkir_V,hkir_V-R-200-6611,6611,Szombathely - Kőszegpaty - Csepreg - Bük - Peresznye,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6611,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6616,6616,Szombathely - Csepreg - Bükfürdő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6616,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6617,6617,Szombathely - Vassurány - Meszlen - Bükfürdő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6617,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-662,662,Taksony - Dunavarsány,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2635,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6620,6620,Szombathely - Vát - Acsád/Ölbő - Szeleste - Pósfa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6620,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6623,6623,Szombathely - Pósfa - Répceszentgyörgy - Hegyfalu - Répcelak,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6623,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6628,6628,Szombathely/Pósfa-Ölbő-Sárvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6628,F6AC00,152B32,regional
