@@ -257,12 +257,10 @@ hkir_V-17206,hkir_V-17206-H-3-5,5,Örökösföld -- Kórház -- Jósaváros -- S
 hkir_V-17206,hkir_V-17206-H-3-51,51,Vásártér - Örökösföld - Jósaváros - Vásártér,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-55,55,Örökösföld - Kórház - Jósaváros - Sóstógyógyfürdő,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-55A,55A,Örökösföld - Kórház - Jósaváros - Sóstógyógyfürdő,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-55T,55T,"Nyíregyháza, Örökösföld - Szódaház utca",3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-5A,5A,Örökösföld -- Kórház -- Jósaváros -- Sóstóhegy,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-7,7,Vasútállomás -- Jósaváros -- Sóstóhegy,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-8,8,Vasútállomás - Sóstói úti kórház - Sóstógyógyfürdő,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-8E,8E,Vasútállomás - Sóstói úti kórház - Sóstógyógyfürdő,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-8T,8T,Vasútállomás - Szódaház utca - Fürdő utca (játszóház),3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-8Y,8Y,Vasútállomás -- Sóstói úti kórház -- Jósaváros -- Vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-9,9,Örökösföld - Kórház - Búza tér - Huszár telep,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-900,900,Vasútállomás - Jósaváros - Sóstógyógyfürdő - Jósaváros - Örökösföld - Vasútállomás,3,,152B32,FFFFFF,local
