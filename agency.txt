@@ -1,5 +1,6 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
 hkir_V,MÁV Személyszállítási Zrt. - Helyközi busz,https://www.mavcsoport.hu/,Europe/Budapest,hu,+36 1 382 0888
+hkir_V-02219,MÁV Személyszállítási Zrt. - Balatonfűzfő,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/balatonfuzfo,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-02918,MÁV Személyszállítási Zrt. - Balmazújváros,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/balmazujvaros,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-03115,MÁV Személyszállítási Zrt. - Dunaújváros,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/dunaujvaros,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-03522,MÁV Személyszállítási Zrt. - Baja,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/baja,Europe/Budapest,hu,+36 1 382 0888
