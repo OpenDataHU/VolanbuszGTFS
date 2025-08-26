@@ -1147,7 +1147,7 @@ hkir_V,hkir_V-R-200-3511,3511,Füzesabony - Mezőtárkány - Egerfarmos,200,http
 hkir_V,hkir_V-R-200-352,352,Kismaros - Szokolya - Királyrét,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2083,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-353,353,Kismaros - Kóspallag,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2085,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-354,354,Márianosztra - Szob,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2087,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-355,355,Vác - Rétság - Bernecebaráti - Szob,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2090,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-355,355,"Zebegény - Szob - Parassapuszta, oh. - Drégelypalánk",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2090,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3550,3550,"Heves - Kál - Kápolna, vá.",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3550,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-356,356,Vámosmikola - Tésa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2093,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3560,3560,Heves - Pély,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3560,F6AC00,152B32,regional
