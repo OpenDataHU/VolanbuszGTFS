@@ -575,7 +575,6 @@ hkir_V-30766,hkir_V-30766-H-3-1Y,1Y,Volán telep - Volán telep,3,,152B32,FFFFFF
 hkir_V-30933,hkir_V-30933-H-3-10,10,"Kalmár utca - Bagola - Nagyfakos, alsó",3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-10A,10A,Autóbusz-áll.- Bagola forduló,3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-10Y,10Y,"Kalmár utca - Bagolai elágazó - Nagyfakos, alsó",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-14C,14C,Városkapu körút ú Köztemető (temetői járat),3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-15,15,Vasút - Kalmár - Hevesi - Kalmár,3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-16,16,"Autóbusz-állomás - Kiskanizsa, temető - Bajcsa, vízmű",3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-16A,16A,"Autóbusz-állomás - Kiskanizsa, temető",3,,152B32,FFFFFF,local
