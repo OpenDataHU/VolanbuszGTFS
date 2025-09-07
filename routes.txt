@@ -80,11 +80,11 @@ hkir_V-07357,hkir_V-07357-H-3-5,5,Autóbusz állomás - Justh Gyula utca - MEDIC
 hkir_V-08518,hkir_V-08518-H-3-1,1,Jereván lakótelep - Felső-Lőverek  Alsó-Lőverek - Lőver szálló,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-10,10,Jereván lakótelep - Ady Endre út  Bánfalvi út - Kertváros-felső,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-10B,10B,"Jereván lakótelep - Ady Endre út  Bánfalvi út - Kertváros felső - Brennbergi út, erdei iskola",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-10Y,10Y,"SO10Y Autóbusz-állomás - Sopronbánfalva, Hajnal tér",3,,152B32,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-10Y,10Y,Jereván lakótelep - Sopronbánfalva,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-11,11,Jereván lakótelep - Faraktár utca - Csengery utca - (Kórház -) Thököly tér,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-11A,11A,Thököly tér - Csengery utca - Faraktár utca - Jereván lakótelep,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-11B,11B,Jereván lakótelep - Faraktár utca - Csengery utca - Keleti rendező - (Kórház -) Thököly tér,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-11Y,11Y,SO11Y Jereván ltp. - Keleti rendező - Thököly tér,3,,152B32,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-11Y,11Y,Jereván ltp. - Keleti rendező - Thököly tér,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-12,12,"Jereván lakótelep - József Attila lakótelep - Kőszegi út, Sarudi utca",3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-12B,12B,Jereván lakótelep - Sopron Plaza - Kőszegi út,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-13,13,Jereván lakótelep - Híd utca - Sopronkőhida,3,,152B32,FFFFFF,local
@@ -95,9 +95,9 @@ hkir_V-08518,hkir_V-08518-H-3-17,17,Jereván lakótelep - Csengery utca - Keleti
 hkir_V-08518,hkir_V-08518-H-3-2,2,Jereván lakótelep - Alsó-Lőverek  Felső-Lőverek - Lőver szálló,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-22,22,"Ágfalvi úti lakótelep - Bánfalvi út - Csengery utca - Ipar körút, vámudvar",3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-27,27,"Jereván lakótelep - Aranyhegy - Kórház - Csengery utca, Király Jenő utca",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-27A,27A,SO27A Jereván ltp. - Kórház - Aranyhegy,3,,152B32,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-27A,27A,Jereván ltp. - Kórház - Aranyhegy,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-27B,27B,"Jereván lakótelep - Virágvölgy - Aranyhegy - Kórház - Csengery utca, Király J. u.",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-27T,27T,SO27T Jereván ltp. - Thököly tér - Aranyhegy - Jereván ltp.,3,,152B32,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-27T,27T,Jereván ltp. - Thököly tér - Aranyhegy - Jereván ltp.,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-27Y,27Y,Boldogasszonyi utca - Aranyhegy - Táncsics utca - Jereván lakótelep,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-3,3,Lackner Kristóf utca - Kertváros - Brennbergbánya,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-3Y,3Y,Jereván lakótelep - Ady Endre út - Kertváros - Brennbergbánya,3,,152B32,FFFFFF,local
