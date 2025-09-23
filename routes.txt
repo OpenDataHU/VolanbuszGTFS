@@ -3404,4 +3404,3 @@ hkir_V,hkir_V-R-200-893,893,Budapest - Szentendre - Tahitótfalu - Surány - Szi
 hkir_V,hkir_V-R-200-894,894,Tahitótfalu - Pócsmegyer - Tahitótfalu,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2924,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-895,895,Budapest - Szentendre - Tahitótfalu - Surány - Szigetmonostor,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2923,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-898,898,Szentendre - Tahitótfalu - Kisoroszi,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2943,F6AC00,152B32,regional
-hkir_V,hkir_V-S-200-MB80-0,MB80,80a vonal Budapest - Hatvan,200,,F6AC00,152B32,regional
