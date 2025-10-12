@@ -1825,7 +1825,6 @@ hkir_V,hkir_V-R-200-4880,4880,Gyula - Doboz - Vésztő,200,https://www.mavcsopor
 hkir_V,hkir_V-R-200-4881,4881,Gyula - Sarkad - Sarkadkeresztúr - Körösnagyharsány,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4881,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4882,4882,"Gyula - Gyula,Tüdőkórház - Sarkad",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4882,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4883,4883,Gyula - Sarkad - Zsadány - Szeghalom - Gyomaendrőd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4883,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4884,4884,"Gyula-Gyula, Városerdő",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4884,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4885,4885,Békéscsaba - Gyula - Sarkadkeresztúr - Geszt,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4885,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4887,4887,Gyula - Békés,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4887,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-489,489,Sülysáp - Kóka,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2311,F6AC00,152B32,regional
