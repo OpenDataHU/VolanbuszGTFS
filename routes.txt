@@ -17,7 +17,6 @@ hkir_V-03115,hkir_V-03115-H-3-35,35,Pálhalma - Ujtelep - TESCO - Szórád M.út
 hkir_V-03115,hkir_V-03115-H-3-40,40,"Békeváros,Bagolyvár - Hajnal u. - Autóbusz-állomás - Római krt. - Bocskai u. - Hajnal u. - Békeváros,Bagolyvár",3,,152B32,FFFFFF,local
 hkir_V-03115,hkir_V-03115-H-3-44,44,Békeváros - Bocskai u. - Autóbusz-állomás - Ferrobeton - Papírgyár,3,,152B32,FFFFFF,local
 hkir_V-03115,hkir_V-03115-H-3-5,5,Kertváros - Bocskai u. - Szórád M.út - Autóbusz-állomás - Római krt. - Ujtelep - Békeváros - Volán-telep,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-8,8,Kokszvegyészet - Autóbusz-állomás - Szórád M.út - Vasmű út - Kokszvegyészet,3,,152B32,FFFFFF,local
 hkir_V-03522,hkir_V-03522-H-3-1,1,Déri sétány - Vámház - Dobó István utcai forduló - Barátság téri iskola - Déri sétány,3,,152B32,FFFFFF,local
 hkir_V-03522,hkir_V-03522-H-3-2,2,Déri sétány - Vasutas telep - Dobó István utcai forduló - Vámház - Déri sétány,3,,152B32,FFFFFF,local
 hkir_V-03522,hkir_V-03522-H-3-3,3,Déri sétány - Gólya sor - Déri sétány,3,,152B32,FFFFFF,local
