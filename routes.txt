@@ -435,7 +435,6 @@ hkir_V-25584,hkir_V-25584-H-3-30Y,30Y,"Révai Miklós utca - Audi-gyár - Ipari 
 hkir_V-25584,hkir_V-25584-H-3-31,31,"Révai Miklós utca - Győrszentiván, Homoksor - Kálmán Imre út",3,,152B32,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-31A,31A,"Révai Miklós utca - Győrszentiván, Kálmán Imre út - Homoksor",3,,152B32,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-37,37,Révai Miklós utca - Adyváros - Temető - Ménfőcsanak - Gyirmót,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-37T,37T,Temetőjárat Marcalváros - Temető - Adyváros - Zechmeister utca,3,,152B32,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-38,38,Révai Miklós utca - Adyváros - Szabadhegy - Ipari Park,3,,152B32,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-38A,38A,Révai Miklós utca - Adyváros - Szabadhegy - Ipari Park,3,,152B32,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-41,41,"Zöld utca, Soproni út - Adyváros - Honvédség",3,,152B32,FFFFFF,local
@@ -559,7 +558,6 @@ hkir_V-30766,hkir_V-30766-H-3-1Y,1Y,Volán telep - Volán telep,3,,152B32,FFFFFF
 hkir_V-30933,hkir_V-30933-H-3-10,10,"Kalmár utca - Bagola - Nagyfakos, alsó",3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-10A,10A,Autóbusz-áll.- Bagola forduló,3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-10Y,10Y,"Kalmár utca - Bagolai elágazó - Nagyfakos, alsó",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-14C,14C,Városkapu körút ú Köztemető (temetői járat),3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-15,15,Vasút - Kalmár - Hevesi - Kalmár,3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-16,16,"Autóbusz-állomás - Kiskanizsa, temető - Bajcsa, vízmű",3,,152B32,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-16A,16A,"Autóbusz-állomás - Kiskanizsa, temető",3,,152B32,FFFFFF,local
@@ -638,7 +636,6 @@ hkir_V-32054,hkir_V-32054-H-3-2E,2E,Ganz Ábrahám Szakközépiskola - Autóbusz
 hkir_V-32054,hkir_V-32054-H-3-3,3,"Vasútállomás - (Nekeresd -) Pózva, Külsőkórház",3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-4,4,Vasútállomás (- Bartók Béla utca) (- Zalabesenyő) - Botfa,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-5,5,Autóbusz-állomás - Új köztemető (- Neszele) - Ságod,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-5T,5T,Kovács Károly tér - Új köztemető,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-6,6,Autóbusz-állomás/Körmendi út - Hűtőipari Zrt. - Szenterzsébethegy,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-7,7,Autóbusz-állomás - Bazita - Kökényesmindszent,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-9,9,Kovács Károly tér - Páterdomb - Széchenyi tér,3,,152B32,FFFFFF,local
