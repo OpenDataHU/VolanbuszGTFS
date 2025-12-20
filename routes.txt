@@ -2607,7 +2607,7 @@ hkir_V,hkir_V-R-200-6305,6305,Zalaszentgrót - Mihályfa/Sümegcsehi - Sümeg,20
 hkir_V,hkir_V-R-200-6306,6306,Zalaszentgrót - Zalacsány - Hévíz - Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6306,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6307,6307,Zalaszentgrót - Zalacsány - Szentgyörgyvár - Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6307,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6308,6308,Zalacsány - Zalaapáti - Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6308,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-6309,6309,Zalaszentgrót-Zalaszentlászló-Zalacsány-Zalaapáti-Pacsa ,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6309,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-6309,6309,Zalaszentgrót - Zalaszentlászló - Zalacsány - Zalaapáti - Pacsa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6309,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-631,631,Budapest - Alsónémedi - Bugyi,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2510,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6310,6310,Zalaszentgrót - Zalaszentlászló - Zalacsány - Zalaapáti - Hévíz - Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6310,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6315,6315,Zalaszentgrót - Zalaszentgrót(Zalakoppány),200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6315,F6AC00,152B32,regional
