@@ -678,7 +678,6 @@ hkir_V-33367,hkir_V-33367-H-3-76Y,76Y,Mars tér - Szentmihály,3,,152B32,FFFFFF,
 hkir_V-33367,hkir_V-33367-H-3-77,77,"Baktó, Völgyérhát utca - Mars tér - Szeged vasútállomás",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-77A,77A,"Baktó, Völgyérhát utca - Mars tér",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-77K,77K,"Széchenyi tér - Baktó, Völgyérhát utca",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-77Y,77Y,"Baktó, Völgyérhát utca - József Attila sugárút - Mars tér",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-78,78,Mars tér - Béketelep - Rókusi körút - Mars tér (körjárat),3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-78A,78A,Mars tér - Rókusi körút - Béketelep - Mars tér (körjárat),3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-79,79,79 Mars tér (Mikszáth u.) - ELI lézeres kutatóközpont - Rheinmetall,3,,152B32,FFFFFF,local
