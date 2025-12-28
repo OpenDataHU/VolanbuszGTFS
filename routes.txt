@@ -1124,6 +1124,7 @@ hkir_V,hkir_V-R-200-3604,3604,Eger - Parádfürdő - Gyöngyös - Hatvan - Pető
 hkir_V,hkir_V-R-200-3605,3605,Hatvan - Lőrinci - Ecseg,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3605,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3607,3607,Hatvan - Apc - Pásztó( - Szentkút),200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3607,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3608,3608,Hatvan - Vörösmajor - Petőfibánya - R.sz.márton - Gyöngyös,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3608,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-3609,3609,"Apc - Petőfibánya - Lőrinci, temető",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3609,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-361,361,360-363 Vác - Balassagyarmat - Szécsény - Salgótarján,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2000,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3610,3610,Hatvan-Ecséd-Rózsaszentmárton-Szücsi-Gyöngyöspata-Gyöngyös,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3610,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3612,3612,Gyöngyös - Csány - Hatvan,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3612,F6AC00,152B32,regional
