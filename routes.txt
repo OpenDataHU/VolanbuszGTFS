@@ -263,7 +263,6 @@ hkir_V-17206,hkir_V-17206-H-3-900,900,Vasútállomás - Jósaváros - Sóstógy�
 hkir_V-17206,hkir_V-17206-H-3-901,901,Szakiskola és Kollégium - Vasútállomás - Jósaváros - Örökösföld,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-902,902,Vasútállomás - Szakiskola és Kollégium - Jósaváros - Örökösföld,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-90E,90E,Sóstói úti kórház - Autóbusz-állomás - Révész-Michelin Logisztikai Központ,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-910,910,"Oros, Takarék köz - Vasútállomás - Nyírszőlős",3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-92,92,Sóstói úti kórház - Jósaváros - LEGO,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-93,93,Örökösföld - Vasútállomás - LEGO,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-93E,93E,Örökösföld - Vasútállomás - LEGO,3,,152B32,FFFFFF,local
@@ -620,7 +619,6 @@ hkir_V-32054,hkir_V-32054-H-3-20,20,Kovács Károly tér - Gasparich utca - Cser
 hkir_V-32054,hkir_V-32054-H-3-21,21,Csácsbozsok - Tesco - Kovács Károly tér/Széchenyi tér - Mártírok útja - Kertváros,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-22,22,Vasútállomás - Kertváros - Landorhegy - Széchenyi tér - Csácsbozsok,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-22A,22A,Olai bisztró - Széchenyi tér - Csácsbozsok,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-23,23,Pózva - Széchenyi tér - Kertváros - Landorhegy - Andráshida - Vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-23E,23E,Flex B - Vasútállomás - Kertváros,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-24,24,Botfa-(ADA)-Flex B - Vasútállomás - Kertváros - Landorhegy - Andráshida,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-24E,24E,ADA - Flex B - Vasútállomás - Landorhegy - Ola,3,,152B32,FFFFFF,local
