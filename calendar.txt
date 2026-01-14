@@ -1,378 +1,378 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date,service_desc
-hkir_1-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,hétfői munkanapokon
-hkir_103-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"a tanév tartama alatt munkanapokon, kivéve a hetek utolsó munkanapját"
-hkir_117-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,tanév tartama alatt a hetek első munkanapját megelőző napon
-hkir_122-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,tanév tartama alatt munkaszüneti napokon
-hkir_124-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260409,keddi és csütörtöki munkanapokon
-hkir_127-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260410,keddi és pénteki munkanapokon
-hkir_13-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,a hetek első iskolai előadási napján
-hkir_132-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260329,20260412,nyári időszámítás tartama alatt munkaszüneti napokon
-hkir_133-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,tanév tartama alatt szabadnapokon
-hkir_139-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260328,téli időszámítás tartama alatt szabad- és munkaszüneti napokon
-hkir_14-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260401,a hetek utolsó iskolai előadási napján
-hkir_140-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260329,20260412,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
-hkir_145-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"tanév tartama alatt naponta, nyári tanszünetben munkanapokon"
-hkir_146-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260407,20260410,tanszünetben keddi és pénteki munkanapokon
-hkir_15-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,a hetek első iskolai előadási napját megelőző munkaszüneti napon
-hkir_151-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,IV. 30-ig és X. 1-től szabad- és munkaszüneti napokon
-hkir_154-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260331,iskolai előadási napokon kedden és pénteken
-hkir_156-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_157-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260115,20260326,csütörtöki iskolai előadási napokon
-hkir_16-2026-01-12_2026-01-15,0,0,0,0,0,0,0,20260112,20260115,tanév tartama alatt munkanapokon
-hkir_16-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,tanév tartama alatt munkanapokon
-hkir_16-2026-01-16_2026-04-13,0,0,0,0,0,0,0,20260116,20260413,tanév tartama alatt munkanapokon
-hkir_164-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, valamint tanszünetben munkanapokon"
-hkir_165-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,a hetek első iskolai előadási napját megelőző napon
-hkir_167-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260408,20260408,tanszünetben szerdai munkanapokon
-hkir_16T-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260328,20260411,március 28-tól október 31-ig szabadnapokon
-hkir_176-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260327,téli időszámítás tartama alatt munkanapokon
-hkir_179-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260406,hetek első tanítási napját megelőző munkaszüneti napok kivételével munkaszüneti napokon
-hkir_18-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260119,20260413,páros számú heteken munkanapokon
-hkir_19-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260410,páratlan számú heteken munkanapokon
-hkir_2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260407,keddi munkanapokon
-hkir_207-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260410,keddi és pénteki munkanapokon
-hkir_212-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve december 24-ét és 31-ét"
-hkir_216-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260205,20260402,minden hónap első csütörtöki munkanapján
-hkir_217-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,hétfői és keddi munkanapokon
-hkir_219-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve december 25-ét, 26-át és január 1-jét"
-hkir_220-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260114,20260410,"szerdai, csütörtöki és pénteki munkanapokon"
-hkir_221-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,a hetek első iskolai előadási napját megelőző napon
-hkir_229-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve december 24-ét"
-hkir_23-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"munkanapokon, valamint munkanapot követő napon a MERCEDES-gyár munkarendje szerint"
-hkir_230-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260402,20260410,nyári időszámítás tartama alatt a hetek utolsó munkanapján
-hkir_233-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260402,20260410,július 5-ig és szeptember 1-jétől tanszünetben munkanapokon
-hkir_234-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,július 5-ig és szeptember 1-től munkanapokon
-hkir_236-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, valamint tanszünetben munkanapokon"
-hkir_237-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,hétfői és szerdai munkanapokon
-hkir_239-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260114,20260408,minden hónap második szerdáján
-hkir_240-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,április 30-ig és október 1-től szabad- és munkaszüneti napokon
-hkir_241-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,május 31-ig és szeptember 1-től munkanapokon
-hkir_244-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, valamint tanszünetben munkanapokon"
-hkir_246-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"szabadnapokon, valamint iskolai előadási napokon"
-hkir_249-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve december 25-ét, 26-át és január 1-jét"
-hkir_25-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,"szabad- és munkaszüneti napokon, kivéve munkanapot követő napon"
-hkir_251-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,"május 3-ig és szeptember 1-től a hetek első iskolai előadási napját megelőző munkaszüneti napon, május 4-ig és augusztus 31-től a hetek első iskolai előadási napját megelőző munkaszüneti napon"
-hkir_255-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_256-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,április 30-ig és október 1-től szabadnapokon
-hkir_257-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260409,keddi és csütörtöki munkanapokon
-hkir_258-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260404,20260411,április 1-től október 31-ig szabadnapokon
-hkir_259-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260407,20260407,tanszünetben a hetek első munkanapján
-hkir_26-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
-hkir_260-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokat és december 24-ét"
-hkir_262-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260402,20260410,"tanszünetben munkanapokon, kivéve a hetek első munkanapját"
-hkir_263-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"iskolai előadási napokon, valamint június 22-től július 3-ig munkanapokon"
-hkir_264-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 25-én, 26-án és január 1-én"
-hkir_265-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"hétfői, szerdai és pénteki munkanapokon"
-hkir_267-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260412,a hetek utolsó munkanapján és munkaszüneti napokon
-hkir_269-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"munkaszüneti napokon, valamint iskolai előadási napokon"
-hkir_27-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,tanév tartama alatt naponta
-hkir_270-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260412,április 1-től szeptember 30-ig munkaszüneti napokon
-hkir_272-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260412,"szeptember 1-től június 30 -ig a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző munkaszüneti napokon"
-hkir_275-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260412,április 1-től október 23-ig munkaszüneti napokon
-hkir_276-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260329,október 24-től március 31-ig munkaszüneti napokon
-hkir_279-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, de a szeptember 1-től június 30-ig tartó időszakban nem közlekedik a hetek utolsó munkanapján és a hetek első munkanapját megelőző napon"
-hkir_282-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_283-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"iskolai előadási napokon, valamint július 1-től augusztus 8-ig munkanapokon"
-hkir_29-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"munkanapokon, valamint a MERCEDES-gyár munkarendje szerint külön rendeletre szabad- és munkaszüneti napokon"
-hkir_294-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260406,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_299-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,ünnepnapok kivételével naponta
-hkir_2A0-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260314,20260413,"március 14-től november 1-ig naponta, március 15-től november 2-ig naponta"
-hkir_2B0-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260313,"november 2-től március 13-ig naponta, november 3-tól március 14-ig naponta"
-hkir_2C7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260402,20260410,"tanszünetben munkanapokon, kivéve június 22-től július 1-ig, tanszünetben munkanapokon, kivéve június 22-től július 3-ig"
-hkir_2D2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260409,"keddi és csütörtöki munkanapokon, kivéve a hetek első és utolsó munkanapján"
-hkir_2G3-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,IX.1-től VI.30-ig munkanapokon
-hkir_2K2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260114,20260408,"szerdai munkanapokon, kivéve a hetek utolsó munkanapján, szerdai munkanapokon, kivéve április 30-án és október 22-én"
-hkir_2L0-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260115,20260409,csütörtöki munkanapokon
-hkir_2L5-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,tanév tartama alatt munkanapokon
-hkir_2L6-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,tanév tartama alatt szabadnapokon
-hkir_2L7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,tanév tartama alatt munkaszüneti napokon
-hkir_2N1-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260114,20260410,szerdai és pénteki munkanapokon
-hkir_2N7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,szerdai és pénteki munkanapok kivételével munkanapokon
-hkir_2P0-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260316,20260413,"március 14-től november 1-ig munkanapokon, március 15-től november 2-ig munkanapokon"
-hkir_2Q0-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260313,"november 2-től március 13-ig munkanapokon, november 3-tól március 14-ig munkanapokon"
-hkir_2Q2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,tanév időtartama alatt naponta
-hkir_2R4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260328,XI.1-től III.31-ig szabadnapokon
-hkir_2U3-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,X.1-től IV.30-ig naponta
-hkir_2W7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,tanév tartama alatt szabad- és munkaszüneti napokon
-hkir_2X4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,munkaszüneti napokon
-hkir_2X6-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,iskolai előadási napokon
-hkir_2X8-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,munkanapokon
-hkir_2X9-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon
-hkir_2Y2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260402,20260410,tanszünetben munkanapokon
-hkir_2Y3-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,munkaszüneti napok kivételével naponta
-hkir_2Y4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,szabad- és munkaszüneti napokon
-hkir_2Y6-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,tanév tartama alatt munkanapokon
-hkir_2Y7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260314,20260412,"március 14-től november 1-ig szabad- és munkaszüneti napokon, március 15-től november 2-ig szabad- és munkaszüneti napokon"
-hkir_2Y8-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260308,"november 2-től március 13-ig szabad- és munkaszüneti napokon, november 3-tól március 14-ig szabad- és munkaszüneti napokon"
-hkir_2YL-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260402,20260410,"március 14-től november 1-ig tanszünetben munkanapokon, március 15-től november 2-ig tanszünetben munkanapokon"
-hkir_2YT-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260410,"keddtől péntekig munkanapokon, a Vásártér nyitvatartási napjain"
-hkir_2YU-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"Szabad- és munkaszüneti napokon, a Vásártér nyitva tartási napjain"
-hkir_2YV-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,"Szabadnapokon, a Vásártér nyitvatartási napjain"
-hkir_2YW-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,munkaszüneti napokon. a Vásártér nyitvatartási napjain
-hkir_2YZ-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve ünnepnapokon"
-hkir_2Z0-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"tanév tartama alatt munkanapokon, kivéve 12.31-én"
-hkir_2Z1-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, kivéve XII.24-én"
-hkir_2Z8-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve 12.24-én, valamint tanszünetben munkanapokon"
-hkir_3-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260114,20260408,szerdai munkanapokon
-hkir_300-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,a hét utolsó munkanapja kivételével munkanapokon és szabadnapokon
-hkir_303-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260114,20260408,szerdai napokon
-hkir_304-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, kivéve június 1-től augusztus 31-ig"
-hkir_306-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, kivéve december 24-én"
-hkir_308-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve június 1-től augusztus 31-ig"
-hkir_32-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260330,20260413,nyári időszámítás tartama alatt munkaszüneti napok kivételével naponta
-hkir_324-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260410,keddi és pénteki munkanapokon
-hkir_331-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,"tanév tartama alatt szabadnapokon, kivéve december 24-én"
-hkir_332-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260115,20260412,"tanév tartama alatt a hetek utolsó előtti és utolsó munkanapján, valamint a hetek első munkanapját megelőző nap"
-hkir_335-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260412,április 1-től október 15-ig szabad- és munkaszüneti napokon
-hkir_341-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260407,20260410,tanszünetben keddi és pénteki munkanapokon
-hkir_343-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260406,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_344-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"naponta, kivéve a tanév tartama alatti munkanapokat"
-hkir_345-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260331,március 31-ig és október 16-tól naponta
-hkir_348-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve június 1-től augusztus 31-ig"
-hkir_34L-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260406,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot és december 24-én"
-hkir_350-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260331,március 31-ig és október 16-tól munkanapokon
-hkir_354-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260329,március 31-ig és október 16-tól szabad- és munkaszüneti napokon
-hkir_355-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,május 31-ig és szeptember 1-től munkanapokon
-hkir_357-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260401,20260413,április 1-től október 15-ig naponta
-hkir_35L-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,"tanév tartama alatt munkaszüneti napokon, kivéve december 24-én"
-hkir_364-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260408,20260408,tanszünetben szerdai munkanapokon
-hkir_367-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260412,"a hetek utolsó iskolai előadási napján, valamint a hetek első iskolai előadási napját megelőző napon"
-hkir_369-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_37-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
-hkir_374-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260401,20260413,április 1-től október 15-ig munkanapokon
-hkir_375-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve a hetek utolsó iskolai előadási napját"
-hkir_379-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"tanév tartama alatt munkaszüneti napok kivételével naponta, kivéve december 24-én"
-hkir_37K-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon, kivéve december 24-én"
-hkir_381-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,munkanapot követő szabad- és munkaszüneti napokon
-hkir_384-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve a munkaszüneti napokat és a hetek utolsó iskolai előadási napját"
-hkir_385-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, valamint május 1-től augusztus 31-ig munkanapokon"
-hkir_386-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,szeptember 1-től április 30-ig munkanapokon
-hkir_388-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szabadnapokon, valamint tanév tartama alatt munkaszüneti napokon"
-hkir_38C-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260115,20260326,Domaszéki Bálint Sándor Általános Iskola (csütörtöki iskolai előadási napokon) külön rendeletre
-hkir_38D-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,Bálint Sándor Általános Iskola Domaszék (külön rendeletre) csütörtök kivételével iskolai előadási napokon közlekedő járatai
-hkir_38I-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,Szabad Waldorf Ált. Isk. és Bálint Sándor Ált. Isk. (külön rendeletre) iskolai előadási napokon közlekedő járatai
-hkir_38U-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260401,Bedő Albert Erdészeti Szakképző Iskola (külön rendeletre) hetek utolsó iskolai előadási napján közlekedő járatai
-hkir_39-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"munkanapokon, kivéve csütörtöki munkanapokon"
-hkir_395-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"munkanapokon, kivéve keddi és pénteki munkanap"
-hkir_398-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,tanév tartama alatt szabad- és munkaszüneti napokon
-hkir_399-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve munkaszüneti napokon és december 24-én"
-hkir_3A5-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,a hetek első iskolai előadási napját megelőző napon
-hkir_3A6-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve a hetek első iskolai előadási napját megelőző napon és december 24-én"
-hkir_3DK-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve szabadnapokon és december 24-én"
-hkir_3MN-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,Munkaszüneti napokon (Auchan Áruház nyitva tart)
-hkir_3MZ-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260315,20260406,Munkaszüneti napokon (Auchan Áruház zárva tart)
-hkir_3NK-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve december 24-én"
-hkir_3NZ-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve a hetek utolsó tanítási napját, valamint a hetek első tanítási napját megelőző napokon"
-hkir_3T4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szombat, vasárnap napokon, kivéve december 25-én"
-hkir_3TM-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,tanév tartama alatt munkanap
-hkir_3TW-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260402,20260410,"őszi, téli és tavaszi tanszünetben munkanapokon"
-hkir_3X2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_3X4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve december 24-én"
-hkir_3X9-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve december 25-én"
-hkir_3Y5-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260331,"március 31-ig és október 16-tól naponta, kivéve december 24-én"
-hkir_3Z5-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve a hetek utolsó iskolai előadási napján és december 24-én"
-hkir_3ZI-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,hétvégéken és ünnepnapokon
-hkir_4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260115,20260409,csütörtöki munkanapokon
-hkir_4-V-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,a Budapestről induló Tenkes Expressz közlekedési napjait követő napokon
-hkir_4-X-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve a Budapestről induló Tenkes Expressz közlekedési napjait követő napokon"
-hkir_426-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_431-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,tanév tartama alatt szabadnapokon
-hkir_432-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260115,20260401,a hetek utolsó előtti és utolsó iskolai előadási napján
-hkir_434-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260406,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_435-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon"
-hkir_438-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,a hetek első iskolai előadási napját megelőző napokon
-hkir_439-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260401,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
-hkir_441-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,május 31-ig és szeptember 1-től munkanapokon
-hkir_455-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"munkanapokon, kivéve szerdán és pénteken"
-hkir_457-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"munkanapokon, kivéve kedden és pénteken"
-hkir_459-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260412,a hetek utolsó iskolai előadási napján és a hetek első iskolai előadási napját megelőző munkaszüneti napon
-hkir_460-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,június 30-ig és szeptember 1-től munkanapokon
-hkir_469-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,május 31-ig és szeptember 1-től munkaszüneti napokon
-hkir_484-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260412,április 1-től október 31-ig szabad- és munkaszüneti napokon
-hkir_485-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,május 31-ig és szeptember 1-től szabadnapokon
-hkir_486-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,május 31-ig és szeptember 21-től szabadnapokon
-hkir_494-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon és tanszünetben munkanapokon
-hkir_498-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,május 31-ig és szeptember 1-től munkaszüneti napok kivételével naponta és június 1-től augusztus 31-ig naponta
-hkir_4AA-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260331,március 31-ig és november 1-től naponta
-hkir_4AE-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260401,20260413,április 1-től október 31-ig naponta
-hkir_4FI-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260331,március 31-ig és november 1-től iskolai előadási napokon
-hkir_4HA-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260412,április 1-től júnus 19-ig és augusztus 31-től október 31-ig munkaszüneti napokon
-hkir_4HI-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260401,20260413,április 1-től október 31-ig iskolai előadási napokon
-hkir_4IA-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260329,március 31-ig és november 1-től munkaszüneti napokon
-hkir_4JA-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260401,20260413,április 1-től június 19-ig és augusztus 31-től október 31-ig naponra
-hkir_4ML-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"munkanapokon, kivéve a téli tanszünetben"
-hkir_4MV-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260331,március 31-ig és november 1-től munkanapokon
-hkir_4MY-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260401,20260413,április 1-től júnus 19-ig és augusztus 31-től október 31-ig munkanapokon
-hkir_4MZ-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260401,20260413,április 1-től október 31-ig munkanapokon
-hkir_4NB-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260412,április 1-től október 31-ig munkaszüneti napokon
-hkir_4NN-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260331,"március 31-ig és november 1-től naponta, kivéve munkaszüneti napokon"
-hkir_4NY-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260401,20260413,"április 1-től június 19-ig és augusztus 31-től október 31-ig naponta, kivéve munkaszüneti napokon"
-hkir_4OC-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260328,március 31-ig és november 1-től szabadnapokon
-hkir_4OL-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260404,20260411,április 1-től június 19-ig és augusztus 31-től október 31-ig szabadnapokon
-hkir_4PC-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260412,április 1-től június 19-ig és augusztus 31-től október 31-ig szabad- és munkaszüneti napokon
-hkir_4PD-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260402,20260410,június 20-ig és szeptember 1-től tanszünetben munkanapokon
-hkir_4PE-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,május 11-ig és szeptember 22-től szabad- és munkaszüneti napokon
-hkir_4PG-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260329,március 31-ig és november 1-től szabad- és munkaszüneti napokon
-hkir_4SX-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,június 20-ig és szeptember 1-től szabadnapokon
-hkir_4T8-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260410,tanév tartama alatt a hetek utolsó munkanapján
-hkir_4TQ-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,június 20-ig és szeptember 1-től munkanapokon
-hkir_4V3-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,Munkanapi közlekedési rend szerint (vonatpótló)
-hkir_4V4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szombati, vasárnapi és ünnepnapi közlekedési rend szerint"
-hkir_4WR-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260402,20260410,április 1-től június 19-ig és augusztus 31-től október 31-ig tanszünetben munkanapokon
-hkir_4XA-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,június 20-ig és szeptember 1-től szabad- és munkaszüneti napokon
-hkir_4XL-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,május 11-ig és szeptember 22-től a hetek első iskolai előadási napját megelőző munkaszüneti napokon
-hkir_4XQ-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,május 11-ig és szeptember 22-től munkanapokon
-hkir_5-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260410,pénteki munkanapokon
-hkir_51-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_54F-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,április 30-ig és október 1-től munkaszüneti napokon
-hkir_55T-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260115,20260410,tanév tartama alatt a hetek utolsó előtti és utolsó munkanapján
-hkir_56-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve a hetek első munkanapját megelőző napot"
-hkir_58-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve ünnepnapokon"
-hkir_59-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260315,20260406,ünnepnapokon
-hkir_5C0-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,LISS Kft. szénsavgyár munkarendje szerint
-hkir_5C1-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,a KACO Hungary Kft. munkarendje szerint
-hkir_5C2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,A Schunk Carbon Kft. munkarendje szerint
-hkir_5C3-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,A Schunk Carbon Kft. munkarendje szerint munkanapokon
-hkir_5C5-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,az AUDI gyár munkarendje szerint
-hkir_5C6-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,Calida munkarendje szerint
-hkir_5C7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"Győr, Ipari Park munkarendje szerint"
-hkir_5C8-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,A Schunk Carbon Kft. munkarendje szerint a hetek első munkanapját megelőző napon
-hkir_5F1-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260202,20260413,Széchenyi István Egyetem szorgalmi időszakában munkanapokon
-hkir_5H1-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260410,hétfő kivételével munkanapokon
-hkir_5H5-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,hétfői munkanapokon
-hkir_5H6-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"hétfői, szerdai és pénteki munkanapokon"
-hkir_5I2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,iskolai előadási napokon és szabadnapokon
-hkir_5I3-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260401,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
-hkir_5I4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_5I5-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"iskolai előadási napokon, kivéve az érettségi szünet időtartama alatt"
-hkir_5IM-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,a Magyar Műhely Alapítvány (Mezőörs) iskolai előadási napjain
-hkir_5IS-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,Eberau oktatási intézményeinek iskolai előadási napjain
-hkir_5K2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260410,keddi és pénteki munkanapokon
-hkir_5M4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260410,"munkanapokon, kivéve a hetek első munkanapját"
-hkir_5M7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"munkanapokon, kivéve december 31-én"
-hkir_5N2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve december 24-én"
-hkir_5N4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve december 24-ét és 31-ét"
-hkir_5N6-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve december 25-én"
-hkir_5N7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve munkaszüneti napokat valamint december 24-ét és 31-ét"
-hkir_5N8-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve munkaszüneti napokon és december 24-én"
-hkir_5NA-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve tanév tartama alatt a hetek első munkanapját megelőző napokat"
-hkir_5S1-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon és tanszünetben munkanapokon
-hkir_5S3-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, kivéve december 24-én"
-hkir_5S4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, kivéve december 24-ét és 31-ét"
-hkir_5T1-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,tanév tartama alatt a hetek első iskolai előadási napját megelőző napon
-hkir_5T2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,tanév tartama alatt a hetek első munkanapját és első iskolai előadási napját megelőző napon
-hkir_5T4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,tanév tartama alatt a hetek első munkanapját megelőző napon
-hkir_5T7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260410,tanév tartama alatt a hetek utolsó munkanapján és a hetek utolsó iskolai előadási napján
-hkir_5T8-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260410,tanév tartama alatt a hetek utolsó munkanapján
-hkir_5T9-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260412,"tanév tartama alatt a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző napon"
-hkir_5TA-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,tanév tartama alatt munkaszüneti napok kivételével naponta
-hkir_5TB-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,tanév tartama alatt szabad- és munkaszüneti napokon
-hkir_5V1-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,munkanapot megelőző munkaszüneti napokon
-hkir_5V3-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260406,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
-hkir_5V4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve december 24-én"
-hkir_5V7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260405,"munkaszüneti napokon, kivéve tanév tartama alatt a hetek első munkanapját megelőző munkaszüneti napokat"
-hkir_5W6-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260402,20260410,"tanszünetben munkanapokon, kivéve december 31-én"
-hkir_5WB-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260330,20260413,nyári időszámítás tartama alatt munkanapokon
-hkir_5WD-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260404,20260411,nyári időszámítás tartama alatt szabadnapokon
-hkir_5Z1-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_5Z2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 24-én és 31-én"
-hkir_602-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260410,keddi és pénteki munkanapokon
-hkir_603-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260114,20260410,szerdai és pénteki munkanapokon
-hkir_627-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260406,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokon"
-hkir_63-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260115,20260410,hetek utolsó előtti és utolsó munkanapján
-hkir_633-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260114,20260411,szerdai munkanapokon és szabadnapokon
-hkir_65-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve tanszünetes munkanapokon"
-hkir_651-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon valamint tanszünetben munkanapokon
-hkir_653-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"tanév tartama alatt naponta,nyári tanszünetben munkanapokon"
-hkir_663-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"iskolai előadási napokon, valamint nyári tanszünetben szabadnapokon"
-hkir_666-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
-hkir_667-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260328,"téli időszámítás tartama alatt szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_672-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260114,20260328,téli időszámítás alatt szerdai munkanapokon és szabadnapokon
-hkir_6D3-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260125,20260412,Vásári napokon (minden hónap 2. és 4. vasárnapján)
-hkir_6D4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,Vásári napok kivételével naponta
-hkir_6E7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,Hétfőtől péntekig munkanapokon
-hkir_6E8-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260412,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik munkaszüneti napokon.
-hkir_6E9-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260328,November 8-tól március 31-ig közlekedik szabadnapokon
-hkir_6F1-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,Hétfőtől szombatig naponta
-hkir_6F5-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260413,"Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik iskolai napokon, valamint nov.8-tól márc.31-ig pénteki iskolai napokon"
-hkir_6F6-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260404,20260411,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik szabadnapokon.
-hkir_6F7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260331,November 8-tól március 31-ig hétfőtől csütörtökig közlekedik iskolai napokon
-hkir_6F8-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260402,20260410,"Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik tanszünetben munkanapokon, valamint nov.8-tól márc.31-ig pénteki tanszünetes munkanapokon"
-hkir_6J4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"naponta, kivéve iskolai előadási napokon"
-hkir_6J7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve december 24-én"
-hkir_6J8-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve december 24-én"
-hkir_6J9-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve december 25-én"
-hkir_6K1-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, kivéve december 24-én"
-hkir_6K2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve munkaszüneti napokon és december 24-én"
-hkir_6K3-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 24-én"
-hkir_6K4-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 25-én"
-hkir_6K5-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve december 25-én"
-hkir_6L1-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"Hétfőtől szombatig naponta, kivléve szombati ünnepnapokon"
-hkir_6L2-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260406,Hétfőtől szombatig munkaszüneti napokon
-hkir_6L5-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260406,Hétfőtől péntekig munkaszüneti napokon
-hkir_7-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,vasárnapi napokon
-hkir_71-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260402,20260410,tanév tartama alatt tanszünetben munkanapokon
-hkir_720-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260410,"munkanapokon, kivéve a hetek első munkanapján"
-hkir_727-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
-hkir_73-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
-hkir_732-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260330,20260413,nyári időszámítás tartama alatt munkanapokon
-hkir_733-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260329,20260412,"utazási igény előzetes bejelentése esetén, nyári időszámítás tartama alatt szabad- és munkaszüneti napokon"
-hkir_741-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260327,20260410,"március 27-től szeptember 25-ig a hetek utolsó munkanapján, március 28-tól szeptember 26-ig a hetek utolsó munkanapján"
-hkir_744-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,április 30-ig és október 1-től szabad- és munkaszüneti napokon
-hkir_752-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260411,pénteki és szombati napokon
-hkir_753-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,szombati és vasárnapi napokon
-hkir_761-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260115,20260409,a hetek utolsó előtti munkanapján
-hkir_762-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,tanév tartama alatt a hetek első munkanapján
-hkir_764-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260328,20260411,"március 28-tól szeptember 26-ig szabadnapokon, március 29-től szeptember 27-ig szabadnapokon"
-hkir_765-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260329,20260412,"március 29-től szeptember 27-ig munkaszüneti napokon, március 30-tól szeptember 28-ig munkaszüneti napokon"
-hkir_773-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon"
-hkir_776-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260412,a hetek utolsó munkanapján és a hetek első munkanapját megelőző napokon
-hkir_779-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260405,"munkaszüneti napokon, kivéve a hetek első munkanapját megelőző napon"
-hkir_781-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,munkanapot követő szabad- és munkaszüneti napokon
-hkir_784-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260411,munkanapot követő napokon
-hkir_785-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260407,20260407,a hetek első tanszünetes munkanapján
-hkir_790-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260328,20260412,"március 28-tól szeptember 27-ig szabad- és munkaszüneti napokon, március 29-től szeptember 28-ig szabad- és munkaszüneti napokon"
-hkir_791-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260322,"március 22-ig és október 3-tól szabad- és munkaszüneti napokon, március 23-ig és október 4-től szabad- és munkaszüneti napokon"
-hkir_793-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260326,"március 27-ig és szeptember 28-tól munkanapokon, március 28-ig és szeptember 29-től munkanapokon"
-hkir_796-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260328,20260413,"március 28-tól június 19-ig, valamint szeptember 1-től szeptember 27-ig naponta, március 29-től június 20-ig, valamint szeptember 1-től szeptember 28-ig naponta"
-hkir_797-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260328,20260412,"március 28-tól június 14-ig, valamint szeptember 5-től szeptember 27-ig szabad- és munkaszüneti napokon, március 29-től június 15-ig, valamint szeptember 6-tól szeptember 28-ig szabad- és munkaszüneti napokon"
-hkir_92-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260113,20260410,"munkanapokon a MERCEDES-gyár munkarendje szerint, kivéve hétfői munkanapokat"
-hkir_?10-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260403,20260406,"Hétfői, keddi, szerdai, csütörtöki vagy pénteki szabad- és munkaszüneti napokon"
-hkir_?17-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,munkaszüneti napokon
-hkir_?19-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon
-hkir_A1V-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve ünnepnapokon"
-hkir_D-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve szabadnapokon"
-hkir_H-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,a hetek első munkanapján
-hkir_I-2026-01-12_2026-01-14,0,0,0,0,0,0,0,20260112,20260114,iskolai előadási napokon
-hkir_I-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,iskolai előadási napokon
-hkir_I-2026-01-15_2026-04-13,0,0,0,0,0,0,0,20260115,20260413,iskolai előadási napokon
-hkir_L-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"munkanapokon, kivéve a hetek utolsó munkanapján"
-hkir_M-2026-01-12_2026-01-14,0,0,0,0,0,0,0,20260112,20260114,munkanapokon
-hkir_M-2026-01-12_2026-01-15,0,0,0,0,0,0,0,20260112,20260115,munkanapokon
-hkir_M-2026-01-12_2026-01-31,0,0,0,0,0,0,0,20260112,20260130,munkanapokon
-hkir_M-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,munkanapokon
-hkir_M-2026-01-15_2026-04-13,0,0,0,0,0,0,0,20260115,20260413,munkanapokon
-hkir_M-2026-02-01_2026-04-13,0,0,0,0,0,0,0,20260202,20260413,munkanapokon
-hkir_MS-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,munkaszüneti napokon
-hkir_O-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon
-hkir_O-2026-01-15_2026-04-13,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon
-hkir_T-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260402,20260410,tanszünetben munkanapokon
-hkir_TS-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260328,téli időszámítás tartama alatt szabadnapokon
-hkir_TV-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260322,téli időszámítás tartama alatt munkaszüneti napokon
-hkir_U-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260116,20260410,a hetek utolsó munkanapján
-hkir_V-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260118,20260412,a hetek első munkanapját megelőző napon
-hkir_X-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,"naponta, kivéve munkaszüneti napokon"
-hkir_Z-2026-01-12_2026-01-31,0,0,0,0,0,0,0,20260117,20260131,szabad- és munkaszüneti napokon
-hkir_Z-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,szabad- és munkaszüneti napokon
-hkir_Z-2026-01-15_2026-04-13,0,0,0,0,0,0,0,20260117,20260412,szabad- és munkaszüneti napokon
+hkir_1-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260119,20260413,hétfői munkanapokon
+hkir_103-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"a tanév tartama alatt munkanapokon, kivéve a hetek utolsó munkanapját"
+hkir_117-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,tanév tartama alatt a hetek első munkanapját megelőző napon
+hkir_122-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,tanév tartama alatt munkaszüneti napokon
+hkir_124-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,keddi és csütörtöki munkanapokon
+hkir_127-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,keddi és pénteki munkanapokon
+hkir_13-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260119,20260413,a hetek első iskolai előadási napján
+hkir_132-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260329,20260412,nyári időszámítás tartama alatt munkaszüneti napokon
+hkir_133-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,tanév tartama alatt szabadnapokon
+hkir_139-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260328,téli időszámítás tartama alatt szabad- és munkaszüneti napokon
+hkir_14-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260401,a hetek utolsó iskolai előadási napján
+hkir_140-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260329,20260412,nyári időszámítás tartama alatt szabad- és munkaszüneti napokon
+hkir_145-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"tanév tartama alatt naponta, nyári tanszünetben munkanapokon"
+hkir_146-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260407,20260410,tanszünetben keddi és pénteki munkanapokon
+hkir_15-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,a hetek első iskolai előadási napját megelőző munkaszüneti napon
+hkir_151-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,IV. 30-ig és X. 1-től szabad- és munkaszüneti napokon
+hkir_154-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,iskolai előadási napokon kedden és pénteken
+hkir_156-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_157-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260115,20260326,csütörtöki iskolai előadási napokon
+hkir_16-2026-01-13_2026-01-15,0,0,0,0,0,0,0,20260113,20260115,tanév tartama alatt munkanapokon
+hkir_16-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,tanév tartama alatt munkanapokon
+hkir_16-2026-01-16_2026-04-14,0,0,0,0,0,0,0,20260116,20260414,tanév tartama alatt munkanapokon
+hkir_164-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, valamint tanszünetben munkanapokon"
+hkir_165-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,a hetek első iskolai előadási napját megelőző napon
+hkir_167-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260408,20260408,tanszünetben szerdai munkanapokon
+hkir_16T-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260328,20260411,március 28-tól október 31-ig szabadnapokon
+hkir_176-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260327,téli időszámítás tartama alatt munkanapokon
+hkir_179-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260406,hetek első tanítási napját megelőző munkaszüneti napok kivételével munkaszüneti napokon
+hkir_18-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260119,20260414,páros számú heteken munkanapokon
+hkir_19-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260410,páratlan számú heteken munkanapokon
+hkir_2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,keddi munkanapokon
+hkir_207-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,keddi és pénteki munkanapokon
+hkir_212-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve december 24-ét és 31-ét"
+hkir_216-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260205,20260402,minden hónap első csütörtöki munkanapján
+hkir_217-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,hétfői és keddi munkanapokon
+hkir_219-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve december 25-ét, 26-át és január 1-jét"
+hkir_220-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260410,"szerdai, csütörtöki és pénteki munkanapokon"
+hkir_221-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,a hetek első iskolai előadási napját megelőző napon
+hkir_229-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve december 24-ét"
+hkir_23-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"munkanapokon, valamint munkanapot követő napon a MERCEDES-gyár munkarendje szerint"
+hkir_230-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260402,20260410,nyári időszámítás tartama alatt a hetek utolsó munkanapján
+hkir_233-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260402,20260410,július 5-ig és szeptember 1-jétől tanszünetben munkanapokon
+hkir_234-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,július 5-ig és szeptember 1-től munkanapokon
+hkir_236-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, valamint tanszünetben munkanapokon"
+hkir_237-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260413,hétfői és szerdai munkanapokon
+hkir_239-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260408,minden hónap második szerdáján
+hkir_240-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,április 30-ig és október 1-től szabad- és munkaszüneti napokon
+hkir_241-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,május 31-ig és szeptember 1-től munkanapokon
+hkir_244-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, valamint tanszünetben munkanapokon"
+hkir_246-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"szabadnapokon, valamint iskolai előadási napokon"
+hkir_249-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve december 25-ét, 26-át és január 1-jét"
+hkir_25-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,"szabad- és munkaszüneti napokon, kivéve munkanapot követő napon"
+hkir_251-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,"május 3-ig és szeptember 1-től a hetek első iskolai előadási napját megelőző munkaszüneti napon, május 4-ig és augusztus 31-től a hetek első iskolai előadási napját megelőző munkaszüneti napon"
+hkir_255-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_256-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,április 30-ig és október 1-től szabadnapokon
+hkir_257-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,keddi és csütörtöki munkanapokon
+hkir_258-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260404,20260411,április 1-től október 31-ig szabadnapokon
+hkir_259-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260407,20260407,tanszünetben a hetek első munkanapján
+hkir_26-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"tanév tartama alatt munkanapokon, kivéve december 27-től december 31-ig"
+hkir_260-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokat és december 24-ét"
+hkir_262-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260402,20260410,"tanszünetben munkanapokon, kivéve a hetek első munkanapját"
+hkir_263-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"iskolai előadási napokon, valamint június 22-től július 3-ig munkanapokon"
+hkir_264-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 25-én, 26-án és január 1-én"
+hkir_265-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260413,"hétfői, szerdai és pénteki munkanapokon"
+hkir_267-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260412,a hetek utolsó munkanapján és munkaszüneti napokon
+hkir_269-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"munkaszüneti napokon, valamint iskolai előadási napokon"
+hkir_27-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,tanév tartama alatt naponta
+hkir_270-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260412,április 1-től szeptember 30-ig munkaszüneti napokon
+hkir_272-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260412,"szeptember 1-től június 30 -ig a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző munkaszüneti napokon"
+hkir_275-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260412,április 1-től október 23-ig munkaszüneti napokon
+hkir_276-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260329,október 24-től március 31-ig munkaszüneti napokon
+hkir_279-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, de a szeptember 1-től június 30-ig tartó időszakban nem közlekedik a hetek utolsó munkanapján és a hetek első munkanapját megelőző napon"
+hkir_282-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_283-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"iskolai előadási napokon, valamint július 1-től augusztus 8-ig munkanapokon"
+hkir_29-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"munkanapokon, valamint a MERCEDES-gyár munkarendje szerint külön rendeletre szabad- és munkaszüneti napokon"
+hkir_294-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260406,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_299-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,ünnepnapok kivételével naponta
+hkir_2A0-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260314,20260414,"március 14-től november 1-ig naponta, március 15-től november 2-ig naponta"
+hkir_2B0-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260313,"november 2-től március 13-ig naponta, november 3-tól március 14-ig naponta"
+hkir_2C7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260402,20260410,"tanszünetben munkanapokon, kivéve június 22-től július 1-ig, tanszünetben munkanapokon, kivéve június 22-től július 3-ig"
+hkir_2D2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"keddi és csütörtöki munkanapokon, kivéve a hetek első és utolsó munkanapján"
+hkir_2G3-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,IX.1-től VI.30-ig munkanapokon
+hkir_2K2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260408,"szerdai munkanapokon, kivéve a hetek utolsó munkanapján, szerdai munkanapokon, kivéve április 30-án és október 22-én"
+hkir_2L0-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260115,20260409,csütörtöki munkanapokon
+hkir_2L5-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,tanév tartama alatt munkanapokon
+hkir_2L6-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,tanév tartama alatt szabadnapokon
+hkir_2L7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,tanév tartama alatt munkaszüneti napokon
+hkir_2N1-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260410,szerdai és pénteki munkanapokon
+hkir_2N7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,szerdai és pénteki munkanapok kivételével munkanapokon
+hkir_2P0-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260316,20260414,"március 14-től november 1-ig munkanapokon, március 15-től november 2-ig munkanapokon"
+hkir_2Q0-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260313,"november 2-től március 13-ig munkanapokon, november 3-tól március 14-ig munkanapokon"
+hkir_2Q2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,tanév időtartama alatt naponta
+hkir_2R4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260328,XI.1-től III.31-ig szabadnapokon
+hkir_2U3-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,X.1-től IV.30-ig naponta
+hkir_2W7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,tanév tartama alatt szabad- és munkaszüneti napokon
+hkir_2X4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,munkaszüneti napokon
+hkir_2X6-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,iskolai előadási napokon
+hkir_2X8-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,munkanapokon
+hkir_2X9-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon
+hkir_2Y2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260402,20260410,tanszünetben munkanapokon
+hkir_2Y3-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,munkaszüneti napok kivételével naponta
+hkir_2Y4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,szabad- és munkaszüneti napokon
+hkir_2Y6-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,tanév tartama alatt munkanapokon
+hkir_2Y7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260314,20260412,"március 14-től november 1-ig szabad- és munkaszüneti napokon, március 15-től november 2-ig szabad- és munkaszüneti napokon"
+hkir_2Y8-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260308,"november 2-től március 13-ig szabad- és munkaszüneti napokon, november 3-tól március 14-ig szabad- és munkaszüneti napokon"
+hkir_2YL-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260402,20260410,"március 14-től november 1-ig tanszünetben munkanapokon, március 15-től november 2-ig tanszünetben munkanapokon"
+hkir_2YT-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"keddtől péntekig munkanapokon, a Vásártér nyitvatartási napjain"
+hkir_2YU-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"Szabad- és munkaszüneti napokon, a Vásártér nyitva tartási napjain"
+hkir_2YV-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,"Szabadnapokon, a Vásártér nyitvatartási napjain"
+hkir_2YW-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,munkaszüneti napokon. a Vásártér nyitvatartási napjain
+hkir_2YZ-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve ünnepnapokon"
+hkir_2Z0-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"tanév tartama alatt munkanapokon, kivéve 12.31-én"
+hkir_2Z1-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, kivéve XII.24-én"
+hkir_2Z8-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve 12.24-én, valamint tanszünetben munkanapokon"
+hkir_3-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260408,szerdai munkanapokon
+hkir_300-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,a hét utolsó munkanapja kivételével munkanapokon és szabadnapokon
+hkir_303-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260408,szerdai napokon
+hkir_304-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, kivéve június 1-től augusztus 31-ig"
+hkir_306-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, kivéve december 24-én"
+hkir_308-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve június 1-től augusztus 31-ig"
+hkir_32-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260330,20260414,nyári időszámítás tartama alatt munkaszüneti napok kivételével naponta
+hkir_324-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,keddi és pénteki munkanapokon
+hkir_331-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,"tanév tartama alatt szabadnapokon, kivéve december 24-én"
+hkir_332-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260115,20260412,"tanév tartama alatt a hetek utolsó előtti és utolsó munkanapján, valamint a hetek első munkanapját megelőző nap"
+hkir_335-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260412,április 1-től október 15-ig szabad- és munkaszüneti napokon
+hkir_341-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260407,20260410,tanszünetben keddi és pénteki munkanapokon
+hkir_343-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260406,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_344-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"naponta, kivéve a tanév tartama alatti munkanapokat"
+hkir_345-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260331,március 31-ig és október 16-tól naponta
+hkir_348-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve június 1-től augusztus 31-ig"
+hkir_34L-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260406,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot és december 24-én"
+hkir_350-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260331,március 31-ig és október 16-tól munkanapokon
+hkir_354-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260329,március 31-ig és október 16-tól szabad- és munkaszüneti napokon
+hkir_355-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,május 31-ig és szeptember 1-től munkanapokon
+hkir_357-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260401,20260414,április 1-től október 15-ig naponta
+hkir_35L-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,"tanév tartama alatt munkaszüneti napokon, kivéve december 24-én"
+hkir_364-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260408,20260408,tanszünetben szerdai munkanapokon
+hkir_367-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260412,"a hetek utolsó iskolai előadási napján, valamint a hetek első iskolai előadási napját megelőző napon"
+hkir_369-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_37-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon"
+hkir_374-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260401,20260414,április 1-től október 15-ig munkanapokon
+hkir_375-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve a hetek utolsó iskolai előadási napját"
+hkir_379-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"tanév tartama alatt munkaszüneti napok kivételével naponta, kivéve december 24-én"
+hkir_37K-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, valamint tanszünetben munkanapokon, kivéve december 24-én"
+hkir_381-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,munkanapot követő szabad- és munkaszüneti napokon
+hkir_384-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve a munkaszüneti napokat és a hetek utolsó iskolai előadási napját"
+hkir_385-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, valamint május 1-től augusztus 31-ig munkanapokon"
+hkir_386-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,szeptember 1-től április 30-ig munkanapokon
+hkir_388-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szabadnapokon, valamint tanév tartama alatt munkaszüneti napokon"
+hkir_38C-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260115,20260326,Domaszéki Bálint Sándor Általános Iskola (csütörtöki iskolai előadási napokon) külön rendeletre
+hkir_38D-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,Bálint Sándor Általános Iskola Domaszék (külön rendeletre) csütörtök kivételével iskolai előadási napokon közlekedő járatai
+hkir_38I-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,Szabad Waldorf Ált. Isk. és Bálint Sándor Ált. Isk. (külön rendeletre) iskolai előadási napokon közlekedő járatai
+hkir_38U-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260401,Bedő Albert Erdészeti Szakképző Iskola (külön rendeletre) hetek utolsó iskolai előadási napján közlekedő járatai
+hkir_39-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"munkanapokon, kivéve csütörtöki munkanapokon"
+hkir_395-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260413,"munkanapokon, kivéve keddi és pénteki munkanap"
+hkir_398-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,tanév tartama alatt szabad- és munkaszüneti napokon
+hkir_399-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve munkaszüneti napokon és december 24-én"
+hkir_3A5-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,a hetek első iskolai előadási napját megelőző napon
+hkir_3A6-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve a hetek első iskolai előadási napját megelőző napon és december 24-én"
+hkir_3DK-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve szabadnapokon és december 24-én"
+hkir_3MN-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,Munkaszüneti napokon (Auchan Áruház nyitva tart)
+hkir_3MZ-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260315,20260406,Munkaszüneti napokon (Auchan Áruház zárva tart)
+hkir_3NK-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve december 24-én"
+hkir_3NZ-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve a hetek utolsó tanítási napját, valamint a hetek első tanítási napját megelőző napokon"
+hkir_3T4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szombat, vasárnap napokon, kivéve december 25-én"
+hkir_3TM-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,tanév tartama alatt munkanap
+hkir_3TW-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260402,20260410,"őszi, téli és tavaszi tanszünetben munkanapokon"
+hkir_3X2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_3X4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve december 24-én"
+hkir_3X9-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve december 25-én"
+hkir_3Y5-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260331,"március 31-ig és október 16-tól naponta, kivéve december 24-én"
+hkir_3Z5-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve a hetek utolsó iskolai előadási napján és december 24-én"
+hkir_3ZI-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,hétvégéken és ünnepnapokon
+hkir_4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260115,20260409,csütörtöki munkanapokon
+hkir_4-V-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,a Budapestről induló Tenkes Expressz közlekedési napjait követő napokon
+hkir_4-X-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve a Budapestről induló Tenkes Expressz közlekedési napjait követő napokon"
+hkir_426-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_431-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,tanév tartama alatt szabadnapokon
+hkir_432-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260115,20260401,a hetek utolsó előtti és utolsó iskolai előadási napján
+hkir_434-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260406,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_435-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon"
+hkir_438-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,a hetek első iskolai előadási napját megelőző napokon
+hkir_439-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
+hkir_441-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,május 31-ig és szeptember 1-től munkanapokon
+hkir_455-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"munkanapokon, kivéve szerdán és pénteken"
+hkir_457-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260413,"munkanapokon, kivéve kedden és pénteken"
+hkir_459-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260412,a hetek utolsó iskolai előadási napján és a hetek első iskolai előadási napját megelőző munkaszüneti napon
+hkir_460-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,június 30-ig és szeptember 1-től munkanapokon
+hkir_469-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,május 31-ig és szeptember 1-től munkaszüneti napokon
+hkir_484-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260412,április 1-től október 31-ig szabad- és munkaszüneti napokon
+hkir_485-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,május 31-ig és szeptember 1-től szabadnapokon
+hkir_486-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,május 31-ig és szeptember 21-től szabadnapokon
+hkir_494-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon és tanszünetben munkanapokon
+hkir_498-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,május 31-ig és szeptember 1-től munkaszüneti napok kivételével naponta és június 1-től augusztus 31-ig naponta
+hkir_4AA-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260331,március 31-ig és november 1-től naponta
+hkir_4AE-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260401,20260414,április 1-től október 31-ig naponta
+hkir_4FI-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260331,március 31-ig és november 1-től iskolai előadási napokon
+hkir_4HA-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260412,április 1-től júnus 19-ig és augusztus 31-től október 31-ig munkaszüneti napokon
+hkir_4HI-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260401,20260414,április 1-től október 31-ig iskolai előadási napokon
+hkir_4IA-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260329,március 31-ig és november 1-től munkaszüneti napokon
+hkir_4JA-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260401,20260414,április 1-től június 19-ig és augusztus 31-től október 31-ig naponra
+hkir_4ML-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"munkanapokon, kivéve a téli tanszünetben"
+hkir_4MV-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260331,március 31-ig és november 1-től munkanapokon
+hkir_4MY-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260401,20260414,április 1-től júnus 19-ig és augusztus 31-től október 31-ig munkanapokon
+hkir_4MZ-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260401,20260414,április 1-től október 31-ig munkanapokon
+hkir_4NB-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260412,április 1-től október 31-ig munkaszüneti napokon
+hkir_4NN-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260331,"március 31-ig és november 1-től naponta, kivéve munkaszüneti napokon"
+hkir_4NY-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260401,20260414,"április 1-től június 19-ig és augusztus 31-től október 31-ig naponta, kivéve munkaszüneti napokon"
+hkir_4OC-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260328,március 31-ig és november 1-től szabadnapokon
+hkir_4OL-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260404,20260411,április 1-től június 19-ig és augusztus 31-től október 31-ig szabadnapokon
+hkir_4PC-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260412,április 1-től június 19-ig és augusztus 31-től október 31-ig szabad- és munkaszüneti napokon
+hkir_4PD-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260402,20260410,június 20-ig és szeptember 1-től tanszünetben munkanapokon
+hkir_4PE-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,május 11-ig és szeptember 22-től szabad- és munkaszüneti napokon
+hkir_4PG-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260329,március 31-ig és november 1-től szabad- és munkaszüneti napokon
+hkir_4SX-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,június 20-ig és szeptember 1-től szabadnapokon
+hkir_4T8-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260410,tanév tartama alatt a hetek utolsó munkanapján
+hkir_4TQ-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,június 20-ig és szeptember 1-től munkanapokon
+hkir_4V3-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,Munkanapi közlekedési rend szerint (vonatpótló)
+hkir_4V4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szombati, vasárnapi és ünnepnapi közlekedési rend szerint"
+hkir_4WR-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260402,20260410,április 1-től június 19-ig és augusztus 31-től október 31-ig tanszünetben munkanapokon
+hkir_4XA-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,június 20-ig és szeptember 1-től szabad- és munkaszüneti napokon
+hkir_4XL-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,május 11-ig és szeptember 22-től a hetek első iskolai előadási napját megelőző munkaszüneti napokon
+hkir_4XQ-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,május 11-ig és szeptember 22-től munkanapokon
+hkir_5-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260410,pénteki munkanapokon
+hkir_51-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_54F-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,április 30-ig és október 1-től munkaszüneti napokon
+hkir_55T-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260115,20260410,tanév tartama alatt a hetek utolsó előtti és utolsó munkanapján
+hkir_56-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve a hetek első munkanapját megelőző napot"
+hkir_58-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve ünnepnapokon"
+hkir_59-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260315,20260406,ünnepnapokon
+hkir_5C0-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,LISS Kft. szénsavgyár munkarendje szerint
+hkir_5C1-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,a KACO Hungary Kft. munkarendje szerint
+hkir_5C2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,A Schunk Carbon Kft. munkarendje szerint
+hkir_5C3-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,A Schunk Carbon Kft. munkarendje szerint munkanapokon
+hkir_5C5-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,az AUDI gyár munkarendje szerint
+hkir_5C6-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,Calida munkarendje szerint
+hkir_5C7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"Győr, Ipari Park munkarendje szerint"
+hkir_5C8-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,A Schunk Carbon Kft. munkarendje szerint a hetek első munkanapját megelőző napon
+hkir_5F1-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260202,20260414,Széchenyi István Egyetem szorgalmi időszakában munkanapokon
+hkir_5H1-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,hétfő kivételével munkanapokon
+hkir_5H5-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260119,20260413,hétfői munkanapokon
+hkir_5H6-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260413,"hétfői, szerdai és pénteki munkanapokon"
+hkir_5I2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,iskolai előadási napokon és szabadnapokon
+hkir_5I3-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"iskolai előadási napokon, kivéve a hetek első iskolai előadási napját"
+hkir_5I4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_5I5-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"iskolai előadási napokon, kivéve az érettségi szünet időtartama alatt"
+hkir_5IM-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,a Magyar Műhely Alapítvány (Mezőörs) iskolai előadási napjain
+hkir_5IS-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,Eberau oktatási intézményeinek iskolai előadási napjain
+hkir_5K2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,keddi és pénteki munkanapokon
+hkir_5M4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"munkanapokon, kivéve a hetek első munkanapját"
+hkir_5M7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"munkanapokon, kivéve december 31-én"
+hkir_5N2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve december 24-én"
+hkir_5N4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve december 24-ét és 31-ét"
+hkir_5N6-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve december 25-én"
+hkir_5N7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve munkaszüneti napokat valamint december 24-ét és 31-ét"
+hkir_5N8-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve munkaszüneti napokon és december 24-én"
+hkir_5NA-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve tanév tartama alatt a hetek első munkanapját megelőző napokat"
+hkir_5S1-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon és tanszünetben munkanapokon
+hkir_5S3-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, kivéve december 24-én"
+hkir_5S4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, kivéve december 24-ét és 31-ét"
+hkir_5T1-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,tanév tartama alatt a hetek első iskolai előadási napját megelőző napon
+hkir_5T2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,tanév tartama alatt a hetek első munkanapját és első iskolai előadási napját megelőző napon
+hkir_5T4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,tanév tartama alatt a hetek első munkanapját megelőző napon
+hkir_5T7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260410,tanév tartama alatt a hetek utolsó munkanapján és a hetek utolsó iskolai előadási napján
+hkir_5T8-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260410,tanév tartama alatt a hetek utolsó munkanapján
+hkir_5T9-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260412,"tanév tartama alatt a hetek utolsó munkanapján, valamint a hetek első munkanapját megelőző napon"
+hkir_5TA-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,tanév tartama alatt munkaszüneti napok kivételével naponta
+hkir_5TB-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,tanév tartama alatt szabad- és munkaszüneti napokon
+hkir_5V1-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,munkanapot megelőző munkaszüneti napokon
+hkir_5V3-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260406,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napot"
+hkir_5V4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve december 24-én"
+hkir_5V7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260405,"munkaszüneti napokon, kivéve tanév tartama alatt a hetek első munkanapját megelőző munkaszüneti napokat"
+hkir_5W6-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260402,20260410,"tanszünetben munkanapokon, kivéve december 31-én"
+hkir_5WB-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260330,20260414,nyári időszámítás tartama alatt munkanapokon
+hkir_5WD-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260404,20260411,nyári időszámítás tartama alatt szabadnapokon
+hkir_5Z1-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_5Z2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 24-én és 31-én"
+hkir_602-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,keddi és pénteki munkanapokon
+hkir_603-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260410,szerdai és pénteki munkanapokon
+hkir_627-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260406,"munkaszüneti napokon, kivéve a hetek első iskolai előadási napját megelőző munkaszüneti napokon"
+hkir_63-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260115,20260410,hetek utolsó előtti és utolsó munkanapján
+hkir_633-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260411,szerdai munkanapokon és szabadnapokon
+hkir_65-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve tanszünetes munkanapokon"
+hkir_651-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon valamint tanszünetben munkanapokon
+hkir_653-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"tanév tartama alatt naponta,nyári tanszünetben munkanapokon"
+hkir_663-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"iskolai előadási napokon, valamint nyári tanszünetben szabadnapokon"
+hkir_666-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
+hkir_667-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260328,"téli időszámítás tartama alatt szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_672-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260114,20260328,téli időszámítás alatt szerdai munkanapokon és szabadnapokon
+hkir_6D3-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260125,20260412,Vásári napokon (minden hónap 2. és 4. vasárnapján)
+hkir_6D4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,Vásári napok kivételével naponta
+hkir_6E7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,Hétfőtől péntekig munkanapokon
+hkir_6E8-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260412,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik munkaszüneti napokon.
+hkir_6E9-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260328,November 8-tól március 31-ig közlekedik szabadnapokon
+hkir_6F1-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,Hétfőtől szombatig naponta
+hkir_6F5-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260414,"Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik iskolai napokon, valamint nov.8-tól márc.31-ig pénteki iskolai napokon"
+hkir_6F6-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260404,20260411,Április 1-jétől június 30-ig illetve szeptember 1-jétől november 7-ig közlekedik szabadnapokon.
+hkir_6F7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260331,November 8-tól március 31-ig hétfőtől csütörtökig közlekedik iskolai napokon
+hkir_6F8-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260402,20260410,"Ápr.1-jétől jún.30-ig illetve szept.1-jétől nov.7-ig közlekedik tanszünetben munkanapokon, valamint nov.8-tól márc.31-ig pénteki tanszünetes munkanapokon"
+hkir_6J4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"naponta, kivéve iskolai előadási napokon"
+hkir_6J7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve december 24-én"
+hkir_6J8-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve december 24-én"
+hkir_6J9-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve december 25-én"
+hkir_6K1-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,"szabadnapokon, kivéve december 24-én"
+hkir_6K2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve munkaszüneti napokon és december 24-én"
+hkir_6K3-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 24-én"
+hkir_6K4-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,"szabad- és munkaszüneti napokon, kivéve december 25-én"
+hkir_6K5-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve december 25-én"
+hkir_6L1-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"Hétfőtől szombatig naponta, kivléve szombati ünnepnapokon"
+hkir_6L2-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260406,Hétfőtől szombatig munkaszüneti napokon
+hkir_6L5-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260406,Hétfőtől péntekig munkaszüneti napokon
+hkir_7-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,vasárnapi napokon
+hkir_71-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260402,20260410,tanév tartama alatt tanszünetben munkanapokon
+hkir_720-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"munkanapokon, kivéve a hetek első munkanapján"
+hkir_727-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"iskolai előadási napokon, kivéve a hetek utolsó iskolai előadási napján"
+hkir_73-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"munkanapokon, kivéve a hetek utolsó iskolai előadási napját"
+hkir_732-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260330,20260414,nyári időszámítás tartama alatt munkanapokon
+hkir_733-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260329,20260412,"utazási igény előzetes bejelentése esetén, nyári időszámítás tartama alatt szabad- és munkaszüneti napokon"
+hkir_741-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260327,20260410,"március 27-től szeptember 25-ig a hetek utolsó munkanapján, március 28-tól szeptember 26-ig a hetek utolsó munkanapján"
+hkir_744-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,április 30-ig és október 1-től szabad- és munkaszüneti napokon
+hkir_752-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260411,pénteki és szombati napokon
+hkir_753-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,szombati és vasárnapi napokon
+hkir_761-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260115,20260409,a hetek utolsó előtti munkanapján
+hkir_762-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260119,20260413,tanév tartama alatt a hetek első munkanapján
+hkir_764-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260328,20260411,"március 28-tól szeptember 26-ig szabadnapokon, március 29-től szeptember 27-ig szabadnapokon"
+hkir_765-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260329,20260412,"március 29-től szeptember 27-ig munkaszüneti napokon, március 30-tól szeptember 28-ig munkaszüneti napokon"
+hkir_773-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve a tanév tartama alatt a hetek első munkanapját megelőző napon"
+hkir_776-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260412,a hetek utolsó munkanapján és a hetek első munkanapját megelőző napokon
+hkir_779-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260405,"munkaszüneti napokon, kivéve a hetek első munkanapját megelőző napon"
+hkir_781-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,munkanapot követő szabad- és munkaszüneti napokon
+hkir_784-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,munkanapot követő napokon
+hkir_785-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260407,20260407,a hetek első tanszünetes munkanapján
+hkir_790-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260328,20260412,"március 28-tól szeptember 27-ig szabad- és munkaszüneti napokon, március 29-től szeptember 28-ig szabad- és munkaszüneti napokon"
+hkir_791-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260322,"március 22-ig és október 3-tól szabad- és munkaszüneti napokon, március 23-ig és október 4-től szabad- és munkaszüneti napokon"
+hkir_793-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260326,"március 27-ig és szeptember 28-tól munkanapokon, március 28-ig és szeptember 29-től munkanapokon"
+hkir_796-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260328,20260414,"március 28-tól június 19-ig, valamint szeptember 1-től szeptember 27-ig naponta, március 29-től június 20-ig, valamint szeptember 1-től szeptember 28-ig naponta"
+hkir_797-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260328,20260412,"március 28-tól június 14-ig, valamint szeptember 5-től szeptember 27-ig szabad- és munkaszüneti napokon, március 29-től június 15-ig, valamint szeptember 6-tól szeptember 28-ig szabad- és munkaszüneti napokon"
+hkir_92-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"munkanapokon a MERCEDES-gyár munkarendje szerint, kivéve hétfői munkanapokat"
+hkir_?10-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260403,20260406,"Hétfői, keddi, szerdai, csütörtöki vagy pénteki szabad- és munkaszüneti napokon"
+hkir_?17-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,munkaszüneti napokon
+hkir_?19-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon
+hkir_A1V-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,"munkaszüneti napokon, kivéve ünnepnapokon"
+hkir_D-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve szabadnapokon"
+hkir_H-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260119,20260413,a hetek első munkanapján
+hkir_I-2026-01-13_2026-01-14,0,0,0,0,0,0,0,20260113,20260114,iskolai előadási napokon
+hkir_I-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,iskolai előadási napokon
+hkir_I-2026-01-15_2026-04-14,0,0,0,0,0,0,0,20260115,20260414,iskolai előadási napokon
+hkir_L-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"munkanapokon, kivéve a hetek utolsó munkanapján"
+hkir_M-2026-01-13_2026-01-14,0,0,0,0,0,0,0,20260113,20260114,munkanapokon
+hkir_M-2026-01-13_2026-01-15,0,0,0,0,0,0,0,20260113,20260115,munkanapokon
+hkir_M-2026-01-13_2026-01-31,0,0,0,0,0,0,0,20260113,20260130,munkanapokon
+hkir_M-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,munkanapokon
+hkir_M-2026-01-15_2026-04-14,0,0,0,0,0,0,0,20260115,20260414,munkanapokon
+hkir_M-2026-02-01_2026-04-14,0,0,0,0,0,0,0,20260202,20260414,munkanapokon
+hkir_MS-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,munkaszüneti napokon
+hkir_O-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon
+hkir_O-2026-01-15_2026-04-14,0,0,0,0,0,0,0,20260117,20260411,szabadnapokon
+hkir_T-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260402,20260410,tanszünetben munkanapokon
+hkir_TS-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260328,téli időszámítás tartama alatt szabadnapokon
+hkir_TV-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260322,téli időszámítás tartama alatt munkaszüneti napokon
+hkir_U-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260116,20260410,a hetek utolsó munkanapján
+hkir_V-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260118,20260412,a hetek első munkanapját megelőző napon
+hkir_X-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,"naponta, kivéve munkaszüneti napokon"
+hkir_Z-2026-01-13_2026-01-31,0,0,0,0,0,0,0,20260117,20260131,szabad- és munkaszüneti napokon
+hkir_Z-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,szabad- és munkaszüneti napokon
+hkir_Z-2026-01-15_2026-04-14,0,0,0,0,0,0,0,20260117,20260412,szabad- és munkaszüneti napokon
 hkir_Z-2026-01-17_2026-01-18,0,0,0,0,0,0,0,20260117,20260118,szabad- és munkaszüneti napokon
-hkir_Z-2026-01-19_2026-04-13,0,0,0,0,0,0,0,20260124,20260412,szabad- és munkaszüneti napokon
-hkir_Z-2026-02-01_2026-04-13,0,0,0,0,0,0,0,20260201,20260412,szabad- és munkaszüneti napokon
-hkir__-2026-01-12_2026-01-14,0,0,0,0,0,0,0,20260112,20260114,naponta
-hkir__-2026-01-12_2026-01-15,0,0,0,0,0,0,0,20260112,20260115,naponta
-hkir__-2026-01-12_2026-01-31,0,0,0,0,0,0,0,20260112,20260131,naponta
-hkir__-2026-01-12_2026-04-13,0,0,0,0,0,0,0,20260112,20260413,naponta
-hkir__-2026-01-15_2026-04-13,0,0,0,0,0,0,0,20260115,20260413,naponta
-hkir__-2026-01-16_2026-04-13,0,0,0,0,0,0,0,20260116,20260413,naponta
+hkir_Z-2026-01-19_2026-04-14,0,0,0,0,0,0,0,20260124,20260412,szabad- és munkaszüneti napokon
+hkir_Z-2026-02-01_2026-04-14,0,0,0,0,0,0,0,20260201,20260412,szabad- és munkaszüneti napokon
+hkir__-2026-01-13_2026-01-14,0,0,0,0,0,0,0,20260113,20260114,naponta
+hkir__-2026-01-13_2026-01-15,0,0,0,0,0,0,0,20260113,20260115,naponta
+hkir__-2026-01-13_2026-01-31,0,0,0,0,0,0,0,20260113,20260131,naponta
+hkir__-2026-01-13_2026-04-14,0,0,0,0,0,0,0,20260113,20260414,naponta
+hkir__-2026-01-15_2026-04-14,0,0,0,0,0,0,0,20260115,20260414,naponta
+hkir__-2026-01-16_2026-04-14,0,0,0,0,0,0,0,20260116,20260414,naponta
 hkir__-2026-01-21_2026-01-30,0,0,0,0,0,0,0,20260121,20260130,naponta
-hkir__-2026-02-01_2026-04-13,0,0,0,0,0,0,0,20260201,20260413,naponta
+hkir__-2026-02-01_2026-04-14,0,0,0,0,0,0,0,20260201,20260414,naponta
