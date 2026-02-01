@@ -274,7 +274,6 @@ hkir_V-17206,hkir_V-17206-H-3-95,95,Örökösföld - Autóbusz-állomás - Miche
 hkir_V-17206,hkir_V-17206-H-3-95E,95E,Örökösföld - Autóbusz-állomás - Michelin - Huszár telep,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-96,96,Autóbusz-állomás - Debreceni út - Alma utcai iskola,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-97,97,"Örökösföld - Lujza utca - Ipari park, Wittur (- Újsortanya)",3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-97B,97B,"Örökösföld - Lujza utca - Ipari park, Wittur (- Újsortanya)",3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-H30,H30,Autóbusz-állomás - Rozsrét - Újsortanya - Butykasor - Oláhrét,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-H31,H31,Autóbusz-állomás - Butykasor - Oláhrét,3,,152B32,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-H32,H32,Autóbusz-állomás - Nyírjes - Nagyszállás,3,,152B32,FFFFFF,local
@@ -365,13 +364,8 @@ hkir_V-22761,hkir_V-22761-H-3-6B,6B,6B. Autóbusz-állomás - Nyomda - TESCO - T
 hkir_V-22761,hkir_V-22761-H-3-7,7,TESCO - Alisca u. - Aut.áll. - TOLNATEJ Zrt. - Aut.áll. - TESCO,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-9,9,TESCO - Alisca u. - Fűtőmű - Május 1. u. - Kadarka u. - Jobbparászta,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-9A,9A,TESCO - Alisca u. - Kadarka u. - Jobbparászta,3,,152B32,FFFFFF,local
-hkir_V-23065,hkir_V-23065-H-3-2,2,"Autóbusz-állomás - Gyökeres, Szántó Kovács János utca",3,,152B32,FFFFFF,local
-hkir_V-23065,hkir_V-23065-H-3-2A,2A,"Autóbusz-állomás - Gyökeres, Szántó Kovács János utca",3,,152B32,FFFFFF,local
-hkir_V-23065,hkir_V-23065-H-3-4,4,"Autóbusz-állomás - Rákóczitelep, Autóbusz-forduló",3,,152B32,FFFFFF,local
-hkir_V-23065,hkir_V-23065-H-3-4A,4A,"Autóbusz-állomás - Rákóczitelep, Autóbusz-forduló",3,,152B32,FFFFFF,local
 hkir_V-23065,hkir_V-23065-H-3-6,6,"Autóbusz-állomás - Aranypatkó csárda - Rákóczitelep, Autóbusz-forduló - Autóbusz-állomás",3,,152B32,FFFFFF,local
 hkir_V-23065,hkir_V-23065-H-3-7,7,Autóbusz-állomás - Gyökeres - Szentetornya - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-23065,hkir_V-23065-H-3-7A,7A,"Autóbusz-állomás - Gyökeres - Szentetornya - Rákóczitelep, Autóbusz-forduló",3,,152B32,FFFFFF,local
 hkir_V-23603,hkir_V-23603-H-3-1,1,Vasútállomás - Vásártér,3,,152B32,FFFFFF,local
 hkir_V-23603,hkir_V-23603-H-3-1B,1B,Vasútállomás - Vásártér,3,,152B32,FFFFFF,local
 hkir_V-23959,hkir_V-23959-H-3-1,1,"Mohács, aut. áll. - Üdülőtelep",3,,152B32,FFFFFF,local
