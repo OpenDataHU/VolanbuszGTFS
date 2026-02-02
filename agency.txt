@@ -41,7 +41,6 @@ hkir_V-20491,MÁV Személyszállítási Zrt. - Eger,https://helyimenetrend.mavcs
 hkir_V-21175,MÁV Személyszállítási Zrt. - Balatonfüred,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/balatonfured,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-21315,MÁV Személyszállítási Zrt. - Csurgó,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/csurgo,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-22761,MÁV Személyszállítási Zrt. - Szekszárd,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/szekszard,Europe/Budapest,hu,+36 1 382 0888
-hkir_V-23065,MÁV Személyszállítási Zrt. - Orosháza,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/oroshaza,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-23603,MÁV Személyszállítási Zrt. - Ercsi,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/ercsi,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-23959,MÁV Személyszállítási Zrt. - Mohács,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/mohacs,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-24934,MÁV Személyszállítási Zrt. - Vác,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/vac,Europe/Budapest,hu,+36 1 382 0888

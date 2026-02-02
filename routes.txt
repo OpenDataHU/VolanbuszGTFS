@@ -364,8 +364,6 @@ hkir_V-22761,hkir_V-22761-H-3-6B,6B,6B. Autóbusz-állomás - Nyomda - TESCO - T
 hkir_V-22761,hkir_V-22761-H-3-7,7,TESCO - Alisca u. - Aut.áll. - TOLNATEJ Zrt. - Aut.áll. - TESCO,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-9,9,TESCO - Alisca u. - Fűtőmű - Május 1. u. - Kadarka u. - Jobbparászta,3,,152B32,FFFFFF,local
 hkir_V-22761,hkir_V-22761-H-3-9A,9A,TESCO - Alisca u. - Kadarka u. - Jobbparászta,3,,152B32,FFFFFF,local
-hkir_V-23065,hkir_V-23065-H-3-6,6,"Autóbusz-állomás - Aranypatkó csárda - Rákóczitelep, Autóbusz-forduló - Autóbusz-állomás",3,,152B32,FFFFFF,local
-hkir_V-23065,hkir_V-23065-H-3-7,7,Autóbusz-állomás - Gyökeres - Szentetornya - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-23603,hkir_V-23603-H-3-1,1,Vasútállomás - Vásártér,3,,152B32,FFFFFF,local
 hkir_V-23603,hkir_V-23603-H-3-1B,1B,Vasútállomás - Vásártér,3,,152B32,FFFFFF,local
 hkir_V-23959,hkir_V-23959-H-3-1,1,"Mohács, aut. áll. - Üdülőtelep",3,,152B32,FFFFFF,local
