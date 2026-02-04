@@ -733,6 +733,7 @@ hkir_V,hkir_V-O-200-1123,1123,Budapest - Kalocsa - Baja - Bácsalmás,200,https:
 hkir_V,hkir_V-O-200-1125,1125,Budapest - Dunaújváros - Dunaföldvár - Paks - Szekszárd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1125,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1130,1130,Budapest - M6 - Baja,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1130,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1131,1131,Budapest - Dunaújváros - Szekszárd - Mohács - Harkány,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1131,F6AC00,152B32,national
+hkir_V,hkir_V-O-200-1133,1133,Budapest - Mohács,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1133,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1134,1134,Budapest - Dunaújváros - Szekszárd - Pécs - Siklós,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1134,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1135,1135,Budapest - M6 - M60 - Pécs,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1135,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1136,1136,Budapest - Szekszárd - Bonyhád - Komló,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1136,F6AC00,152B32,national
@@ -2361,7 +2362,6 @@ hkir_V,hkir_V-R-200-578,578,Budapest - Vecsés - Gyál - Vecsés - Budapest,200,
 hkir_V,hkir_V-R-200-580,580,Budapest - Üllő - Monor,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2200,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5800,5800,Mohács - Palotabozsok - Erdősmecske,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5800,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5805,5805,Mohács - Dunaszekcső - Bátaszék,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5805,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5806,5806,Mohács-Bátaszék,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5806,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-581,581,Budapest - Üllő - Monor,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2200,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5811,5811,Mohács-Kölked-Kölked(Erdőfű)/Udvar,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5811,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5813,5813,Mohács - Lippó - Villány - Harkány,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5813,F6AC00,152B32,regional
