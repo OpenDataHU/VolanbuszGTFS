@@ -732,7 +732,6 @@ hkir_V,hkir_V-O-200-1123,1123,Budapest - Kalocsa - Baja - Bácsalmás,200,https:
 hkir_V,hkir_V-O-200-1125,1125,Budapest - Dunaújváros - Dunaföldvár - Paks - Szekszárd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1125,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1130,1130,Budapest - M6 - Baja,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1130,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1131,1131,Budapest - Dunaújváros - Szekszárd - Mohács - Harkány,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1131,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1133,1133,Budapest - Mohács,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1133,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1134,1134,Budapest - Dunaújváros - Szekszárd - Pécs - Siklós,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1134,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1135,1135,Budapest - M6 - M60 - Pécs,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1135,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1136,1136,Budapest - Szekszárd - Bonyhád - Komló,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1136,F6AC00,152B32,national
@@ -3466,7 +3465,6 @@ hkir_V,hkir_V-R-200-894,894,Tahitótfalu - Pócsmegyer - Tahitótfalu,200,https:
 hkir_V,hkir_V-R-200-895,895,Budapest - Szentendre - Kisoroszi - Surány - Szigetmonostor,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2923,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-897,897,Budapest - Szentendre - Kisoroszi - Surány - Szigetmonostor,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2923,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-898,898,Szentendre - Tahitótfalu - Kisoroszi,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2943,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-BUSO,BUSO,Mohácsi Busójárás Ikarus 256-tal,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2103,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-G506,G506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4428,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-S506,S506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4428,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-X506,X506,Debrecen-M35 autópálya-Konyár-Pocsaj-Nagykereki,200,,F6AC00,152B32,regional
