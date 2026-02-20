@@ -23,6 +23,7 @@ hkir_V-08864,MÁV Személyszállítási Zrt. - Bátaszék,https://helyimenetrend
 hkir_V-09760,MÁV Személyszállítási Zrt. - Békés,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/bekes,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-12575,MÁV Személyszállítási Zrt. - Lenti,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/lenti,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-13532,MÁV Személyszállítási Zrt. - Körmend,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/kormend,Europe/Budapest,hu,+36 1 382 0888
+hkir_V-13578,MÁV Személyszállítási Zrt. - Budapest,https://www.mavcsoport.hu/,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-13657,MÁV Személyszállítási Zrt. - Balassagyarmat,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/balassagyarmat,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-14456,MÁV Személyszállítási Zrt. - Szentes,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/szentes,Europe/Budapest,hu,+36 1 382 0888
 hkir_V-14492,MÁV Személyszállítási Zrt. - Ózd,https://helyimenetrend.mavcsoport.hu/hu/menetrendek/helyi-jaratok/ozd,Europe/Budapest,hu,+36 1 382 0888
