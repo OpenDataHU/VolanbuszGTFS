@@ -133,7 +133,7 @@ hkir_V-13657,hkir_V-13657-H-3-6A,6A,Kenessey Kórház - Hétvezér út - Huszár
 hkir_V-13657,hkir_V-13657-H-3-6B,6B,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-6C,6C,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-7,7,Kenessey Kórház - Madách L. - Ruhagyár - Kossuth út - Kenessey Kórház,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-7A,7A,Kenessey Kórház - Kossúth út - Huszár A. út,3,,152B32,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-7A,7A,Civitas Fortissima tér - Szabó L. iskola,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-7B,7B,Civitas Fortissima tér - Szabó L. iskola,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-8,8,Autóbusz-állomás - Arany J.út - Május 1. - út - Ruhagyár - Madách L. - Kenessey Kórház,3,,152B32,FFFFFF,local
 hkir_V-13657,hkir_V-13657-H-3-8A,8A,Autóbusz-állomás - Arany J. út - Szabó L. iskola - Szügyi út - MAHLE KFT,3,,152B32,FFFFFF,local
@@ -3466,9 +3466,9 @@ hkir_V,hkir_V-R-200-883,883,Budapest - Szentendre - Visegrád - Esztergom,200,ht
 hkir_V,hkir_V-R-200-884,884,Budapest - Szentendre - Visegrád - Esztergom,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2920,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-889,889,Budapest - Szentendre - Visegrád - Esztergom,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2920,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-890,890,Budapest - Szentendre - Tahitótfalu - Váci rév,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2951,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-892,892,Tahitótfalu - Pócsmegyer - Tahitótfalu,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2924,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-892,892,Tahitótfalu - Pócsmegyer - Szigetmonostor,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2924,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-893,893,Budapest - Szentendre - Kisoroszi - Surány - Szigetmonostor,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2923,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-894,894,Tahitótfalu - Pócsmegyer - Tahitótfalu,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2924,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-894,894,Tahitótfalu - Pócsmegyer - Szigetmonostor,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2924,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-895,895,Budapest - Szentendre - Kisoroszi - Surány - Szigetmonostor,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2923,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-897,897,Budapest - Szentendre - Kisoroszi - Surány - Szigetmonostor,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2923,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-898,898,Szentendre - Tahitótfalu - Kisoroszi,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2943,F6AC00,152B32,regional
