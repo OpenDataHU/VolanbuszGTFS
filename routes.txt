@@ -1221,6 +1221,7 @@ hkir_V,hkir_V-R-200-3742,3742,Miskolc - Hejőkeresztúr - Nemesbikk,200,https://
 hkir_V,hkir_V-R-200-3743,3743,Miskolc - Mezőcsát,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3743,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3744,3744,Miskolc - Nyékládháza - Ónod - Tiszaújváros - Polgár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3744,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3745,3745,Miskolc - Nyékládháza - Tiszaújváros,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3745,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-3746,3746,Miskolc - Mezőkövesd - Bogács,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3746,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3747,3747,Miskolc - Bükkábrány - Gelej,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3747,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3748,3748,Miskolc - Emőd - Kács,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3748,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3749,3749,Miskolc - Bükkábrány - Mezőkövesd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3749,F6AC00,152B32,regional
