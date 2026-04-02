@@ -390,10 +390,8 @@ hkir_V-24934,hkir_V-24934-H-3-6,6,Gombási út - Deákvár - Alsóváros,3,,152B
 hkir_V-25131,hkir_V-25131-H-3-A,A,Vá. - Földműves - Kertváros,3,,152B32,FFFFFF,local
 hkir_V-25131,hkir_V-25131-H-3-B,B,Kertváros - Földműves - Vá.,3,,152B32,FFFFFF,local
 hkir_V-25131,hkir_V-25131-H-3-C,C,C - Vá.-Bánomi-Kertváros-Vá.,3,,152B32,FFFFFF,local
-hkir_V-25131,hkir_V-25131-H-3-F,F,Vörösmarty u.-Szamárhegy-Búbánatvölgy-Vörösmarty u.,3,,152B32,FFFFFF,local
 hkir_V-25131,hkir_V-25131-H-3-F-0,F,Vörösmarty u.-Szamárhegy-Búbánatvölgy-Vörösmarty u.,3,,152B32,FFFFFF,local
 hkir_V-25131,hkir_V-25131-H-3-G,G,Vá. - Dobozi - Vá.,3,,152B32,FFFFFF,local
-hkir_V-25131,hkir_V-25131-H-3-K,K,Vörösmarty u.-Szentgyörgymező-Vörösmarty u.,3,,152B32,FFFFFF,local
 hkir_V-25131,hkir_V-25131-H-3-K-0,K,Vörösmarty u.-Szentgyörgymező-Vörösmarty u.,3,,152B32,FFFFFF,local
 hkir_V-25131,hkir_V-25131-H-3-N,N,Vá. - Dobozi - Vá.,3,,152B32,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-1,1,"Gyirmót - Ménfőcsanak - Marcalváros - Pápai út - Belváros - Újváros, Nép utca",3,,152B32,FFFFFF,local
@@ -645,7 +643,6 @@ hkir_V-32054,hkir_V-32054-H-3-5,5,Autóbusz-állomás - Új köztemető (- Nesze
 hkir_V-32054,hkir_V-32054-H-3-6,6,Autóbusz-állomás/Körmendi út - Hűtőipari Zrt. - Szenterzsébethegy,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-7,7,Autóbusz-állomás - Bazita - Kökényesmindszent,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-9,9,Kovács Károly tér - Páterdomb - Széchenyi tér,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-10,10,Autóbusz-állomás - Tessedik S. u. - Üzleti Park - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-32559,hkir_V-32559-H-3-12,12,Autóbusz-állomás - Haraszti ipari terület - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-32559,hkir_V-32559-H-3-14,14,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-32559,hkir_V-32559-H-3-2,2,Autóbusz-állomás - Klapka u. - Máriabesnyő - Autóbusz-állomás,3,,152B32,FFFFFF,local
