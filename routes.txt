@@ -3508,3 +3508,6 @@ hkir_V,hkir_V-R-200-G506,G506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://ww
 hkir_V,hkir_V-R-200-S506,S506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4428,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-X506,X506,Debrecen-M35 autópálya-Konyár-Pocsaj-Nagykereki,200,,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-Z506,Z506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4428,F6AC00,152B32,regional
+hkir_V,hkir_V-S-200-H5,H5,H5 HÉV-pótlóbusz,200,,F6AC00,152B32,regional
+hkir_V,hkir_V-S-200-H6,H6,H6 HÉV-pótlóbusz,200,,F6AC00,152B32,regional
+hkir_V,hkir_V-S-200-H6A,H6A,H6 HÉV-pótlóbusz,200,,F6AC00,152B32,regional
