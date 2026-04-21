@@ -84,7 +84,6 @@ hkir_V-08518,hkir_V-08518-H-3-10B,10B,"Jereván lakótelep - Ady Endre út  Bán
 hkir_V-08518,hkir_V-08518-H-3-10Y,10Y,Jereván lakótelep - Sopronbánfalva,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-11,11,Jereván lakótelep - Faraktár utca - Csengery utca - (Kórház -) Thököly tér,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-11A,11A,Thököly tér - Csengery utca - Faraktár utca - Jereván lakótelep,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-11B,11B,Jereván lakótelep - Faraktár utca - Csengery utca - Keleti rendező - (Kórház -) Thököly tér,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-11Y,11Y,Jereván ltp. - Keleti rendező - Thököly tér,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-12,12,"Jereván lakótelep - József Attila lakótelep - Kőszegi út, Sarudi utca",3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-12B,12B,Jereván lakótelep - Sopron Plaza - Kőszegi út,3,,152B32,FFFFFF,local
@@ -166,39 +165,39 @@ hkir_V-14492,hkir_V-14492-H-3-8,8,Kórház - Autóbusz-állomás - Uraj - Susa,3
 hkir_V-14632,hkir_V-14632-H-3-1,1,"Vasútállomás - Turul u. - Bélatelep, forduló",3,,152B32,FFFFFF,local
 hkir_V-14632,hkir_V-14632-H-3-2,2,Vasútállomás - Kenyérgyár - Vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-10,10,Szedreskert - Orsovai utca,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-11,11,Szedreskert - Vásárhelyi úti ltp.,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-11A,11A,Csapó utca - Vásárhelyi út - Sóstói bev.,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-12,12,Szedreskert - Sóstó - Sóstó Ipari Park,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-12A,12A,Csapó u. - Autóbusz-állomás - Börgöndi út - rhalmi szlk - Auchan,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-12Y,12Y,Autóbusz-állomás - Bárándi utca,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-11,11,Szedreskert - Vásárhelyi út - Szedreskert,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-11A,11A,Csapó utca-Vásárhelyi út-Sóstói bev.-Csapó utca,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-12,12,Szedreskert-Sóstó-Sóstó Ipari Park-Szedreskert,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-12A,12A,Csapó utca-Sóstói bev.-Vásrhelyi út-Csapó utca,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-12Y,12Y,Fecskepart - Autóbusz-állomás - Babér utca,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-13G,13G,Autóbusz-állomás - Babér utca,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-14,14,Szedreskert - Köfém lakótelep,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-14G,14G,Autóbusz-állomás - Köfém lakótelep (gyorsjárat),3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-15,15,Csapó utca - Sóstó - Sóstó Ipari Park,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-15Y,15Y,Csapó u.- Szárcsa u. - Sóstói u.,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-14G,14G,Csapó utca-Köfém lakótelep-Babér utca,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-15,15,Fecskepart-Sóstó-Sóstó Ipari Park,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-15Y,15Y,Csapó u.- Szárcsa u. - Vásárhelyi úti letp.,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-16,16,Feketehegy - Szedreskert - AIZ,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-17,17,Csapó utca - Köfém lakótelep,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-20,20,Jancsár u.-Köfém ltp.,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-20,20,Hübner A. u.-Jancsár u.-Köfém ltp.,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-22,22,Jancsár u. - Budai út - Kisfalud,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-23,23,Jancsár u. - Vá. - Budai út - Európa IP.,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-23E,23E,Jancsár u. - Budai út - Fiskális út - Videoton,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-24,24,Jancsár utca - Zsolnai út,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-24,24,Jancsár utca-Zsolnai út-Zsurló u.,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-25,25,Jancsár utca - Püspökkertváros,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-26,26,Jancsár u. - Autóbusz-állomás - Berényi út - Béla u.- Nagyszombati u.,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-26A,26A,Jancsár u. - Autóbusz-állomás - Berényi út - Kassai u.,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-31,31,Vasútállomás - Kassai utca,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-26,26,Jancsár u. - Autóbusz-állomás - Berényi út - Béla u.- Depónia,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-26A,26A,Orsovai utca - Jancsár u. - Autóbusz-állomás - Berényi út - Kassai u.,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-31,31,Vasútállomás-Béla u.,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-31E,31E,Vasútállomás - Budai út - Fiskális út - VIDEOTON,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-32,32,Kassai utca - Vá. - Sóstói bev.központ,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-33,33,Köfém lakótelep - Vá. - Fecskepart,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-34,34,Csapó utca - Vá. - Fecskepart,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-35,35,Jancsár utca - Vá. - Zone bev.,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-36,36,Zsolnai u. - Vasútállomás - Hernád utca,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-37,37,Zsolnai utca - Kórház - Vá. - Feketehegy (körjárat),3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-32,32,Kassai utca-Vá.-Sóstói bev.központ-Vásárhelyi úti ltp.,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-33,33,Vasútállomás-Fecskepart,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-34,34,Vasútállomás-Fecskepart,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-35,35,Vasútállomás-Zone bev.,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-36,36,Vasútállomás-Hernád utca,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-37,37,MET Aréna-Kórház-Vasútállomás-Feketehegy-Vasútállomás-Kórház-MET Aréna,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-38,38,Vasútállomás - Autóbusz-állomás - Berényi út - TESCO - Videoton Ipari Park,3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-40,40,Csapó utca - Maroshegy (körjárat),3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-41,41,Csapó u. - Kórház - Maroshegy (körjárat),3,,152B32,FFFFFF,local
 hkir_V-14827,hkir_V-14827-H-3-42,42,Csapó utca - Rákóczi utca - Börgönd,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-44,44,Hübner A. utca - Vá. - Kórház - Csapó utca,3,,152B32,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-44,44,Csapó utca-Kórház-Vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-15200,hkir_V-15200-H-3-1,1,Szabadság tér - Autóbusz-állomás - Volán telep - Szabadság tér/Kórház,3,,152B32,FFFFFF,local
 hkir_V-15200,hkir_V-15200-H-3-17,17,Szabadság tér - Lencsési autóbusz-forduló,3,,152B32,FFFFFF,local
 hkir_V-15200,hkir_V-15200-H-3-17M,17M,Kórház - Szabadság tér - Lencsési autóbusz-forduló,3,,152B32,FFFFFF,local
@@ -292,7 +291,7 @@ hkir_V-17631,hkir_V-17631-H-3-18,18,Aut. áll. - Somogyfok - Perczel Mór u. - A
 hkir_V-17631,hkir_V-17631-H-3-2,2,"Autóbusz-állomás - Sóstó, Kemping",3,,152B32,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-21,21,Darnay Kálmán tér - Perczel Mór u.,3,,152B32,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-24,24,"Kiliti, Béke tér - Aut.áll. - Sóstó,Kemping",3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-2A,2A,Aut. áll. - Gábor Áron u.,3,,152B32,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-2A,2A,2A. Aut. áll.-Kodály Zoltán u.,3,,152B32,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-3,3,Autóbusz-állomás - Volán-telep,3,,152B32,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-4,4,"Autóbusz-állomás - Kiliti, Béke tér",3,,152B32,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-5,5,"Autóbusz-állomás - Szépvölgyi u. - Kiliti,Béke tér",3,,152B32,FFFFFF,local
@@ -1665,7 +1664,7 @@ hkir_V,hkir_V-R-200-4461,4461,"Debrecen - Hajdúböszörmény,Bodaszőlő",200,h
 hkir_V,hkir_V-R-200-4463,4463,Debrecen - Hajdúböszörmény - Polgár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4463,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4464,4464,Debrecen - Bodaszőlő - Hajdúböszörmény,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4464,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4466,4466,Debrecen - Hajdúdorog - Hajdúnánás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4466,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4467,4467,Hajdúnánás - Tiszavasvári,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4467,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-4467,4467,Rakamaz - Tiszalök - Tiszavasvári - Hajdúnánás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4467,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4469,4469,"Vámospércs - Nyíracsád,Buzita/Asszonyrész - Nyíradony",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4469,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-447,447,Gödöllő - Isaszeg - Dány - Kóka,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2140,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4471,4471,Álmosd - Bagamér - Vámospércs - Újléta,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4471,F6AC00,152B32,regional
@@ -2649,6 +2648,7 @@ hkir_V,hkir_V-R-200-6355,6355,Keszthely - Hévíz,200,https://www.mavcsoport.hu/
 hkir_V,hkir_V-R-200-636,636,Budapest - Alsónémedi - Ócsa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2523,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6360,6360,Hévíz - Keszthely - Balatongyörök,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6360,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6361,6361,Hévíz - Keszthely - Balatongyörök - Balatonederics - Tapolca,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6361,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-6362,6362,Keszthely-Balatongyörök-Raposka-Tapolca,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6362,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6363,6363,Alsópáhok - Hévíz - Keszthely - Balatongyörök - Badacsonytomaj,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6363,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6364,6364,Hévíz - Keszthely - Balatongyörök - Szigliget - Balatonfüred/Tapolca,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6364,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6365,6365,Keszthely-Gyenesdiás-Zalaszántó-Várvölgy-Vállus,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6365,F6AC00,152B32,regional
@@ -2657,6 +2657,7 @@ hkir_V,hkir_V-R-200-6370,6370,Keszthely - Hévíz - Zalaapáti,200,https://www.m
 hkir_V,hkir_V-R-200-6371,6371,Keszthely-Zalaapáti-Zalacsány-Szentgyörgyvár-Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6371,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6372,6372,Keszthely-Hévíz-Felsőpáhok-Zalaköszvényes,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6372,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6373,6373,Hévíz - Keszthely - Balatonszentgyörgy,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6373,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-6374,6374,Keszthely-Balatonmáriafürdő-Fonyód,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6374,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6375,6375,Keszthely - Hévíz - Alsópáhok - Zalaszabar/Balatonmagyaród,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6375,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6376,6376,Keszthely - Hévíz - Zalaapáti - Sármellék - Zalavár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6376,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6377,6377,Pacsa/Keszthely-Zalaapáti-Dióskál-Zalavár-Sármellék-Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6377,F6AC00,152B32,regional
