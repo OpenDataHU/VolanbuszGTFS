@@ -627,9 +627,7 @@ hkir_V-32054,hkir_V-32054-H-3-20,20,Kovács Károly tér - Gasparich utca - Cser
 hkir_V-32054,hkir_V-32054-H-3-21,21,Csácsbozsok - Tesco - Kovács Károly tér/Széchenyi tér - Mártírok útja - Kertváros,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-22,22,Vasútállomás - Kertváros - Landorhegy - Széchenyi tér - Csácsbozsok,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-22A,22A,Olai bisztró - Széchenyi tér - Csácsbozsok,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-23E,23E,Flex B - Vasútállomás - Kertváros,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-24,24,Botfa-(ADA)-Flex B - Vasútállomás - Kertváros - Landorhegy - Andráshida,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-24E,24E,ADA - Flex B - Vasútállomás - Landorhegy - Ola,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-25,25,Olai bisztró - Kertváros (- Autóbusz-állomás) - Kovács Károly tér - Ipari park,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-27,27,Autóbusz-állomás - Tungsram,3,,152B32,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-28,28,Vasútállomás - Kertváros - Csertán Sándor utca - Széchenyi tér - Vasútállomás,3,,152B32,FFFFFF,local
@@ -699,6 +697,7 @@ hkir_V-33534,hkir_V-33534-H-3-3C,3C,Nagybátony Ózdi út 10 - Kisterenye Jászi
 hkir_V,hkir_V-N-200-1022,1022,Budapest - Salgótarján - Lucenec,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1022,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-223,223,Esztergom - Stúrovo,200,https://www.mavcsoport.hu/mav-szemelyszallitas/nemzetkozi-utazas/nemzetkozi-autobusz-menetrendek,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-228,228,Komárom - Komárno,200,https://www.mavcsoport.hu/mav-szemelyszallitas/nemzetkozi-utazas/nemzetkozi-autobusz-menetrendek,F6AC00,152B32,international
+hkir_V,hkir_V-N-200-IK66,IK66,Nosztalgia járat,200,,F6AC00,152B32,international
 hkir_V,hkir_V-O-200-1010,1010,Budapest - Balassagyarmat - Szécsény - Salgótarján,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1010,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1011,1011,Budapest - Balassagyarmat - Szécsény - Litke,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1011,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1012,1012,Budapest - Nógrádmegyer - Salgótarján,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1012,F6AC00,152B32,national
@@ -3509,5 +3508,3 @@ hkir_V,hkir_V-R-200-G506,G506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://ww
 hkir_V,hkir_V-R-200-S506,S506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4428,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-X506,X506,Debrecen-M35 autópálya-Konyár-Pocsaj-Nagykereki,200,,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-Z506,Z506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4428,F6AC00,152B32,regional
-hkir_V,hkir_V-S-200-H6,H6,H6 HÉV-pótlóbusz,200,,F6AC00,152B32,regional
-hkir_V,hkir_V-S-200-H6A,H6A,H6 HÉV-pótlóbusz,200,,F6AC00,152B32,regional
