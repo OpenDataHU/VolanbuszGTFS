@@ -329,7 +329,6 @@ hkir_V-20127,hkir_V-20127-H-3-7,7,"Autóbusz-állomás - Agostyán,forduló",3,,
 hkir_V-20127,hkir_V-20127-H-3-7A,7A,"Autóbuszállomás - Agostyán, forduló",3,,152B32,FFFFFF,local
 hkir_V-20127,hkir_V-20127-H-3-8,8,"Fellner Jakab úti forduló - Kossuth tér - Autóbusz-állomás - Ujhegy,buszford. - Autóbusz-állomás - Kossuth tér - F",3,,152B32,FFFFFF,local
 hkir_V-20127,hkir_V-20127-H-3-9,9,Fellner Jakab út - Vasútállomás - Újhegy,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-9A,9A,"Újhegy, buszforduló - Vasútállomás",3,,152B32,FFFFFF,local
 hkir_V-20127,hkir_V-20127-H-3-9M,9M,Újhegy - Vasútállomás - Mocsai út - Fellner Jakab út,3,,152B32,FFFFFF,local
 hkir_V-20491,hkir_V-20491-H-3-11,11,Lajosváros - Felnémet,3,,152B32,FFFFFF,local
 hkir_V-20491,hkir_V-20491-H-3-112,112,IPARI PARK - MÁTYÁS KIR. U. - TESCO,3,,152B32,FFFFFF,local
@@ -1663,7 +1662,6 @@ hkir_V,hkir_V-R-200-4461,4461,"Debrecen - Hajdúböszörmény,Bodaszőlő",200,h
 hkir_V,hkir_V-R-200-4463,4463,Debrecen - Hajdúböszörmény - Polgár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4463,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4464,4464,Debrecen - Bodaszőlő - Hajdúböszörmény,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4464,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4466,4466,Debrecen - Hajdúdorog - Hajdúnánás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4466,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4467,4467,Rakamaz - Tiszalök - Tiszavasvári - Hajdúnánás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4467,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4469,4469,"Vámospércs - Nyíracsád,Buzita/Asszonyrész - Nyíradony",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4469,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-447,447,Gödöllő - Isaszeg - Dány - Kóka,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2140,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4471,4471,Álmosd - Bagamér - Vámospércs - Újléta,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4471,F6AC00,152B32,regional
