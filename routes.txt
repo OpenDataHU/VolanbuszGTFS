@@ -52,6 +52,7 @@ hkir_V-05175,hkir_V-05175-H-3-2,2,Autóbusz-állomás - Hőforrás u. - Vasútá
 hkir_V-05175,hkir_V-05175-H-3-2A,2A,Autóbusz-állomás - Rácz Farkas u. - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-05175,hkir_V-05175-H-3-3,3,Autóbusz-állomás - Köztemető,3,,152B32,FFFFFF,local
 hkir_V-05236,hkir_V-05236-H-3-1,1,TESCO - Kispiac - Strand - Aranysas u. - Kossuth u. 12. - Bugát Pál kórház - Seregély út 48,3,,152B32,FFFFFF,local
+hkir_V-05236,hkir_V-05236-H-3-1A,1A,TESCO - Kispiac - Aranysas u. - Aut.áll - Vasútállomás - Seregély u. 48,3,,152B32,FFFFFF,local
 hkir_V-05449,hkir_V-05449-H-3-2,2,Autóbusz-állomás - Rendőrség - Vasútállomás - Koppánymonostor forduló,3,,152B32,FFFFFF,local
 hkir_V-05449,hkir_V-05449-H-3-23,23,"Koppánymonostor,tábor - Laktanya köz - Autóbusz-állomás - Termálfürdő - Kórház - MOL Városrész",3,,152B32,FFFFFF,local
 hkir_V-05449,hkir_V-05449-H-3-23K,23K,K.monostor - Kórház,3,,152B32,FFFFFF,local
@@ -695,6 +696,7 @@ hkir_V-33534,hkir_V-33534-H-3-3C,3C,Nagybátony Ózdi út 10 - Kisterenye Jászi
 hkir_V,hkir_V-N-200-1022,1022,Budapest - Salgótarján - Lucenec,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1022,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-223,223,Esztergom - Stúrovo,200,https://www.mavcsoport.hu/mav-szemelyszallitas/nemzetkozi-utazas/nemzetkozi-autobusz-menetrendek,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-228,228,Komárom - Komárno,200,https://www.mavcsoport.hu/mav-szemelyszallitas/nemzetkozi-utazas/nemzetkozi-autobusz-menetrendek,F6AC00,152B32,international
+hkir_V,hkir_V-N-200-IK66,IK66,Nosztalgia járat,200,,F6AC00,152B32,international
 hkir_V,hkir_V-O-200-1010,1010,Budapest - Balassagyarmat - Szécsény - Salgótarján,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1010,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1011,1011,Budapest - Balassagyarmat - Szécsény - Litke,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1011,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1012,1012,Budapest - Nógrádmegyer - Salgótarján,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1012,F6AC00,152B32,national
