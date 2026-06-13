@@ -85,6 +85,7 @@ hkir_V-08518,hkir_V-08518-H-3-10B,10B,"Jereván lakótelep - Ady Endre út  Bán
 hkir_V-08518,hkir_V-08518-H-3-10Y,10Y,Jereván lakótelep - Sopronbánfalva,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-11,11,Jereván lakótelep - Faraktár utca - Csengery utca - (Kórház -) Thököly tér,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-11A,11A,Thököly tér - Csengery utca - Faraktár utca - Jereván lakótelep,3,,152B32,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-11B,11B,Jereván lakótelep - Faraktár utca - Csengery utca - Keleti rendező - (Kórház -) Thököly tér,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-11Y,11Y,Jereván ltp. - Keleti rendező - Thököly tér,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-12,12,"Jereván lakótelep - József Attila lakótelep - Kőszegi út, Sarudi utca",3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-12B,12B,Jereván lakótelep - Sopron Plaza - Kőszegi út,3,,152B32,FFFFFF,local
