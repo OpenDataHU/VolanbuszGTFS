@@ -2233,7 +2233,6 @@ hkir_V,hkir_V-R-200-551,551,Kecskemét - Nagykőrös - Cegléd,200,https://www.m
 hkir_V,hkir_V-R-200-5510,5510,Dombóvár - Kurd - Gyulaj,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5510,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5515,5515,Dombóvár - Csikóstőttős,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5515,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5516,5516,Dombóvár - Sásd - Bakóca,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5516,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5517,5517,Dombóvár-Orfű,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5517,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-552,552,Kecskemét - Nagykőrös - Cegléd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2450,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5522,5522,Dombóvár - Szentivánpuszta/Mosdós,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5522,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5524,5524,Dombóvár - Alsóhetény - Szakcs - Várong,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5524,F6AC00,152B32,regional
