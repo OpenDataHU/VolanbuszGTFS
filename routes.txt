@@ -1700,7 +1700,7 @@ hkir_V,hkir_V-R-200-455,455,Gödöllő - Veresegyház - Vácrátót - Vác,200,h
 hkir_V,hkir_V-R-200-4556,4556,Berettyóújfalu-Biharkeresztes-Bojt,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4556,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4557,4557,Berettyóújfalu-Biharkeresztes-Ártánd-Nagykereki (Nagyzomlin),200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4557,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4558,4558,Berettyóújfalu-Biharkeresztes-Ártánd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4558,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4559,4559,Debrecen- Berettyóújfalu-Biharkeresztes-Told,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4559,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-4559,4559,Debrecen-Berettyóújfalu-Biharkeresztes-Told,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4559,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4561,4561,Berettyóújfalu-Mezőpeterd-Biharkeresztes-Körösszegapáti-Komádi-Újiráz,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4561,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4562,4562,"Komádi,vh.-Komádi,Dobai puszta",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4562,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4564,4564,Berettyóújfalu - Magyarhomorog - Biharugra,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4564,F6AC00,152B32,regional
