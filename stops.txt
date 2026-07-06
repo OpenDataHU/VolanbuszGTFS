@@ -40194,7 +40194,6 @@ hkir_550162_1,"Sopron, Bécsi út",47.690948,16.590395,,hkir_550162,
 hkir_550162_2,"Sopron, Bécsi út",47.691025,16.590225,,hkir_550162,
 hkir_550163,"Sopron, Béke út",47.678993,16.583389,1,,
 hkir_550163_1,"Sopron, Béke út",47.678905,16.583475,,hkir_550163,
-hkir_550163_2,"Sopron, Béke út",47.679073,16.583309,,hkir_550163,
 hkir_550165,"Sopron, Boldogasszonyi utca",47.693844,16.607590,1,,
 hkir_550165_1,"Sopron, Boldogasszonyi utca",47.693990,16.607978,,hkir_550165,
 hkir_550166,"Sopron, Brennbergi út, erdei iskola",47.678803,16.528269,1,,
@@ -40302,7 +40301,6 @@ hkir_550211_2,"Sopron, Jereván lakótelep végállomás",47.693478,16.573271,,h
 hkir_550211_3,"Sopron, Jereván lakótelep végállomás",47.693336,16.573215,,hkir_550211,3
 hkir_550211_4,"Sopron, Jereván lakótelep végállomás",47.692116,16.573074,,hkir_550211,4
 hkir_550211_97,"Sopron, Jereván lakótelep végállomás",47.693382,16.572983,,hkir_550211,97
-hkir_550211_98,"Sopron, Jereván lakótelep végállomás",47.693577,16.573654,,hkir_550211,98
 hkir_550211_99,"Sopron, Jereván lakótelep végállomás",47.693226,16.573177,,hkir_550211,
 hkir_550212,"Sopron, József Attila-lakótelep",47.674976,16.585609,1,,
 hkir_550212_1,"Sopron, József Attila-lakótelep",47.674927,16.585909,,hkir_550212,
@@ -40341,7 +40339,6 @@ hkir_550228,"Sopron, Lackner Kristóf utca, autóbusz-állomás",47.688988,16.58
 hkir_550228_1,"Sopron, Lackner Kristóf utca, autóbusz-állomás",47.688488,16.586876,,hkir_550228,
 hkir_550228_2,"Sopron, Lackner Kristóf utca, autóbusz-állomás",47.689480,16.585070,,hkir_550228,
 hkir_550228_3,"Sopron, Lackner Kristóf utca, autóbusz-állomás",47.688484,16.586634,,hkir_550228,
-hkir_550228_99,"Sopron, Lackner Kristóf utca, autóbusz-állomás",47.688984,16.585973,,hkir_550228,
 hkir_550231,"Sopron, Laktanya utca",47.683170,16.559452,1,,
 hkir_550231_1,"Sopron, Laktanya utca",47.683189,16.559727,,hkir_550231,
 hkir_550231_2,"Sopron, Laktanya utca",47.683144,16.559183,,hkir_550231,
@@ -40773,8 +40770,6 @@ hkir_550445,"Mosonmagyaróvár, Termálfürdő",47.875300,17.276400,1,,
 hkir_550445_1,"Mosonmagyaróvár, Termálfürdő",47.875300,17.276400,,hkir_550445,
 hkir_550482,"Sopron, Csőszház dűlő",47.702956,16.587254,1,,
 hkir_550482_1,"Sopron, Csőszház dűlő",47.702956,16.587254,,hkir_550482,
-hkir_550483,"Sopron, Lőver kemping",47.663902,16.589473,1,,
-hkir_550483_1,"Sopron, Lőver kemping",47.663866,16.589618,,hkir_550483,
 hkir_550489,"Mosonmagyaróvár, Mária Terézia utca",47.891250,17.300200,1,,
 hkir_550489_1,"Mosonmagyaróvár, Mária Terézia utca",47.891250,17.300200,,hkir_550489,
 hkir_550490,"Nagybajcs, Szabadi úti autóbusz-forduló",47.766575,17.681838,1,,
