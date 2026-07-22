@@ -3055,6 +3055,7 @@ hkir_V,hkir_V-R-200-731,731,"Budapest - Bp., Sasadi út - M7 - Érd, Riminyáki 
 hkir_V,hkir_V-R-200-7311,7311,Veszprém - Hajmáskér - Várpalota,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7311,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7313,7313,Veszprém - Hajmáskér - Székesfehérvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7313,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7314,7314,Veszprém-Öskü-Várpalota/Pétfürdő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7314,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-7315,7315,Veszprém - Várpalota - Székesfehérvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7315,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7316,7316,Veszprém - Sóly - Berhida - Balatonfőkajár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7316,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7317,7317,Veszprém - Berhida - Várpalota,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7317,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7318,7318,Veszprém-Papkeszi-Fűzfőgyártelep-Balatonalmádi,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7318,F6AC00,152B32,regional
