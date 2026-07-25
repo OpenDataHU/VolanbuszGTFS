@@ -14150,7 +14150,7 @@ hkir_221056_1,"Balkány, szabadságtelepi elágazás",47.715159,21.820430,,hkir_
 hkir_221056_2,"Balkány, szabadságtelepi elágazás",47.715290,21.820646,,hkir_221056,
 hkir_221057,"Balkány, Szakolyi utca 58.",47.769390,21.871663,1,,
 hkir_221057_1,"Balkány, Szakolyi utca 58.",47.769362,21.871811,,hkir_221057,
-hkir_221057_2,"Balkány, Szakolyi utca 58.",47.769425,21.871517,,hkir_221057,
+hkir_221057_2,"Balkány, Szakolyi utca 58.",47.769324,21.872401,,hkir_221057,
 hkir_221058,"Balkány, téglási útelágazás",47.771403,21.856207,1,,
 hkir_221058_1,"Balkány, téglási útelágazás",47.771861,21.856022,,hkir_221058,
 hkir_221058_2,"Balkány, téglási útelágazás",47.771885,21.856086,,hkir_221058,
@@ -18202,8 +18202,8 @@ hkir_222449,"Nagycserkesz, Dorogi út (34,8 kilométerkő)",47.956963,21.502206,
 hkir_222449_1,"Nagycserkesz, Dorogi út (34,8 kilométerkő)",47.956940,21.502332,,hkir_222449,
 hkir_222449_2,"Nagycserkesz, Dorogi út (34,8 kilométerkő)",47.956994,21.502080,,hkir_222449,
 hkir_222450,"Tiszavasvári, Árpád utca",47.965022,21.361182,1,,
-hkir_222450_1,"Tiszavasvári, Árpád utca",47.965149,21.361252,,hkir_222450,
-hkir_222450_2,"Tiszavasvári, Árpád utca",47.964903,21.361111,,hkir_222450,
+hkir_222450_1,"Tiszavasvári, Árpád utca",47.964788,21.360962,,hkir_222450,
+hkir_222450_2,"Tiszavasvári, Árpád utca",47.965154,21.361365,,hkir_222450,
 hkir_222451,"Tiszavasvári, Dankótanya",47.928748,21.266616,1,,
 hkir_222451_1,"Tiszavasvári, Dankótanya",47.928745,21.266268,,hkir_222451,
 hkir_222451_2,"Tiszavasvári, Dankótanya",47.928758,21.266963,,hkir_222451,
@@ -29199,6 +29199,8 @@ hkir_335149_2,"Tápé, Csatár utca (ideiglenes)",46.264020,20.207701,,hkir_3351
 hkir_335151,Tigér utca (ideiglenes),46.265986,20.204190,1,,
 hkir_335151_1,Tigér utca (ideiglenes),46.265960,20.204291,,hkir_335151,
 hkir_335151_2,Tigér utca (ideiglenes),46.266033,20.204068,,hkir_335151,
+hkir_335154,Tündér utca,46.263177,20.150932,1,,
+hkir_335154_1,Tündér utca,46.263177,20.150932,,hkir_335154,
 hkir_437001,"Abaliget, Barlang",46.137827,18.115243,1,,
 hkir_437001_1,"Abaliget, Barlang",46.137820,18.115243,,hkir_437001,
 hkir_437002,"Abaliget, Barlang bejárati út",46.139420,18.118271,1,,
@@ -32339,6 +32341,7 @@ hkir_441075,"Balatonlelle, vasúti megállóhely",46.787729,17.695901,1,,
 hkir_441075_1,"Balatonlelle, vasúti megállóhely",46.787543,17.695321,,hkir_441075,1
 hkir_441075_2,"Balatonlelle, vasúti megállóhely",46.787738,17.695836,,hkir_441075,2
 hkir_441075_3,"Balatonlelle, vasúti megállóhely",46.787855,17.696373,,hkir_441075,3
+hkir_441075_99,"Balatonlelle, vasúti megállóhely",46.787781,17.696075,,hkir_441075,
 hkir_441076,"Balatonlelle, Vágóhíd utca",46.785053,17.688229,1,,
 hkir_441076_1,"Balatonlelle, Vágóhíd utca",46.785135,17.688380,,hkir_441076,
 hkir_441076_2,"Balatonlelle, Vágóhíd utca",46.784971,17.688075,,hkir_441076,
@@ -32920,6 +32923,7 @@ hkir_441307,"Fonyód, vasútállomás",46.749789,17.557922,1,,
 hkir_441307_1,"Fonyód, vasútállomás",46.749789,17.557922,,hkir_441307,1
 hkir_441307_2,"Fonyód, vasútállomás",46.749789,17.557922,,hkir_441307,2
 hkir_441307_3,"Fonyód, vasútállomás",46.749789,17.557922,,hkir_441307,3
+hkir_441307_99,"Fonyód, vasútállomás",46.749790,17.557922,,hkir_441307,
 hkir_441308,"Fonyód (Alsóbélatelep), vasúti megállóhely",46.724113,17.516689,1,,
 hkir_441308_1,"Fonyód (Alsóbélatelep), vasúti megállóhely",46.723899,17.516028,,hkir_441308,
 hkir_441308_2,"Fonyód (Alsóbélatelep), vasúti megállóhely",46.724330,17.517349,,hkir_441308,
@@ -39026,7 +39030,7 @@ hkir_549707_1,"Hegyeshalom, Csemeztanya",47.889148,17.137145,,hkir_549707,
 hkir_549709,"Hegyeshalom, József Attila tér",47.913212,17.161291,1,,
 hkir_549709_1,"Hegyeshalom, József Attila tér",47.913346,17.160926,,hkir_549709,
 hkir_549709_2,"Hegyeshalom, József Attila tér",47.913076,17.161657,,hkir_549709,
-hkir_549710,"Hegyeshalom, Május 1. utca",47.909027,17.147087,1,,
+hkir_549710,"Hegyeshalom, Május 1. utca",47.907715,17.144836,1,,
 hkir_549710_1,"Hegyeshalom, Május 1. utca",47.907822,17.144977,,hkir_549710,
 hkir_549710_2,"Hegyeshalom, Május 1. utca",47.907607,17.144695,,hkir_549710,
 hkir_549711,"Hegyeshalom, Márialiget",47.955448,17.161459,1,,
@@ -39194,7 +39198,7 @@ hkir_549775,"Kapuvár, piac",47.595009,17.026224,1,,
 hkir_549775_1,"Kapuvár, piac",47.595032,17.026288,,hkir_549775,
 hkir_549775_2,"Kapuvár, piac",47.594985,17.026161,,hkir_549775,
 hkir_549776,"Kapuvár, Széchenyi iskola",47.593529,17.035786,1,,
-hkir_549776_1,"Kapuvár, Széchenyi iskola",47.593527,17.035786,,hkir_549776,
+hkir_549776_1,"Kapuvár, Széchenyi iskola",47.593694,17.037358,,hkir_549776,
 hkir_549778,"Kapuvár, Szent István király utca",47.590946,17.017424,1,,
 hkir_549778_1,"Kapuvár, Szent István király utca",47.591176,17.018506,,hkir_549778,
 hkir_549778_2,"Kapuvár, Szent István király utca",47.590714,17.016340,,hkir_549778,
@@ -40692,8 +40696,8 @@ hkir_550396,"Vámosszabadi, felső",47.758442,17.646320,1,,
 hkir_550396_1,"Vámosszabadi, felső",47.758229,17.646708,,hkir_550396,
 hkir_550396_2,"Vámosszabadi, felső",47.758655,17.645932,,hkir_550396,
 hkir_550397,"Vámosszabadi, hétvégi telkek",47.739636,17.644526,1,,
-hkir_550397_1,"Vámosszabadi, hétvégi telkek",47.739335,17.644330,,hkir_550397,
-hkir_550397_2,"Vámosszabadi, hétvégi telkek",47.739935,17.644721,,hkir_550397,
+hkir_550397_1,"Vámosszabadi, hétvégi telkek",47.739381,17.644794,,hkir_550397,
+hkir_550397_2,"Vámosszabadi, hétvégi telkek",47.739839,17.644848,,hkir_550397,
 hkir_550399,"Vámosszabadi, Rét út",47.763741,17.651470,1,,
 hkir_550399_1,"Vámosszabadi, Rét út",47.763555,17.651192,,hkir_550399,
 hkir_550399_2,"Vámosszabadi, Rét út",47.763926,17.651747,,hkir_550399,
@@ -55267,6 +55271,8 @@ hkir_773195_30,"Budapest, Keleti pályaudvar",47.499431,19.084012,,hkir_773195,
 hkir_773212,"Budapest, Kosztolányi Dezső tér",47.475390,19.040550,1,,
 hkir_773212_3,"Budapest, Kosztolányi Dezső tér",47.474990,19.039382,,hkir_773212,
 hkir_773212_4,"Budapest, Kosztolányi Dezső tér",47.475179,19.040191,,hkir_773212,
+hkir_773229,"Budapest, Lépcsős utca",47.408217,19.016169,1,,
+hkir_773229_1,"Budapest, Lépcsős utca",47.408165,19.015955,,hkir_773229,
 hkir_773272,"Budapest, Népfürdő utca / Árpád híd",47.536152,19.059588,1,,
 hkir_773272_1,"Budapest, Népfürdő utca / Árpád híd",47.535922,19.059657,,hkir_773272,
 hkir_773277,"Budapest, Nyugati pályaudvar",47.511204,19.056608,1,,
@@ -55453,6 +55459,7 @@ hkir_773521_17,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,
 hkir_773521_18,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,18
 hkir_773521_19,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,19
 hkir_773521_2,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,2
+hkir_773521_26,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,26
 hkir_773521_27,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,27
 hkir_773521_28,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,28
 hkir_773521_29,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,29
@@ -55499,6 +55506,7 @@ hkir_773537_2,"Budapest, Kelenföld vá. (Őrmező)",47.464830,19.018207,,hkir_7
 hkir_773538,"Budapest, Kelenföld vasútállomás",47.463810,19.022750,1,,
 hkir_773538_0,"Budapest, Kelenföld vasútállomás",47.463571,19.023212,,hkir_773538,
 hkir_773538_1,"Budapest, Kelenföld vasútállomás",47.463769,19.023112,,hkir_773538,1
+hkir_773538_2,"Budapest, Kelenföld vasútállomás",47.463571,19.023212,,hkir_773538,2
 hkir_773538_3,"Budapest, Kelenföld vasútállomás",47.463571,19.023212,,hkir_773538,3
 hkir_773538_4,"Budapest, Kelenföld vasútállomás",47.463571,19.023212,,hkir_773538,4
 hkir_773538_5,"Budapest, Kelenföld vasútállomás",47.463571,19.023212,,hkir_773538,5
@@ -57369,6 +57377,7 @@ hkir_777656_6,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,6
 hkir_777656_7,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,7
 hkir_777656_8,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,8
 hkir_777656_9,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,9
+hkir_777656_99,"Érd, autóbusz-állomás",47.379730,18.925320,,hkir_777656,
 hkir_777660,"Érd, Bagoly utca",47.379030,18.893300,1,,
 hkir_777660_1,"Érd, Bagoly utca",47.379080,18.893315,,hkir_777660,
 hkir_777660_2,"Érd, Bagoly utca",47.378981,18.893278,,hkir_777660,
