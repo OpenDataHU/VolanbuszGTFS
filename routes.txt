@@ -1712,10 +1712,6 @@ hkir_V,hkir_V-R-200-4574,4574,"Hajdúnánás-Hajdúböszörméy-Debrecen, BMW Gy
 hkir_V,hkir_V-R-200-458,458,Aszód - Domony - Bag - Aszód,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2176,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-459,459,Aszód - Domony - Iklad,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2177,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4593,4593,Debrecen - Földes - Nagyrábé,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4593,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4594,4594,Debrecen-Hajdúböszörmény-Hajdúdorog-Hajdúnánás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4594,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4595,4595,Debrecen-Sámsonkert-Hajdúsámson-Nyíradony,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4595,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4596,4596,Debrecen-Bocskaikert-Hajdúhadház-Téglás-Újfehértó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4596,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4597,4597,Debrecen-Vámospércs-Nyírmártonfalva-Nyíracsád-Nyírábrány,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4597,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4598,4598,Debrecen-Katihíd-Hosszúpályi-Monostropályi-Létavértes,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4598,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4599,4599,Debrecen-Mikepércs-Sáránd-Derecske-Berettyóújfalu,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4599,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-460,460,Aszód - Acsa - Balassagyarmat,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2178,F6AC00,152B32,regional
@@ -2367,7 +2363,6 @@ hkir_V,hkir_V-R-200-5722,5722,Komló - Mecsekpölöske/Komló(Sikonda) - Bodolya
 hkir_V,hkir_V-R-200-5726,5726,Komló - M.pölöske - M.hertelend - Bakóca,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5726,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5727,5727,Komló - Mecsekpölöske - Sásd - Szágy,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5727,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5728,5728,Komló - Mecsekpölöske - Sásd - Gödre,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5728,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5729,5729,Komló - Mecsekpölöske - Sásd - Dombóvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5729,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5730,5730,"Godisa, vá.-Bakóca",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5730,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5731,5731,Sásd - Hetvehely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5731,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5736,5736,"Komló - Mecsekpölöske/Komló(Sikonda) - Magyarhertelend - Godisa, Vá. - Bakóca",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5736,F6AC00,152B32,regional
