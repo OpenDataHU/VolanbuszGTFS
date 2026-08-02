@@ -86,6 +86,7 @@ hkir_V-08518,hkir_V-08518-H-3-10Y,10Y,Jereván lakótelep - Sopronbánfalva,3,,1
 hkir_V-08518,hkir_V-08518-H-3-11,11,Jereván lakótelep - Faraktár utca - Csengery utca - (Kórház -) Thököly tér,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-11A,11A,Thököly tér - Csengery utca - Faraktár utca - Jereván lakótelep,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-11B,11B,Jereván lakótelep - Faraktár utca - Csengery utca - Keleti rendező - (Kórház -) Thököly tér,3,,152B32,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-11Y,11Y,Jereván ltp. - Keleti rendező - Thököly tér,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-12,12,"Jereván lakótelep - József Attila lakótelep - Kőszegi út, Sarudi utca",3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-12B,12B,Jereván lakótelep - Sopron Plaza - Kőszegi út,3,,152B32,FFFFFF,local
 hkir_V-08518,hkir_V-08518-H-3-13,13,Jereván lakótelep - Híd utca - Sopronkőhida,3,,152B32,FFFFFF,local
@@ -650,6 +651,7 @@ hkir_V-32559,hkir_V-32559-H-3-45,45,Autóbusz-állomás - Királytelep - Hegy u.
 hkir_V-32559,hkir_V-32559-H-3-4A,4A,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-32559,hkir_V-32559-H-3-5,5,Autóbusz-állomás - Mátyás király u. - Hegy u.,3,,152B32,FFFFFF,local
 hkir_V-32559,hkir_V-32559-H-3-9,9,Autóbusz-állomás - Vasútállomás - Gödöllői Gépgyár,3,,152B32,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-12,12,Temetői járat,3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-20,20,"Petőfitelep, Fő tér - Szeged vasútállomás - Alsóváros, Vadkerti tér",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-21,21,Új-Petőfitelep - Mars tér - Szeged vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-24,24,"Petőfitelep, Fő tér - Klebersberg telep",3,,152B32,FFFFFF,local
@@ -2238,7 +2240,6 @@ hkir_V,hkir_V-R-200-5516,5516,Dombóvár - Sásd - Bakóca,200,https://www.mavcs
 hkir_V,hkir_V-R-200-552,552,Kecskemét - Nagykőrös - Cegléd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2450,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5521,5521,Dombóvár-Nak-Várong-Szakcs-Kocsola-Dombóvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5521,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5522,5522,Dombóvár - Szentivánpuszta/Mosdós,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5522,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5524,5524,Dombóvár - Alsóhetény - Szakcs - Várong,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5524,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5529,5529,Szekszárd - Tolna - Fadd - Gerjen - Kalocsa - Harta - Kecskemét,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5529,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-553,553,Kecskemét - Cegléd / Törtel - Szolnok,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2435,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-555,555,Cegléd - Kecskemét - Kiskőrös - Kalocsa - Szekszárd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2462,F6AC00,152B32,regional
@@ -2823,7 +2824,7 @@ hkir_V,hkir_V-R-200-684,684,"Szigetszentmiklós, Városháza - Csépi út - Szig
 hkir_V,hkir_V-R-200-6840,6840,Duka - Jánosháza - Nemeskeresztúr,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6840,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6851,6851,Vasvár - Rábahídvég - Püspökmolnári,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6851,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6854,6854,Vasvár - Kám - Egervölgy - Bejcgyertyános,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6854,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-686,686,"687  Budapest, Kelenföld - Halásztelek - Szigethalom",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2619,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-686,686,"685, 686  Budapest, Kelenföld - Halásztelek - Szigethalom",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2619,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6860,6860,Vasvár - Oszkó - Olaszfa - Pácsony - Győrvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6860,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6861,6861,Vasvár - Oszkó - Csehi - Nagytilaj - Csipkerek,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6861,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6871,6871,Vasvár - Győrvár - Telekes - Gersekarát - Sárfimizdó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6871,F6AC00,152B32,regional
