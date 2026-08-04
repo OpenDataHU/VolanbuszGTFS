@@ -32350,7 +32350,6 @@ hkir_441075,"Balatonlelle, vasúti megállóhely",46.787729,17.695901,1,,
 hkir_441075_1,"Balatonlelle, vasúti megállóhely",46.787543,17.695321,,hkir_441075,1
 hkir_441075_2,"Balatonlelle, vasúti megállóhely",46.787738,17.695836,,hkir_441075,2
 hkir_441075_3,"Balatonlelle, vasúti megállóhely",46.787855,17.696373,,hkir_441075,3
-hkir_441075_99,"Balatonlelle, vasúti megállóhely",46.787781,17.696075,,hkir_441075,
 hkir_441076,"Balatonlelle, Vágóhíd utca",46.785053,17.688229,1,,
 hkir_441076_1,"Balatonlelle, Vágóhíd utca",46.785135,17.688380,,hkir_441076,
 hkir_441076_2,"Balatonlelle, Vágóhíd utca",46.784971,17.688075,,hkir_441076,
@@ -32932,7 +32931,6 @@ hkir_441307,"Fonyód, vasútállomás",46.749789,17.557922,1,,
 hkir_441307_1,"Fonyód, vasútállomás",46.749789,17.557922,,hkir_441307,1
 hkir_441307_2,"Fonyód, vasútállomás",46.749789,17.557922,,hkir_441307,2
 hkir_441307_3,"Fonyód, vasútállomás",46.749789,17.557922,,hkir_441307,3
-hkir_441307_99,"Fonyód, vasútállomás",46.749790,17.557922,,hkir_441307,
 hkir_441308,"Fonyód (Alsóbélatelep), vasúti megállóhely",46.724113,17.516689,1,,
 hkir_441308_1,"Fonyód (Alsóbélatelep), vasúti megállóhely",46.723899,17.516028,,hkir_441308,
 hkir_441308_2,"Fonyód (Alsóbélatelep), vasúti megállóhely",46.724330,17.517349,,hkir_441308,
