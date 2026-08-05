@@ -768,7 +768,6 @@ hkir_V,hkir_V-O-200-1205,1205,Budapest - Székesfehérvár,200,https://www.mavcs
 hkir_V,hkir_V-O-200-1212,1212,Budapest - Veszprém - Tapolca - Keszthely - Hévíz,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1212,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1215,1215,Budapest - Székesfehérvár - Várpalota - Veszprém - Tapolca,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1215,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1216,1216,Budapest - Veszprém - Tapolca - Sümeg - Zalaszentgrót,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1216,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1217,1217,Budapest - Kapolcs,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1217,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1228,1228,Budapest - Veszprém - Pápa - Sárvár - Bükfürdő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1228,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1229,1229,Budapest - Veszprém - Farkasgyepű - Pápa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1229,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1251,1251,Budapest - Bakonycsernye - Zirc - Bakonybél - Pápa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1251,F6AC00,152B32,national
