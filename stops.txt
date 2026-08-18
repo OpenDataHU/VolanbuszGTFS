@@ -4906,7 +4906,7 @@ hkir_109078_2,"Bátonyterenye (Nagybátony), Bányaváros",47.987481,19.828431,,
 hkir_109079,"Bátonyterenye (Nagybátony), Falu",47.970333,19.835904,1,,
 hkir_109079_1,"Bátonyterenye (Nagybátony), Falu",47.970333,19.835905,,hkir_109079,
 hkir_109080,"Bátonyterenye, Volánbusz telephely",47.985910,19.816664,1,,
-hkir_109080_1,"Bátonyterenye, Volánbusz telephely",47.991839,19.818306,,hkir_109080,
+hkir_109080_1,"Bátonyterenye, Volánbusz telephely",47.979127,19.815296,,hkir_109080,
 hkir_109080_2,"Bátonyterenye, Volánbusz telephely",47.979056,19.815396,,hkir_109080,
 hkir_109082,"Bátonyterenye (Kisterenye), posta",48.007163,19.834587,1,,
 hkir_109082_1,"Bátonyterenye (Kisterenye), posta",48.007145,19.834649,,hkir_109082,
@@ -57872,6 +57872,7 @@ hkir_777858_6,"Gödöllő, autóbusz-állomás",47.598881,19.352213,,hkir_777858
 hkir_777858_7,"Gödöllő, autóbusz-állomás",47.598881,19.352213,,hkir_777858,7
 hkir_777858_8,"Gödöllő, autóbusz-állomás",47.598881,19.352213,,hkir_777858,8
 hkir_777858_9,"Gödöllő, autóbusz-állomás",47.598881,19.352213,,hkir_777858,9
+hkir_777858_99,"Gödöllő, autóbusz-állomás",47.598886,19.352261,,hkir_777858,
 hkir_777860,"Gödöllő, Bajcsy-Zsilinszky Endre utca 33.",47.604200,19.346740,1,,
 hkir_777860_1,"Gödöllő, Bajcsy-Zsilinszky Endre utca 33.",47.604198,19.346737,,hkir_777860,
 hkir_777861,"Gödöllő, Baromfitelep",47.567020,19.373020,1,,
