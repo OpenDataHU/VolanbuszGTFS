@@ -917,11 +917,11 @@ hkir_V,hkir_V-R-200-1845,1845,Tatabánya-Oroszlány-Mór-Székesfehérvár,200,h
 hkir_V,hkir_V-R-200-300,300,Budapest - Dunakeszi - Vác,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2005,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-301,301,Budapest - Dunakeszi - Göd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2007,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3015,3015,Salgótarján - Cered - Szilaspogony,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3015,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-302,302,Budapest - Dunakeszi - Vác,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2005,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-302,302,Budapest - Dunakeszi - Vác,200,,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3022,3022,Salgótarján-Cered-Istenmezeje-Pétervására,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3022,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3024,3024,Salgótarján - Bárna,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3024,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3026,3026,Bárna - Mátraszele - Kazár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3026,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-303,303,Budapest - Dunakeszi - Vác,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2005,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-303,303,Budapest - Dunakeszi - Vác,200,,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3030,3030,Salgótarján-Mátranovák-Mátraterenye-Mátraballa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3030,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3031,3031,Salgótarján - Mátranovák - Mátraterenye - Mátramindszent,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3031,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3044,3044,Salgótarján - Kazár - Mizserfa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3044,F6AC00,152B32,regional
@@ -2627,7 +2627,7 @@ hkir_V,hkir_V-R-200-6305,6305,Zalaszentgrót - Mihályfa/Sümegcsehi - Sümeg,20
 hkir_V,hkir_V-R-200-6306,6306,Zalaszentgrót - Zalacsány - Hévíz - Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6306,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6307,6307,Zalaszentgrót - Zalacsány - Szentgyörgyvár - Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6307,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6308,6308,Kehidakustány-Zalacsány-Zalaapáti-Sármellék-Hévíz-Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6308,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-6309,6309,Zalaszentgrót - Zalaszentlászló - Zalacsány - Zalaapáti - Pacsa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6309,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-6309,6309,Zalaszentgrót-Zalaszentlászló-Zalacsány-Zalaapáti-Pacsa ,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6309,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-631,631,Budapest - Alsónémedi - Bugyi,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2510,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6310,6310,Zalaszentgrót - Zalaszentlászló - Zalacsány - Zalaapáti - Hévíz - Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6310,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6315,6315,Zalaszentgrót - Zalaszentgrót(Zalakoppány),200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6315,F6AC00,152B32,regional
