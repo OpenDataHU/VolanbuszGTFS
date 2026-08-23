@@ -34324,7 +34324,6 @@ hkir_441872_6,"Siófok, autóbusz-állomás",46.908009,18.055929,,hkir_441872,6
 hkir_441872_7,"Siófok, autóbusz-állomás",46.907828,18.056089,,hkir_441872,7
 hkir_441872_8,"Siófok, autóbusz-állomás",46.907666,18.055926,,hkir_441872,8
 hkir_441872_9,"Siófok, autóbusz-állomás",46.907601,18.055801,,hkir_441872,9
-hkir_441872_99,"Siófok, autóbusz-állomás",46.907502,18.055201,,hkir_441872,
 hkir_441873,"Siófok, Badacsony utca",46.901058,18.022575,1,,
 hkir_441873_1,"Siófok, Badacsony utca",46.901113,18.022964,,hkir_441873,
 hkir_441873_2,"Siófok, Badacsony utca",46.901003,18.022186,,hkir_441873,
@@ -48042,7 +48041,6 @@ hkir_561702_6,"Nagykanizsa, autóbusz-állomás",46.456623,16.985563,,hkir_56170
 hkir_561702_7,"Nagykanizsa, autóbusz-állomás",46.456602,16.985480,,hkir_561702,7
 hkir_561702_8,"Nagykanizsa, autóbusz-állomás",46.456587,16.985392,,hkir_561702,8
 hkir_561702_9,"Nagykanizsa, autóbusz-állomás",46.456565,16.985303,,hkir_561702,9
-hkir_561702_99,"Nagykanizsa, autóbusz-állomás",46.456522,16.985581,,hkir_561702,
 hkir_561703,"Nagykanizsa, bagolai elágazás [2]",46.423973,17.043812,1,,
 hkir_561703_1,"Nagykanizsa, bagolai elágazás [2]",46.423680,17.043816,,hkir_561703,
 hkir_561703_2,"Nagykanizsa, bagolai elágazás [2]",46.424138,17.043842,,hkir_561703,
@@ -55503,7 +55501,6 @@ hkir_773537_2,"Budapest, Kelenföld vá. (Őrmező)",47.464830,19.018207,,hkir_7
 hkir_773538,"Budapest, Kelenföld vasútállomás",47.463810,19.022750,1,,
 hkir_773538_0,"Budapest, Kelenföld vasútállomás",47.463571,19.023212,,hkir_773538,
 hkir_773538_1,"Budapest, Kelenföld vasútállomás",47.463769,19.023112,,hkir_773538,1
-hkir_773538_2,"Budapest, Kelenföld vasútállomás",47.463571,19.023212,,hkir_773538,2
 hkir_773538_3,"Budapest, Kelenföld vasútállomás",47.463571,19.023212,,hkir_773538,3
 hkir_773538_4,"Budapest, Kelenföld vasútállomás",47.463571,19.023212,,hkir_773538,4
 hkir_773538_5,"Budapest, Kelenföld vasútállomás",47.463571,19.023212,,hkir_773538,5
