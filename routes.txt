@@ -1711,9 +1711,6 @@ hkir_V,hkir_V-R-200-4573,4573,"Sárrétudvari-Berettyóújfalu-Debrecen, BMW Gy�
 hkir_V,hkir_V-R-200-4574,4574,"Hajdúnánás-Hajdúböszörméy-Debrecen, BMW Gyár",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4574,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-458,458,Aszód - Domony - Bag - Aszód,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2176,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-459,459,Aszód - Domony - Iklad,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2177,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4593,4593,Debrecen - Földes - Nagyrábé,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4593,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4598,4598,Debrecen-Katihíd-Hosszúpályi-Monostropályi-Létavértes,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4598,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4599,4599,Debrecen-Mikepércs-Sáránd-Derecske-Berettyóújfalu,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4599,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-460,460,Aszód - Acsa - Balassagyarmat,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2178,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4600,4600,Szolnok - Zagyvarékas,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4600,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4601,4601,Szolnok - Jászalsószentgyörgy - Jászberény,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4601,F6AC00,152B32,regional
