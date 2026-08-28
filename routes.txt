@@ -685,7 +685,7 @@ hkir_V-33367,hkir_V-33367-H-3-7F,7F,"Mars tér - Kiskundorozsma, Sziksósfürdő
 hkir_V-33367,hkir_V-33367-H-3-84,84,"Újszeged, Gabonakutató - Makkosháza",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-90,90,"Újszeged, Gabonakutató - Szeged vasútállomás",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-90F,90F,"Petőfitelep, Fő tér - Vadaspark (Textilgyári út)",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-90H,90H,Lugas utca - Gumigyár - Szegedi Ipari Logisztikai Központ,3,,152B32,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-90H,90H,90H Lugas utca - Szegedi Ipari Logisztikai Központ - Rheinmetall - BYD,3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-91E,91E,"Széchenyi tér - Szőreg, Malom - Mars tér",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-92E,92E,"Széchenyi tér - Tarján, Víztorony tér - Petőfitelep, Fő tér - Új-Petőfitelep - Tarján, Víztorony",3,,152B32,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-93E,93E,"Széchenyi tér - Makkosházi krt. - Rókusi krt. - Kiskundorozsma, Czékus utca",3,,152B32,FFFFFF,local
@@ -1341,7 +1341,7 @@ hkir_V,hkir_V-R-200-3927,3927,Tornyosnémeti-Hidasnémeti-Gönc-Telkibánya-Pál
 hkir_V,hkir_V-R-200-3928,3928,Hernádszurdok-Hidasnémeti-Gönc-Telkibánya-Pálháza,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3928,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3929,3929,Sátoraljaújhely - Pálháza - Telkibánya - Hidasnémeti - Kéked,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3929,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-393,393,"Veresegyház, Misszió - Erdőkertes - Veresegyház, Misszió",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2158,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3930,3930,Sárospatak-Sátoraljaújhely-Pálháza-Nyíri-Hollóháza,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3930,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-3930,3930,Telkibánya - Pálháza - Sátoraljaújhely - Sárospatak,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3930,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-394,394,Csomád - Veresegyház - Őrbottyán - Galgamácsa - Püspökhatvan,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2166,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-395,395,"Veresegyház, Ligetek - Csonkás - Ivacsok - Veresegyház, Hegyek",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2154,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3952,3952,Tiszaújváros - Polgár - Hajdúnánás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3952,F6AC00,152B32,regional
