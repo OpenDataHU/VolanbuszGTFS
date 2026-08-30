@@ -68,7 +68,6 @@ hkir_V-06497,hkir_V-06497-H-3-1,1,"Autóbusz-állomás - Majos, alsó",3,,152B32
 hkir_V-06497,hkir_V-06497-H-3-2,2,Autóbusz-állomás - Hidas - Bonyhád vasútállomás,3,,152B32,FFFFFF,local
 hkir_V-06497,hkir_V-06497-H-3-3,3,Autóbusz-állomás - Szecska - Fáy Ltp. - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-06497,hkir_V-06497-H-3-4,4,Autóbusz-állomás - Fáy Ltp. - Szecska - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-06497,hkir_V-06497-H-3-5,5,5. Autóbusz-állomás - Fűtőmű - Gimnázium - Szent Imre u. - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-06497,hkir_V-06497-H-3-6,6,Autóbusz-állomás - Szecska lakótelep - Autóbusz-állomás,3,,152B32,FFFFFF,local
 hkir_V-06673,hkir_V-06673-H-3-1,1,Vasútállomás - Alsócsinger,3,,152B32,FFFFFF,local
 hkir_V-06673,hkir_V-06673-H-3-10,10,Móra Ferenc utca -Timföldgyár -Vasútállomás - Alsócsinger,3,,152B32,FFFFFF,local
