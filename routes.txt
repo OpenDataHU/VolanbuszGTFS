@@ -1401,7 +1401,6 @@ hkir_V,hkir_V-R-200-405,405,Gödöllő - Aszód - Bag - Tura - Hatvan,200,https:
 hkir_V,hkir_V-R-200-4050,4050,Kazincbarcika - Berente - Sajószentpéter - Kondó - Varbó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4050,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4051,4051,Kazincbarcika-Sajószentpéter-Alacska,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4051,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4052,4052,Berente - Kazincbarcika - Tardona,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4052,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4057,4057,Kazincbarcika - Putnok - Serényfalva,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4057,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4058,4058,Berente - Kazincbarcika - Mályinka,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4058,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4059,4059,Kazincbarcika - Dédestapolcsány - Nekézseny,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4059,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-406,406,Gödöllő - Aszód - Bag - Tura - Hatvan,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2125,F6AC00,152B32,regional
@@ -1416,7 +1415,6 @@ hkir_V,hkir_V-R-200-4069,4069,Kazincbarcika - Szuhakálló - Sajókaza - Kazincb
 hkir_V,hkir_V-R-200-407,407,Gödöllő - Aszód - Bag - Tura - Hatvan,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2125,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4070,4070,Kazincbarcika/Berente - Kurityán - Szuhafő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4070,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4075,4075,Kazincbarcika/Berente - Felsőnyárád - Aggtelek,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4075,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4078,4078,Kazincbarcika - Ragály - Imola - Aggtelek,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4078,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-408,408,Gödöllő - Aszód - Bag - Tura - Hatvan,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2125,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4080,4080,Kazincbarcika - Rudolftelep - Rudabánya - Kánó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4080,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4081,4081,Berente - Kazincbarcika - Rudabánya - Jósvafő - Aggtelek vá. - Aggtelek,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4081,F6AC00,152B32,regional
