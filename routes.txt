@@ -2134,7 +2134,7 @@ hkir_V,hkir_V-R-200-5382,5382,Dunaföldvár - Solt - Dunaegyháza - Újsolt,200,
 hkir_V,hkir_V-R-200-5386,5386,"Solt - Solt, Hartai útelág.",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5386,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5387,5387,Kecskemét-Mercedes 1. kapu-Szabadszállás-Kunszentmiklós,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5387,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-539,539,"Cegléd, aut. áll. - Posta - Cegléd, kórház",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2404,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5392,5392,Dunaújváros - Dunavecse - Szalkszentmárton - Kunszentmiklós,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5392,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-5392,5392,Kunszentmiklós-Szalkszentmárton-Dunavecse-Dunaújváros,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5392,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-540,540,"Cegléd - Törtel - Jászkarajenő - Tiszajenő - Vezseny, vá.",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2441,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5400,5400,Szekszárd - Tolna - Paks,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5400,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5403,5403,Szekszárd - Paks - Németkér - Cece,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5403,F6AC00,152B32,regional
@@ -2600,7 +2600,7 @@ hkir_V,hkir_V-R-200-6305,6305,Zalaszentgrót - Mihályfa/Sümegcsehi - Sümeg,20
 hkir_V,hkir_V-R-200-6306,6306,Zalaszentgrót - Zalacsány - Hévíz - Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6306,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6307,6307,Zalaszentgrót - Zalacsány - Szentgyörgyvár - Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6307,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6308,6308,Kehidakustány-Zalacsány-Zalaapáti-Sármellék-Hévíz-Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6308,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-6309,6309,Zalaszentgrót-Zalaszentlászló-Zalacsány-Zalaapáti-Pacsa ,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6309,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-6309,6309,Zalaszentgrót - Zalaszentlászló - Zalacsány - Zalaapáti - Pacsa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6309,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-631,631,Budapest - Alsónémedi - Bugyi,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2510,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6310,6310,Zalaszentgrót - Zalaszentlászló - Zalacsány - Zalaapáti - Hévíz - Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6310,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6315,6315,Zalaszentgrót - Zalaszentgrót(Zalakoppány),200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6315,F6AC00,152B32,regional
@@ -3483,3 +3483,5 @@ hkir_V,hkir_V-R-200-S506,S506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://ww
 hkir_V,hkir_V-R-200-X506,X506,Debrecen-M35 autópálya-Konyár-Pocsaj-Nagykereki,200,,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-Z506,Z506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4428,F6AC00,152B32,regional
 hkir_V,hkir_V-S-200-89-0,89,"Tiszaújváros, vasútállomás - Tiszaújváros, autóbusz-állomás - Tiszaújváros, vasútállomás",200,,F6AC00,152B32,regional
+hkir_V,hkir_V-S-200-H6,H6,H6 HÉV-pótlóbusz,200,,F6AC00,152B32,regional
+hkir_V,hkir_V-S-200-H6A,H6A,H6 HÉV-pótlóbusz,200,,F6AC00,152B32,regional
