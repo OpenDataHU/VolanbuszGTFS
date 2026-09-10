@@ -1325,7 +1325,7 @@ hkir_V,hkir_V-R-200-3927,3927,Tornyosnémeti-Hidasnémeti-Gönc-Telkibánya-Pál
 hkir_V,hkir_V-R-200-3928,3928,Hernádszurdok-Hidasnémeti-Gönc-Telkibánya-Pálháza,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3928,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3929,3929,Sátoraljaújhely - Pálháza - Telkibánya - Hidasnémeti - Kéked,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3929,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-393,393,"Veresegyház, Misszió - Erdőkertes - Veresegyház, Misszió",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2158,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3930,3930,Telkibánya - Pálháza - Sátoraljaújhely - Sárospatak,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3930,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-3930,3930,Sárospatak-Sátoraljaújhely-Pálháza-Nyíri-Hollóháza,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3930,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-394,394,Csomád - Veresegyház - Őrbottyán - Galgamácsa - Püspökhatvan,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2166,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-395,395,"Veresegyház, Ligetek - Csonkás - Ivacsok - Veresegyház, Hegyek",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2154,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3952,3952,Tiszaújváros - Polgár - Hajdúnánás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3952,F6AC00,152B32,regional
