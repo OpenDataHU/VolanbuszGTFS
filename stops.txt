@@ -12016,8 +12016,8 @@ hkir_214956_1,"Taktaharkány, temető",48.084193,21.128924,,hkir_214956,
 hkir_214957,"Bodrogolaszi, vasúti átjáró",48.283932,21.510544,1,,
 hkir_214957_1,"Bodrogolaszi, vasúti átjáró",48.283776,21.510289,,hkir_214957,
 hkir_214957_2,"Bodrogolaszi, vasúti átjáró",48.283994,21.510852,,hkir_214957,
-hkir_214964,"Tiszalúc, Gyöngyvirág u. 1",48.032888,21.064361,1,,
-hkir_214964_1,"Tiszalúc, Gyöngyvirág u. 1",48.032888,21.064361,,hkir_214964,
+hkir_214964,"Tiszalúc, Gyöngyvirág utca 1.",48.032888,21.064361,1,,
+hkir_214964_1,"Tiszalúc, Gyöngyvirág utca 1.",48.032888,21.064361,,hkir_214964,
 hkir_214966,"Abaújszántó, Rákóczi út 24.",48.280386,21.185087,1,,
 hkir_214966_1,"Abaújszántó, Rákóczi út 24.",48.280386,21.185087,,hkir_214966,
 hkir_214967,"Miskolc, Szinvapark",48.102155,20.791824,1,,
@@ -52439,7 +52439,6 @@ hkir_665908_20,"Székesfehérvár, autóbusz-állomás",47.188267,18.409958,,hki
 hkir_665908_21,"Székesfehérvár, autóbusz-állomás",47.188409,18.409755,,hkir_665908,21
 hkir_665908_22,"Székesfehérvár, autóbusz-állomás",47.188493,18.409567,,hkir_665908,22
 hkir_665908_23,"Székesfehérvár, autóbusz-állomás",47.188805,18.408899,,hkir_665908,23
-hkir_665908_27,"Székesfehérvár, autóbusz-állomás",47.188841,18.408963,,hkir_665908,27
 hkir_665908_3,"Székesfehérvár, autóbusz-állomás",47.188859,18.409352,,hkir_665908,3
 hkir_665908_4,"Székesfehérvár, autóbusz-állomás",47.188768,18.409583,,hkir_665908,4
 hkir_665908_5,"Székesfehérvár, autóbusz-állomás",47.188630,18.409787,,hkir_665908,5
