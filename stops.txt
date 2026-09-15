@@ -46096,7 +46096,7 @@ hkir_558415_1,"Várpalota, vasútállomás bejárati út",47.192801,18.143041,,h
 hkir_558415_2,"Várpalota, vasútállomás bejárati út",47.193564,18.145826,,hkir_558415,
 hkir_558415_3,"Várpalota, vasútállomás bejárati út",47.191648,18.141117,,hkir_558415,
 hkir_558416,"Várpalota, vasútállomás",47.194918,18.148812,1,,
-hkir_558416_1,"Várpalota, vasútállomás",47.194918,18.148812,,hkir_558416,
+hkir_558416_1,"Várpalota, vasútállomás",47.194501,18.148081,,hkir_558416,
 hkir_558418,"Várpalota, Vízmű",47.194004,18.135700,1,,
 hkir_558418_1,"Várpalota, Vízmű",47.193831,18.135734,,hkir_558418,
 hkir_558418_2,"Várpalota, Vízmű",47.194189,18.135636,,hkir_558418,
