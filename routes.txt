@@ -1,690 +1,690 @@
 agency_id,route_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color,route_network
-hkir_V-02219,hkir_V-02219-H-3-1,1,Fűzfőgyártelep - Fövenyfürdő - Fűzfőgyártelep,3,,152B32,FFFFFF,local
-hkir_V-02918,hkir_V-02918-H-3-1,1,Vasútállomás - Németfalu - Köztemető,3,,152B32,FFFFFF,local
-hkir_V-02918,hkir_V-02918-H-3-2,2,Vasútállomás - Újtelep - Köztemető,3,,152B32,FFFFFF,local
-hkir_V-02918,hkir_V-02918-H-3-3,3,Vasútállomás - Daru - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-13,13,Békeváros - Autóbusz-állomás - Dózsa mozi - Békeváros,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-14,14,Papírgyár - Autóbusz-állomás - Szabadság u.,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-18,18,Volán-telep - Vasútállomás - Bocskai u. Római krt - Aut.áll. - Vasútállomás - Volán-telep,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-2,2,Kokszvegyészet - Papírgyár - Autóbusz állomás - Szórád M.út - Vasmű út - Papírgyár - Kokszvegyészet,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-25,25,Szabadság u. - Autóbusz-állomás - Római krt. - Body Fashion,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-27,27,Bagolyvár - Autóbusz-állomás - Body Fashion,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-28,28,Body Fashion Kft. - Ováros - Békeváros,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-29,29,Body Fashion Kft. - Temet - Ováros - Vasmű út - Autóbusz-állomás - Szórád M.út - Ováros - Temet - Body Fashion Kft,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-3,3,Papírgyár - Vasmű út - Római krt. - Vasmű út - Papírgyár,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-33,33,Pálhalma - Domanovszky tér - Autóbusz-állomás - Szórád Márton utca,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-35,35,Pálhalma - Ujtelep - TESCO - Szórád M.út - Autóbusz-állomás - Római krt. - TESCO - Ujtelep - Pálhalma,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-40,40,"Békeváros,Bagolyvár - Hajnal u. - Autóbusz-állomás - Római krt. - Bocskai u. - Hajnal u. - Békeváros,Bagolyvár",3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-44,44,Békeváros - Bocskai u. - Autóbusz-állomás - Ferrobeton - Papírgyár,3,,152B32,FFFFFF,local
-hkir_V-03115,hkir_V-03115-H-3-5,5,Kertváros - Bocskai u. - Szórád M.út - Autóbusz-állomás - Római krt. - Ujtelep - Békeváros - Volán-telep,3,,152B32,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-1,1,Déri sétány - Vámház - Dobó István utcai forduló - Barátság téri iskola - Déri sétány,3,,152B32,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-2,2,Déri sétány - Vasutas telep - Dobó István utcai forduló - Vámház - Déri sétány,3,,152B32,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-3,3,Déri sétány - Gólya sor - Déri sétány,3,,152B32,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-4,4,Déri sétány - Gólyasor - Mártonszállás - Gólyasor - Déri sétány,3,,152B32,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-5,5,Déri sétány - Tesco - Déri sétány - Vámház - Dobó István utcai forduló - Barátság téri iskola - Déri sé,3,,152B32,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-6,6,Déri sétány - Pásztor utca - Vöröskereszt tér - DÉLHÚS - Hűtőház - Déri sétány,3,,152B32,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-7,7,Déri sétány - DÉLHÚS - (Vaskúti úti laktanya forduló) - Vöröskereszt tér - Déri sétány - Dobó István u,3,,152B32,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-8,8,Déri sétány - DÉLHÚS - (Vaskúti úti laktanya) - Vöröskereszt tér - Déri sétány,3,,152B32,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-9,9,Tanítóképző Főiskola - Svraka tanya - Tanítóképző Főiskola,3,,152B32,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-H3110,H3110,TEMETŐ JÁRAT,3,,152B32,FFFFFF,local
-hkir_V-04260,hkir_V-04260-H-3-1,1,"Mezőtúr, aut. áll. - Kossuth tér. - aut. áll.",3,,152B32,FFFFFF,local
-hkir_V-04349,hkir_V-04349-H-3-1,1,Autóbusz-állomás - Nyár utca - Munkácsy utca - Röszkei út - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-04783,hkir_V-04783-H-3-10,10,Vasútállomás - Moson - Evangélikus templom - Ujhelyi iskola - Tündérfátyol utca,3,,152B32,FFFFFF,local
-hkir_V-04783,hkir_V-04783-H-3-1M,1M,Vasútállomás - Moson - Városháza - Mofém-gyár - Autóbusz-végállomás,3,,152B32,FFFFFF,local
-hkir_V-04783,hkir_V-04783-H-3-2,2,Vasútállomás - Moson - Kiserdő utca - Városháza - Autóbusz-végállomás,3,,152B32,FFFFFF,local
-hkir_V-04783,hkir_V-04783-H-3-2G,2G,Vasútállomás - Moson - Károly út - Gimnázium - Autóbusz-végállomás,3,,152B32,FFFFFF,local
-hkir_V-04783,hkir_V-04783-H-3-4,4,Vasútállomás - Evangélikus templom - Majorok - Tündérfátyol utca,3,,152B32,FFFFFF,local
-hkir_V-04783,hkir_V-04783-H-3-4A,4A,Vasútállomás - Kossuth Lajos utca - Városháza - Autóbusz-végállomás,3,,152B32,FFFFFF,local
-hkir_V-04783,hkir_V-04783-H-3-5,5,Vasútállomás - Evangélikus templom - Ujhelyi iskola - Tündérfátyol utca,3,,152B32,FFFFFF,local
-hkir_V-04783,hkir_V-04783-H-3-5A,5A,Autóbusz-végállomás - Evangélikus templom - Ujhelyi iskola - Tündérfátyol utca,3,,152B32,FFFFFF,local
-hkir_V-04783,hkir_V-04783-H-3-7B,7B,Vasútállomás - Bartók Béla utca - Autóbusz-végállomás,3,,152B32,FFFFFF,local
-hkir_V-04923,hkir_V-04923-H-3-1,1,Karcag vá - Nagyvénkert,3,,152B32,FFFFFF,local
-hkir_V-04923,hkir_V-04923-H-3-2,2,"Karcag aut.áll. - Karcag, Kutatóintézet",3,,152B32,FFFFFF,local
-hkir_V-04923,hkir_V-04923-H-3-3,3,Karcag vasútállomás - Nagyvénkert,3,,152B32,FFFFFF,local
-hkir_V-04923,hkir_V-04923-H-3-4,4,Karcag vá. - Karcag aut.áll.,3,,152B32,FFFFFF,local
-hkir_V-05032,hkir_V-05032-H-3-4,4,Vasútállomás - Gyulavári kastély/Dénesmajor,3,,152B32,FFFFFF,local
-hkir_V-05032,hkir_V-05032-H-3-5,5,Vasútállomás - Várfürdő,3,,152B32,FFFFFF,local
-hkir_V-05111,hkir_V-05111-H-3-1,1,Autóbusz-forduló - Autóbusz-állomás - Kőkereszt,3,,152B32,FFFFFF,local
-hkir_V-05111,hkir_V-05111-H-3-1A,1A,Autóbusz-forduló - Autóbusz-állomás - Kőkereszt,3,,152B32,FFFFFF,local
-hkir_V-05111,hkir_V-05111-H-3-3,3,Autóbusz-forduló - Autóbusz-állomás - Kőkereszt,3,,152B32,FFFFFF,local
-hkir_V-05175,hkir_V-05175-H-3-1,1,Kösely Zrt. - Autóbusz-állomás - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-05175,hkir_V-05175-H-3-1A,1A,Autóbusz-állomás - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-05175,hkir_V-05175-H-3-2,2,Autóbusz-állomás - Hőforrás u. - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-05175,hkir_V-05175-H-3-2A,2A,Autóbusz-állomás - Rácz Farkas u. - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-05175,hkir_V-05175-H-3-3,3,Autóbusz-állomás - Köztemető,3,,152B32,FFFFFF,local
-hkir_V-05236,hkir_V-05236-H-3-1,1,TESCO - Kispiac - Strand - Aranysas u. - Kossuth u. 12. - Bugát Pál kórház - Seregély út 48,3,,152B32,FFFFFF,local
-hkir_V-05236,hkir_V-05236-H-3-1A,1A,1A TESCO-Kispiac-Aranysas u.-Aut.áll-Vasútállomás-Seregély u. 48,3,,152B32,FFFFFF,local
-hkir_V-05449,hkir_V-05449-H-3-2,2,Autóbusz-állomás - Rendőrség - Vasútállomás - Koppánymonostor forduló,3,,152B32,FFFFFF,local
-hkir_V-05449,hkir_V-05449-H-3-23,23,"Koppánymonostor,tábor - Laktanya köz - Autóbusz-állomás - Termálfürdő - Kórház - MOL Városrész",3,,152B32,FFFFFF,local
-hkir_V-05449,hkir_V-05449-H-3-23K,23K,K.monostor - Kórház,3,,152B32,FFFFFF,local
-hkir_V-05449,hkir_V-05449-H-3-2T,2T,"Autóbusz-állomás - Rendőrség - Vasútállomás - Koppánymonostor,tábor",3,,152B32,FFFFFF,local
-hkir_V-05449,hkir_V-05449-H-3-3,3,Autóbusz-állomás - Termálfürdő - Kórház - MOL Városrész,3,,152B32,FFFFFF,local
-hkir_V-05449,hkir_V-05449-H-3-32,32,"MOL Városrész - Kórház - Termálfürdő - Autóbusz-állomás - Laktanya köz - Koppánymonostor,tábor",3,,152B32,FFFFFF,local
-hkir_V-05449,hkir_V-05449-H-3-32K,32K,Kórház - K.monostor,3,,152B32,FFFFFF,local
-hkir_V-05449,hkir_V-05449-H-3-3K,3K,Kórház - Aut.áll.,3,,152B32,FFFFFF,local
-hkir_V-05519,hkir_V-05519-H-3-1,1,Aut.áll. - Máriagyűd - Aut.áll.,3,,152B32,FFFFFF,local
-hkir_V-06497,hkir_V-06497-H-3-1,1,"Autóbusz-állomás - Majos, alsó",3,,152B32,FFFFFF,local
-hkir_V-06497,hkir_V-06497-H-3-2,2,Autóbusz-állomás - Hidas - Bonyhád vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-06497,hkir_V-06497-H-3-3,3,Autóbusz-állomás - Szecska - Fáy Ltp. - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-06497,hkir_V-06497-H-3-4,4,Autóbusz-állomás - Fáy Ltp. - Szecska - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-06497,hkir_V-06497-H-3-6,6,Autóbusz-állomás - Szecska lakótelep - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-06673,hkir_V-06673-H-3-1,1,Vasútállomás - Alsócsinger,3,,152B32,FFFFFF,local
-hkir_V-06673,hkir_V-06673-H-3-10,10,Móra Ferenc utca -Timföldgyár -Vasútállomás - Alsócsinger,3,,152B32,FFFFFF,local
-hkir_V-06673,hkir_V-06673-H-3-10Y,10Y,Móra Ferenc utca - Timföldgyár - Vasútállomás - Alsócsinger,3,,152B32,FFFFFF,local
-hkir_V-06673,hkir_V-06673-H-3-12,12,Vasútállomás - Tósokberénd - Liliom utca - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-06673,hkir_V-06673-H-3-14,14,Vasútállomás - Ajkarendek,3,,152B32,FFFFFF,local
-hkir_V-06673,hkir_V-06673-H-3-4,4,Tesco - Móra Ferenc utca - Hild park - Tesco,3,,152B32,FFFFFF,local
-hkir_V-06691,hkir_V-06691-H-3-3,3,Autóbusz-állomás - Építők útja - Márka ABC - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-06691,hkir_V-06691-H-3-4B,4B,"Autóbusz-állomás - Munkás út - Herbolya,Tervtáró",3,,152B32,FFFFFF,local
-hkir_V-06691,hkir_V-06691-H-3-9,9,Autóbusz-állomás - Pincesor - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-07357,hkir_V-07357-H-3-5,5,Autóbusz állomás - Justh Gyula utca - MEDICOR - Ipari Park,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-1,1,Jereván lakótelep - Felső-Lőverek  Alsó-Lőverek - Lőver szálló,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-10,10,Jereván lakótelep - Ady Endre út  Bánfalvi út - Kertváros-felső,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-10B,10B,"Jereván lakótelep - Ady Endre út  Bánfalvi út - Kertváros felső - Brennbergi út, erdei iskola",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-10Y,10Y,Jereván lakótelep - Sopronbánfalva,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-11,11,Jereván lakótelep - Faraktár utca - Csengery utca - (Kórház -) Thököly tér,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-11A,11A,Thököly tér - Csengery utca - Faraktár utca - Jereván lakótelep,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-11B,11B,Jereván lakótelep - Faraktár utca - Csengery utca - Keleti rendező - (Kórház -) Thököly tér,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-11Y,11Y,Jereván ltp. - Keleti rendező - Thököly tér,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-12,12,"Jereván lakótelep - József Attila lakótelep - Kőszegi út, Sarudi utca",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-12B,12B,Jereván lakótelep - Sopron Plaza - Kőszegi út,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-13,13,Jereván lakótelep - Híd utca - Sopronkőhida,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-13B,13B,Jereván lakótelep - Híd utca - Tómalomfürdő - Sopronkőhida,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-15,15,Virágvölgy - Széchenyi tér - Aranyhegy - Balf,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-15A,15A,Virágvölgy - Széchenyi tér - Balfi út - Balf,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-17,17,Jereván lakótelep - Csengery utca - Keleti rendező,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-2,2,Jereván lakótelep - Alsó-Lőverek  Felső-Lőverek - Lőver szálló,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-22,22,"Ágfalvi úti lakótelep - Bánfalvi út - Csengery utca - Ipar körút, vámudvar",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-27,27,"Jereván lakótelep - Aranyhegy - Kórház - Csengery utca, Király Jenő utca",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-27A,27A,Jereván ltp. - Kórház - Aranyhegy,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-27B,27B,"Jereván lakótelep - Virágvölgy - Aranyhegy - Kórház - Csengery utca, Király J. u.",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-27T,27T,Jereván ltp. - Thököly tér - Aranyhegy - Jereván ltp.,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-27Y,27Y,Boldogasszonyi utca - Aranyhegy - Táncsics utca - Jereván lakótelep,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-3,3,Lackner Kristóf utca - Kertváros - Brennbergbánya,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-3Y,3Y,Jereván lakótelep - Ady Endre út - Kertváros - Brennbergbánya,3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-4,4,"Ipar körút, vámudvar  Lackner Kristóf utca - Baross út - Ágfalvi úti lakótelep",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-5,5,"Jereván lakótelep - Csengery utca - Ipar körút, AWF Kft.",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-5A,5A,"Jereván lakótelep - Csengery utca - Ipar körút, vámudvar",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-5B,5B,"Ipar körút, vámudvar - Pihenőkereszt lakópark - Híd utca - Jereván lakótelep",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-5Y,5Y,"Jereván lakótelep - Bécsi út - Híd utca - Ipar körút, AWF Kft.",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-7,7,"Jereván lakótelep - Híd utca - Kórház - Csengery utca, Király Jenő utca",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-7A,7A,"Jereván lakótelep - Híd utca - Csengery utca, Király Jenő utca",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-7B,7B,"Jereván lakótelep - Virágvölgy - Híd utca - Csengery utca, Király Jenő utca",3,,152B32,FFFFFF,local
-hkir_V-08518,hkir_V-08518-H-3-7T,7T,Jereván ltp. - Virágvölgy - Aranyhegy - Thököly tér - Jereván ltp.,3,,152B32,FFFFFF,local
-hkir_V-08864,hkir_V-08864-H-3-1,1,Aut.vt. - Vasútáll. - Lajvér - Kövesd - Vasútáll. - Aut.vt.,3,,152B32,FFFFFF,local
-hkir_V-12575,hkir_V-12575-H-3-2,2,Autóbusz-állomás - Gyár utca,3,,152B32,FFFFFF,local
-hkir_V-12575,hkir_V-12575-H-3-3,3,Autóbusz-állomás - Lentihegy,3,,152B32,FFFFFF,local
-hkir_V-12575,hkir_V-12575-H-3-94,94,Autóbusz-állomás - Bárszentmihályfa  Lentikápolna - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-13532,hkir_V-13532-H-3-1,1,Autóbusz-állomás - Horvátnádalja - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-13532,hkir_V-13532-H-3-1A,1A,Autóbusz-állomás - Felsőberkifalu - Alsóberkifalu - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-1,1,Kenessey Kórház - Bajcsy út - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-1A,1A,1A Vasútállomás- Madách L.-Kenessey Kórház,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-1B,1B,1B Kenessey Kórház-Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-2,2,Autóbusz-állomás - Kis posta - Ruhagyár - Volán telep,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-2A,2A,Autóbusz-állomás - Kis posta - Ruhagyár - Volán telep,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-3,3,Kábelgyár - Huszár Aladár út - Ruhagyár,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-3A,3A,Bremas Kft - Vasútállomás - Ruhagyár - Szabó L. iskola,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-3B,3B,Vasútállomás - Szabó L. iskola,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-4,4,Kenessey Kórház - Bremas Kft,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-4A,4A,Kenessey Kórház - Bremas Kft,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-5,5,Kenessey Kórház - Madách L. - Ruhagyár - Veres Pálné út - Kenessey Kórház,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-5A,5A,Autóbusz-állomás - Vasútállomás - Kábelgyár - Madách L. Ruhagyár - Veres Pálné út - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-6,6,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-6A,6A,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-6B,6B,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-6C,6C,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-7,7,Kenessey Kórház - Madách L. - Ruhagyár - Kossuth út - Kenessey Kórház,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-7A,7A,Civitas Fortissima tér - Szabó L. iskola,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-7B,7B,Civitas Fortissima tér - Szabó L. iskola,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-8,8,Autóbusz-állomás - Arany J.út - Május 1. - út - Ruhagyár - Madách L. - Kenessey Kórház,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-8A,8A,Autóbusz-állomás - Arany J. út - Szabó L. iskola - Szügyi út - MAHLE KFT,3,,152B32,FFFFFF,local
-hkir_V-13657,hkir_V-13657-H-3-8B,8B,Kenessey Kórház - Arany J. út - Szabó L. iskola - Volán telep,3,,152B32,FFFFFF,local
-hkir_V-14456,hkir_V-14456-H-3-1,1,Autóbusz-állomás - Drahos István utca,3,,152B32,FFFFFF,local
-hkir_V-14456,hkir_V-14456-H-3-3,3,Hékéd - Autóbusz-állomás - Tesco áruház,3,,152B32,FFFFFF,local
-hkir_V-14456,hkir_V-14456-H-3-3A,3A,Hékéd - Autóbusz-állomás - Tesco áruház,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-1,1,Autóbusz-állomás - Kórház,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-12,12,Kórház - Autóbusz-állomás - Március 15. u. - Autóbusz-állomás - Kórház,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-2,2,Kórház - Ruhagyár,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-20,20,Kórház - Autóbusz-állomás - Szentsimon,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-20A,20A,Autóbusz-állomás - Szentsimon,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-21,21,Kórház - Autóbusz-állomás - Március 15. u. - Autóbusz-állomás - Kórház,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-23,23,Center forduló - Petőfi tér - Autóbusz-állomás - Bolyki T. u. ált. isk./Ruhagyár,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-26,26,Autóbusz-állomás - Bolyki T. u. ált. isk. - Somsály,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-2A,2A,Autóbusz-állomás - Ruhagyár,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-3,3,Autóbusz-állomás - Center forduló,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-4,4,Kórház - Autóbusz-állomás - Vasútállomás - Új köztemető,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-47,47,Autóbusz-állomás - Új köztemető - Szenna - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-6,6,Autóbusz-állomás - Nyárjasalja út - Somsály,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-63,63,Somsály - Center forduló,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-68,68,Somsály - Autóbusz-állomás - Uraj - Susa,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-7,7,Autóbusz-állomás - Vasútállomás - Szenna,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-74,74,Autóbusz-állomás - Szenna - Új köztemető - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-76,76,Szenna - Autóbusz-állomás - Somsály,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-78,78,Autóbusz-állomás - Szenna - Uraj - Susa - Szenna - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-14492,hkir_V-14492-H-3-8,8,Kórház - Autóbusz-állomás - Uraj - Susa,3,,152B32,FFFFFF,local
-hkir_V-14632,hkir_V-14632-H-3-1,1,"Vasútállomás - Turul u. - Bélatelep, forduló",3,,152B32,FFFFFF,local
-hkir_V-14632,hkir_V-14632-H-3-2,2,Vasútállomás - Kenyérgyár - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-10,10,Szedreskert - Orsovai utca,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-11,11,Szedreskert - Vásárhelyi út - Szedreskert,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-11A,11A,Csapó utca-Vásárhelyi út-Sóstói bev.-Csapó utca,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-12,12,Szedreskert-Sóstó-Sóstó Ipari Park-Szedreskert,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-12A,12A,Csapó utca-Sóstói bev.-Vásrhelyi út-Csapó utca,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-12Y,12Y,Fecskepart - Autóbusz-állomás - Babér utca,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-13G,13G,Autóbusz-állomás - Babér utca,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-14,14,Szedreskert - Köfém lakótelep,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-14G,14G,Csapó utca-Köfém lakótelep-Babér utca,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-15,15,Fecskepart-Sóstó-Sóstó Ipari Park,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-15Y,15Y,Csapó u.- Szárcsa u. - Vásárhelyi úti letp.,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-16,16,Feketehegy - Szedreskert - AIZ,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-17,17,Csapó utca - Köfém lakótelep,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-20,20,Hübner A. u.-Jancsár u.-Köfém ltp.,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-22,22,Jancsár u. - Budai út - Kisfalud,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-23,23,Jancsár u. - Vá. - Budai út - Európa IP.,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-23E,23E,Jancsár u. - Budai út - Fiskális út - Videoton,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-24,24,Jancsár utca-Zsolnai út-Zsurló u.,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-25,25,Jancsár utca - Püspökkertváros,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-26,26,Jancsár u. - Autóbusz-állomás - Berényi út - Béla u.- Depónia,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-26A,26A,Orsovai utca - Jancsár u. - Autóbusz-állomás - Berényi út - Kassai u.,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-31,31,Vasútállomás-Béla u.,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-31E,31E,Vasútállomás - Budai út - Fiskális út - VIDEOTON,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-32,32,Kassai utca-Vá.-Sóstói bev.központ-Vásárhelyi úti ltp.,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-33,33,Vasútállomás-Fecskepart,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-34,34,Vasútállomás-Fecskepart,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-35,35,Vasútállomás-Zone bev.,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-36,36,Vasútállomás-Hernád utca,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-37,37,MET Aréna-Kórház-Vasútállomás-Feketehegy-Vasútállomás-Kórház-MET Aréna,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-38,38,Vasútállomás - Autóbusz-állomás - Berényi út - TESCO - Videoton Ipari Park,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-40,40,Csapó utca - Maroshegy (körjárat),3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-41,41,Csapó u. - Kórház - Maroshegy (körjárat),3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-42,42,Csapó utca - Rákóczi utca - Börgönd,3,,152B32,FFFFFF,local
-hkir_V-14827,hkir_V-14827-H-3-44,44,Csapó utca-Kórház-Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-1,1,Szabadság tér - Autóbusz-állomás - Volán telep - Szabadság tér/Kórház,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-17,17,Szabadság tér - Lencsési autóbusz-forduló,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-17M,17M,Kórház - Szabadság tér - Lencsési autóbusz-forduló,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-17V,17V,Autóbusz-állomás - Szabadság tér - Lencsési autóbusz-forduló,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-20,20,Autóbusz-állomás - Gerla,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-3,3,Veres Péter utca - Szabadság tér - Varságh utca/Kossuth tér,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-5,5,Autóbusz-állomás - Mezőmegyer,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-7,7,Autóbusz-állomás - Lencsési autóbusz-forduló,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-74A,74A,Lencsési autóbusz-forduló - Veres Péter u. - Kolozsvári u. - Lencsési autóbusz-forduló,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-74B,74B,Lencsési autóbusz-forduló - Kolozsvári u. - Veres Péter u. - Lencsési autóbusz-forduló,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-7F,7F,Autóbusz-állomás - Lencsési autóbusz-forduló - Fényes - Lencsési autóbusz-forduló - Autóbusz - állo,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-8,8,LINAMAR - Autóbusz-állomás - Erdélyi sor/Varságh utca,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-8A,8A,TESCO - Autóbusz-állomás - Erdélyi sor,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-8MJ,8MJ,VOLÁN telep - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-15200,hkir_V-15200-H-3-8V,8V,TESCO - Autóbusz-állomás - Varságh utca,3,,152B32,FFFFFF,local
-hkir_V-15291,hkir_V-15291-H-3-1,1,Kastélyotthon - Nagy út (Vágóhíd út),3,,152B32,FFFFFF,local
-hkir_V-15291,hkir_V-15291-H-3-2,2,Nagy út - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-1,1,Autóbusz-állomás - Repülőtér,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-10,10,Örökösföld - Vasútállomás - Nyírszőlős,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-10A,10A,Örökösföld - Vasútállomás - Nyírszőlős,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-10J,10J,Örökösföld - Vasútállomás - Nyírszőlős,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-10Y,10Y,Örökösföld - Vasútállomás - Nyírszőlős,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-11,11,Örörkösföld - Egyház utca,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-12,12,Sóstói úti kórház - Vasútállomás - Vasúti aluljáró (- Szakiskola és kollégium),3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-12Y,12Y,Sóstói úti kórház - Vasútállomás - Vasúti aluljáró (- Szakiskola és kollégium),3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-13,13,Sóstói úti kórház - Alma utcai iskola,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-13Y,13Y,Sóstói úti kórház - Alma utcai iskola,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-14,14,"Vasútállomás - Sóstóhegy, vasútállomás bejárati út",3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-14F,14F,"Vasútállomás - Sóstóhegy, vasútállomás bejárati út",3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-17,17,Örökösföld - Rendelőintézet/Kórház - Szélsőbokori út,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-17B,17B,Örökösföld - Rendelőintézet/Kórház - Szélsőbokori út,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-19,19,Örökösföld - Rendelőintézet/Kórház - Szélsőbokori út,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-1A,1A,Autóbusz-állomás - Repülőtér,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-2,2,"Autóbusz-állomás - Csárda utca, forduló",3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-20,20,Vasútállomás - Törzs utca - Örökösföld - Család utca - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-21,21,Vasútállomás - Törzs utca - Örökösföld - Család utca - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-22,22,Autóbusz-állomás - Ipari utca - Alma utcai iskola,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-22A,22A,Autóbusz-állomás - Ipari utca - Alma utcai iskola,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-24,24,Sóstói úti kórház - Autóbusz-állomás - Kistelekiszőlő,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-25,25,Vasútállomás - Északi körút - Jósaváros - Örökösföld - Alma utcai iskola,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-27,27,Sóstói úti kórház - Jósaváros - Szélsőbokori út - Sóstói út kórház,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-29,29,Vasútállomás - Kertváros - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-2A,2A,"Autóbusz-állomás - Csárda utca, forduló",3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-3,3,Autóbusz-állomás - Kistelekiszőlő - Rozsrét,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-30,30,Autóbusz-állomás - Rozsrét,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-4,4,"Autóbusz-állomás - Rendelőintézet - Oros, Magyar utca",3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-44,44,"Vasútállomás - Jósaváros - Örökösföld - Oros, Takarék köz",3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-44A,44A,"Vasútállomás - Jósaváros - Örökösföld - Oros, Takarék köz",3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-49,49,Oros - Örökösföld - Michelin - Huszár telep,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-49L,49L,Oros - Örökösföld - Michelin - Huszár telep,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-4B,4B,"Autóbusz-állomás - Rendelőintézet - Oros, Magyar utca",3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-4E,4E,"Autóbusz-állomás - Rendelőintézet - Oros, Magyar utca",3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-4Y,4Y,"Autóbusz-állomás - Rendelőintézet - Oros, Magyar utca",3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-5,5,Örökösföld - Kórház - Jósaváros - Sóstóhegy,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-51,51,Vásártér - Örökösföld - Jósaváros - Vásártér,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-55,55,Örökösföld - Kórház - Jósaváros - Sóstógyógyfürdő,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-55A,55A,Örökösföld - Kórház - Jósaváros - Sóstógyógyfürdő,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-5A,5A,Örökösföld - Kórház - Jósaváros - Sóstóhegy,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-7,7,Vasútállomás - Jósaváros - Sóstóhegy,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-8,8,Vasútállomás - Sóstói úti kórház - Sóstógyógyfürdő,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-8Y,8Y,Vasútállomás - Sóstói úti kórház - Jósaváros - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-9,9,Örökösföld - Kórház - Búza tér - Huszár telep,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-90,90,Sóstói úti kórház - Autóbusz-állomás - Révész-Michelin Logisztikai Központ,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-900,900,Vasútállomás - Jósaváros - Sóstógyógyfürdő - Jósaváros - Örökösföld - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-901,901,Szakiskola és Kollégium - Vasútállomás - Jósaváros - Örökösföld,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-902,902,Vasútállomás - Szakiskola és Kollégium - Jósaváros - Örökösföld,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-90E,90E,Sóstói úti kórház - Autóbusz-állomás - Révész-Michelin Logisztikai Központ,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-92,92,Sóstói úti kórház - Jósaváros - LEGO,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-93,93,Örökösföld - Vasútállomás - LEGO,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-93E,93E,Örökösföld - Vasútállomás - LEGO,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-94,94,Jósavárosi piac - Sóstói úti kórház - Michelin (- LEGO),3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-94L,94L,Jósavárosi piac - Sóstói úti kórház - Michelin (- LEGO),3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-95,95,Örökösföld - Autóbusz-állomás - Michelin - Huszár telep,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-95E,95E,Örökösföld - Autóbusz-állomás - Michelin - Huszár telep,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-96,96,Autóbusz-állomás - Debreceni út - Alma utcai iskola,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-97,97,"Örökösföld - Lujza utca - Ipari park, Wittur (- Újsortanya)",3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-H30,H30,Autóbusz-állomás - Rozsrét - Újsortanya - Butykasor - Oláhrét,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-H31,H31,Autóbusz-állomás - Butykasor - Oláhrét,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-H32,H32,Autóbusz-állomás - Nyírjes - Nagyszállás,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-H35,H35,Autóbusz-állomás - Alsóbadúr - Polyákbokor - Felsősima,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-H38,H38,Sóstói úti kórház - Autóbusz-állomás - Rozsrét - Oláhrét,3,,152B32,FFFFFF,local
-hkir_V-17206,hkir_V-17206-H-3-H40,H40,Autóbusz-állomás - Antalbokor - Rókabokor - Vargabokor - Kazárbokor - Sulyánbokor,3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-1,1,"Autóbusz-állomás - Balatonszéplak, Alsó v. mh.",3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-14A,14A,"Kiliti, Szeptember 6. tér - Autóbusz-állomás",3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-18,18,"12. Sóstó, Kemping-Aut. áll.-Somogyfok-Perczel Mór u.-Aut. áll.-Sóstó, Kemping",3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-2,2,"Autóbusz-állomás - Sóstó, Kemping",3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-21,21,Darnay Kálmán tér - Perczel Mór u.,3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-2A,2A,2A. Aut. áll.-Nyaralótelep,3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-3,3,Autóbusz-állomás - Volán-telep,3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-4,4,"Autóbusz-állomás - Kiliti, Béke tér",3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-5,5,"Autóbusz-állomás - Szépvölgyi u. - Kiliti,Béke tér",3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-6,6,"Autóbusz-állomás - Balatonszéplak, Felső v. mh. - Somogyfok",3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-7,7,"Autóbusz-állomás - Boróka u. - Somogyfok - Töreki, Alsó",3,,152B32,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-8,8,Autóbusz-állomás - Boróka u. - Somogyfok,3,,152B32,FFFFFF,local
-hkir_V-17941,hkir_V-17941-H-3-1,1,"Autóbusz-állomás - Henész, forduló",3,,152B32,FFFFFF,local
-hkir_V-17941,hkir_V-17941-H-3-5,5,Autóbusz-állomás - Éltes Mátyás Iskola,3,,152B32,FFFFFF,local
-hkir_V-18209,hkir_V-18209-H-3-1,1,Hatvani út - Autóbusz-állomás - Platán u. - Szent István krt - Kórház - Vasútállomás - Electrolux,3,,152B32,FFFFFF,local
-hkir_V-18209,hkir_V-18209-H-3-2A,2A,Autóbusz-állomás - Szt. István krt.,3,,152B32,FFFFFF,local
-hkir_V-18421,hkir_V-18421-H-3-1,1,"Autóbusz-állomás - Kórház - Gyenesdiás, sportpálya",3,,152B32,FFFFFF,local
-hkir_V-18421,hkir_V-18421-H-3-2,2,Autóbusz-állomás - Vaszary utca - Fodor utca - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-18421,hkir_V-18421-H-3-3,3,"Autóbusz-állomás - Egyetem, kollégium - Szendrey telep",3,,152B32,FFFFFF,local
-hkir_V-18421,hkir_V-18421-H-3-5,5,"Autóbusz-állomás - Rákóczi tér - Kárpát utca, autóbusz-forduló",3,,152B32,FFFFFF,local
-hkir_V-18421,hkir_V-18421-H-3-C5,C5,Autóbusz-állomás - TESCO,3,,152B32,FFFFFF,local
-hkir_V-19433,hkir_V-19433-S-3-2-0,2,Dózsa Gy. u. - Mátyás király u. - Gyógyfürdő,3,,152B32,FFFFFF,local
-hkir_V-19433,hkir_V-19433-S-3-2B-0,2B,Dózsa Gy u. - Vasútállomás - Gyógyfürdő,3,,152B32,FFFFFF,local
-hkir_V-19433,hkir_V-19433-S-3-3-0,3,Cseresznye u. - Dózsa Gy. u. - Mátyás király u. - Vasútállomás - Rutinpálya,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-1,1,Fellner Jakab úti forduló - Kossuth tér - Autóbusz-állomás - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-1M,1M,Fellner Jakab út - Újtelep - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-1R,1R,Fellner Jakab úti forduló - Tom - Ferr Zrt. - Tescon ruház - Kossuth tér - Autóbusz-állomás - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-1T,1T,Tesco Áruház - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-2,2,Fellner Jakab úti forduló - Mocsai u. - Autóbusz-állomás - Gesztenye fasor - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-2G,2G,Fellner Jakab út-Golf Hotel-Kossuth tér-Mikovényi utca-Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-5,5,Fellner Jakab úti forduló - Kossuth tér - Autóbusz-állomás - Kertváros - Autóbusz-állomás - Kossuth tér - Fellner,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-5A,5A,Autóbuszállomás-Kertváros-Autóbuszállomás,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-5AF,5AF,Autóbuszállomás-Kertváros-Fellner Jakab úti forduló,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-5FA,5FA,Fellner Jakab úti forduló-Kertváros-Autóbuszállomás,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-5R,5R,Kossuth tér/Autóbusz-állomás - Deák Ferenc út,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-5T,5T,Fellner Jakab út - Kertváros - Iprai park - Fellner Jakab út,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-7,7,"Autóbusz-állomás - Agostyán,forduló",3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-7A,7A,"Autóbuszállomás - Agostyán, forduló",3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-8,8,"Fellner Jakab úti forduló - Kossuth tér - Autóbusz-állomás - Ujhegy,buszford. - Autóbusz-állomás - Kossuth tér - F",3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-9,9,Fellner Jakab út - Vasútállomás - Újhegy,3,,152B32,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-9M,9M,Újhegy - Vasútállomás - Mocsai út - Fellner Jakab út,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-11,11,Lajosváros - Felnémet,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-112,112,IPARI PARK - MÁTYÁS KIR. U. - TESCO,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-113,113,Ipari Park - TESCO,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-12,12,Lajosváros - TESCO,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-13,13,Lajosváros - TESCO,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-14,14,Lajosváros - Felnémet - Berva,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-14E,14E,Lajosváros - BERVA,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-16,16,Lajosváros - Tihaméri malom - Felnémet - Berva,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-17,17,TESCO - Iskola út - Baktai út - Vécsey völgy,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-2,2,Tihamér - Szalapart,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-2A,2A,Tihamér - Szalapart,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-3A,3A,Lajosváros - TESCO,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-4,4,Lajosváros - BERVA,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-5,5,AGROKER - TESCO,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-5A,5A,TIHAMÉR - TESCO,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-6,6,Lajosváros - TESCO,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-7,7,TESCO - Baktai út - Vécsey völgy,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-7A,7A,Baktai út - Vécsey völgy,3,,152B32,FFFFFF,local
-hkir_V-20491,hkir_V-20491-H-3-914,914,Lajosváros - Tihaméri malom - Felnémet - Berva,3,,152B32,FFFFFF,local
-hkir_V-21175,hkir_V-21175-H-3-1,1,Volán-telep - Autóbusz-állomás - Zákonyi sétány - Fürdő utca - Lakótelep - Újtelep,3,,152B32,FFFFFF,local
-hkir_V-21175,hkir_V-21175-H-3-1B,1B,Autóbusz-állomás - Zákonyi sétány - Fürdő utca - Lakótelep - Újtelep,3,,152B32,FFFFFF,local
-hkir_V-21175,hkir_V-21175-H-3-2,2,Újtelep - Lakótelep - Fürdő utca - Zákonyi sétány - Autóbusz-állomás - Volán-telep,3,,152B32,FFFFFF,local
-hkir_V-21175,hkir_V-21175-H-3-2B,2B,Újtelep - Lakótelep - Fürdő utca - Zákonyi sétány - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-21175,hkir_V-21175-H-3-3,3,Autóbusz-állomás - Óváros - Arács - Strandok - Kiserdő - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-21175,hkir_V-21175-H-3-4,4,Autóbusz-állomás - Kiserdő - Strandok - Arács - Óváros - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-21175,hkir_V-21175-H-3-5,5,Autóbusz-állomás - Noszlopy utca - Illés utca - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-21175,hkir_V-21175-H-3-6,6,Autóbusz-állomás - Kiserdő - Arács - Illés utca - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-21175,hkir_V-21175-H-3-7,7,Autóbusz-állomás - Illés utca - Arács - Kiserdő - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-21315,hkir_V-21315-H-3-1,1,Arany János u. - Autóbusz-állomás - Szakközépiskola,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-1,1,Autóbusz-állomás - Béla király tér - Remete u. - Hosszú-völgy,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-12,12,Baranya-völgy - Otthon u./TESCO Áruház - Béri B. Ádám u. - Bottyán-hegy,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-13,13,13. Jobbparászta - Bottyán-hegy - Béri Balogh u. - TESCO,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-14,14,TESCO Áruház - Otthon u./Béri B. Ádám u. - Bottyán-hegy,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-16,16,Tót-völgy - Autóbusz-állomás - Újváros - Műszergyár - Palánk,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-17,17,17. Aut.áll. -TOLNATEJ - Aut. áll. - Csatár - Hosszú-völgy,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-19,19,Csatári forduló - Alisca u. - Kadarka u. - Műszergyár - Jobbparászta,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-1B,1B,1B Hosszú-völgy - (Kilátó u.) - Autóbusz-állomás - TESCO,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-4,4,Autóbusz-állomás - Bottyán-hegy,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-4B,4B,TESCO Áruház - Autóbusz-állomás - Bottyán-hegy,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-6,6,Tót-völgy - Autóbusz-állomás - Újváros - Jobbparászta,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-6B,6B,6B. Autóbusz-állomás - Nyomda - TESCO - Tót-völgy,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-7,7,TESCO - Alisca u. - Aut.áll. - TOLNATEJ Zrt. - Aut.áll. - TESCO,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-9,9,TESCO - Alisca u. - Fűtőmű - Május 1. u. - Kadarka u. - Jobbparászta,3,,152B32,FFFFFF,local
-hkir_V-22761,hkir_V-22761-H-3-9A,9A,TESCO - Alisca u. - Kadarka u. - Jobbparászta,3,,152B32,FFFFFF,local
-hkir_V-23603,hkir_V-23603-H-3-1,1,Vasútállomás - Vásártér,3,,152B32,FFFFFF,local
-hkir_V-23603,hkir_V-23603-H-3-1B,1B,Vasútállomás - Vásártér,3,,152B32,FFFFFF,local
-hkir_V-23959,hkir_V-23959-H-3-1,1,"Mohács, aut. áll. - Üdülőtelep",3,,152B32,FFFFFF,local
-hkir_V-24934,hkir_V-24934-H-3-1,1,Szérűskert - Nagymező u. - Kórház - Híradó tér,3,,152B32,FFFFFF,local
-hkir_V-24934,hkir_V-24934-H-3-11,11,Szérűskert - Nagymező u. - Kórház - Híradó tér,3,,152B32,FFFFFF,local
-hkir_V-24934,hkir_V-24934-H-3-3,3,DDC - Autóbusz-állomás - Gombás - Sejce lakótelep,3,,152B32,FFFFFF,local
-hkir_V-24934,hkir_V-24934-H-3-33,33,Telep u. - Autóbusz-állomás - Szérűskert,3,,152B32,FFFFFF,local
-hkir_V-24934,hkir_V-24934-H-3-4,4,Szérűskert - Autóbusz-állomás - Március 15. tér - Kórház - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-24934,hkir_V-24934-H-3-5,5,Autóbusz-állomás - Kórház - Március 15. tér - Autóbusz-állomás - Szérűskert,3,,152B32,FFFFFF,local
-hkir_V-24934,hkir_V-24934-H-3-55,55,Autóbusz-állomás - Kórház - Március 15. tér - Autóbusz-állomás - Szérűskert,3,,152B32,FFFFFF,local
-hkir_V-24934,hkir_V-24934-H-3-6,6,Gombási út - Deákvár - Alsóváros,3,,152B32,FFFFFF,local
-hkir_V-25131,hkir_V-25131-H-3-A,A,Vá. - Földműves - Kertváros,3,,152B32,FFFFFF,local
-hkir_V-25131,hkir_V-25131-H-3-B,B,Kertváros - Földműves - Vá.,3,,152B32,FFFFFF,local
-hkir_V-25131,hkir_V-25131-H-3-C,C,C - Vá.-Bánomi-Kertváros-Vá.,3,,152B32,FFFFFF,local
-hkir_V-25131,hkir_V-25131-H-3-G,G,Vá. - Dobozi - Vá.,3,,152B32,FFFFFF,local
-hkir_V-25131,hkir_V-25131-H-3-N,N,Vá. - Dobozi - Vá.,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-1,1,"Gyirmót - Ménfőcsanak - Marcalváros - Pápai út - Belváros - Újváros, Nép utca",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-11,11,"Marcalváros - Adyváros - Belváros - Sziget - Egyetem - Bácsa, Ergényi lakótelep",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-11Y,11Y,"Marcalváros - Adyváros - Belváros - Bácsa, Ergényi lakótelep",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-12,12,"Révai Miklós utca - Kandó utca - Audi-gyár, 5-ös porta",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-12A,12A,"Révai Miklós utca - Kandó utca - Audi-gyár, 8-as porta",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-12Y,12Y,"Széchenyi István Egyetem - Kandó utca - Audi-gyár, 5-ös porta",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-13,13,Marcalváros - Adyváros - Gyárváros - Belváros - Sziget - Pinnyéd,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-13B,13B,Marcalváros - Temető - Adyváros - Gyárváros - Belváros - Sziget - Pinnyéd,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-14,14,"Marcalváros - Adyváros - Gyárváros - Belváros - Újváros, Nép utca",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-14A,14A,"Marcalváros - Adyváros - Gyárváros - Belváros - Sziget - Liget utca, Nyár utca",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-14B,14B,"Marcalváros - Temető - Adyváros - Gyárváros - Belváros - Liget utca, Nyár utca",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-15,15,Révai Miklós utca - Gyárváros - Audi-gyár - Ipari Park - Révai Miklós utca,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-15A,15A,"Révai Miklós utca - Gyárváros - Audi-gyár, 5-ös porta",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-16,16,Marcalváros - Adyváros - Autóbusz-állomás - Vízmű - Keverőtelep (Újfalu lakópark),3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-17,17,Virágpiac - Adyváros - Szabadhegy - Fehérvári út - Révai Miklós utca,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-17B,17B,"Virágpiac - Adyváros - Szabadhegy, új köztemető - Fehérvári út - Révai Miklós utca",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-18,18,Révai Miklós utca (- Korányi Frigyes tér) - Munkácsy Mihály utca,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-19,19,Révai Miklós utca - Adyváros - Kollégium - Belváros - Városrét - Egyetem (- Mobilis),3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-19A,19A,Virágpiac - Adyváros - Kollégium - Virágpiac,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-1A,1A,"Marcalváros - Pápai út - Belváros - Újváros, Nép utca",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-1B,1B,"Gyirmót - Ménfőcsanak - Marcalváros - Belváros - Újváros, temető - Nép utca",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-2,2,"Révai Miklós utca - Zrínyi utca - Zöld utca, Szőnyi Márton utca",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-20,20,"Zöld utca, Soproni út - Adyváros - Gyárváros - Audi-gyár, 8-as porta",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-20Y,20Y,"Ménfőcsanak, Győri út - Új élet út - Adyváros - Gyárváros - Audi-gyár, 8-as porta",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-21,21,"Révai Miklós utca - Nádor tér - Marcalváros - Ménfőcsanak, Győri út (- Új élet út)",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-21B,21B,Révai Miklós utca - Nádor tér - Marcalváros - Győzelem utca - Győri út,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-22,22,"Révai Miklós utca - Marcalváros - Új élet út - Ménfőcsanak, Győri út",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-22A,22A,Révai Miklós utca - Marcalváros,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-22B,22B,Révai Miklós utca - Marcalváros - Új élet út - Győri út (- Győzelem utca),3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-22Y,22Y,"Révai Miklós utca - Marcalváros - Ménfőcsanak, Győzelem utca",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-23,23,"Marcalváros - Adyváros - Gyárváros - Győrszentiván, Kálmán Imre út (- Homoksor)",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-23A,23A,"Marcalváros - Adyváros - Ipar utca, Volán-telep",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-24,24,"Marcalváros - Adyváros - Audi-gyár, 5-ös porta",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-25,25,Marcalváros - Adyváros - Ipari Park,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-26,26,Marcalváros - Szabadhegy - Ipari Park,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-28,28,Marcalváros - Adyváros - Ipari Park - LOC1 - LOC2 logisztikai csarnok,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-29,29,Révai Miklós utca - Városrét - Dunakapu tér - Széchenyi István Egyetem,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-2B,2B,"Zöld utca, Szőnyi Márton utca - Zrínyi utca - Sziget - Egyetem - Révai Miklós utca",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-30,30,"Révai Miklós utca - Győrszentiván, Kálmán Imre út - Homoksor",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-30A,30A,"Révai Miklós utca - Győrszentiván, Kálmán Imre út",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-30B,30B,"Révai Miklós utca - Ipari Park - Győrszentiván, Kálmán Imre út",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-30Y,30Y,"Révai Miklós utca - Audi-gyár - Ipari Park - Győrszentiván, Kálmán Imre út",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-31,31,"Révai Miklós utca - Győrszentiván, Homoksor - Kálmán Imre út",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-31A,31A,"Révai Miklós utca - Győrszentiván, Kálmán Imre út - Homoksor",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-37,37,Révai Miklós utca - Adyváros - Temető - Ménfőcsanak - Gyirmót,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-37T,37T,Temetőjárat Marcalváros - Temető - Adyváros - Zechmeister utca,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-38,38,Révai Miklós utca - Adyváros - Szabadhegy - Ipari Park,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-38A,38A,Révai Miklós utca - Adyváros - Szabadhegy - Ipari Park,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-41,41,"Zöld utca, Soproni út - Adyváros - Honvédség",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-42,42,Marcalváros - Belváros - Honvédség,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-5,5,Révai Miklós utca - Kismegyer,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-5B,5B,Révai Miklós utca (- Raktárváros) - Agroker - Kismegyer,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-5R,5R,Révai Miklós utca - Raktárváros - Kismegyer,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-6,6,Szitásdomb - Sárás - Egyetem - Dunakapu tér - Városrét - Belváros - Kismegyer,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-7,7,Révai Miklós utca - Fehérvári út - Szabadhegy - Adyváros - Virágpiac,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-8,8,Révai Miklós utca - Gyárváros - Állatkert - Likócs,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-8Y,8Y,Munkácsy Mihály utca - Gyárváros - Állatkert - Likócs,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-9,9,(Mobilis -) Egyetem - Városrét - Belváros - Kollégium - Adyváros - Iparkamara,3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-900,900,"Autóbusz-állomás - (Egyetem -) Adyváros - Marcalváros - Ménfőcsanak, Hegyalja u.",3,,152B32,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-9A,9A,Virágpiac - Kollégium - Adyváros - Virágpiac,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-1,1,Helyi autóbusz-állomás - Zagyvaróna,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-11,11,Helyi autóbusz-állomás - Somoskőújfalu,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-11A,11A,Helyi autóbusz-állomás - Országhatár - Somoskő,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-11B,11B,Helyi autóbusz-állomás - Somoskő - Salgóbánya,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-11Y,11Y,Somoskőújfalu - Hősök út,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-13,13,Zagyvaróna - Volánközpont - Ipari Park,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-14,14,Zagyvaróna - Baglyasalja,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-19,19,Salgóbánya - (Somoskő) - Helyi autóbusz-állomás - (Kotyháza) - Ipari Park,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-1A,1A,Zagyvaróna - Helyi autóbusz-állomás - Uzoni iskola,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-27A,27A,Helyi aut. - Somlyóbánya - Kórház - Fáy a - Kórház - Helyi aut.,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-2A,2A,Helyi autóbusz-állomás - Somlyóbánya,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-2C,2C,Somlyóbánya - Füleki út - Helyi autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-2T,2T,Helyi autóbusz-állomás - Somlyó forduló,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-3,3,Helyi autóbusz-állomás - Tesco - Hősök út,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-36,36,Hősök út - Tesco - Camping telep,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-36U,36U,Hősök út - Tesco - Camping telep,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-3C,3C,Hősök út - (Gorkij telep) - Eperjes telep - - Hősök út,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-4,4,Helyi autóbusz-állomás - Baglyasalja,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-46,46,Baglyasalja - Camping telep,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-4A,4A,Baglyasalja - Hősök út,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-5,5,Helyi autóbusz-állomás - Idegér - Helyi autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-58,58,Helyi autóbusz-állomás - Idegér - Szerpentin út - Helyi,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-6,6,Helyi autóbusz-állomás - Camping telep,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-61,61,Camping telep - Zagyvaróna,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-63,63,Camping telep - Csokonai út - Hősök út,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-63S,63S,Hősök út - Sugár út - Csokonai út - Camping telep,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-7,7,Helyi aut.áll - (Forgách-telep) - Kórház - Fáy A. - Kórház_Helyi aut.áll.,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-7A,7A,(Sugár út) - Helyi autóbusz-állomás - Kórház - Fáy A. - Kórház - (Idegér) - Helyi aut.áll.,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-7B,7B,Helyi aut.áll - Losonci út - Fáy A - Kórház - Helyi aut.áll.,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-7C,7C,Helyi autóbusz-állomás - Losonci út - Fáy A - Losonci út - Helyi aut.,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-8,8,Helyi autóbusz-állomás - Szerpentin út - Helyi aut.áll.,3,,152B32,FFFFFF,local
-hkir_V-25788,hkir_V-25788-H-3-9,9,Helyi autóbusz-állomás - Ipari Park,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-1,1,Autóbusz-állomás - Zobák-akna,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-10,10,Kórház - Autóbusz-állomás - Szilvás - Autóbusz-állomás - Kórház,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-10A,10A,Autóbusz-állomás - Kórház,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-11,11,Autóbusz-állomás - Szilvás - Gagarin utca - Tröszt utca - Kökönyös - Nagyrét utca - Körtvélyes,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-12,12,Körtvélyes - Kökönyös - Tröszt utca - Szilvás - Gagarin utca - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-13,13,Zobák-akna - OTP - Kökönyös - Nagyrét utca - Körtvélyes,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-15,15,Zobák-akna - Autóbusz-állomás - Kökönyös - Dávidföld,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-17,17,(Temető/MOM -) Autóbusz-állomás - Dávidföld - Körtvélyes - Sikonda,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-17B,17B,(Temető/MOM -) Autóbusz-állomás (- Kökönyös) - Dávidföld - Körtvélyes - Sikonda,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-18,18,Autóbusz-állomás - Szilvás - Kenderföld - Autóbusz-állomás - Dávidföld (- Nagyrét utca) - Körtvé,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-18B,18B,Autóbusz-állomás - Szilvás - Kenderföld - Autóbusz-állomás (- Kökönyös) - Dávidföld (- Nagyrét,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-19,19,Autóbusz-állomás - Gagarin utca - Szilvás - Autóbusz-állomás - Dávidföld - Körtvélyes,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-2,2,"Autóbusz-állomás - Mecsekjánosi, Vá. (- Mecsekjánosi, Kertészet)",3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-3,3,Autóbusz-állomás - Mecsekjánosi - Kisbattyán,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-5,5,Autóbusz-állomás - Kökönyös - Dávidföld,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-6,6,Autóbusz-állomás - Mecsekfalu völgy - Körtvélyes,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-7,7,(Temető - MOM -) Autóbusz-állomás - Körtvélyes (- Sikonda),3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-7A,7A,Autóbusz-állomás - Temető,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-8,8,(Sikonda -) Körtvélyes (- Nagyrét utca) - Dávidföld - Autóbusz-állomás - Szilvás - Somág - Kender,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-9,9,(Sikonda -) Körtvélyes - Dávidföld - Autóbusz-állomás - Somág - Szilvás - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-26408,hkir_V-26408-H-3-9B,9B,(Sikonda -) Körtvélyes - Dávidföld (- Kökönyös) - Autóbusz-állomás - Somág - Szilvás - Autóbusz - ,3,,152B32,FFFFFF,local
-hkir_V-26578,hkir_V-26578-H-3-1,1,Aut.áll. - Szent István ltp. - Aut.áll.,3,,152B32,FFFFFF,local
-hkir_V-26578,hkir_V-26578-H-3-1A,1A,Aut.áll. - Táncsics M.u.,3,,152B32,FFFFFF,local
-hkir_V-26578,hkir_V-26578-H-3-2,2,Aut.áll. - Zsibót - Becefa,3,,152B32,FFFFFF,local
-hkir_V-26578,hkir_V-26578-H-3-2A,2A,Aut.áll. - Zsibót - Becefa - Aut.áll.,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-1,1,Tallinn városrész - Vegyiművek,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-10,10,Tallinn városrész - Volánbusz - Tallinn városrész,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-10A,10A,Üteg utca - Tallinn városrész - Volánbusz - Tallinn városrész,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-11,11,Volánbusz - Üteg utca,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-11Y,11Y,Tallinn városrész - Béke Tsz.,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-12,12,Tallinn városrész - TIGÁZ - Volánbusz - Jubileum tér - Tallinn városrész,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-12A,12A,Üteg utca - Tallinn városrész - TIGÁZ - Volánbusz - Jubileum tér - Tallinn városrész,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-15,15,"Vasútállomás - Tiszaliget, Campus",3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-15Y,15Y,"Vasútállomás - Tiszaliget, Campus",3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-1A,1A,Tallinn városrész - Ipari Park,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-1Y,1Y,Tallinn városrész - Cukorgyári lakótelep,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-2,2,Tallinn városrész - Adóhivatal - Cukorgyári lakótelep,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-20,20,Vasútállomás - Széchenyi lakótelep - Bevásárlópark,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-21,21,Tóth Árpád út - Megyei kórház - Széchenyi lakótelep - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-21A,21A,Vasútállomás - Széchenyi lakótelep - Megyei kórház - Tóth Árpád út,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-22,22,Volánbusz - Széchenyi lakótelep - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-22A,22A,Vasútállomás - Széchenyi lakótelep - Volánbusz,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-23,23,Kőrösi út - Széchenyi lakótelep - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-23A,23A,Vasútállomás - Széchenyi lakótelep - Kőrösi út,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-23E,23E,Vasútállomás - Széchenyi lakótelep - Szapáry út - Kőrösi út,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-24,24,Vasútállomás - Széchenyi lakótelep - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-24A,24A,Vasútállomás - Széchenyi lakótelep - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-25,25,Ipari Park (Stadler) - Széchenyi lakótelep - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-25A,25A,Vasútállomás - Széchenyi lakótelep - Ipari Park (Stadler),3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-2Y,2Y,Tallinn városrész - Jubileum tér - Cukorgyári lakótelep,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-3,3,Tallinn városrész - Kőrösi út,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-31,31,Tallinn városrész - Volánbusz,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-32,32,Szolnok Ispán krt. - Eagle Ottawa II.,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-33,33,Kassai út - Cukorgyári lakótelep,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-34,34,Hild Viktor utca - Ipari Park - Vegyiművek,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-34A,34A,Vasútállomás - Ipari Park - Piroska vmh.,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-34B,34B,Széchenyi lakótelep - Repülőtér,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-34E,34E,Hild Viktor utca - Vegyiművek,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-35,35,Tallinn városrész - Üteg utca - Kőrösi út,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-36,36,"Tallinn városrész - Tiszaliget, Campus",3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-37,37,Tallinn városrész - Repülőtér - Tallinn városrész,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-41,41,Repülőtér - Hild Viktor utca,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-5,5,Tallinn városrész - Rákóczi út - Cukorgyári lakótelep,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-6,6,Vasútállomás - Alamand dűlő,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-6Y,6Y,Vasútállomás - Holt-Tiszapart,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-7,7,Vasútállomás - Szandaszőlős - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-8,8,Vasútállomás - Szandaszőlős - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-28352,hkir_V-28352-H-3-1,1,Autóbusz-állomás - Tiszaszederkény,3,,152B32,FFFFFF,local
-hkir_V-28352,hkir_V-28352-H-3-1A,1A,Autóbusz-állomás - Fizikoterápiai Intézet - Tiszaszederkény,3,,152B32,FFFFFF,local
-hkir_V-28352,hkir_V-28352-H-3-2,2,Autóbusz-állomás - Tiszapart városrész,3,,152B32,FFFFFF,local
-hkir_V-28352,hkir_V-28352-H-3-3,3,Autóbusz-állomás - JABIL - Dózsa Gy. u.,3,,152B32,FFFFFF,local
-hkir_V-29726,hkir_V-29726-H-3-1,1,"Tiszafüred, Autóbusz-állomás - Örvény",3,,152B32,FFFFFF,local
-hkir_V-30766,hkir_V-30766-H-3-1T,1T,Volán telep - Városi temet/Kamalduli Remeteség,3,,152B32,FFFFFF,local
-hkir_V-30766,hkir_V-30766-H-3-1Y,1Y,Volán telep - Volán telep,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-10,10,"Kalmár utca - Bagola - Nagyfakos, alsó",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-10A,10A,Autóbusz-áll.- Bagola forduló,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-10Y,10Y,"Kalmár utca - Bagolai elágazó - Nagyfakos, alsó",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-14C,14C,Városkapu körút - Köztemető (temetői járat),3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-15,15,Vasút - Kalmár - Hevesi - Kalmár,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-16,16,"Autóbusz-állomás - Kiskanizsa, temető - Bajcsa, vízmű",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-16A,16A,"Autóbusz-állomás - Kiskanizsa, temető",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-16E,16E,Autóbusz-állomás - Városkapu,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-16Y,16Y,Kalmár - Városkapu - Kalmár - Kk.Rozmaring,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-17,17,Kalmár u - Napraf - Kalmár - Vasút,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-18,18,Kalmár utca - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-18Y,18Y,Palin futballp. - Miklósfa Sz.E.ford.,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-2,2,"Kalmár utca - Magyar utca - Palin, futballpálya",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-24,24,"Napraforgó tér - Kiskanizsa, Bornem.",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-25,25,"Kiskanizsa, Bornemissza - Vasútáll.",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-26,26,Városkapu krt.-Napraforgó tér,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-27,27,Városkapu krt. - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-28,28,"Autóbusz-állomás - Bajcsa, vízmű",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-28B,28B,"Városkapu körút - Bajcsa, vízmű",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-29,29,Városkapú körút - Ligetváros,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-2E,2E,"Kalmár utca - Palin, futballpálya",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-4,4,"Városkapu körút - Kiskanizsa, Bornemissza utca",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-46,46,Városkapu krt.- Kk. Templom - Kk. Bornemissza,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-4A,4A,"Autóbusz-állomás - Nagyrác - Kiskanizsa, Bornemissza utca",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-4Y,4Y,"Autóbusz-állomás - Templom tér - Nagyrác - Kiskanizsa, Bornemissza utca",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-5,5,Vá. - Kalmár utca - Hevesi u - Kalmár utca,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-5Y,5Y,Vasút - Kalmár u - Hevesi u. - Kalmár u.,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-6,6,"Városkapu körút - Eötvös tér - Kiskanizsa, Rozmaring utca",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-6A,6A,"Városkapu körút - Rózsa utca - Kiskanizsa, temető",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-6E,6E,"Városkapu - Kalmár u. - Kiskanizsa, temető",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-6Y,6Y,"Városkapu körút - Homokkomáromi forduló - Kiskanizsa, Rozmaring utca",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-7,7,Vasútáll.-Kalmár u-Napraforgó-Kalmár u-Vá.,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-7Y,7Y,Vasút - Kalmár - Balatoni - Kalmár - Vasút,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-8,8,"Napraforgó tér - Ligetváros - Miklósfa, Szentendrey Edgár forduló",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-8Y,8Y,"Napraforgó tér - Köztemető - Ligetváros - Miklósfa, Szentendrey Edgár forduló",3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-9,9,Városkapu körút - Miklósfa Sz.E. forduló,3,,152B32,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-9Y,9Y,Városkapu körút - Miklósfa SZ.E. ford.,3,,152B32,FFFFFF,local
-hkir_V-30988,hkir_V-30988-H-3-738,738,"Érd, aut. áll.-Bem tér-Favágó u.-Bem tér-Érd, aut.áll.",3,,152B32,FFFFFF,local
-hkir_V-30988,hkir_V-30988-H-3-746,746,"Érd, TESCO - Érd, aut. áll. - Érd, Minaret",3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-1,1,Vasútállomás - Autóbusz-állomás (Szabadság utca) - Astotec - Yanfeng - Pápakovácsi elágazó,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-13,13,Autóbusz-állomás - Volán-telep - TESCO - Borsosgyőr,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-14,14,Autóbusz-állomás - Kéttornyúlak,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-15,15,Kéttornyúlak - Borsosgyőr,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-16,16,"Autóbusz-állomás - Tapolcafő, Posta - Tapolcafő, Sportpálya",3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-17,17,Autóbusz-állomás - Táncsics út - Böröllő,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-1A,1A,Autóbusz-állomás (Szabadság utca) - Astotec,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-1Y,1Y,Autóbusz-állomás (Szabadság utca) - Yanfeng,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-2,2,Autóbusz-állomás - Veszprémi út - Törzsökhegy felső,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-5,5,Autóbusz-állomás - Rét utca / Vaszari utca - TÜZÉP,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-5T,5T,Autóbusz-állomás - Tizedik utca - Autóbusz-állomás (Szabadság utca) - Vasútállomás - TÜZÉP,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-6A,6A,Autóbusz-állomás (Szabadság utca) - Termálfürdő - Tókert - Kórház - Huszár ltp. - Tesco - Alsóváros,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-6B,6B,Autóbusz-állomás (Szabadság utca) - Alsóváros - Tesco - Huszár ltp. - Kórház - Tókert - Termálfürdő,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-7,7,Autóbusz-állomás (Szabadság utca) - Vasútállomás - Húskombinát - Tarczi utca - Korona utca - Tizedik,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-7A,7A,Vasútállomás - Húskombinát - Huszár lakótelep - Vízmű utca - Astotec,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-8A,8A,Vasútállomás - Pápakovácsi elág. - Tókert - Termálfürdő - Tesco - Alsóváros - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-31945,hkir_V-31945-H-3-8B,8B,Vasútállomás - Alsóváros - Tesco - Termálfürdő - Tókert - Pápakovácsi elág. - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-1,1,"Vasútállomás - Andráshida, Szentmártoni út (- Hatház) - Andráshida, sportpálya",3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-12,12,Ebergény - Landorhegy - Csácsbozsok,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-12A,12A,Ebergény - Landorhegy - Széchenyi tér/Kovács Károly tér,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-12B,12B,Ebergény - Landorhegyi út - Széchenyi tér - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-13,13,"Kertváros - Vasútállomás - (Nekeresd -) Pózva, Külsőkórház",3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-14,14,Botfa (- Zalabesenyő) (- Bartók Béla utca) - Vasútállomás - Kovács Károly tér/Széchenyi tér (- Hathá,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-15,15,Kertváros - Kovács Károly tér/Széchenyi tér - Új köztemető (- Neszele) - Ságod,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-18,18,"Vasútállomás - Csertán Sándor utca - Széchenyi tér - Kertváros, Köztársaság útja - Kovács Károly tér",3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-19,19,Kertváros - Kovács Károly tér - Páterdomb - Széchenyi tér - Kertváros,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-19A,19A,Kertváros - Kovács Károly tér/Széchenyi tér - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-20,20,Kovács Károly tér - Gasparich utca - Csertán Sándor utca - Kovács Károly tér,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-21,21,Csácsbozsok - Tesco - Kovács Károly tér/Széchenyi tér - Mártírok útja - Kertváros,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-22,22,Vasútállomás - Kertváros - Landorhegy - Széchenyi tér - Csácsbozsok,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-22A,22A,Olai bisztró - Széchenyi tér - Csácsbozsok,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-24,24,Botfa-(ADA)-Flex B - Vasútállomás - Kertváros - Landorhegy - Andráshida,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-25,25,Olai bisztró - Kertváros (- Autóbusz-állomás) - Kovács Károly tér - Ipari park,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-27,27,Autóbusz-állomás - Tungsram,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-28,28,Vasútállomás - Kertváros - Csertán Sándor utca - Széchenyi tér - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-29,29,Vasútállomás - Kertváros - Landorhegy - Vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-2A,2A,Széchenyi tér/Kovács Károly tér - Tesco - Csácsbozsok,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-2E,2E,Ganz Ábrahám Szakközépiskola - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-3,3,"Vasútállomás - (Nekeresd -) Pózva, Külsőkórház",3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-4,4,Vasútállomás (- Bartók Béla utca) (- Zalabesenyő) - Botfa,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-5,5,Autóbusz-állomás - Új köztemető (- Neszele) - Ságod,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-5T,5T,Kovács Károly tér - Új köztemető,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-6,6,Autóbusz-állomás/Körmendi út - Hűtőipari Zrt. - Szenterzsébethegy,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-7,7,Autóbusz-állomás - Bazita - Kökényesmindszent,3,,152B32,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-9,9,Kovács Károly tér - Páterdomb - Széchenyi tér,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-12,12,Autóbusz-állomás - Haraszti ipari terület - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-14,14,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-2,2,Autóbusz-állomás - Klapka u. - Máriabesnyő - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-24,24,Autóbusz-állomás - Királytelep - Klapka u. - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-2A,2A,Autóbusz-állomás - Klapka u. - Máriabesnyő - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-34,34,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-4,4,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-44,44,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-44A,44A,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-45,45,Autóbusz-állomás - Királytelep - Hegy u. - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-4A,4A,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-5,5,Autóbusz-állomás - Mátyás király u. - Hegy u.,3,,152B32,FFFFFF,local
-hkir_V-32559,hkir_V-32559-H-3-9,9,Autóbusz-állomás - Vasútállomás - Gödöllői Gépgyár,3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-12,12,Temetői járat,3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-20,20,"Petőfitelep, Fő tér - Szeged vasútállomás - Alsóváros, Vadkerti tér",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-21,21,Új-Petőfitelep - Mars tér - Szeged vasútállomás,3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-24,24,"Petőfitelep, Fő tér - Klebersberg telep",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-32,32,"Honvéd tér - Újszeged, víztorony",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-36,36,"Honvéd tér - Kiskundorozsma, Czékus utca",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-60,60,"Mars tér - Szőreg, Malom",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-60Y,60Y,"Mars tér - Szőreg, Malom",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-64,64,Mars tér - Kereskedő köz - Krematórium - Repülőtér,3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-67,67,"Kiskundorozsma, Sziksósfürdő - Szőreg, Malom",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-67Y,67Y,"Kiskundorozsma, Sziksósfürdő - Szőreg, Malom",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-70,70,"Mars tér - Újszeged, Füvészkert",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-71,71,"Szegedi Ipari Logisztikai Központ - Marostői városrész, Katalin utca",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-71A,71A,"Mars tér - Marostői városrész, Katalin utca",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-72,72,"Szegedi Ipari Logisztikai Központ - Marostői városrész, Erdélyi tér",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-72A,72A,"ELI lézeres kutatóközpont - Mars tér - Marostői városrész, Erdélyi tér",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-73,73,"Mars tér - Tápé, Csatár utca",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-73Y,73Y,"Mars tér - Petőfitelep, Fő tér - Tápé, Csatár utca",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-74,74,"Gyálarét - Mars tér - Tápé, Csatár utca",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-74A,74A,Mars tér - Gyálarét,3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-74Y,74Y,"Gyálarét - Mars tér - Petőfitelep, Fő tér - Tápé, Csatár utca",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-75,75,"Mars tér - Kiskundorozsma, Czékus utca",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-76,76,Mars tér - Szentmihály,3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-76Y,76Y,Mars tér - Szentmihály,3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-77,77,"Baktó, Völgyérhát utca - Mars tér - Szeged vasútállomás",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-77A,77A,"Baktó, Völgyérhát utca - Mars tér",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-78,78,Mars tér - Béketelep - Rókusi körút - Mars tér (körjárat),3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-78A,78A,Mars tér - Rókusi körút - Béketelep - Mars tér (körjárat),3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-79,79,79 Mars tér (Mikszáth u.) - ELI lézeres kutatóközpont - Rheinmetall,3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-7F,7F,"Mars tér - Kiskundorozsma, Sziksósfürdő",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-84,84,"Újszeged, Gabonakutató - Makkosháza",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-90,90,"Újszeged, Gabonakutató - Szeged vasútállomás",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-90F,90F,"Petőfitelep, Fő tér - Vadaspark (Textilgyári út)",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-90H,90H,90H Lugas utca - Szegedi Ipari Logisztikai Központ - Rheinmetall - BYD,3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-91E,91E,"Széchenyi tér - Szőreg, Malom - Mars tér",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-92E,92E,"Széchenyi tér - Tarján, Víztorony tér - Petőfitelep, Fő tér - Új-Petőfitelep - Tarján, Víztorony",3,,152B32,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-93E,93E,"Széchenyi tér - Makkosházi krt. - Rókusi krt. - Kiskundorozsma, Czékus utca",3,,152B32,FFFFFF,local
-hkir_V-33534,hkir_V-33534-H-3-1,1,"Nagybátony, va. - Szorospatak",3,,152B32,FFFFFF,local
-hkir_V-33534,hkir_V-33534-H-3-2,2,"Nagybátony, vá - Maconka",3,,152B32,FFFFFF,local
-hkir_V-33534,hkir_V-33534-H-3-3,3,"Szorospatak - Kisterenye, bányatelep",3,,152B32,FFFFFF,local
-hkir_V-33534,hkir_V-33534-H-3-3A,3A,"Szorospatak - Kisterenye, bányatelep",3,,152B32,FFFFFF,local
+hkir_V-02219,hkir_V-02219-H-3-1,1,Fűzfőgyártelep - Fövenyfürdő - Fűzfőgyártelep,3,,1A3236,FFFFFF,local
+hkir_V-02918,hkir_V-02918-H-3-1,1,Vasútállomás - Németfalu - Köztemető,3,,1A3236,FFFFFF,local
+hkir_V-02918,hkir_V-02918-H-3-2,2,Vasútállomás - Újtelep - Köztemető,3,,1A3236,FFFFFF,local
+hkir_V-02918,hkir_V-02918-H-3-3,3,Vasútállomás - Daru - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-13,13,Békeváros - Autóbusz-állomás - Dózsa mozi - Békeváros,3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-14,14,Papírgyár - Autóbusz-állomás - Szabadság u.,3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-18,18,Volán-telep - Vasútállomás - Bocskai u. Római krt - Aut.áll. - Vasútállomás - Volán-telep,3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-2,2,Kokszvegyészet - Papírgyár - Autóbusz állomás - Szórád M.út - Vasmű út - Papírgyár - Kokszvegyészet,3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-25,25,Szabadság u. - Autóbusz-állomás - Római krt. - Body Fashion,3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-27,27,Bagolyvár - Autóbusz-állomás - Body Fashion,3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-28,28,Body Fashion Kft. - Ováros - Békeváros,3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-29,29,Body Fashion Kft. - Temet - Ováros - Vasmű út - Autóbusz-állomás - Szórád M.út - Ováros - Temet - Body Fashion Kft,3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-3,3,Papírgyár - Vasmű út - Római krt. - Vasmű út - Papírgyár,3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-33,33,Pálhalma - Domanovszky tér - Autóbusz-állomás - Szórád Márton utca,3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-35,35,Pálhalma - Ujtelep - TESCO - Szórád M.út - Autóbusz-állomás - Római krt. - TESCO - Ujtelep - Pálhalma,3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-40,40,"Békeváros,Bagolyvár - Hajnal u. - Autóbusz-állomás - Római krt. - Bocskai u. - Hajnal u. - Békeváros,Bagolyvár",3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-44,44,Békeváros - Bocskai u. - Autóbusz-állomás - Ferrobeton - Papírgyár,3,,1A3236,FFFFFF,local
+hkir_V-03115,hkir_V-03115-H-3-5,5,Kertváros - Bocskai u. - Szórád M.út - Autóbusz-állomás - Római krt. - Ujtelep - Békeváros - Volán-telep,3,,1A3236,FFFFFF,local
+hkir_V-03522,hkir_V-03522-H-3-1,1,Déri sétány - Vámház - Dobó István utcai forduló - Barátság téri iskola - Déri sétány,3,,1A3236,FFFFFF,local
+hkir_V-03522,hkir_V-03522-H-3-2,2,Déri sétány - Vasutas telep - Dobó István utcai forduló - Vámház - Déri sétány,3,,1A3236,FFFFFF,local
+hkir_V-03522,hkir_V-03522-H-3-3,3,Déri sétány - Gólya sor - Déri sétány,3,,1A3236,FFFFFF,local
+hkir_V-03522,hkir_V-03522-H-3-4,4,Déri sétány - Gólyasor - Mártonszállás - Gólyasor - Déri sétány,3,,1A3236,FFFFFF,local
+hkir_V-03522,hkir_V-03522-H-3-5,5,Déri sétány - Tesco - Déri sétány - Vámház - Dobó István utcai forduló - Barátság téri iskola - Déri sé,3,,1A3236,FFFFFF,local
+hkir_V-03522,hkir_V-03522-H-3-6,6,Déri sétány - Pásztor utca - Vöröskereszt tér - DÉLHÚS - Hűtőház - Déri sétány,3,,1A3236,FFFFFF,local
+hkir_V-03522,hkir_V-03522-H-3-7,7,Déri sétány - DÉLHÚS - (Vaskúti úti laktanya forduló) - Vöröskereszt tér - Déri sétány - Dobó István u,3,,1A3236,FFFFFF,local
+hkir_V-03522,hkir_V-03522-H-3-8,8,Déri sétány - DÉLHÚS - (Vaskúti úti laktanya) - Vöröskereszt tér - Déri sétány,3,,1A3236,FFFFFF,local
+hkir_V-03522,hkir_V-03522-H-3-9,9,Tanítóképző Főiskola - Svraka tanya - Tanítóképző Főiskola,3,,1A3236,FFFFFF,local
+hkir_V-03522,hkir_V-03522-H-3-H3110,H3110,TEMETŐ JÁRAT,3,,1A3236,FFFFFF,local
+hkir_V-04260,hkir_V-04260-H-3-1,1,"Mezőtúr, aut. áll. - Kossuth tér. - aut. áll.",3,,1A3236,FFFFFF,local
+hkir_V-04349,hkir_V-04349-H-3-1,1,Autóbusz-állomás - Nyár utca - Munkácsy utca - Röszkei út - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-04783,hkir_V-04783-H-3-10,10,Vasútállomás - Moson - Evangélikus templom - Ujhelyi iskola - Tündérfátyol utca,3,,1A3236,FFFFFF,local
+hkir_V-04783,hkir_V-04783-H-3-1M,1M,Vasútállomás - Moson - Városháza - Mofém-gyár - Autóbusz-végállomás,3,,1A3236,FFFFFF,local
+hkir_V-04783,hkir_V-04783-H-3-2,2,Vasútállomás - Moson - Kiserdő utca - Városháza - Autóbusz-végállomás,3,,1A3236,FFFFFF,local
+hkir_V-04783,hkir_V-04783-H-3-2G,2G,Vasútállomás - Moson - Károly út - Gimnázium - Autóbusz-végállomás,3,,1A3236,FFFFFF,local
+hkir_V-04783,hkir_V-04783-H-3-4,4,Vasútállomás - Evangélikus templom - Majorok - Tündérfátyol utca,3,,1A3236,FFFFFF,local
+hkir_V-04783,hkir_V-04783-H-3-4A,4A,Vasútállomás - Kossuth Lajos utca - Városháza - Autóbusz-végállomás,3,,1A3236,FFFFFF,local
+hkir_V-04783,hkir_V-04783-H-3-5,5,Vasútállomás - Evangélikus templom - Ujhelyi iskola - Tündérfátyol utca,3,,1A3236,FFFFFF,local
+hkir_V-04783,hkir_V-04783-H-3-5A,5A,Autóbusz-végállomás - Evangélikus templom - Ujhelyi iskola - Tündérfátyol utca,3,,1A3236,FFFFFF,local
+hkir_V-04783,hkir_V-04783-H-3-7B,7B,Vasútállomás - Bartók Béla utca - Autóbusz-végállomás,3,,1A3236,FFFFFF,local
+hkir_V-04923,hkir_V-04923-H-3-1,1,Karcag vá - Nagyvénkert,3,,1A3236,FFFFFF,local
+hkir_V-04923,hkir_V-04923-H-3-2,2,"Karcag aut.áll. - Karcag, Kutatóintézet",3,,1A3236,FFFFFF,local
+hkir_V-04923,hkir_V-04923-H-3-3,3,Karcag vasútállomás - Nagyvénkert,3,,1A3236,FFFFFF,local
+hkir_V-04923,hkir_V-04923-H-3-4,4,Karcag vá. - Karcag aut.áll.,3,,1A3236,FFFFFF,local
+hkir_V-05032,hkir_V-05032-H-3-4,4,Vasútállomás - Gyulavári kastély/Dénesmajor,3,,1A3236,FFFFFF,local
+hkir_V-05032,hkir_V-05032-H-3-5,5,Vasútállomás - Várfürdő,3,,1A3236,FFFFFF,local
+hkir_V-05111,hkir_V-05111-H-3-1,1,Autóbusz-forduló - Autóbusz-állomás - Kőkereszt,3,,1A3236,FFFFFF,local
+hkir_V-05111,hkir_V-05111-H-3-1A,1A,Autóbusz-forduló - Autóbusz-állomás - Kőkereszt,3,,1A3236,FFFFFF,local
+hkir_V-05111,hkir_V-05111-H-3-3,3,Autóbusz-forduló - Autóbusz-állomás - Kőkereszt,3,,1A3236,FFFFFF,local
+hkir_V-05175,hkir_V-05175-H-3-1,1,Kösely Zrt. - Autóbusz-állomás - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-05175,hkir_V-05175-H-3-1A,1A,Autóbusz-állomás - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-05175,hkir_V-05175-H-3-2,2,Autóbusz-állomás - Hőforrás u. - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-05175,hkir_V-05175-H-3-2A,2A,Autóbusz-állomás - Rácz Farkas u. - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-05175,hkir_V-05175-H-3-3,3,Autóbusz-állomás - Köztemető,3,,1A3236,FFFFFF,local
+hkir_V-05236,hkir_V-05236-H-3-1,1,TESCO - Kispiac - Strand - Aranysas u. - Kossuth u. 12. - Bugát Pál kórház - Seregély út 48,3,,1A3236,FFFFFF,local
+hkir_V-05236,hkir_V-05236-H-3-1A,1A,1A TESCO-Kispiac-Aranysas u.-Aut.áll-Vasútállomás-Seregély u. 48,3,,1A3236,FFFFFF,local
+hkir_V-05449,hkir_V-05449-H-3-2,2,Autóbusz-állomás - Rendőrség - Vasútállomás - Koppánymonostor forduló,3,,1A3236,FFFFFF,local
+hkir_V-05449,hkir_V-05449-H-3-23,23,"Koppánymonostor,tábor - Laktanya köz - Autóbusz-állomás - Termálfürdő - Kórház - MOL Városrész",3,,1A3236,FFFFFF,local
+hkir_V-05449,hkir_V-05449-H-3-23K,23K,K.monostor - Kórház,3,,1A3236,FFFFFF,local
+hkir_V-05449,hkir_V-05449-H-3-2T,2T,"Autóbusz-állomás - Rendőrség - Vasútállomás - Koppánymonostor,tábor",3,,1A3236,FFFFFF,local
+hkir_V-05449,hkir_V-05449-H-3-3,3,Autóbusz-állomás - Termálfürdő - Kórház - MOL Városrész,3,,1A3236,FFFFFF,local
+hkir_V-05449,hkir_V-05449-H-3-32,32,"MOL Városrész - Kórház - Termálfürdő - Autóbusz-állomás - Laktanya köz - Koppánymonostor,tábor",3,,1A3236,FFFFFF,local
+hkir_V-05449,hkir_V-05449-H-3-32K,32K,Kórház - K.monostor,3,,1A3236,FFFFFF,local
+hkir_V-05449,hkir_V-05449-H-3-3K,3K,Kórház - Aut.áll.,3,,1A3236,FFFFFF,local
+hkir_V-05519,hkir_V-05519-H-3-1,1,Aut.áll. - Máriagyűd - Aut.áll.,3,,1A3236,FFFFFF,local
+hkir_V-06497,hkir_V-06497-H-3-1,1,"Autóbusz-állomás - Majos, alsó",3,,1A3236,FFFFFF,local
+hkir_V-06497,hkir_V-06497-H-3-2,2,Autóbusz-állomás - Hidas - Bonyhád vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-06497,hkir_V-06497-H-3-3,3,Autóbusz-állomás - Szecska - Fáy Ltp. - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-06497,hkir_V-06497-H-3-4,4,Autóbusz-állomás - Fáy Ltp. - Szecska - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-06497,hkir_V-06497-H-3-6,6,Autóbusz-állomás - Szecska lakótelep - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-06673,hkir_V-06673-H-3-1,1,Vasútállomás - Alsócsinger,3,,1A3236,FFFFFF,local
+hkir_V-06673,hkir_V-06673-H-3-10,10,Móra Ferenc utca -Timföldgyár -Vasútállomás - Alsócsinger,3,,1A3236,FFFFFF,local
+hkir_V-06673,hkir_V-06673-H-3-10Y,10Y,Móra Ferenc utca - Timföldgyár - Vasútállomás - Alsócsinger,3,,1A3236,FFFFFF,local
+hkir_V-06673,hkir_V-06673-H-3-12,12,Vasútállomás - Tósokberénd - Liliom utca - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-06673,hkir_V-06673-H-3-14,14,Vasútállomás - Ajkarendek,3,,1A3236,FFFFFF,local
+hkir_V-06673,hkir_V-06673-H-3-4,4,Tesco - Móra Ferenc utca - Hild park - Tesco,3,,1A3236,FFFFFF,local
+hkir_V-06691,hkir_V-06691-H-3-3,3,Autóbusz-állomás - Építők útja - Márka ABC - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-06691,hkir_V-06691-H-3-4B,4B,"Autóbusz-állomás - Munkás út - Herbolya,Tervtáró",3,,1A3236,FFFFFF,local
+hkir_V-06691,hkir_V-06691-H-3-9,9,Autóbusz-állomás - Pincesor - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-07357,hkir_V-07357-H-3-5,5,Autóbusz állomás - Justh Gyula utca - MEDICOR - Ipari Park,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-1,1,Jereván lakótelep - Felső-Lőverek  Alsó-Lőverek - Lőver szálló,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-10,10,Jereván lakótelep - Ady Endre út  Bánfalvi út - Kertváros-felső,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-10B,10B,"Jereván lakótelep - Ady Endre út  Bánfalvi út - Kertváros felső - Brennbergi út, erdei iskola",3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-10Y,10Y,Jereván lakótelep - Sopronbánfalva,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-11,11,Jereván lakótelep - Faraktár utca - Csengery utca - (Kórház -) Thököly tér,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-11A,11A,Thököly tér - Csengery utca - Faraktár utca - Jereván lakótelep,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-11B,11B,Jereván lakótelep - Faraktár utca - Csengery utca - Keleti rendező - (Kórház -) Thököly tér,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-11Y,11Y,Jereván ltp. - Keleti rendező - Thököly tér,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-12,12,"Jereván lakótelep - József Attila lakótelep - Kőszegi út, Sarudi utca",3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-12B,12B,Jereván lakótelep - Sopron Plaza - Kőszegi út,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-13,13,Jereván lakótelep - Híd utca - Sopronkőhida,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-13B,13B,Jereván lakótelep - Híd utca - Tómalomfürdő - Sopronkőhida,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-15,15,Virágvölgy - Széchenyi tér - Aranyhegy - Balf,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-15A,15A,Virágvölgy - Széchenyi tér - Balfi út - Balf,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-17,17,Jereván lakótelep - Csengery utca - Keleti rendező,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-2,2,Jereván lakótelep - Alsó-Lőverek  Felső-Lőverek - Lőver szálló,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-22,22,"Ágfalvi úti lakótelep - Bánfalvi út - Csengery utca - Ipar körút, vámudvar",3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-27,27,"Jereván lakótelep - Aranyhegy - Kórház - Csengery utca, Király Jenő utca",3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-27A,27A,Jereván ltp. - Kórház - Aranyhegy,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-27B,27B,"Jereván lakótelep - Virágvölgy - Aranyhegy - Kórház - Csengery utca, Király J. u.",3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-27T,27T,Jereván ltp. - Thököly tér - Aranyhegy - Jereván ltp.,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-27Y,27Y,Boldogasszonyi utca - Aranyhegy - Táncsics utca - Jereván lakótelep,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-3,3,Lackner Kristóf utca - Kertváros - Brennbergbánya,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-3Y,3Y,Jereván lakótelep - Ady Endre út - Kertváros - Brennbergbánya,3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-4,4,"Ipar körút, vámudvar  Lackner Kristóf utca - Baross út - Ágfalvi úti lakótelep",3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-5,5,"Jereván lakótelep - Csengery utca - Ipar körút, AWF Kft.",3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-5A,5A,"Jereván lakótelep - Csengery utca - Ipar körút, vámudvar",3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-5B,5B,"Ipar körút, vámudvar - Pihenőkereszt lakópark - Híd utca - Jereván lakótelep",3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-5Y,5Y,"Jereván lakótelep - Bécsi út - Híd utca - Ipar körút, AWF Kft.",3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-7,7,"Jereván lakótelep - Híd utca - Kórház - Csengery utca, Király Jenő utca",3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-7A,7A,"Jereván lakótelep - Híd utca - Csengery utca, Király Jenő utca",3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-7B,7B,"Jereván lakótelep - Virágvölgy - Híd utca - Csengery utca, Király Jenő utca",3,,1A3236,FFFFFF,local
+hkir_V-08518,hkir_V-08518-H-3-7T,7T,Jereván ltp. - Virágvölgy - Aranyhegy - Thököly tér - Jereván ltp.,3,,1A3236,FFFFFF,local
+hkir_V-08864,hkir_V-08864-H-3-1,1,Aut.vt. - Vasútáll. - Lajvér - Kövesd - Vasútáll. - Aut.vt.,3,,1A3236,FFFFFF,local
+hkir_V-12575,hkir_V-12575-H-3-2,2,Autóbusz-állomás - Gyár utca,3,,1A3236,FFFFFF,local
+hkir_V-12575,hkir_V-12575-H-3-3,3,Autóbusz-állomás - Lentihegy,3,,1A3236,FFFFFF,local
+hkir_V-12575,hkir_V-12575-H-3-94,94,Autóbusz-állomás - Bárszentmihályfa  Lentikápolna - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-13532,hkir_V-13532-H-3-1,1,Autóbusz-állomás - Horvátnádalja - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-13532,hkir_V-13532-H-3-1A,1A,Autóbusz-állomás - Felsőberkifalu - Alsóberkifalu - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-1,1,Kenessey Kórház - Bajcsy út - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-1A,1A,1A Vasútállomás- Madách L.-Kenessey Kórház,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-1B,1B,1B Kenessey Kórház-Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-2,2,Autóbusz-állomás - Kis posta - Ruhagyár - Volán telep,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-2A,2A,Autóbusz-állomás - Kis posta - Ruhagyár - Volán telep,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-3,3,Kábelgyár - Huszár Aladár út - Ruhagyár,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-3A,3A,Bremas Kft - Vasútállomás - Ruhagyár - Szabó L. iskola,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-3B,3B,Vasútállomás - Szabó L. iskola,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-4,4,Kenessey Kórház - Bremas Kft,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-4A,4A,Kenessey Kórház - Bremas Kft,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-5,5,Kenessey Kórház - Madách L. - Ruhagyár - Veres Pálné út - Kenessey Kórház,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-5A,5A,Autóbusz-állomás - Vasútállomás - Kábelgyár - Madách L. Ruhagyár - Veres Pálné út - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-6,6,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-6A,6A,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-6B,6B,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-6C,6C,Kenessey Kórház - Hétvezér út - Huszár A. út,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-7,7,Kenessey Kórház - Madách L. - Ruhagyár - Kossuth út - Kenessey Kórház,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-7A,7A,Civitas Fortissima tér - Szabó L. iskola,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-7B,7B,Civitas Fortissima tér - Szabó L. iskola,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-8,8,Autóbusz-állomás - Arany J.út - Május 1. - út - Ruhagyár - Madách L. - Kenessey Kórház,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-8A,8A,Autóbusz-állomás - Arany J. út - Szabó L. iskola - Szügyi út - MAHLE KFT,3,,1A3236,FFFFFF,local
+hkir_V-13657,hkir_V-13657-H-3-8B,8B,Kenessey Kórház - Arany J. út - Szabó L. iskola - Volán telep,3,,1A3236,FFFFFF,local
+hkir_V-14456,hkir_V-14456-H-3-1,1,Autóbusz-állomás - Drahos István utca,3,,1A3236,FFFFFF,local
+hkir_V-14456,hkir_V-14456-H-3-3,3,Hékéd - Autóbusz-állomás - Tesco áruház,3,,1A3236,FFFFFF,local
+hkir_V-14456,hkir_V-14456-H-3-3A,3A,Hékéd - Autóbusz-állomás - Tesco áruház,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-1,1,Autóbusz-állomás - Kórház,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-12,12,Kórház - Autóbusz-állomás - Március 15. u. - Autóbusz-állomás - Kórház,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-2,2,Kórház - Ruhagyár,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-20,20,Kórház - Autóbusz-állomás - Szentsimon,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-20A,20A,Autóbusz-állomás - Szentsimon,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-21,21,Kórház - Autóbusz-állomás - Március 15. u. - Autóbusz-állomás - Kórház,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-23,23,Center forduló - Petőfi tér - Autóbusz-állomás - Bolyki T. u. ált. isk./Ruhagyár,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-26,26,Autóbusz-állomás - Bolyki T. u. ált. isk. - Somsály,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-2A,2A,Autóbusz-állomás - Ruhagyár,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-3,3,Autóbusz-állomás - Center forduló,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-4,4,Kórház - Autóbusz-állomás - Vasútállomás - Új köztemető,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-47,47,Autóbusz-állomás - Új köztemető - Szenna - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-6,6,Autóbusz-állomás - Nyárjasalja út - Somsály,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-63,63,Somsály - Center forduló,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-68,68,Somsály - Autóbusz-állomás - Uraj - Susa,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-7,7,Autóbusz-állomás - Vasútállomás - Szenna,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-74,74,Autóbusz-állomás - Szenna - Új köztemető - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-76,76,Szenna - Autóbusz-állomás - Somsály,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-78,78,Autóbusz-állomás - Szenna - Uraj - Susa - Szenna - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-14492,hkir_V-14492-H-3-8,8,Kórház - Autóbusz-állomás - Uraj - Susa,3,,1A3236,FFFFFF,local
+hkir_V-14632,hkir_V-14632-H-3-1,1,"Vasútállomás - Turul u. - Bélatelep, forduló",3,,1A3236,FFFFFF,local
+hkir_V-14632,hkir_V-14632-H-3-2,2,Vasútállomás - Kenyérgyár - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-10,10,Szedreskert - Orsovai utca,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-11,11,Szedreskert - Vásárhelyi út - Szedreskert,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-11A,11A,Csapó utca-Vásárhelyi út-Sóstói bev.-Csapó utca,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-12,12,Szedreskert-Sóstó-Sóstó Ipari Park-Szedreskert,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-12A,12A,Csapó utca-Sóstói bev.-Vásrhelyi út-Csapó utca,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-12Y,12Y,Fecskepart - Autóbusz-állomás - Babér utca,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-13G,13G,Autóbusz-állomás - Babér utca,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-14,14,Szedreskert - Köfém lakótelep,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-14G,14G,Csapó utca-Köfém lakótelep-Babér utca,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-15,15,Fecskepart-Sóstó-Sóstó Ipari Park,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-15Y,15Y,Csapó u.- Szárcsa u. - Vásárhelyi úti letp.,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-16,16,Feketehegy - Szedreskert - AIZ,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-17,17,Csapó utca - Köfém lakótelep,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-20,20,Hübner A. u.-Jancsár u.-Köfém ltp.,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-22,22,Jancsár u. - Budai út - Kisfalud,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-23,23,Jancsár u. - Vá. - Budai út - Európa IP.,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-23E,23E,Jancsár u. - Budai út - Fiskális út - Videoton,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-24,24,Jancsár utca-Zsolnai út-Zsurló u.,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-25,25,Jancsár utca - Püspökkertváros,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-26,26,Jancsár u. - Autóbusz-állomás - Berényi út - Béla u.- Depónia,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-26A,26A,Orsovai utca - Jancsár u. - Autóbusz-állomás - Berényi út - Kassai u.,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-31,31,Vasútállomás-Béla u.,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-31E,31E,Vasútállomás - Budai út - Fiskális út - VIDEOTON,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-32,32,Kassai utca-Vá.-Sóstói bev.központ-Vásárhelyi úti ltp.,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-33,33,Vasútállomás-Fecskepart,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-34,34,Vasútállomás-Fecskepart,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-35,35,Vasútállomás-Zone bev.,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-36,36,Vasútállomás-Hernád utca,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-37,37,MET Aréna-Kórház-Vasútállomás-Feketehegy-Vasútállomás-Kórház-MET Aréna,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-38,38,Vasútállomás - Autóbusz-állomás - Berényi út - TESCO - Videoton Ipari Park,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-40,40,Csapó utca - Maroshegy (körjárat),3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-41,41,Csapó u. - Kórház - Maroshegy (körjárat),3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-42,42,Csapó utca - Rákóczi utca - Börgönd,3,,1A3236,FFFFFF,local
+hkir_V-14827,hkir_V-14827-H-3-44,44,Csapó utca-Kórház-Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-1,1,Szabadság tér - Autóbusz-állomás - Volán telep - Szabadság tér/Kórház,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-17,17,Szabadság tér - Lencsési autóbusz-forduló,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-17M,17M,Kórház - Szabadság tér - Lencsési autóbusz-forduló,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-17V,17V,Autóbusz-állomás - Szabadság tér - Lencsési autóbusz-forduló,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-20,20,Autóbusz-állomás - Gerla,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-3,3,Veres Péter utca - Szabadság tér - Varságh utca/Kossuth tér,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-5,5,Autóbusz-állomás - Mezőmegyer,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-7,7,Autóbusz-állomás - Lencsési autóbusz-forduló,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-74A,74A,Lencsési autóbusz-forduló - Veres Péter u. - Kolozsvári u. - Lencsési autóbusz-forduló,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-74B,74B,Lencsési autóbusz-forduló - Kolozsvári u. - Veres Péter u. - Lencsési autóbusz-forduló,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-7F,7F,Autóbusz-állomás - Lencsési autóbusz-forduló - Fényes - Lencsési autóbusz-forduló - Autóbusz - állo,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-8,8,LINAMAR - Autóbusz-állomás - Erdélyi sor/Varságh utca,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-8A,8A,TESCO - Autóbusz-állomás - Erdélyi sor,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-8MJ,8MJ,VOLÁN telep - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-15200,hkir_V-15200-H-3-8V,8V,TESCO - Autóbusz-állomás - Varságh utca,3,,1A3236,FFFFFF,local
+hkir_V-15291,hkir_V-15291-H-3-1,1,Kastélyotthon - Nagy út (Vágóhíd út),3,,1A3236,FFFFFF,local
+hkir_V-15291,hkir_V-15291-H-3-2,2,Nagy út - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-1,1,Autóbusz-állomás - Repülőtér,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-10,10,Örökösföld - Vasútállomás - Nyírszőlős,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-10A,10A,Örökösföld - Vasútállomás - Nyírszőlős,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-10J,10J,Örökösföld - Vasútállomás - Nyírszőlős,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-10Y,10Y,Örökösföld - Vasútállomás - Nyírszőlős,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-11,11,Örörkösföld - Egyház utca,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-12,12,Sóstói úti kórház - Vasútállomás - Vasúti aluljáró (- Szakiskola és kollégium),3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-12Y,12Y,Sóstói úti kórház - Vasútállomás - Vasúti aluljáró (- Szakiskola és kollégium),3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-13,13,Sóstói úti kórház - Alma utcai iskola,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-13Y,13Y,Sóstói úti kórház - Alma utcai iskola,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-14,14,"Vasútállomás - Sóstóhegy, vasútállomás bejárati út",3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-14F,14F,"Vasútállomás - Sóstóhegy, vasútállomás bejárati út",3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-17,17,Örökösföld - Rendelőintézet/Kórház - Szélsőbokori út,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-17B,17B,Örökösföld - Rendelőintézet/Kórház - Szélsőbokori út,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-19,19,Örökösföld - Rendelőintézet/Kórház - Szélsőbokori út,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-1A,1A,Autóbusz-állomás - Repülőtér,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-2,2,"Autóbusz-állomás - Csárda utca, forduló",3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-20,20,Vasútállomás - Törzs utca - Örökösföld - Család utca - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-21,21,Vasútállomás - Törzs utca - Örökösföld - Család utca - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-22,22,Autóbusz-állomás - Ipari utca - Alma utcai iskola,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-22A,22A,Autóbusz-állomás - Ipari utca - Alma utcai iskola,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-24,24,Sóstói úti kórház - Autóbusz-állomás - Kistelekiszőlő,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-25,25,Vasútállomás - Északi körút - Jósaváros - Örökösföld - Alma utcai iskola,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-27,27,Sóstói úti kórház - Jósaváros - Szélsőbokori út - Sóstói út kórház,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-29,29,Vasútállomás - Kertváros - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-2A,2A,"Autóbusz-állomás - Csárda utca, forduló",3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-3,3,Autóbusz-állomás - Kistelekiszőlő - Rozsrét,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-30,30,Autóbusz-állomás - Rozsrét,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-4,4,"Autóbusz-állomás - Rendelőintézet - Oros, Magyar utca",3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-44,44,"Vasútállomás - Jósaváros - Örökösföld - Oros, Takarék köz",3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-44A,44A,"Vasútállomás - Jósaváros - Örökösföld - Oros, Takarék köz",3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-49,49,Oros - Örökösföld - Michelin - Huszár telep,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-49L,49L,Oros - Örökösföld - Michelin - Huszár telep,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-4B,4B,"Autóbusz-állomás - Rendelőintézet - Oros, Magyar utca",3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-4E,4E,"Autóbusz-állomás - Rendelőintézet - Oros, Magyar utca",3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-4Y,4Y,"Autóbusz-állomás - Rendelőintézet - Oros, Magyar utca",3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-5,5,Örökösföld - Kórház - Jósaváros - Sóstóhegy,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-51,51,Vásártér - Örökösföld - Jósaváros - Vásártér,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-55,55,Örökösföld - Kórház - Jósaváros - Sóstógyógyfürdő,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-55A,55A,Örökösföld - Kórház - Jósaváros - Sóstógyógyfürdő,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-5A,5A,Örökösföld - Kórház - Jósaváros - Sóstóhegy,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-7,7,Vasútállomás - Jósaváros - Sóstóhegy,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-8,8,Vasútállomás - Sóstói úti kórház - Sóstógyógyfürdő,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-8Y,8Y,Vasútállomás - Sóstói úti kórház - Jósaváros - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-9,9,Örökösföld - Kórház - Búza tér - Huszár telep,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-90,90,Sóstói úti kórház - Autóbusz-állomás - Révész-Michelin Logisztikai Központ,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-900,900,Vasútállomás - Jósaváros - Sóstógyógyfürdő - Jósaváros - Örökösföld - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-901,901,Szakiskola és Kollégium - Vasútállomás - Jósaváros - Örökösföld,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-902,902,Vasútállomás - Szakiskola és Kollégium - Jósaváros - Örökösföld,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-90E,90E,Sóstói úti kórház - Autóbusz-állomás - Révész-Michelin Logisztikai Központ,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-92,92,Sóstói úti kórház - Jósaváros - LEGO,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-93,93,Örökösföld - Vasútállomás - LEGO,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-93E,93E,Örökösföld - Vasútállomás - LEGO,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-94,94,Jósavárosi piac - Sóstói úti kórház - Michelin (- LEGO),3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-94L,94L,Jósavárosi piac - Sóstói úti kórház - Michelin (- LEGO),3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-95,95,Örökösföld - Autóbusz-állomás - Michelin - Huszár telep,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-95E,95E,Örökösföld - Autóbusz-állomás - Michelin - Huszár telep,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-96,96,Autóbusz-állomás - Debreceni út - Alma utcai iskola,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-97,97,"Örökösföld - Lujza utca - Ipari park, Wittur (- Újsortanya)",3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-H30,H30,Autóbusz-állomás - Rozsrét - Újsortanya - Butykasor - Oláhrét,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-H31,H31,Autóbusz-állomás - Butykasor - Oláhrét,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-H32,H32,Autóbusz-állomás - Nyírjes - Nagyszállás,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-H35,H35,Autóbusz-állomás - Alsóbadúr - Polyákbokor - Felsősima,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-H38,H38,Sóstói úti kórház - Autóbusz-állomás - Rozsrét - Oláhrét,3,,1A3236,FFFFFF,local
+hkir_V-17206,hkir_V-17206-H-3-H40,H40,Autóbusz-állomás - Antalbokor - Rókabokor - Vargabokor - Kazárbokor - Sulyánbokor,3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-1,1,"Autóbusz-állomás - Balatonszéplak, Alsó v. mh.",3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-14A,14A,"Kiliti, Szeptember 6. tér - Autóbusz-állomás",3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-18,18,"12. Sóstó, Kemping-Aut. áll.-Somogyfok-Perczel Mór u.-Aut. áll.-Sóstó, Kemping",3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-2,2,"Autóbusz-állomás - Sóstó, Kemping",3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-21,21,Darnay Kálmán tér - Perczel Mór u.,3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-2A,2A,2A. Aut. áll.-Nyaralótelep,3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-3,3,Autóbusz-állomás - Volán-telep,3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-4,4,"Autóbusz-állomás - Kiliti, Béke tér",3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-5,5,"Autóbusz-állomás - Szépvölgyi u. - Kiliti,Béke tér",3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-6,6,"Autóbusz-állomás - Balatonszéplak, Felső v. mh. - Somogyfok",3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-7,7,"Autóbusz-állomás - Boróka u. - Somogyfok - Töreki, Alsó",3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-8,8,Autóbusz-állomás - Boróka u. - Somogyfok,3,,1A3236,FFFFFF,local
+hkir_V-17941,hkir_V-17941-H-3-1,1,"Autóbusz-állomás - Henész, forduló",3,,1A3236,FFFFFF,local
+hkir_V-17941,hkir_V-17941-H-3-5,5,Autóbusz-állomás - Éltes Mátyás Iskola,3,,1A3236,FFFFFF,local
+hkir_V-18209,hkir_V-18209-H-3-1,1,Hatvani út - Autóbusz-állomás - Platán u. - Szent István krt - Kórház - Vasútállomás - Electrolux,3,,1A3236,FFFFFF,local
+hkir_V-18209,hkir_V-18209-H-3-2A,2A,Autóbusz-állomás - Szt. István krt.,3,,1A3236,FFFFFF,local
+hkir_V-18421,hkir_V-18421-H-3-1,1,"Autóbusz-állomás - Kórház - Gyenesdiás, sportpálya",3,,1A3236,FFFFFF,local
+hkir_V-18421,hkir_V-18421-H-3-2,2,Autóbusz-állomás - Vaszary utca - Fodor utca - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-18421,hkir_V-18421-H-3-3,3,"Autóbusz-állomás - Egyetem, kollégium - Szendrey telep",3,,1A3236,FFFFFF,local
+hkir_V-18421,hkir_V-18421-H-3-5,5,"Autóbusz-állomás - Rákóczi tér - Kárpát utca, autóbusz-forduló",3,,1A3236,FFFFFF,local
+hkir_V-18421,hkir_V-18421-H-3-C5,C5,Autóbusz-állomás - TESCO,3,,1A3236,FFFFFF,local
+hkir_V-19433,hkir_V-19433-S-3-2-0,2,Dózsa Gy. u. - Mátyás király u. - Gyógyfürdő,3,,1A3236,FFFFFF,local
+hkir_V-19433,hkir_V-19433-S-3-2B-0,2B,Dózsa Gy u. - Vasútállomás - Gyógyfürdő,3,,1A3236,FFFFFF,local
+hkir_V-19433,hkir_V-19433-S-3-3-0,3,Cseresznye u. - Dózsa Gy. u. - Mátyás király u. - Vasútállomás - Rutinpálya,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-1,1,Fellner Jakab úti forduló - Kossuth tér - Autóbusz-állomás - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-1M,1M,Fellner Jakab út - Újtelep - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-1R,1R,Fellner Jakab úti forduló - Tom - Ferr Zrt. - Tescon ruház - Kossuth tér - Autóbusz-állomás - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-1T,1T,Tesco Áruház - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-2,2,Fellner Jakab úti forduló - Mocsai u. - Autóbusz-állomás - Gesztenye fasor - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-2G,2G,Fellner Jakab út-Golf Hotel-Kossuth tér-Mikovényi utca-Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-5,5,Fellner Jakab úti forduló - Kossuth tér - Autóbusz-állomás - Kertváros - Autóbusz-állomás - Kossuth tér - Fellner,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-5A,5A,Autóbuszállomás-Kertváros-Autóbuszállomás,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-5AF,5AF,Autóbuszállomás-Kertváros-Fellner Jakab úti forduló,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-5FA,5FA,Fellner Jakab úti forduló-Kertváros-Autóbuszállomás,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-5R,5R,Kossuth tér/Autóbusz-állomás - Deák Ferenc út,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-5T,5T,Fellner Jakab út - Kertváros - Iprai park - Fellner Jakab út,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-7,7,"Autóbusz-állomás - Agostyán,forduló",3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-7A,7A,"Autóbuszállomás - Agostyán, forduló",3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-8,8,"Fellner Jakab úti forduló - Kossuth tér - Autóbusz-állomás - Ujhegy,buszford. - Autóbusz-állomás - Kossuth tér - F",3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-9,9,Fellner Jakab út - Vasútállomás - Újhegy,3,,1A3236,FFFFFF,local
+hkir_V-20127,hkir_V-20127-H-3-9M,9M,Újhegy - Vasútállomás - Mocsai út - Fellner Jakab út,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-11,11,Lajosváros - Felnémet,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-112,112,IPARI PARK - MÁTYÁS KIR. U. - TESCO,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-113,113,Ipari Park - TESCO,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-12,12,Lajosváros - TESCO,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-13,13,Lajosváros - TESCO,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-14,14,Lajosváros - Felnémet - Berva,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-14E,14E,Lajosváros - BERVA,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-16,16,Lajosváros - Tihaméri malom - Felnémet - Berva,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-17,17,TESCO - Iskola út - Baktai út - Vécsey völgy,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-2,2,Tihamér - Szalapart,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-2A,2A,Tihamér - Szalapart,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-3A,3A,Lajosváros - TESCO,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-4,4,Lajosváros - BERVA,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-5,5,AGROKER - TESCO,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-5A,5A,TIHAMÉR - TESCO,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-6,6,Lajosváros - TESCO,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-7,7,TESCO - Baktai út - Vécsey völgy,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-7A,7A,Baktai út - Vécsey völgy,3,,1A3236,FFFFFF,local
+hkir_V-20491,hkir_V-20491-H-3-914,914,Lajosváros - Tihaméri malom - Felnémet - Berva,3,,1A3236,FFFFFF,local
+hkir_V-21175,hkir_V-21175-H-3-1,1,Volán-telep - Autóbusz-állomás - Zákonyi sétány - Fürdő utca - Lakótelep - Újtelep,3,,1A3236,FFFFFF,local
+hkir_V-21175,hkir_V-21175-H-3-1B,1B,Autóbusz-állomás - Zákonyi sétány - Fürdő utca - Lakótelep - Újtelep,3,,1A3236,FFFFFF,local
+hkir_V-21175,hkir_V-21175-H-3-2,2,Újtelep - Lakótelep - Fürdő utca - Zákonyi sétány - Autóbusz-állomás - Volán-telep,3,,1A3236,FFFFFF,local
+hkir_V-21175,hkir_V-21175-H-3-2B,2B,Újtelep - Lakótelep - Fürdő utca - Zákonyi sétány - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-21175,hkir_V-21175-H-3-3,3,Autóbusz-állomás - Óváros - Arács - Strandok - Kiserdő - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-21175,hkir_V-21175-H-3-4,4,Autóbusz-állomás - Kiserdő - Strandok - Arács - Óváros - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-21175,hkir_V-21175-H-3-5,5,Autóbusz-állomás - Noszlopy utca - Illés utca - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-21175,hkir_V-21175-H-3-6,6,Autóbusz-állomás - Kiserdő - Arács - Illés utca - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-21175,hkir_V-21175-H-3-7,7,Autóbusz-állomás - Illés utca - Arács - Kiserdő - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-21315,hkir_V-21315-H-3-1,1,Arany János u. - Autóbusz-állomás - Szakközépiskola,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-1,1,Autóbusz-állomás - Béla király tér - Remete u. - Hosszú-völgy,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-12,12,Baranya-völgy - Otthon u./TESCO Áruház - Béri B. Ádám u. - Bottyán-hegy,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-13,13,13. Jobbparászta - Bottyán-hegy - Béri Balogh u. - TESCO,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-14,14,TESCO Áruház - Otthon u./Béri B. Ádám u. - Bottyán-hegy,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-16,16,Tót-völgy - Autóbusz-állomás - Újváros - Műszergyár - Palánk,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-17,17,17. Aut.áll. -TOLNATEJ - Aut. áll. - Csatár - Hosszú-völgy,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-19,19,Csatári forduló - Alisca u. - Kadarka u. - Műszergyár - Jobbparászta,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-1B,1B,1B Hosszú-völgy - (Kilátó u.) - Autóbusz-állomás - TESCO,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-4,4,Autóbusz-állomás - Bottyán-hegy,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-4B,4B,TESCO Áruház - Autóbusz-állomás - Bottyán-hegy,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-6,6,Tót-völgy - Autóbusz-állomás - Újváros - Jobbparászta,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-6B,6B,6B. Autóbusz-állomás - Nyomda - TESCO - Tót-völgy,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-7,7,TESCO - Alisca u. - Aut.áll. - TOLNATEJ Zrt. - Aut.áll. - TESCO,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-9,9,TESCO - Alisca u. - Fűtőmű - Május 1. u. - Kadarka u. - Jobbparászta,3,,1A3236,FFFFFF,local
+hkir_V-22761,hkir_V-22761-H-3-9A,9A,TESCO - Alisca u. - Kadarka u. - Jobbparászta,3,,1A3236,FFFFFF,local
+hkir_V-23603,hkir_V-23603-H-3-1,1,Vasútállomás - Vásártér,3,,1A3236,FFFFFF,local
+hkir_V-23603,hkir_V-23603-H-3-1B,1B,Vasútállomás - Vásártér,3,,1A3236,FFFFFF,local
+hkir_V-23959,hkir_V-23959-H-3-1,1,"Mohács, aut. áll. - Üdülőtelep",3,,1A3236,FFFFFF,local
+hkir_V-24934,hkir_V-24934-H-3-1,1,Szérűskert - Nagymező u. - Kórház - Híradó tér,3,,1A3236,FFFFFF,local
+hkir_V-24934,hkir_V-24934-H-3-11,11,Szérűskert - Nagymező u. - Kórház - Híradó tér,3,,1A3236,FFFFFF,local
+hkir_V-24934,hkir_V-24934-H-3-3,3,DDC - Autóbusz-állomás - Gombás - Sejce lakótelep,3,,1A3236,FFFFFF,local
+hkir_V-24934,hkir_V-24934-H-3-33,33,Telep u. - Autóbusz-állomás - Szérűskert,3,,1A3236,FFFFFF,local
+hkir_V-24934,hkir_V-24934-H-3-4,4,Szérűskert - Autóbusz-állomás - Március 15. tér - Kórház - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-24934,hkir_V-24934-H-3-5,5,Autóbusz-állomás - Kórház - Március 15. tér - Autóbusz-állomás - Szérűskert,3,,1A3236,FFFFFF,local
+hkir_V-24934,hkir_V-24934-H-3-55,55,Autóbusz-állomás - Kórház - Március 15. tér - Autóbusz-állomás - Szérűskert,3,,1A3236,FFFFFF,local
+hkir_V-24934,hkir_V-24934-H-3-6,6,Gombási út - Deákvár - Alsóváros,3,,1A3236,FFFFFF,local
+hkir_V-25131,hkir_V-25131-H-3-A,A,Vá. - Földműves - Kertváros,3,,1A3236,FFFFFF,local
+hkir_V-25131,hkir_V-25131-H-3-B,B,Kertváros - Földműves - Vá.,3,,1A3236,FFFFFF,local
+hkir_V-25131,hkir_V-25131-H-3-C,C,C - Vá.-Bánomi-Kertváros-Vá.,3,,1A3236,FFFFFF,local
+hkir_V-25131,hkir_V-25131-H-3-G,G,Vá. - Dobozi - Vá.,3,,1A3236,FFFFFF,local
+hkir_V-25131,hkir_V-25131-H-3-N,N,Vá. - Dobozi - Vá.,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-1,1,"Gyirmót - Ménfőcsanak - Marcalváros - Pápai út - Belváros - Újváros, Nép utca",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-11,11,"Marcalváros - Adyváros - Belváros - Sziget - Egyetem - Bácsa, Ergényi lakótelep",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-11Y,11Y,"Marcalváros - Adyváros - Belváros - Bácsa, Ergényi lakótelep",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-12,12,"Révai Miklós utca - Kandó utca - Audi-gyár, 5-ös porta",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-12A,12A,"Révai Miklós utca - Kandó utca - Audi-gyár, 8-as porta",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-12Y,12Y,"Széchenyi István Egyetem - Kandó utca - Audi-gyár, 5-ös porta",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-13,13,Marcalváros - Adyváros - Gyárváros - Belváros - Sziget - Pinnyéd,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-13B,13B,Marcalváros - Temető - Adyváros - Gyárváros - Belváros - Sziget - Pinnyéd,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-14,14,"Marcalváros - Adyváros - Gyárváros - Belváros - Újváros, Nép utca",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-14A,14A,"Marcalváros - Adyváros - Gyárváros - Belváros - Sziget - Liget utca, Nyár utca",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-14B,14B,"Marcalváros - Temető - Adyváros - Gyárváros - Belváros - Liget utca, Nyár utca",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-15,15,Révai Miklós utca - Gyárváros - Audi-gyár - Ipari Park - Révai Miklós utca,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-15A,15A,"Révai Miklós utca - Gyárváros - Audi-gyár, 5-ös porta",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-16,16,Marcalváros - Adyváros - Autóbusz-állomás - Vízmű - Keverőtelep (Újfalu lakópark),3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-17,17,Virágpiac - Adyváros - Szabadhegy - Fehérvári út - Révai Miklós utca,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-17B,17B,"Virágpiac - Adyváros - Szabadhegy, új köztemető - Fehérvári út - Révai Miklós utca",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-18,18,Révai Miklós utca (- Korányi Frigyes tér) - Munkácsy Mihály utca,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-19,19,Révai Miklós utca - Adyváros - Kollégium - Belváros - Városrét - Egyetem (- Mobilis),3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-19A,19A,Virágpiac - Adyváros - Kollégium - Virágpiac,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-1A,1A,"Marcalváros - Pápai út - Belváros - Újváros, Nép utca",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-1B,1B,"Gyirmót - Ménfőcsanak - Marcalváros - Belváros - Újváros, temető - Nép utca",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-2,2,"Révai Miklós utca - Zrínyi utca - Zöld utca, Szőnyi Márton utca",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-20,20,"Zöld utca, Soproni út - Adyváros - Gyárváros - Audi-gyár, 8-as porta",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-20Y,20Y,"Ménfőcsanak, Győri út - Új élet út - Adyváros - Gyárváros - Audi-gyár, 8-as porta",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-21,21,"Révai Miklós utca - Nádor tér - Marcalváros - Ménfőcsanak, Győri út (- Új élet út)",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-21B,21B,Révai Miklós utca - Nádor tér - Marcalváros - Győzelem utca - Győri út,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-22,22,"Révai Miklós utca - Marcalváros - Új élet út - Ménfőcsanak, Győri út",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-22A,22A,Révai Miklós utca - Marcalváros,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-22B,22B,Révai Miklós utca - Marcalváros - Új élet út - Győri út (- Győzelem utca),3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-22Y,22Y,"Révai Miklós utca - Marcalváros - Ménfőcsanak, Győzelem utca",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-23,23,"Marcalváros - Adyváros - Gyárváros - Győrszentiván, Kálmán Imre út (- Homoksor)",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-23A,23A,"Marcalváros - Adyváros - Ipar utca, Volán-telep",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-24,24,"Marcalváros - Adyváros - Audi-gyár, 5-ös porta",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-25,25,Marcalváros - Adyváros - Ipari Park,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-26,26,Marcalváros - Szabadhegy - Ipari Park,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-28,28,Marcalváros - Adyváros - Ipari Park - LOC1 - LOC2 logisztikai csarnok,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-29,29,Révai Miklós utca - Városrét - Dunakapu tér - Széchenyi István Egyetem,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-2B,2B,"Zöld utca, Szőnyi Márton utca - Zrínyi utca - Sziget - Egyetem - Révai Miklós utca",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-30,30,"Révai Miklós utca - Győrszentiván, Kálmán Imre út - Homoksor",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-30A,30A,"Révai Miklós utca - Győrszentiván, Kálmán Imre út",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-30B,30B,"Révai Miklós utca - Ipari Park - Győrszentiván, Kálmán Imre út",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-30Y,30Y,"Révai Miklós utca - Audi-gyár - Ipari Park - Győrszentiván, Kálmán Imre út",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-31,31,"Révai Miklós utca - Győrszentiván, Homoksor - Kálmán Imre út",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-31A,31A,"Révai Miklós utca - Győrszentiván, Kálmán Imre út - Homoksor",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-37,37,Révai Miklós utca - Adyváros - Temető - Ménfőcsanak - Gyirmót,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-37T,37T,Temetőjárat Marcalváros - Temető - Adyváros - Zechmeister utca,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-38,38,Révai Miklós utca - Adyváros - Szabadhegy - Ipari Park,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-38A,38A,Révai Miklós utca - Adyváros - Szabadhegy - Ipari Park,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-41,41,"Zöld utca, Soproni út - Adyváros - Honvédség",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-42,42,Marcalváros - Belváros - Honvédség,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-5,5,Révai Miklós utca - Kismegyer,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-5B,5B,Révai Miklós utca (- Raktárváros) - Agroker - Kismegyer,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-5R,5R,Révai Miklós utca - Raktárváros - Kismegyer,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-6,6,Szitásdomb - Sárás - Egyetem - Dunakapu tér - Városrét - Belváros - Kismegyer,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-7,7,Révai Miklós utca - Fehérvári út - Szabadhegy - Adyváros - Virágpiac,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-8,8,Révai Miklós utca - Gyárváros - Állatkert - Likócs,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-8Y,8Y,Munkácsy Mihály utca - Gyárváros - Állatkert - Likócs,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-9,9,(Mobilis -) Egyetem - Városrét - Belváros - Kollégium - Adyváros - Iparkamara,3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-900,900,"Autóbusz-állomás - (Egyetem -) Adyváros - Marcalváros - Ménfőcsanak, Hegyalja u.",3,,1A3236,FFFFFF,local
+hkir_V-25584,hkir_V-25584-H-3-9A,9A,Virágpiac - Kollégium - Adyváros - Virágpiac,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-1,1,Helyi autóbusz-állomás - Zagyvaróna,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-11,11,Helyi autóbusz-állomás - Somoskőújfalu,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-11A,11A,Helyi autóbusz-állomás - Országhatár - Somoskő,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-11B,11B,Helyi autóbusz-állomás - Somoskő - Salgóbánya,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-11Y,11Y,Somoskőújfalu - Hősök út,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-13,13,Zagyvaróna - Volánközpont - Ipari Park,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-14,14,Zagyvaróna - Baglyasalja,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-19,19,Salgóbánya - (Somoskő) - Helyi autóbusz-állomás - (Kotyháza) - Ipari Park,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-1A,1A,Zagyvaróna - Helyi autóbusz-állomás - Uzoni iskola,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-27A,27A,Helyi aut. - Somlyóbánya - Kórház - Fáy a - Kórház - Helyi aut.,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-2A,2A,Helyi autóbusz-állomás - Somlyóbánya,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-2C,2C,Somlyóbánya - Füleki út - Helyi autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-2T,2T,Helyi autóbusz-állomás - Somlyó forduló,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-3,3,Helyi autóbusz-állomás - Tesco - Hősök út,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-36,36,Hősök út - Tesco - Camping telep,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-36U,36U,Hősök út - Tesco - Camping telep,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-3C,3C,Hősök út - (Gorkij telep) - Eperjes telep - - Hősök út,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-4,4,Helyi autóbusz-állomás - Baglyasalja,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-46,46,Baglyasalja - Camping telep,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-4A,4A,Baglyasalja - Hősök út,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-5,5,Helyi autóbusz-állomás - Idegér - Helyi autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-58,58,Helyi autóbusz-állomás - Idegér - Szerpentin út - Helyi,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-6,6,Helyi autóbusz-állomás - Camping telep,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-61,61,Camping telep - Zagyvaróna,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-63,63,Camping telep - Csokonai út - Hősök út,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-63S,63S,Hősök út - Sugár út - Csokonai út - Camping telep,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-7,7,Helyi aut.áll - (Forgách-telep) - Kórház - Fáy A. - Kórház_Helyi aut.áll.,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-7A,7A,(Sugár út) - Helyi autóbusz-állomás - Kórház - Fáy A. - Kórház - (Idegér) - Helyi aut.áll.,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-7B,7B,Helyi aut.áll - Losonci út - Fáy A - Kórház - Helyi aut.áll.,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-7C,7C,Helyi autóbusz-állomás - Losonci út - Fáy A - Losonci út - Helyi aut.,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-8,8,Helyi autóbusz-állomás - Szerpentin út - Helyi aut.áll.,3,,1A3236,FFFFFF,local
+hkir_V-25788,hkir_V-25788-H-3-9,9,Helyi autóbusz-állomás - Ipari Park,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-1,1,Autóbusz-állomás - Zobák-akna,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-10,10,Kórház - Autóbusz-állomás - Szilvás - Autóbusz-állomás - Kórház,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-10A,10A,Autóbusz-állomás - Kórház,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-11,11,Autóbusz-állomás - Szilvás - Gagarin utca - Tröszt utca - Kökönyös - Nagyrét utca - Körtvélyes,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-12,12,Körtvélyes - Kökönyös - Tröszt utca - Szilvás - Gagarin utca - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-13,13,Zobák-akna - OTP - Kökönyös - Nagyrét utca - Körtvélyes,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-15,15,Zobák-akna - Autóbusz-állomás - Kökönyös - Dávidföld,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-17,17,(Temető/MOM -) Autóbusz-állomás - Dávidföld - Körtvélyes - Sikonda,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-17B,17B,(Temető/MOM -) Autóbusz-állomás (- Kökönyös) - Dávidföld - Körtvélyes - Sikonda,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-18,18,Autóbusz-állomás - Szilvás - Kenderföld - Autóbusz-állomás - Dávidföld (- Nagyrét utca) - Körtvé,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-18B,18B,Autóbusz-állomás - Szilvás - Kenderföld - Autóbusz-állomás (- Kökönyös) - Dávidföld (- Nagyrét,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-19,19,Autóbusz-állomás - Gagarin utca - Szilvás - Autóbusz-állomás - Dávidföld - Körtvélyes,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-2,2,"Autóbusz-állomás - Mecsekjánosi, Vá. (- Mecsekjánosi, Kertészet)",3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-3,3,Autóbusz-állomás - Mecsekjánosi - Kisbattyán,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-5,5,Autóbusz-állomás - Kökönyös - Dávidföld,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-6,6,Autóbusz-állomás - Mecsekfalu völgy - Körtvélyes,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-7,7,(Temető - MOM -) Autóbusz-állomás - Körtvélyes (- Sikonda),3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-7A,7A,Autóbusz-állomás - Temető,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-8,8,(Sikonda -) Körtvélyes (- Nagyrét utca) - Dávidföld - Autóbusz-állomás - Szilvás - Somág - Kender,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-9,9,(Sikonda -) Körtvélyes - Dávidföld - Autóbusz-állomás - Somág - Szilvás - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-26408,hkir_V-26408-H-3-9B,9B,(Sikonda -) Körtvélyes - Dávidföld (- Kökönyös) - Autóbusz-állomás - Somág - Szilvás - Autóbusz - ,3,,1A3236,FFFFFF,local
+hkir_V-26578,hkir_V-26578-H-3-1,1,Aut.áll. - Szent István ltp. - Aut.áll.,3,,1A3236,FFFFFF,local
+hkir_V-26578,hkir_V-26578-H-3-1A,1A,Aut.áll. - Táncsics M.u.,3,,1A3236,FFFFFF,local
+hkir_V-26578,hkir_V-26578-H-3-2,2,Aut.áll. - Zsibót - Becefa,3,,1A3236,FFFFFF,local
+hkir_V-26578,hkir_V-26578-H-3-2A,2A,Aut.áll. - Zsibót - Becefa - Aut.áll.,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-1,1,Tallinn városrész - Vegyiművek,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-10,10,Tallinn városrész - Volánbusz - Tallinn városrész,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-10A,10A,Üteg utca - Tallinn városrész - Volánbusz - Tallinn városrész,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-11,11,Volánbusz - Üteg utca,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-11Y,11Y,Tallinn városrész - Béke Tsz.,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-12,12,Tallinn városrész - TIGÁZ - Volánbusz - Jubileum tér - Tallinn városrész,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-12A,12A,Üteg utca - Tallinn városrész - TIGÁZ - Volánbusz - Jubileum tér - Tallinn városrész,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-15,15,"Vasútállomás - Tiszaliget, Campus",3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-15Y,15Y,"Vasútállomás - Tiszaliget, Campus",3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-1A,1A,Tallinn városrész - Ipari Park,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-1Y,1Y,Tallinn városrész - Cukorgyári lakótelep,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-2,2,Tallinn városrész - Adóhivatal - Cukorgyári lakótelep,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-20,20,Vasútállomás - Széchenyi lakótelep - Bevásárlópark,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-21,21,Tóth Árpád út - Megyei kórház - Széchenyi lakótelep - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-21A,21A,Vasútállomás - Széchenyi lakótelep - Megyei kórház - Tóth Árpád út,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-22,22,Volánbusz - Széchenyi lakótelep - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-22A,22A,Vasútállomás - Széchenyi lakótelep - Volánbusz,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-23,23,Kőrösi út - Széchenyi lakótelep - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-23A,23A,Vasútállomás - Széchenyi lakótelep - Kőrösi út,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-23E,23E,Vasútállomás - Széchenyi lakótelep - Szapáry út - Kőrösi út,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-24,24,Vasútállomás - Széchenyi lakótelep - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-24A,24A,Vasútállomás - Széchenyi lakótelep - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-25,25,Ipari Park (Stadler) - Széchenyi lakótelep - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-25A,25A,Vasútállomás - Széchenyi lakótelep - Ipari Park (Stadler),3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-2Y,2Y,Tallinn városrész - Jubileum tér - Cukorgyári lakótelep,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-3,3,Tallinn városrész - Kőrösi út,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-31,31,Tallinn városrész - Volánbusz,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-32,32,Szolnok Ispán krt. - Eagle Ottawa II.,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-33,33,Kassai út - Cukorgyári lakótelep,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-34,34,Hild Viktor utca - Ipari Park - Vegyiművek,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-34A,34A,Vasútállomás - Ipari Park - Piroska vmh.,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-34B,34B,Széchenyi lakótelep - Repülőtér,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-34E,34E,Hild Viktor utca - Vegyiművek,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-35,35,Tallinn városrész - Üteg utca - Kőrösi út,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-36,36,"Tallinn városrész - Tiszaliget, Campus",3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-37,37,Tallinn városrész - Repülőtér - Tallinn városrész,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-41,41,Repülőtér - Hild Viktor utca,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-5,5,Tallinn városrész - Rákóczi út - Cukorgyári lakótelep,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-6,6,Vasútállomás - Alamand dűlő,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-6Y,6Y,Vasútállomás - Holt-Tiszapart,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-7,7,Vasútállomás - Szandaszőlős - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-8,8,Vasútállomás - Szandaszőlős - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-28352,hkir_V-28352-H-3-1,1,Autóbusz-állomás - Tiszaszederkény,3,,1A3236,FFFFFF,local
+hkir_V-28352,hkir_V-28352-H-3-1A,1A,Autóbusz-állomás - Fizikoterápiai Intézet - Tiszaszederkény,3,,1A3236,FFFFFF,local
+hkir_V-28352,hkir_V-28352-H-3-2,2,Autóbusz-állomás - Tiszapart városrész,3,,1A3236,FFFFFF,local
+hkir_V-28352,hkir_V-28352-H-3-3,3,Autóbusz-állomás - JABIL - Dózsa Gy. u.,3,,1A3236,FFFFFF,local
+hkir_V-29726,hkir_V-29726-H-3-1,1,"Tiszafüred, Autóbusz-állomás - Örvény",3,,1A3236,FFFFFF,local
+hkir_V-30766,hkir_V-30766-H-3-1T,1T,Volán telep - Városi temet/Kamalduli Remeteség,3,,1A3236,FFFFFF,local
+hkir_V-30766,hkir_V-30766-H-3-1Y,1Y,Volán telep - Volán telep,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-10,10,"Kalmár utca - Bagola - Nagyfakos, alsó",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-10A,10A,Autóbusz-áll.- Bagola forduló,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-10Y,10Y,"Kalmár utca - Bagolai elágazó - Nagyfakos, alsó",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-14C,14C,Városkapu körút - Köztemető (temetői járat),3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-15,15,Vasút - Kalmár - Hevesi - Kalmár,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-16,16,"Autóbusz-állomás - Kiskanizsa, temető - Bajcsa, vízmű",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-16A,16A,"Autóbusz-állomás - Kiskanizsa, temető",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-16E,16E,Autóbusz-állomás - Városkapu,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-16Y,16Y,Kalmár - Városkapu - Kalmár - Kk.Rozmaring,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-17,17,Kalmár u - Napraf - Kalmár - Vasút,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-18,18,Kalmár utca - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-18Y,18Y,Palin futballp. - Miklósfa Sz.E.ford.,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-2,2,"Kalmár utca - Magyar utca - Palin, futballpálya",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-24,24,"Napraforgó tér - Kiskanizsa, Bornem.",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-25,25,"Kiskanizsa, Bornemissza - Vasútáll.",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-26,26,Városkapu krt.-Napraforgó tér,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-27,27,Városkapu krt. - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-28,28,"Autóbusz-állomás - Bajcsa, vízmű",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-28B,28B,"Városkapu körút - Bajcsa, vízmű",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-29,29,Városkapú körút - Ligetváros,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-2E,2E,"Kalmár utca - Palin, futballpálya",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-4,4,"Városkapu körút - Kiskanizsa, Bornemissza utca",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-46,46,Városkapu krt.- Kk. Templom - Kk. Bornemissza,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-4A,4A,"Autóbusz-állomás - Nagyrác - Kiskanizsa, Bornemissza utca",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-4Y,4Y,"Autóbusz-állomás - Templom tér - Nagyrác - Kiskanizsa, Bornemissza utca",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-5,5,Vá. - Kalmár utca - Hevesi u - Kalmár utca,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-5Y,5Y,Vasút - Kalmár u - Hevesi u. - Kalmár u.,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-6,6,"Városkapu körút - Eötvös tér - Kiskanizsa, Rozmaring utca",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-6A,6A,"Városkapu körút - Rózsa utca - Kiskanizsa, temető",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-6E,6E,"Városkapu - Kalmár u. - Kiskanizsa, temető",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-6Y,6Y,"Városkapu körút - Homokkomáromi forduló - Kiskanizsa, Rozmaring utca",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-7,7,Vasútáll.-Kalmár u-Napraforgó-Kalmár u-Vá.,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-7Y,7Y,Vasút - Kalmár - Balatoni - Kalmár - Vasút,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-8,8,"Napraforgó tér - Ligetváros - Miklósfa, Szentendrey Edgár forduló",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-8Y,8Y,"Napraforgó tér - Köztemető - Ligetváros - Miklósfa, Szentendrey Edgár forduló",3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-9,9,Városkapu körút - Miklósfa Sz.E. forduló,3,,1A3236,FFFFFF,local
+hkir_V-30933,hkir_V-30933-H-3-9Y,9Y,Városkapu körút - Miklósfa SZ.E. ford.,3,,1A3236,FFFFFF,local
+hkir_V-30988,hkir_V-30988-H-3-738,738,"Érd, aut. áll.-Bem tér-Favágó u.-Bem tér-Érd, aut.áll.",3,,1A3236,FFFFFF,local
+hkir_V-30988,hkir_V-30988-H-3-746,746,"Érd, TESCO - Érd, aut. áll. - Érd, Minaret",3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-1,1,Vasútállomás - Autóbusz-állomás (Szabadság utca) - Astotec - Yanfeng - Pápakovácsi elágazó,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-13,13,Autóbusz-állomás - Volán-telep - TESCO - Borsosgyőr,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-14,14,Autóbusz-állomás - Kéttornyúlak,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-15,15,Kéttornyúlak - Borsosgyőr,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-16,16,"Autóbusz-állomás - Tapolcafő, Posta - Tapolcafő, Sportpálya",3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-17,17,Autóbusz-állomás - Táncsics út - Böröllő,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-1A,1A,Autóbusz-állomás (Szabadság utca) - Astotec,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-1Y,1Y,Autóbusz-állomás (Szabadság utca) - Yanfeng,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-2,2,Autóbusz-állomás - Veszprémi út - Törzsökhegy felső,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-5,5,Autóbusz-állomás - Rét utca / Vaszari utca - TÜZÉP,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-5T,5T,Autóbusz-állomás - Tizedik utca - Autóbusz-állomás (Szabadság utca) - Vasútállomás - TÜZÉP,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-6A,6A,Autóbusz-állomás (Szabadság utca) - Termálfürdő - Tókert - Kórház - Huszár ltp. - Tesco - Alsóváros,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-6B,6B,Autóbusz-állomás (Szabadság utca) - Alsóváros - Tesco - Huszár ltp. - Kórház - Tókert - Termálfürdő,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-7,7,Autóbusz-állomás (Szabadság utca) - Vasútállomás - Húskombinát - Tarczi utca - Korona utca - Tizedik,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-7A,7A,Vasútállomás - Húskombinát - Huszár lakótelep - Vízmű utca - Astotec,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-8A,8A,Vasútállomás - Pápakovácsi elág. - Tókert - Termálfürdő - Tesco - Alsóváros - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-31945,hkir_V-31945-H-3-8B,8B,Vasútállomás - Alsóváros - Tesco - Termálfürdő - Tókert - Pápakovácsi elág. - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-1,1,"Vasútállomás - Andráshida, Szentmártoni út (- Hatház) - Andráshida, sportpálya",3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-12,12,Ebergény - Landorhegy - Csácsbozsok,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-12A,12A,Ebergény - Landorhegy - Széchenyi tér/Kovács Károly tér,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-12B,12B,Ebergény - Landorhegyi út - Széchenyi tér - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-13,13,"Kertváros - Vasútállomás - (Nekeresd -) Pózva, Külsőkórház",3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-14,14,Botfa (- Zalabesenyő) (- Bartók Béla utca) - Vasútállomás - Kovács Károly tér/Széchenyi tér (- Hathá,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-15,15,Kertváros - Kovács Károly tér/Széchenyi tér - Új köztemető (- Neszele) - Ságod,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-18,18,"Vasútállomás - Csertán Sándor utca - Széchenyi tér - Kertváros, Köztársaság útja - Kovács Károly tér",3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-19,19,Kertváros - Kovács Károly tér - Páterdomb - Széchenyi tér - Kertváros,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-19A,19A,Kertváros - Kovács Károly tér/Széchenyi tér - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-20,20,Kovács Károly tér - Gasparich utca - Csertán Sándor utca - Kovács Károly tér,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-21,21,Csácsbozsok - Tesco - Kovács Károly tér/Széchenyi tér - Mártírok útja - Kertváros,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-22,22,Vasútállomás - Kertváros - Landorhegy - Széchenyi tér - Csácsbozsok,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-22A,22A,Olai bisztró - Széchenyi tér - Csácsbozsok,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-24,24,Botfa-(ADA)-Flex B - Vasútállomás - Kertváros - Landorhegy - Andráshida,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-25,25,Olai bisztró - Kertváros (- Autóbusz-állomás) - Kovács Károly tér - Ipari park,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-27,27,Autóbusz-állomás - Tungsram,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-28,28,Vasútállomás - Kertváros - Csertán Sándor utca - Széchenyi tér - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-29,29,Vasútállomás - Kertváros - Landorhegy - Vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-2A,2A,Széchenyi tér/Kovács Károly tér - Tesco - Csácsbozsok,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-2E,2E,Ganz Ábrahám Szakközépiskola - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-3,3,"Vasútállomás - (Nekeresd -) Pózva, Külsőkórház",3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-4,4,Vasútállomás (- Bartók Béla utca) (- Zalabesenyő) - Botfa,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-5,5,Autóbusz-állomás - Új köztemető (- Neszele) - Ságod,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-5T,5T,Kovács Károly tér - Új köztemető,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-6,6,Autóbusz-állomás/Körmendi út - Hűtőipari Zrt. - Szenterzsébethegy,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-7,7,Autóbusz-állomás - Bazita - Kökényesmindszent,3,,1A3236,FFFFFF,local
+hkir_V-32054,hkir_V-32054-H-3-9,9,Kovács Károly tér - Páterdomb - Széchenyi tér,3,,1A3236,FFFFFF,local
+hkir_V-32559,hkir_V-32559-H-3-12,12,Autóbusz-állomás - Haraszti ipari terület - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-32559,hkir_V-32559-H-3-14,14,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-32559,hkir_V-32559-H-3-2,2,Autóbusz-állomás - Klapka u. - Máriabesnyő - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-32559,hkir_V-32559-H-3-24,24,Autóbusz-állomás - Királytelep - Klapka u. - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-32559,hkir_V-32559-H-3-2A,2A,Autóbusz-állomás - Klapka u. - Máriabesnyő - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-32559,hkir_V-32559-H-3-34,34,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-32559,hkir_V-32559-H-3-4,4,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-32559,hkir_V-32559-H-3-44,44,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-32559,hkir_V-32559-H-3-44A,44A,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-32559,hkir_V-32559-H-3-45,45,Autóbusz-állomás - Királytelep - Hegy u. - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-32559,hkir_V-32559-H-3-4A,4A,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,1A3236,FFFFFF,local
+hkir_V-32559,hkir_V-32559-H-3-5,5,Autóbusz-állomás - Mátyás király u. - Hegy u.,3,,1A3236,FFFFFF,local
+hkir_V-32559,hkir_V-32559-H-3-9,9,Autóbusz-állomás - Vasútállomás - Gödöllői Gépgyár,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-12,12,Temetői járat,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-20,20,"Petőfitelep, Fő tér - Szeged vasútállomás - Alsóváros, Vadkerti tér",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-21,21,Új-Petőfitelep - Mars tér - Szeged vasútállomás,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-24,24,"Petőfitelep, Fő tér - Klebersberg telep",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-32,32,"Honvéd tér - Újszeged, víztorony",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-36,36,"Honvéd tér - Kiskundorozsma, Czékus utca",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-60,60,"Mars tér - Szőreg, Malom",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-60Y,60Y,"Mars tér - Szőreg, Malom",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-64,64,Mars tér - Kereskedő köz - Krematórium - Repülőtér,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-67,67,"Kiskundorozsma, Sziksósfürdő - Szőreg, Malom",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-67Y,67Y,"Kiskundorozsma, Sziksósfürdő - Szőreg, Malom",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-70,70,"Mars tér - Újszeged, Füvészkert",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-71,71,"Szegedi Ipari Logisztikai Központ - Marostői városrész, Katalin utca",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-71A,71A,"Mars tér - Marostői városrész, Katalin utca",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-72,72,"Szegedi Ipari Logisztikai Központ - Marostői városrész, Erdélyi tér",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-72A,72A,"ELI lézeres kutatóközpont - Mars tér - Marostői városrész, Erdélyi tér",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-73,73,"Mars tér - Tápé, Csatár utca",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-73Y,73Y,"Mars tér - Petőfitelep, Fő tér - Tápé, Csatár utca",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-74,74,"Gyálarét - Mars tér - Tápé, Csatár utca",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-74A,74A,Mars tér - Gyálarét,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-74Y,74Y,"Gyálarét - Mars tér - Petőfitelep, Fő tér - Tápé, Csatár utca",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-75,75,"Mars tér - Kiskundorozsma, Czékus utca",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-76,76,Mars tér - Szentmihály,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-76Y,76Y,Mars tér - Szentmihály,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-77,77,"Baktó, Völgyérhát utca - Mars tér - Szeged vasútállomás",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-77A,77A,"Baktó, Völgyérhát utca - Mars tér",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-78,78,Mars tér - Béketelep - Rókusi körút - Mars tér (körjárat),3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-78A,78A,Mars tér - Rókusi körút - Béketelep - Mars tér (körjárat),3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-79,79,79 Mars tér (Mikszáth u.) - ELI lézeres kutatóközpont - Rheinmetall,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-7F,7F,"Mars tér - Kiskundorozsma, Sziksósfürdő",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-84,84,"Újszeged, Gabonakutató - Makkosháza",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-90,90,"Újszeged, Gabonakutató - Szeged vasútállomás",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-90F,90F,"Petőfitelep, Fő tér - Vadaspark (Textilgyári út)",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-90H,90H,90H Lugas utca - Szegedi Ipari Logisztikai Központ - Rheinmetall - BYD,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-91E,91E,"Széchenyi tér - Szőreg, Malom - Mars tér",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-92E,92E,"Széchenyi tér - Tarján, Víztorony tér - Petőfitelep, Fő tér - Új-Petőfitelep - Tarján, Víztorony",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-93E,93E,"Széchenyi tér - Makkosházi krt. - Rókusi krt. - Kiskundorozsma, Czékus utca",3,,1A3236,FFFFFF,local
+hkir_V-33534,hkir_V-33534-H-3-1,1,"Nagybátony, va. - Szorospatak",3,,1A3236,FFFFFF,local
+hkir_V-33534,hkir_V-33534-H-3-2,2,"Nagybátony, vá - Maconka",3,,1A3236,FFFFFF,local
+hkir_V-33534,hkir_V-33534-H-3-3,3,"Szorospatak - Kisterenye, bányatelep",3,,1A3236,FFFFFF,local
+hkir_V-33534,hkir_V-33534-H-3-3A,3A,"Szorospatak - Kisterenye, bányatelep",3,,1A3236,FFFFFF,local
 hkir_V,hkir_V-N-200-1022,1022,Budapest - Salgótarján - Lucenec,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1022,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-223,223,Esztergom - Stúrovo,200,https://www.mavcsoport.hu/mav-szemelyszallitas/nemzetkozi-utazas/nemzetkozi-autobusz-menetrendek,F6AC00,152B32,international
 hkir_V,hkir_V-N-200-228,228,Komárom - Komárno,200,https://www.mavcsoport.hu/mav-szemelyszallitas/nemzetkozi-utazas/nemzetkozi-autobusz-menetrendek,F6AC00,152B32,international
