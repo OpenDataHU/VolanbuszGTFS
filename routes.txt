@@ -2616,7 +2616,6 @@ hkir_V,hkir_V-R-200-6355,6355,Keszthely - Hévíz,200,https://www.mavcsoport.hu/
 hkir_V,hkir_V-R-200-636,636,Budapest - Alsónémedi - Ócsa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2523,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6360,6360,Hévíz - Keszthely - Balatongyörök,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6360,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6361,6361,Hévíz - Keszthely - Balatongyörök - Balatonederics - Tapolca,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6361,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-6362,6362,Keszthely-Balatongyörök-Raposka-Tapolca,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6362,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6364,6364,Hévíz - Keszthely - Balatongyörök - Szigliget - Balatonfüred/Tapolca,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6364,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6365,6365,Keszthely-Gyenesdiás-Zalaszántó-Várvölgy-Vállus,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6365,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-637,637,Budapest - M5 - Ócsa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2524,F6AC00,152B32,regional
@@ -2624,7 +2623,6 @@ hkir_V,hkir_V-R-200-6370,6370,Keszthely - Hévíz - Zalaapáti,200,https://www.m
 hkir_V,hkir_V-R-200-6371,6371,Keszthely-Zalaapáti-Zalacsány-Szentgyörgyvár-Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6371,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6372,6372,Keszthely-Hévíz-Felsőpáhok-Zalaköszvényes,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6372,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6373,6373,Hévíz - Keszthely - Balatonszentgyörgy,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6373,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-6374,6374,Keszthely-Balatonmáriafürdő-Fonyód,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6374,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6375,6375,Keszthely - Hévíz - Alsópáhok - Zalaszabar/Balatonmagyaród,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6375,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6376,6376,Keszthely - Hévíz - Zalaapáti - Sármellék - Zalavár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6376,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6377,6377,Pacsa/Keszthely-Zalaapáti-Dióskál-Zalavár-Sármellék-Keszthely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6377,F6AC00,152B32,regional
