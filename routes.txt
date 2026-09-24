@@ -1264,7 +1264,7 @@ hkir_V,hkir_V-R-200-3821,3821,Encs - Novajidrány - Vizsoly - Korlát - Regéc,2
 hkir_V,hkir_V-R-200-3822,3822,Novajidrány-Gönc-Hidasnémeti-Hernádszurdok,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3822,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3823,3823,Hidasnémeti - Tornyosnémeti,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3823,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3824,3824,Encs-Abaújszántó-Boldogkőváralja-Regéc-Gönc-Hidasnémeti-TornyosnémetiI,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3824,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3825,3825,Novajidrány-Gönc-Hidasnémeti-Hernádszurdok,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3825,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-3825,3825,Hernádszurdok-Hidasnémeti-Gönc-Göncruszka-Hejce-Vilmány,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3825,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3826,3826,Hernádszurdok-Hidasnémeti-Gönc-Kéked,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3826,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3827,3827,Encs-Gibárt-Vilmány-Gönc,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3827,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3828,3828,Felsődobsza-Ináncs-Hernádbűd-Gibárt-Hernádcéce-Gönc-Hidasnémeti,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3828,F6AC00,152B32,regional
