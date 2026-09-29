@@ -40295,7 +40295,6 @@ hkir_550211_2,"Sopron, Jereván lakótelep végállomás",47.693478,16.573271,,h
 hkir_550211_3,"Sopron, Jereván lakótelep végállomás",47.693336,16.573215,,hkir_550211,3
 hkir_550211_4,"Sopron, Jereván lakótelep végállomás",47.692116,16.573074,,hkir_550211,4
 hkir_550211_97,"Sopron, Jereván lakótelep végállomás",47.693382,16.572983,,hkir_550211,97
-hkir_550211_99,"Sopron, Jereván lakótelep végállomás",47.693226,16.573177,,hkir_550211,
 hkir_550212,"Sopron, József Attila-lakótelep",47.674976,16.585609,1,,
 hkir_550212_1,"Sopron, József Attila-lakótelep",47.674927,16.585909,,hkir_550212,
 hkir_550212_2,"Sopron, József Attila-lakótelep",47.675022,16.585318,,hkir_550212,
@@ -55243,9 +55242,6 @@ hkir_773195_30,"Budapest, Keleti pályaudvar",47.499431,19.084012,,hkir_773195,
 hkir_773212,"Budapest, Kosztolányi Dezső tér",47.475390,19.040550,1,,
 hkir_773212_3,"Budapest, Kosztolányi Dezső tér",47.474990,19.039382,,hkir_773212,
 hkir_773212_4,"Budapest, Kosztolányi Dezső tér",47.475179,19.040191,,hkir_773212,
-hkir_773220,Közvágóhíd H,47.467241,19.077655,1,,
-hkir_773220_0,Közvágóhíd H,47.467310,19.077928,,hkir_773220,
-hkir_773220_3,Közvágóhíd H,47.467119,19.078148,,hkir_773220,
 hkir_773229,"Budapest, Lépcsős utca",47.408217,19.016169,1,,
 hkir_773229_1,"Budapest, Lépcsős utca",47.408165,19.015955,,hkir_773229,
 hkir_773272,"Budapest, Népfürdő utca / Árpád híd",47.536152,19.059588,1,,
@@ -55516,7 +55512,6 @@ hkir_773552_14,"Budapest, Újpest-Városkapu XIII. kerület",47.558880,19.078712
 hkir_773552_15,"Budapest, Újpest-Városkapu XIII. kerület",47.558880,19.078712,,hkir_773552,15
 hkir_773552_16,"Budapest, Újpest-Városkapu XIII. kerület",47.558880,19.078712,,hkir_773552,16
 hkir_773552_17,"Budapest, Újpest-Városkapu XIII. kerület",47.558880,19.078712,,hkir_773552,17
-hkir_773552_18,"Budapest, Újpest-Városkapu XIII. kerület",47.558880,19.078712,,hkir_773552,18
 hkir_773552_19,"Budapest, Újpest-Városkapu XIII. kerület",47.558880,19.078712,,hkir_773552,19
 hkir_773554,"Budapest, Erzsébet királyné útja, aluljáró",47.515741,19.092653,1,,
 hkir_773554_1,"Budapest, Erzsébet királyné útja, aluljáró",47.515700,19.092700,,hkir_773554,
@@ -55641,7 +55636,6 @@ hkir_773605_2,"Budapest, Nagysándor József utca",47.446293,19.126916,,hkir_773
 hkir_773606,"Budapest, Pesterzsébet felső",47.438440,19.094170,1,,
 hkir_773606_1,"Budapest, Pesterzsébet felső",47.437696,19.094177,,hkir_773606,
 hkir_773606_2,"Budapest, Pesterzsébet felső",47.439184,19.094165,,hkir_773606,
-hkir_773606_3,"Budapest, Pesterzsébet felső",47.437664,19.094138,,hkir_773606,
 hkir_773607,"Budapest, Pesterzsébet vasútállomás",47.433790,19.097730,1,,
 hkir_773607_1,"Budapest, Pesterzsébet vasútállomás",47.433588,19.097769,,hkir_773607,
 hkir_773607_2,"Budapest, Pesterzsébet vasútállomás",47.433991,19.097692,,hkir_773607,
@@ -57084,8 +57078,6 @@ hkir_777550_2,"Dömsöd, Kossuth Lajos utca 136.",47.086342,19.005054,,hkir_7775
 hkir_777551,"Dömsöd, Kossuth Lajos utca 9.",47.097150,19.008690,1,,
 hkir_777551_1,"Dömsöd, Kossuth Lajos utca 9.",47.096977,19.008583,,hkir_777551,
 hkir_777551_2,"Dömsöd, Kossuth Lajos utca 9.",47.097320,19.008789,,hkir_777551,
-hkir_777552,"Dömsöd, Neptun part",47.077200,18.978560,1,,
-hkir_777552_1,"Dömsöd, Neptun part",47.077198,18.978564,,hkir_777552,
 hkir_777553,"Dömsöd, Nyár utca",47.091910,19.022580,1,,
 hkir_777553_1,"Dömsöd, Nyár utca",47.091914,19.022659,,hkir_777553,
 hkir_777553_2,"Dömsöd, Nyár utca",47.091826,19.022744,,hkir_777553,
@@ -58665,8 +58657,6 @@ hkir_778253_1,"Mogyoród, Fő tér",47.600308,19.239150,,hkir_778253,
 hkir_778253_2,"Mogyoród, Fő tér",47.600369,19.239055,,hkir_778253,
 hkir_778255,"Mogyoród, HÉV-állomás",47.595550,19.271460,1,,
 hkir_778255_1,"Mogyoród, HÉV-állomás",47.595557,19.271513,,hkir_778255,
-hkir_778256,"Mogyoród, HUNGARORING főbejárat",47.583744,19.241831,1,,
-hkir_778256_1,"Mogyoród, HUNGARORING főbejárat",47.583744,19.241831,,hkir_778256,
 hkir_778258,"Mogyoród, Kerektó Ipari park",47.590162,19.241067,1,,
 hkir_778258_1,"Mogyoród, Kerektó Ipari park",47.589783,19.241127,,hkir_778258,
 hkir_778258_2,"Mogyoród, Kerektó Ipari park",47.590205,19.241027,,hkir_778258,
