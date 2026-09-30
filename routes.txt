@@ -281,7 +281,11 @@ hkir_V-17206,hkir_V-17206-H-3-H35,H35,Autóbusz-állomás - Alsóbadúr - Polyá
 hkir_V-17206,hkir_V-17206-H-3-H38,H38,Sóstói úti kórház - Autóbusz-állomás - Rozsrét - Oláhrét,3,,1A3236,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-H40,H40,Autóbusz-állomás - Antalbokor - Rókabokor - Vargabokor - Kazárbokor - Sulyánbokor,3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-1,1,"Autóbusz-állomás - Balatonszéplak, Alsó v. mh.",3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-12,12,"12. Sóstó, Kemping-Aut. áll.-Somogyfok-Perczel Mór u.-Aut. áll.-Sóstó, Kemping",3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-12B,12B,"12B. Aut. áll.-Somogyfok-Balatonszéplak, Alsó v. mh.-Aut. áll.-Sóstó, Kemping",3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-14,14,"14. Kiliti, Szeptember 6. tér-Autóbusz-állomás-Kele utcai temető",3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-14A,14A,"Kiliti, Szeptember 6. tér - Autóbusz-állomás",3,,1A3236,FFFFFF,local
+hkir_V-17631,hkir_V-17631-H-3-17,17,"17. Aut. áll.-Somogyfok-Töreki, Alsó-Balatonszéplak, Alsó v. mh.-Aut. áll.",3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-18,18,"12. Sóstó, Kemping-Aut. áll.-Somogyfok-Perczel Mór u.-Aut. áll.-Sóstó, Kemping",3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-2,2,"Autóbusz-állomás - Sóstó, Kemping",3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-21,21,Darnay Kálmán tér - Perczel Mór u.,3,,1A3236,FFFFFF,local
@@ -372,6 +376,7 @@ hkir_V-24934,hkir_V-24934-H-3-1,1,Szérűskert - Nagymező u. - Kórház - Híra
 hkir_V-24934,hkir_V-24934-H-3-11,11,Szérűskert - Nagymező u. - Kórház - Híradó tér,3,,1A3236,FFFFFF,local
 hkir_V-24934,hkir_V-24934-H-3-3,3,DDC - Autóbusz-állomás - Gombás - Sejce lakótelep,3,,1A3236,FFFFFF,local
 hkir_V-24934,hkir_V-24934-H-3-33,33,Telep u. - Autóbusz-állomás - Szérűskert,3,,1A3236,FFFFFF,local
+hkir_V-24934,hkir_V-24934-H-3-3D,3D,DDC - Autóbusz-állomás - Gombás - Sejce lakótelep,3,,1A3236,FFFFFF,local
 hkir_V-24934,hkir_V-24934-H-3-4,4,Szérűskert - Autóbusz-állomás - Március 15. tér - Kórház - Autóbusz-állomás,3,,1A3236,FFFFFF,local
 hkir_V-24934,hkir_V-24934-H-3-5,5,Autóbusz-állomás - Kórház - Március 15. tér - Autóbusz-állomás - Szérűskert,3,,1A3236,FFFFFF,local
 hkir_V-24934,hkir_V-24934-H-3-55,55,Autóbusz-állomás - Kórház - Március 15. tér - Autóbusz-állomás - Szérűskert,3,,1A3236,FFFFFF,local
@@ -535,6 +540,7 @@ hkir_V-27854,hkir_V-27854-H-3-35,35,Tallinn városrész - Üteg utca - Kőrösi 
 hkir_V-27854,hkir_V-27854-H-3-36,36,"Tallinn városrész - Tiszaliget, Campus",3,,1A3236,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-37,37,Tallinn városrész - Repülőtér - Tallinn városrész,3,,1A3236,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-41,41,Repülőtér - Hild Viktor utca,3,,1A3236,FFFFFF,local
+hkir_V-27854,hkir_V-27854-H-3-45,45,Szolnok Temetői járat,3,,1A3236,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-5,5,Tallinn városrész - Rákóczi út - Cukorgyári lakótelep,3,,1A3236,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-6,6,Vasútállomás - Alamand dűlő,3,,1A3236,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-6Y,6Y,Vasútállomás - Holt-Tiszapart,3,,1A3236,FFFFFF,local
@@ -3005,7 +3011,7 @@ hkir_V,hkir_V-R-200-7273,7273,Mosonmagyaróvár - Máriakálnok - Darnózseli - 
 hkir_V,hkir_V-R-200-7275,7275,Mosonmagyaróvár - Kimle - Novákpuszta,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7275,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7281,7281,Mosonmagyaróvár - Jánossomorja - Albertkázmérpuszta,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7281,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7282,7282,Mosonmagyaróvár - Jánossomorja,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7282,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-7284,7284,Mosonmagyaróvár - Mosonszolnok,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7284,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-7284,7284,Mosonmagyaróvár - Újrónafő - Mosonszolnok,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7284,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7285,7285,Mosonszentmiklós/Győrsövényház - Lébény - Mosonmagyaróvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7285,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7286,7286,Mosonmagyaróvár - Jánossomorja - Bősárkány - Csorna,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7286,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7287,7287,Mosonmagyaróvár - Mosonszolnok - Csorna - Kapuvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7287,F6AC00,152B32,regional
@@ -3481,3 +3487,5 @@ hkir_V,hkir_V-R-200-S506,S506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://ww
 hkir_V,hkir_V-R-200-X506,X506,Debrecen-M35 autópálya-Konyár-Pocsaj-Nagykereki,200,,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-Z506,Z506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4428,F6AC00,152B32,regional
 hkir_V,hkir_V-S-200-89-0,89,"Tiszaújváros, vasútállomás - Tiszaújváros, autóbusz-állomás - Tiszaújváros, vasútállomás",200,,F6AC00,152B32,regional
+hkir_V,hkir_V-S-200-H6,H6,H6 HÉV-pótlóbusz,200,,F6AC00,152B32,regional
+hkir_V,hkir_V-S-200-H6A,H6A,H6 HÉV-pótlóbusz,200,,F6AC00,152B32,regional
