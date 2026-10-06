@@ -280,13 +280,11 @@ hkir_V-17206,hkir_V-17206-H-3-H32,H32,Autóbusz-állomás - Nyírjes - Nagyszál
 hkir_V-17206,hkir_V-17206-H-3-H35,H35,Autóbusz-állomás - Alsóbadúr - Polyákbokor - Felsősima,3,,1A3236,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-H38,H38,Sóstói úti kórház - Autóbusz-állomás - Rozsrét - Oláhrét,3,,1A3236,FFFFFF,local
 hkir_V-17206,hkir_V-17206-H-3-H40,H40,Autóbusz-állomás - Antalbokor - Rókabokor - Vargabokor - Kazárbokor - Sulyánbokor,3,,1A3236,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-1,1,"Autóbusz-állomás - Balatonszéplak, Alsó v. mh.",3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-12,12,"12. Sóstó, Kemping-Aut. áll.-Somogyfok-Perczel Mór u.-Aut. áll.-Sóstó, Kemping",3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-12B,12B,"12B. Aut. áll.-Somogyfok-Balatonszéplak, Alsó v. mh.-Aut. áll.-Sóstó, Kemping",3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-14,14,"14. Kiliti, Szeptember 6. tér-Autóbusz-állomás-Kele utcai temető",3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-14A,14A,"Kiliti, Szeptember 6. tér - Autóbusz-állomás",3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-17,17,"17. Aut. áll.-Somogyfok-Töreki, Alsó-Balatonszéplak, Alsó v. mh.-Aut. áll.",3,,1A3236,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-18,18,"12. Sóstó, Kemping-Aut. áll.-Somogyfok-Perczel Mór u.-Aut. áll.-Sóstó, Kemping",3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-2,2,"Autóbusz-állomás - Sóstó, Kemping",3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-21,21,Darnay Kálmán tér - Perczel Mór u.,3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-2A,2A,2A. Aut. áll.-Nyaralótelep,3,,1A3236,FFFFFF,local
