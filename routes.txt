@@ -646,7 +646,6 @@ hkir_V-32559,hkir_V-32559-H-3-45,45,Autóbusz-állomás - Királytelep - Hegy u.
 hkir_V-32559,hkir_V-32559-H-3-4A,4A,Autóbusz-állomás - Babati u. - Királytelep - Autóbusz-állomás,3,,1A3236,FFFFFF,local
 hkir_V-32559,hkir_V-32559-H-3-5,5,Autóbusz-állomás - Mátyás király u. - Hegy u.,3,,1A3236,FFFFFF,local
 hkir_V-32559,hkir_V-32559-H-3-9,9,Autóbusz-állomás - Vasútállomás - Gödöllői Gépgyár,3,,1A3236,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-12,12,Temetői járat,3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-20,20,"Petőfitelep, Fő tér - Szeged vasútállomás - Alsóváros, Vadkerti tér",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-21,21,Új-Petőfitelep - Mars tér - Szeged vasútállomás,3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-24,24,"Petőfitelep, Fő tér - Klebersberg telep",3,,1A3236,FFFFFF,local
@@ -680,6 +679,7 @@ hkir_V-33367,hkir_V-33367-H-3-84,84,"Újszeged, Gabonakutató - Makkosháza",3,,
 hkir_V-33367,hkir_V-33367-H-3-90,90,"Újszeged, Gabonakutató - Szeged vasútállomás",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-90F,90F,"Petőfitelep, Fő tér - Vadaspark (Textilgyári út)",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-90H,90H,90H Lugas utca - Szegedi Ipari Logisztikai Központ - Rheinmetall - BYD,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-90T,90T,Temetői járat,3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-91E,91E,"Széchenyi tér - Szőreg, Malom - Mars tér",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-92E,92E,"Széchenyi tér - Tarján, Víztorony tér - Petőfitelep, Fő tér - Új-Petőfitelep - Tarján, Víztorony",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-93E,93E,"Széchenyi tér - Makkosházi krt. - Rókusi krt. - Kiskundorozsma, Czékus utca",3,,1A3236,FFFFFF,local
@@ -2529,7 +2529,7 @@ hkir_V,hkir_V-R-200-6182,6182,Marcali-Mesztegnyő-Böhönye-Varászló,200,https
 hkir_V,hkir_V-R-200-6184,6184,Marcali - Szőcsénypuszta - Balatonszentgyörgy,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6184,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6185,6185,Marcali - Szőcsénypuszta - Böhönye - Varászló,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6185,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6186,6186,Marcali - Nemesvid - Zalakaros/Nemesdéd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6186,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-6188,6188,Marcali - Horvátkút - Somogysámson - Szőkedencs - Zalakaros,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6188,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-6188,6188,Marcali-Somogysámson-Szőkedencs-Zalakaros,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6188,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-619,619,"Dabas, Sári okmányhivatal - Dabas, Kossuth Zs. Szki.",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2504,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6190,6190,Marcali - Horvátkút - Szőcsénypuszta,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6190,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-6191,6191,Szőkedencs - Balatonszentgyörgy,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/6191,F6AC00,152B32,regional
