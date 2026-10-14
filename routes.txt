@@ -679,7 +679,7 @@ hkir_V-33367,hkir_V-33367-H-3-84,84,"Újszeged, Gabonakutató - Makkosháza",3,,
 hkir_V-33367,hkir_V-33367-H-3-90,90,"Újszeged, Gabonakutató - Szeged vasútállomás",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-90F,90F,"Petőfitelep, Fő tér - Vadaspark (Textilgyári út)",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-90H,90H,90H Lugas utca - Szegedi Ipari Logisztikai Központ - Rheinmetall - BYD,3,,1A3236,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-90T,90T,Temetői járat,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-90T,90T,90T Temetői járat,3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-91E,91E,"Széchenyi tér - Szőreg, Malom - Mars tér",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-92E,92E,"Széchenyi tér - Tarján, Víztorony tér - Petőfitelep, Fő tér - Új-Petőfitelep - Tarján, Víztorony",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-93E,93E,"Széchenyi tér - Makkosházi krt. - Rókusi krt. - Kiskundorozsma, Czékus utca",3,,1A3236,FFFFFF,local
