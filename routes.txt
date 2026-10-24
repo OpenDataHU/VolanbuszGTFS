@@ -317,7 +317,6 @@ hkir_V-20127,hkir_V-20127-H-3-5,5,Fellner Jakab úti forduló - Kossuth tér - A
 hkir_V-20127,hkir_V-20127-H-3-5A,5A,Autóbuszállomás-Kertváros-Autóbuszállomás,3,,1A3236,FFFFFF,local
 hkir_V-20127,hkir_V-20127-H-3-5AF,5AF,Autóbuszállomás-Kertváros-Fellner Jakab úti forduló,3,,1A3236,FFFFFF,local
 hkir_V-20127,hkir_V-20127-H-3-5FA,5FA,Fellner Jakab úti forduló-Kertváros-Autóbuszállomás,3,,1A3236,FFFFFF,local
-hkir_V-20127,hkir_V-20127-H-3-5R,5R,Kossuth tér/Autóbusz-állomás - Deák Ferenc út,3,,1A3236,FFFFFF,local
 hkir_V-20127,hkir_V-20127-H-3-5T,5T,Fellner Jakab út - Kertváros - Iprai park - Fellner Jakab út,3,,1A3236,FFFFFF,local
 hkir_V-20127,hkir_V-20127-H-3-7,7,"Autóbusz-állomás - Agostyán,forduló",3,,1A3236,FFFFFF,local
 hkir_V-20127,hkir_V-20127-H-3-7A,7A,"Autóbuszállomás - Agostyán, forduló",3,,1A3236,FFFFFF,local
@@ -675,8 +674,8 @@ hkir_V-33367,hkir_V-33367-H-3-76Y,76Y,Mars tér - Szentmihály,3,,1A3236,FFFFFF,
 hkir_V-33367,hkir_V-33367-H-3-77,77,"Baktó, Völgyérhát utca - Mars tér - Szeged vasútállomás",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-77A,77A,"Baktó, Völgyérhát utca - Mars tér",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-78,78,Mars tér - Béketelep - Rókusi körút - Mars tér (körjárat),3,,1A3236,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-78A,78A,Mars tér - Rókusi körút - Béketelep - Mars tér (körjárat),3,,1A3236,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-79,79,79 Mars tér (Mikszáth u.) - ELI lézeres kutatóközpont - Rheinmetall,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-78A,78A,78  Mars tér - Rókusi körút - Béketelep - Mars tér (körjáratt,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-79,79,79 Mars tér - ELI lézeres kutatóközpont - Rheinmetall,3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-7F,7F,"Mars tér - Kiskundorozsma, Sziksósfürdő",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-84,84,"Újszeged, Gabonakutató - Makkosháza",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-90,90,"Újszeged, Gabonakutató - Szeged vasútállomás",3,,1A3236,FFFFFF,local
@@ -2970,7 +2969,7 @@ hkir_V,hkir_V-R-200-7182,7182,"Csorna - Kapuvár - Vitnyéd, Csermajor - Fertőd
 hkir_V,hkir_V-R-200-719,719,Velence - Kápolnásnyék,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8159,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7192,7192,Kapuvár - Fertőd - Fertőszentmiklós,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7192,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7193,7193,Kapuvár - Fertőd - Fertőszentmiklós - Petőháza - Cirák,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7193,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-7195,7195,Kapuvár - Pusztacsalád - Fertőszentmiklós - Fertőd - Kapuvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7195,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-7195,7195,Kapuvár - Iván - Fertőszentmiklós - Fertőd - Kapuvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7195,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7196,7196,Kapuvár - Fertőszentmiklós/Petőháza,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7196,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-720,720,Budapest - Diósd - Érd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2720,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7205,7205,Sopron - Fertőrákos,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7205,F6AC00,152B32,regional
@@ -2978,7 +2977,7 @@ hkir_V,hkir_V-R-200-7207,7207,Győr - Csorna - Kapuvár - Petőháza - Sopron,20
 hkir_V,hkir_V-R-200-7208,7208,Sopron - Fertőd - Petőháza,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7208,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7209,7209,Sopron - Balf - Kópháza,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7209,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-721,721,"Érd-Sóskút-Biatorbágy, BIT",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2721,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-7210,7210,"Sopron - Fertőd - Kapuvár / Fertőd, Tőzeggyármajor",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7210,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-7210,7210,"Sopron - Fertőd - Kapuvár/Fertőd, Tőzeggyármajor",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7210,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7211,7211,Sopron - Kapuvár - Csorna - Mosonmagyaróvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7211,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7212,7212,Sopron - Balf - Kapuvár - Csorna - Győr,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7212,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7213,7213,Sopron - Fertőd - Petőháza - Fertőszentmiklós,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7213,F6AC00,152B32,regional
@@ -3488,3 +3487,4 @@ hkir_V,hkir_V-R-200-S506,S506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://ww
 hkir_V,hkir_V-R-200-X506,X506,Debrecen-M35 autópálya-Konyár-Pocsaj-Nagykereki,200,,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-Z506,Z506,Debrecen-Derecske-Pocsaj-Nagykereki,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4428,F6AC00,152B32,regional
 hkir_V,hkir_V-S-200-89-0,89,"Tiszaújváros, vasútállomás - Tiszaújváros, autóbusz-állomás - Tiszaújváros, vasútállomás",200,,F6AC00,152B32,regional
+hkir_V,hkir_V-S-200-H6,H6,H6 HÉV-pótlóbusz,200,,F6AC00,152B32,regional

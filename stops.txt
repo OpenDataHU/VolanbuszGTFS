@@ -7099,6 +7099,7 @@ hkir_213045_2,"Alsódobsza, Petőfi utca",48.177112,20.998037,,hkir_213045,
 hkir_213046,"Alsógagy, gagyapáti elágazás",48.402402,21.023202,1,,
 hkir_213046_1,"Alsógagy, gagyapáti elágazás",48.402680,21.023419,,hkir_213046,
 hkir_213046_2,"Alsógagy, gagyapáti elágazás",48.402331,21.023359,,hkir_213046,
+hkir_213046_3,"Alsógagy, gagyapáti elágazás",48.402372,21.023031,,hkir_213046,
 hkir_213046_4,"Alsógagy, gagyapáti elágazás",48.402262,21.023036,,hkir_213046,
 hkir_213047,"Alsógagy, templom",48.406734,21.023018,1,,
 hkir_213047_1,"Alsógagy, templom",48.407057,21.023028,,hkir_213047,
@@ -7936,6 +7937,7 @@ hkir_213367,"Encs (Abaújdevecser), Kossuth utca",48.338417,21.104915,1,,
 hkir_213367_1,"Encs (Abaújdevecser), Kossuth utca",48.338480,21.104862,,hkir_213367,
 hkir_213367_2,"Encs (Abaújdevecser), Kossuth utca",48.338363,21.104964,,hkir_213367,
 hkir_213368,"Encs, autóbusz-állomás",48.328272,21.117984,1,,
+hkir_213368_0,"Encs, autóbusz-állomás",48.328272,21.117984,,hkir_213368,
 hkir_213368_1,"Encs, autóbusz-állomás",48.328616,21.118292,,hkir_213368,1
 hkir_213368_2,"Encs, autóbusz-állomás",48.328473,21.118117,,hkir_213368,2
 hkir_213368_3,"Encs, autóbusz-állomás",48.328342,21.117975,,hkir_213368,3
@@ -11819,6 +11821,7 @@ hkir_214830,"Tornyosnémeti, országhatár",48.531027,21.253859,1,,
 hkir_214830_1,"Tornyosnémeti, országhatár",48.530994,21.253862,,hkir_214830,
 hkir_214831,"Tornyosnémeti, vasúti átjáró",48.524179,21.254641,1,,
 hkir_214831_1,"Tornyosnémeti, vasúti átjáró",48.524504,21.255172,,hkir_214831,
+hkir_214831_2,"Tornyosnémeti, vasúti átjáró",48.524197,21.254634,,hkir_214831,
 hkir_214832,"Trizs, alsó",48.423550,20.498347,1,,
 hkir_214832_1,"Trizs, alsó",48.423651,20.498009,,hkir_214832,
 hkir_214832_2,"Trizs, alsó",48.423456,20.498675,,hkir_214832,
@@ -30250,17 +30253,17 @@ hkir_437439,"Komló, Anna-akna",46.187355,18.282164,1,,
 hkir_437439_1,"Komló, Anna-akna",46.187309,18.282330,,hkir_437439,
 hkir_437439_2,"Komló, Anna-akna",46.187401,18.281999,,hkir_437439,
 hkir_437441,"Komló, autóbusz-állomás",46.189579,18.266104,1,,
-hkir_437441_0,"Komló, autóbusz-állomás",46.189000,18.266000,,hkir_437441,
-hkir_437441_1,"Komló, autóbusz-állomás",46.189353,18.265699,,hkir_437441,1
-hkir_437441_10,"Komló, autóbusz-állomás",46.189000,18.266000,,hkir_437441,10
-hkir_437441_2,"Komló, autóbusz-állomás",46.189385,18.265489,,hkir_437441,2
-hkir_437441_3,"Komló, autóbusz-állomás",46.189420,18.265277,,hkir_437441,3
-hkir_437441_4,"Komló, autóbusz-állomás",46.189450,18.265025,,hkir_437441,4
-hkir_437441_5,"Komló, autóbusz-állomás",46.189485,18.264733,,hkir_437441,5
-hkir_437441_6,"Komló, autóbusz-állomás",46.189661,18.264891,,hkir_437441,6
-hkir_437441_7,"Komló, autóbusz-állomás",46.189615,18.265229,,hkir_437441,7
-hkir_437441_8,"Komló, autóbusz-állomás",46.189576,18.265511,,hkir_437441,8
-hkir_437441_9,"Komló, autóbusz-állomás",46.189537,18.265787,,hkir_437441,9
+hkir_437441_11,"Komló, autóbusz-állomás",46.189353,18.265699,,hkir_437441,11
+hkir_437441_12,"Komló, autóbusz-állomás",46.189385,18.265489,,hkir_437441,12
+hkir_437441_13,"Komló, autóbusz-állomás",46.189420,18.265277,,hkir_437441,13
+hkir_437441_14,"Komló, autóbusz-állomás",46.189450,18.265025,,hkir_437441,14
+hkir_437441_15,"Komló, autóbusz-állomás",46.189485,18.264733,,hkir_437441,15
+hkir_437441_16,"Komló, autóbusz-állomás",46.189661,18.264891,,hkir_437441,16
+hkir_437441_17,"Komló, autóbusz-állomás",46.189615,18.265229,,hkir_437441,17
+hkir_437441_18,"Komló, autóbusz-állomás",46.189576,18.265511,,hkir_437441,18
+hkir_437441_19,"Komló, autóbusz-állomás",46.189537,18.265787,,hkir_437441,19
+hkir_437441_20,"Komló, autóbusz-állomás",46.189000,18.266000,,hkir_437441,20
+hkir_437441_25,"Komló, autóbusz-állomás",46.189771,18.264921,,hkir_437441,25
 hkir_437441_99,"Komló, autóbusz-állomás",46.189579,18.266104,,hkir_437441,
 hkir_437442,"Komló, Autós völgy",46.201369,18.254857,1,,
 hkir_437442_1,"Komló, Autós völgy",46.201305,18.254806,,hkir_437442,
@@ -45121,8 +45124,7 @@ hkir_557948_0,"Pápa, autóbusz-állomás",47.331990,17.468740,,hkir_557948,
 hkir_557948_1,"Pápa, autóbusz-állomás",47.331781,17.468474,,hkir_557948,1
 hkir_557948_10,"Pápa, autóbusz-állomás",47.332230,17.467953,,hkir_557948,10
 hkir_557948_11,"Pápa, autóbusz-állomás",47.332209,17.467747,,hkir_557948,11
-hkir_557948_13,"Pápa, autóbusz-állomás",47.332344,17.468097,,hkir_557948,13
-hkir_557948_14,"Pápa, autóbusz-állomás",47.332323,17.467860,,hkir_557948,14
+hkir_557948_12,"Pápa, autóbusz-állomás",47.332189,17.467536,,hkir_557948,12
 hkir_557948_15,"Pápa, autóbusz-állomás",47.332305,17.467658,,hkir_557948,15
 hkir_557948_16,"Pápa, autóbusz-állomás",47.332277,17.467431,,hkir_557948,16
 hkir_557948_2,"Pápa, autóbusz-állomás",47.331765,17.468262,,hkir_557948,2
@@ -55426,6 +55428,8 @@ hkir_773521_29,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,
 hkir_773521_3,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,3
 hkir_773521_4,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,4
 hkir_773521_5,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,5
+hkir_773521_8,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,8
+hkir_773521_9,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,9
 hkir_773521_99,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,
 hkir_773523,"Budapest, Timót utca / Soroksári út",47.451230,19.088856,1,,
 hkir_773523_1,"Budapest, Timót utca / Soroksári út",47.450871,19.088881,,hkir_773523,
@@ -57321,10 +57325,19 @@ hkir_777655_1,"Érd, Attila utca",47.385888,18.924747,,hkir_777655,
 hkir_777655_2,"Érd, Attila utca",47.385589,18.924850,,hkir_777655,
 hkir_777656,"Érd, autóbusz-állomás",47.379730,18.925320,1,,
 hkir_777656_0,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,
-hkir_777656_1,"Érd, autóbusz-állomás",47.379718,18.924575,,hkir_777656,1
 hkir_777656_10,"Érd, autóbusz-állomás",47.379856,18.925511,,hkir_777656,10
 hkir_777656_11,"Érd, autóbusz-állomás",47.379869,18.925616,,hkir_777656,11
+hkir_777656_12,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,12
+hkir_777656_13,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,13
+hkir_777656_14,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,14
+hkir_777656_15,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,15
+hkir_777656_16,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,16
+hkir_777656_17,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,17
+hkir_777656_18,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,18
+hkir_777656_19,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,19
 hkir_777656_2,"Érd, autóbusz-állomás",47.379742,18.924674,,hkir_777656,2
+hkir_777656_20,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,20
+hkir_777656_21,"Érd, autóbusz-állomás",47.379733,18.926279,,hkir_777656,21
 hkir_777656_3,"Érd, autóbusz-állomás",47.379751,18.924782,,hkir_777656,3
 hkir_777656_4,"Érd, autóbusz-állomás",47.379763,18.924886,,hkir_777656,4
 hkir_777656_5,"Érd, autóbusz-állomás",47.379789,18.924986,,hkir_777656,5
@@ -60019,15 +60032,23 @@ hkir_778876_2,"Szigetbecse, Makádi út felső",47.135114,18.947670,,hkir_778876
 hkir_778877,"Szigetcsép, Egyetemi szőlőtelep",47.249750,18.963550,1,,
 hkir_778877_1,"Szigetcsép, Egyetemi szőlőtelep",47.250046,18.963638,,hkir_778877,
 hkir_778877_2,"Szigetcsép, Egyetemi szőlőtelep",47.249449,18.963463,,hkir_778877,
+hkir_778878,Horgásztanyák H,47.213704,18.953933,1,,
+hkir_778878_0,Horgásztanyák H,47.214111,18.954215,,hkir_778878,
+hkir_778878_1,Horgásztanyák H,47.213310,18.953767,,hkir_778878,
 hkir_778879,"Szigetcsép, Fő utca 87.",47.268060,18.972720,1,,
 hkir_778879_1,"Szigetcsép, Fő utca 87.",47.267810,18.972523,,hkir_778879,
 hkir_778879_2,"Szigetcsép, Fő utca 87.",47.268307,18.972909,,hkir_778879,
+hkir_778881,"Szigetcsép, HÉV-állomás",47.270708,18.956637,1,,
+hkir_778881_0,"Szigetcsép, HÉV-állomás",47.270708,18.956638,,hkir_778881,
 hkir_778882,"Szigetcsép, községháza",47.264840,18.970650,1,,
 hkir_778882_1,"Szigetcsép, községháza",47.264702,18.970513,,hkir_778882,
 hkir_778882_2,"Szigetcsép, községháza",47.264982,18.970779,,hkir_778882,
 hkir_778883,"Szigetcsép, Temető",47.270880,18.974490,1,,
 hkir_778883_1,"Szigetcsép, Temető",47.270866,18.974437,,hkir_778883,
 hkir_778883_2,"Szigetcsép, Temető",47.270894,18.974533,,hkir_778883,
+hkir_778884,Angyalisziget H,47.200074,18.945491,1,,
+hkir_778884_0,Angyalisziget H,47.199945,18.945358,,hkir_778884,
+hkir_778884_1,Angyalisziget H,47.200153,18.945608,,hkir_778884,
 hkir_778885,"Szigethalom, Autógyár, III. számú kapu",47.327500,19.007470,1,,
 hkir_778885_1,"Szigethalom, Autógyár, III. számú kapu",47.327490,19.007542,,hkir_778885,
 hkir_778885_2,"Szigethalom, Autógyár, III. számú kapu",47.327504,19.007388,,hkir_778885,
@@ -60292,6 +60313,10 @@ hkir_779010_1,"Szob, Szakorvosi Rendelőintézet",47.817628,18.871996,,hkir_7790
 hkir_779010_2,"Szob, Szakorvosi Rendelőintézet",47.817808,18.872199,,hkir_779010,
 hkir_779011,"Szob, vasútállomás",47.821319,18.862602,1,,
 hkir_779011_1,"Szob, vasútállomás",47.821323,18.862602,,hkir_779011,1
+hkir_779011_11,"Szob, vasútállomás",47.821526,18.861946,,hkir_779011,11
+hkir_779011_12,"Szob, vasútállomás",47.821477,18.862157,,hkir_779011,12
+hkir_779011_13,"Szob, vasútállomás",47.821416,18.862380,,hkir_779011,13
+hkir_779011_14,"Szob, vasútállomás",47.821397,18.862597,,hkir_779011,14
 hkir_779011_2,"Szob, vasútállomás",47.821323,18.862602,,hkir_779011,2
 hkir_779011_3,"Szob, vasútállomás",47.821323,18.862602,,hkir_779011,3
 hkir_779011_4,"Szob, vasútállomás",47.821323,18.862602,,hkir_779011,4
@@ -60842,6 +60867,7 @@ hkir_779223_2,"Tököl, Bíróház",47.338188,18.969388,,hkir_779223,
 hkir_779224,"Tököl, HÉV-állomás",47.313590,18.973910,1,,
 hkir_779224_1,"Tököl, HÉV-állomás",47.313410,18.973663,,hkir_779224,
 hkir_779224_2,"Tököl, HÉV-állomás",47.313769,18.974149,,hkir_779224,
+hkir_779224_3,"Tököl, HÉV-állomás",47.313445,18.973850,,hkir_779224,
 hkir_779225,"Tököl, Kolozsvári utca",47.316000,18.964060,1,,
 hkir_779225_1,"Tököl, Kolozsvári utca",47.315495,18.964272,,hkir_779225,
 hkir_779225_2,"Tököl, Kolozsvári utca",47.316510,18.963839,,hkir_779225,
