@@ -2723,7 +2723,7 @@ hkir_105207_2,"Jászdózsa, Széchenyi utca",47.559368,20.027169,,hkir_105207,
 hkir_105208,"Jászdózsa, Szent Mihály tér",47.566547,20.014599,1,,
 hkir_105208_1,"Jászdózsa, Szent Mihály tér",47.566974,20.014874,,hkir_105208,
 hkir_105208_2,"Jászdózsa, Szent Mihály tér",47.567293,20.014718,,hkir_105208,
-hkir_105208_3,"Jászdózsa, Szent Mihály tér",47.565804,20.014476,,hkir_105208,
+hkir_105208_3,"Jászdózsa, Szent Mihály tér",47.566616,20.014799,,hkir_105208,
 hkir_105209,"Jászdózsa, Vermek utcai elágazás",47.571709,20.009862,1,,
 hkir_105209_1,"Jászdózsa, Vermek utcai elágazás",47.571981,20.009150,,hkir_105209,
 hkir_105209_2,"Jászdózsa, Vermek utcai elágazás",47.571055,20.010167,,hkir_105209,
@@ -3951,7 +3951,6 @@ hkir_105657,"Szolnok, Üteg utca",47.180824,20.219427,1,,
 hkir_105657_1,"Szolnok, Üteg utca",47.180927,20.219488,,hkir_105657,
 hkir_105657_2,"Szolnok, Üteg utca",47.180686,20.219363,,hkir_105657,
 hkir_105658,"Szolnok, vasútállomás",47.178425,20.175644,1,,
-hkir_105658_1,"Szolnok, vasútállomás",47.178426,20.175643,,hkir_105658,1
 hkir_105658_21,"Szolnok, vasútállomás",47.178426,20.175643,,hkir_105658,21
 hkir_105658_23,"Szolnok, vasútállomás",47.178261,20.175632,,hkir_105658,23
 hkir_105658_24,"Szolnok, vasútállomás",47.178398,20.175810,,hkir_105658,24
@@ -3960,13 +3959,6 @@ hkir_105658_26,"Szolnok, vasútállomás",47.178196,20.175694,,hkir_105658,26
 hkir_105658_27,"Szolnok, vasútállomás",47.178295,20.175907,,hkir_105658,27
 hkir_105658_28,"Szolnok, vasútállomás",47.178480,20.176144,,hkir_105658,28
 hkir_105658_29,"Szolnok, vasútállomás",47.178840,20.176534,,hkir_105658,29
-hkir_105658_3,"Szolnok, vasútállomás",47.178261,20.175632,,hkir_105658,3
-hkir_105658_4,"Szolnok, vasútállomás",47.178398,20.175810,,hkir_105658,4
-hkir_105658_5,"Szolnok, vasútállomás",47.178535,20.175987,,hkir_105658,5
-hkir_105658_6,"Szolnok, vasútállomás",47.178196,20.175694,,hkir_105658,6
-hkir_105658_7,"Szolnok, vasútállomás",47.178295,20.175907,,hkir_105658,7
-hkir_105658_8,"Szolnok, vasútállomás",47.178480,20.176144,,hkir_105658,8
-hkir_105658_9,"Szolnok, vasútállomás",47.178840,20.176534,,hkir_105658,9
 hkir_105658_99,"Szolnok, vasútállomás",47.178425,20.175644,,hkir_105658,
 hkir_105659,"Szolnok, Vegyiművek lakótelep",47.135952,20.149559,1,,
 hkir_105659_1,"Szolnok, Vegyiművek lakótelep",47.136112,20.149826,,hkir_105659,
@@ -6440,9 +6432,9 @@ hkir_109630_2,"Salgótarján, Kővár út 42.",48.106556,19.796948,,hkir_109630,
 hkir_109631,"Salgótarján, Lucfalvai út",48.051758,19.777620,1,,
 hkir_109631_1,"Salgótarján, Lucfalvai út",48.051719,19.777441,,hkir_109631,
 hkir_109631_2,"Salgótarján, Lucfalvai út",48.051802,19.777794,,hkir_109631,
-hkir_109632,"Salgótarján, Megyeháza",48.099185,19.805804,1,,
-hkir_109632_1,"Salgótarján, Megyeháza",48.099178,19.805724,,hkir_109632,
-hkir_109632_2,"Salgótarján, Megyeháza",48.099170,19.807985,,hkir_109632,
+hkir_109632,"Salgótarján, Megyeháza",48.099327,19.805506,1,,
+hkir_109632_1,"Salgótarján, Megyeháza",48.099711,19.805467,,hkir_109632,
+hkir_109632_2,"Salgótarján, Megyeháza",48.098947,19.805537,,hkir_109632,
 hkir_109633,"Salgótarján, Nyárjaspuszta",48.050903,19.755692,1,,
 hkir_109633_1,"Salgótarján, Nyárjaspuszta",48.050913,19.755603,,hkir_109633,
 hkir_109633_2,"Salgótarján, Nyárjaspuszta",48.050895,19.755774,,hkir_109633,
@@ -31085,7 +31077,6 @@ hkir_437773,"Old, forduló",45.789281,18.351858,1,,
 hkir_437773_1,"Old, forduló",45.789193,18.351886,,hkir_437773,
 hkir_437774,"Orfű, Árnyas-part",46.155449,18.133825,1,,
 hkir_437774_1,"Orfű, Árnyas-part",46.155720,18.133662,,hkir_437774,
-hkir_437774_2,"Orfű, Árnyas-part",46.155179,18.133988,,hkir_437774,
 hkir_437775,"Orfű, Horgászfalu I.",46.152686,18.141678,1,,
 hkir_437775_1,"Orfű, Horgászfalu I.",46.152905,18.141684,,hkir_437775,
 hkir_437775_2,"Orfű, Horgászfalu I.",46.152466,18.141674,,hkir_437775,
@@ -31108,7 +31099,6 @@ hkir_437781_1,"Orfű, Orfűi-tó",46.140610,18.154966,,hkir_437781,
 hkir_437781_2,"Orfű, Orfűi-tó",46.141127,18.154292,,hkir_437781,
 hkir_437782,"Orfű, Sport utca",46.153234,18.135323,1,,
 hkir_437782_1,"Orfű, Sport utca",46.153269,18.135321,,hkir_437782,
-hkir_437782_2,"Orfű, Sport utca",46.153198,18.135326,,hkir_437782,
 hkir_437783,"Orfű, Szent Márton templom",46.136192,18.154499,1,,
 hkir_437783_1,"Orfű, Szent Márton templom",46.136602,18.154716,,hkir_437783,
 hkir_437783_2,"Orfű, Szent Márton templom",46.135781,18.154282,,hkir_437783,
@@ -38483,7 +38473,7 @@ hkir_549501,"Győr, Szent Imre út, Rendelőintézet",47.670662,17.645960,1,,
 hkir_549501_1,"Győr, Szent Imre út, Rendelőintézet",47.670444,17.646097,,hkir_549501,
 hkir_549501_2,"Győr, Szent Imre út, Rendelőintézet",47.670872,17.645821,,hkir_549501,
 hkir_549502,"Győr, Szent Vendel utca, Fő utca",47.689911,17.599900,1,,
-hkir_549502_1,"Győr, Szent Vendel utca, Fő utca",47.689911,17.599900,,hkir_549502,
+hkir_549502_1,"Győr, Szent Vendel utca, Fő utca",47.690215,17.599550,,hkir_549502,
 hkir_549503,"Győr, Szigethy Attila út, Eőrsy Péter utca",47.673767,17.634388,1,,
 hkir_549503_1,"Győr, Szigethy Attila út, Eőrsy Péter utca",47.673847,17.634441,,hkir_549503,
 hkir_549503_2,"Győr, Szigethy Attila út, Eőrsy Péter utca",47.673679,17.634331,,hkir_549503,
@@ -38514,8 +38504,8 @@ hkir_549512_2,"Győr, Szent István út, Iparkamara",47.685402,17.639057,,hkir_5
 hkir_549512_3,"Győr, Szent István út, Iparkamara",47.686050,17.641474,,hkir_549512,
 hkir_549512_5,"Győr, Szent István út, Iparkamara",47.685443,17.639743,,hkir_549512,
 hkir_549515,"Győr, Tatai út, Banai út",47.675334,17.682435,1,,
-hkir_549515_1,"Győr, Tatai út, Banai út",47.675275,17.682403,,hkir_549515,
-hkir_549515_2,"Győr, Tatai út, Banai út",47.675291,17.682018,,hkir_549515,
+hkir_549515_1,"Győr, Tatai út, Banai út",47.675303,17.682495,,hkir_549515,
+hkir_549515_2,"Győr, Tatai út, Banai út",47.675426,17.682401,,hkir_549515,
 hkir_549516,"Győr, Tatai út, trafóház",47.676331,17.693161,1,,
 hkir_549516_1,"Győr, Tatai út, trafóház",47.676139,17.694204,,hkir_549516,
 hkir_549516_2,"Győr, Tatai út, trafóház",47.676524,17.692120,,hkir_549516,
@@ -38532,7 +38522,7 @@ hkir_549520,"Győr, Tihanyi Árpád út, adyvárosi tó",47.669502,17.653111,1,,
 hkir_549520_1,"Győr, Tihanyi Árpád út, adyvárosi tó",47.669407,17.653072,,hkir_549520,
 hkir_549520_2,"Győr, Tihanyi Árpád út, adyvárosi tó",47.669559,17.653227,,hkir_549520,
 hkir_549521,"Győr, Tihanyi Árpád út, Ifjúság körút",47.670765,17.652935,1,,
-hkir_549521_1,"Győr, Tihanyi Árpád út, Ifjúság körút",47.670765,17.652933,,hkir_549521,
+hkir_549521_1,"Győr, Tihanyi Árpád út, Ifjúság körút",47.670700,17.653069,,hkir_549521,
 hkir_549522,"Győr, Tihanyi Árpád út, kórház",47.673343,17.650110,1,,
 hkir_549522_1,"Győr, Tihanyi Árpád út, kórház",47.672390,17.650753,,hkir_549522,
 hkir_549522_2,"Győr, Tihanyi Árpád út, kórház",47.673856,17.649758,,hkir_549522,
@@ -56021,9 +56011,9 @@ hkir_777091_1,"Aszód, Széchenyi utca 32.",47.655271,19.469106,,hkir_777091,
 hkir_777091_2,"Aszód, Széchenyi utca 32.",47.655314,19.467971,,hkir_777091,
 hkir_777093,"Aszód, vasútállomás",47.648060,19.492650,1,,
 hkir_777093_0,"Aszód, vasútállomás",47.648061,19.492649,,hkir_777093,
-hkir_777093_1,"Aszód, vasútállomás",47.648112,19.492946,,hkir_777093,1
-hkir_777093_2,"Aszód, vasútállomás",47.648145,19.492792,,hkir_777093,2
-hkir_777093_3,"Aszód, vasútállomás",47.648183,19.492680,,hkir_777093,3
+hkir_777093_1,"Aszód, vasútállomás",47.648163,19.492565,,hkir_777093,1
+hkir_777093_2,"Aszód, vasútállomás",47.648121,19.492680,,hkir_777093,2
+hkir_777093_3,"Aszód, vasútállomás",47.648089,19.492801,,hkir_777093,3
 hkir_777094,"Aszód, vasútállomás bejárati út (Hatos)",47.651380,19.488660,1,,
 hkir_777094_1,"Aszód, vasútállomás bejárati út (Hatos)",47.651732,19.488090,,hkir_777094,
 hkir_777094_2,"Aszód, vasútállomás bejárati út (Hatos)",47.651860,19.488122,,hkir_777094,
@@ -59424,10 +59414,10 @@ hkir_778596_2,Pilisvörösvári üdülőtelep,47.612084,18.932490,,hkir_778596,
 hkir_778598,"Pócsmegyer, bejárati út",47.717150,19.104130,1,,
 hkir_778598_1,"Pócsmegyer, bejárati út",47.717036,19.102484,,hkir_778598,
 hkir_778598_2,"Pócsmegyer, bejárati út",47.717031,19.103046,,hkir_778598,
-hkir_778599,"Pócsmegyer, iskola",47.716753,19.095011,1,,
-hkir_778599_1,"Pócsmegyer, iskola",47.716688,19.095051,,hkir_778599,
-hkir_778600,"Pócsmegyer, orvosi rendelő",47.718215,19.097838,1,,
-hkir_778600_1,"Pócsmegyer, orvosi rendelő",47.718215,19.097838,,hkir_778600,
+hkir_778599,"Pócsmegyer, Bocskai tér",47.716753,19.095011,1,,
+hkir_778599_1,"Pócsmegyer, Bocskai tér",47.716688,19.095051,,hkir_778599,
+hkir_778600,"Pócsmegyer, Ady Endre út",47.718215,19.097838,1,,
+hkir_778600_1,"Pócsmegyer, Ady Endre út",47.718215,19.097838,,hkir_778600,
 hkir_778601,"Pócsmegyer, rév",47.718250,19.094910,1,,
 hkir_778601_1,"Pócsmegyer, rév",47.718245,19.094906,,hkir_778601,
 hkir_778602,"Surány, Galamb utca",47.714060,19.109130,1,,
@@ -59456,9 +59446,9 @@ hkir_778609_2,"Tahitótfalu, Vízmű telep",47.731567,19.102509,,hkir_778609,
 hkir_778610,Csikóváraljai menedékház,47.660310,18.974680,1,,
 hkir_778610_1,Csikóváraljai menedékház,47.660111,18.974922,,hkir_778610,
 hkir_778610_2,Csikóváraljai menedékház,47.660507,18.974445,,hkir_778610,
-hkir_778611,Liszenkó telep,47.673720,18.946730,1,,
-hkir_778611_1,Liszenkó telep,47.674469,18.946498,,hkir_778611,
-hkir_778611_2,Liszenkó telep,47.672964,18.946966,,hkir_778611,
+hkir_778611,Podmaniczky major,47.673720,18.946730,1,,
+hkir_778611_1,Podmaniczky major,47.674469,18.946498,,hkir_778611,
+hkir_778611_2,Podmaniczky major,47.672964,18.946966,,hkir_778611,
 hkir_778612,"Kiskovácsi, Kórház",47.664570,18.966050,1,,
 hkir_778612_1,"Kiskovácsi, Kórház",47.664832,18.965808,,hkir_778612,
 hkir_778612_2,"Kiskovácsi, Kórház",47.664315,18.966292,,hkir_778612,
@@ -60269,14 +60259,11 @@ hkir_779009_2,"Szob, Préskerti lakótelep",47.826408,18.856888,,hkir_779009,
 hkir_779010,"Szob, Szakorvosi Rendelőintézet",47.817720,18.872100,1,,
 hkir_779010_1,"Szob, Szakorvosi Rendelőintézet",47.817628,18.871996,,hkir_779010,
 hkir_779010_2,"Szob, Szakorvosi Rendelőintézet",47.817808,18.872199,,hkir_779010,
-hkir_779011,"Szob, vasútállomás",47.821319,18.862602,1,,
-hkir_779011_1,"Szob, vasútállomás",47.821323,18.862602,,hkir_779011,1
-hkir_779011_11,"Szob, vasútállomás",47.821526,18.861946,,hkir_779011,11
-hkir_779011_12,"Szob, vasútállomás",47.821477,18.862157,,hkir_779011,12
-hkir_779011_13,"Szob, vasútállomás",47.821416,18.862380,,hkir_779011,13
-hkir_779011_14,"Szob, vasútállomás",47.821397,18.862597,,hkir_779011,14
-hkir_779011_2,"Szob, vasútállomás",47.821323,18.862602,,hkir_779011,2
-hkir_779011_4,"Szob, vasútállomás",47.821323,18.862602,,hkir_779011,4
+hkir_779011,"Szob, Vasútállomás",47.821477,18.862152,1,,
+hkir_779011_11,"Szob, Vasútállomás",47.821526,18.861946,,hkir_779011,11
+hkir_779011_12,"Szob, Vasútállomás",47.821477,18.862157,,hkir_779011,12
+hkir_779011_13,"Szob, Vasútállomás",47.821416,18.862380,,hkir_779011,13
+hkir_779011_14,"Szob, Vasútállomás",47.821397,18.862597,,hkir_779011,14
 hkir_779013,"Szokolya, községháza",47.868110,19.005770,1,,
 hkir_779013_1,"Szokolya, községháza",47.868107,19.005771,,hkir_779013,
 hkir_779014,"Szokolya, Lévai utca 2.",47.867010,19.001740,1,,
@@ -61145,17 +61132,17 @@ hkir_779364,"Vác, Altányi szőlők",47.796520,19.131330,1,,
 hkir_779364_1,"Vác, Altányi szőlők",47.796648,19.131266,,hkir_779364,
 hkir_779364_2,"Vác, Altányi szőlők",47.796396,19.131393,,hkir_779364,
 hkir_779365,"Vác, autóbusz-állomás",47.781440,19.129760,1,,
-hkir_779365_1,"Vác, autóbusz-állomás",47.780957,19.129869,,hkir_779365,1
-hkir_779365_10,"Vác, autóbusz-állomás",47.781930,19.129643,,hkir_779365,10
-hkir_779365_12,"Vác, autóbusz-állomás",47.781930,19.129643,,hkir_779365,12
-hkir_779365_14,"Vác, autóbusz-állomás",47.781461,19.130711,,hkir_779365,14
-hkir_779365_2,"Vác, autóbusz-állomás",47.781930,19.129643,,hkir_779365,2
-hkir_779365_3,"Vác, autóbusz-állomás",47.781930,19.129643,,hkir_779365,3
-hkir_779365_4,"Vác, autóbusz-állomás",47.781930,19.129643,,hkir_779365,4
-hkir_779365_5,"Vác, autóbusz-állomás",47.781930,19.129643,,hkir_779365,5
-hkir_779365_6,"Vác, autóbusz-állomás",47.781930,19.129643,,hkir_779365,6
-hkir_779365_7,"Vác, autóbusz-állomás",47.781930,19.129643,,hkir_779365,7
-hkir_779365_8,"Vác, autóbusz-állomás",47.781930,19.129643,,hkir_779365,8
+hkir_779365_1,"Vác, autóbusz-állomás",47.781638,19.130094,,hkir_779365,1
+hkir_779365_10,"Vác, autóbusz-állomás",47.781616,19.129539,,hkir_779365,10
+hkir_779365_12,"Vác, autóbusz-állomás",47.780902,19.129367,,hkir_779365,12
+hkir_779365_14,"Vác, autóbusz-állomás",47.781468,19.130893,,hkir_779365,14
+hkir_779365_2,"Vác, autóbusz-állomás",47.781389,19.130067,,hkir_779365,2
+hkir_779365_3,"Vác, autóbusz-állomás",47.781674,19.129987,,hkir_779365,3
+hkir_779365_4,"Vác, autóbusz-állomás",47.781746,19.129863,,hkir_779365,4
+hkir_779365_5,"Vác, autóbusz-állomás",47.781584,19.129812,,hkir_779365,5
+hkir_779365_6,"Vác, autóbusz-állomás",47.781814,19.129702,,hkir_779365,6
+hkir_779365_7,"Vác, autóbusz-állomás",47.781634,19.129678,,hkir_779365,7
+hkir_779365_8,"Vác, autóbusz-állomás",47.781856,19.129579,,hkir_779365,8
 hkir_779365_99,"Vác, autóbusz-állomás",47.781440,19.129760,,hkir_779365,
 hkir_779367,"Vác, Kodály Zoltán u.",47.790710,19.117060,1,,
 hkir_779367_1,"Vác, Kodály Zoltán u.",47.790496,19.117339,,hkir_779367,
