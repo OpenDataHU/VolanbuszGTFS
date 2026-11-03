@@ -26,7 +26,6 @@ hkir_V-03522,hkir_V-03522-H-3-6,6,Déri sétány - Pásztor utca - Vöröskeresz
 hkir_V-03522,hkir_V-03522-H-3-7,7,Déri sétány - DÉLHÚS - (Vaskúti úti laktanya forduló) - Vöröskereszt tér - Déri sétány - Dobó István u,3,,1A3236,FFFFFF,local
 hkir_V-03522,hkir_V-03522-H-3-8,8,Déri sétány - DÉLHÚS - (Vaskúti úti laktanya) - Vöröskereszt tér - Déri sétány,3,,1A3236,FFFFFF,local
 hkir_V-03522,hkir_V-03522-H-3-9,9,Tanítóképző Főiskola - Svraka tanya - Tanítóképző Főiskola,3,,1A3236,FFFFFF,local
-hkir_V-03522,hkir_V-03522-H-3-H3110,H3110,TEMETŐ JÁRAT,3,,1A3236,FFFFFF,local
 hkir_V-04260,hkir_V-04260-H-3-1,1,"Mezőtúr, aut. áll. - Kossuth tér. - aut. áll.",3,,1A3236,FFFFFF,local
 hkir_V-04349,hkir_V-04349-H-3-1,1,Autóbusz-állomás - Nyár utca - Munkácsy utca - Röszkei út - Autóbusz-állomás,3,,1A3236,FFFFFF,local
 hkir_V-04783,hkir_V-04783-H-3-10,10,Vasútállomás - Moson - Evangélikus templom - Ujhelyi iskola - Tündérfátyol utca,3,,1A3236,FFFFFF,local
@@ -289,10 +288,8 @@ hkir_V-17631,hkir_V-17631-H-3-2,2,"Autóbusz-állomás - Sóstó, Kemping",3,,1A
 hkir_V-17631,hkir_V-17631-H-3-21,21,Darnay Kálmán tér - Perczel Mór u.,3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-2A,2A,2A. Aut. áll.-Nyaralótelep,3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-3,3,Autóbusz-állomás - Volán-telep,3,,1A3236,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-3T,3T,Autóbusz-állomás - Kele utcai temető,3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-4,4,"Autóbusz-állomás - Kiliti, Béke tér",3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-5,5,"Autóbusz-állomás - Szépvölgyi u. - Kiliti,Béke tér",3,,1A3236,FFFFFF,local
-hkir_V-17631,hkir_V-17631-H-3-6T,6T,Autóbusz-állomás - Szépvölgyi utcai temető,3,,1A3236,FFFFFF,local
 hkir_V-17631,hkir_V-17631-H-3-7,7,"Autóbusz-állomás - Boróka u. - Somogyfok - Töreki, Alsó",3,,1A3236,FFFFFF,local
 hkir_V-17941,hkir_V-17941-H-3-1,1,"Autóbusz-állomás - Henész, forduló",3,,1A3236,FFFFFF,local
 hkir_V-17941,hkir_V-17941-H-3-5,5,Autóbusz-állomás - Éltes Mátyás Iskola,3,,1A3236,FFFFFF,local
@@ -301,7 +298,6 @@ hkir_V-18209,hkir_V-18209-H-3-2A,2A,Autóbusz-állomás - Szt. István krt.,3,,1
 hkir_V-18421,hkir_V-18421-H-3-1,1,"Autóbusz-állomás - Kórház - Gyenesdiás, sportpálya",3,,1A3236,FFFFFF,local
 hkir_V-18421,hkir_V-18421-H-3-2,2,Autóbusz-állomás - Vaszary utca - Fodor utca - Autóbusz-állomás,3,,1A3236,FFFFFF,local
 hkir_V-18421,hkir_V-18421-H-3-3,3,"Autóbusz-állomás - Egyetem, kollégium - Szendrey telep",3,,1A3236,FFFFFF,local
-hkir_V-18421,hkir_V-18421-H-3-4,4,Autóbusz-állomás - Köztemető,3,,1A3236,FFFFFF,local
 hkir_V-18421,hkir_V-18421-H-3-5,5,"Autóbusz-állomás - Rákóczi tér - Kárpát utca, autóbusz-forduló",3,,1A3236,FFFFFF,local
 hkir_V-18421,hkir_V-18421-H-3-C5,C5,Autóbusz-állomás - TESCO,3,,1A3236,FFFFFF,local
 hkir_V-19433,hkir_V-19433-S-3-2-0,2,Dózsa Gy. u. - Mátyás király u. - Gyógyfürdő,3,,1A3236,FFFFFF,local
@@ -429,7 +425,6 @@ hkir_V-25584,hkir_V-25584-H-3-30Y,30Y,"Révai Miklós utca - Audi-gyár - Ipari 
 hkir_V-25584,hkir_V-25584-H-3-31,31,"Révai Miklós utca - Győrszentiván, Homoksor - Kálmán Imre út",3,,1A3236,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-31A,31A,"Révai Miklós utca - Győrszentiván, Kálmán Imre út - Homoksor",3,,1A3236,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-37,37,Révai Miklós utca - Adyváros - Temető - Ménfőcsanak - Gyirmót,3,,1A3236,FFFFFF,local
-hkir_V-25584,hkir_V-25584-H-3-37T,37T,Temetőjárat Marcalváros - Temető - Adyváros - Zechmeister utca,3,,1A3236,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-38,38,Révai Miklós utca - Adyváros - Szabadhegy - Ipari Park,3,,1A3236,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-38A,38A,Révai Miklós utca - Adyváros - Szabadhegy - Ipari Park,3,,1A3236,FFFFFF,local
 hkir_V-25584,hkir_V-25584-H-3-41,41,"Zöld utca, Soproni út - Adyváros - Honvédség",3,,1A3236,FFFFFF,local
@@ -536,7 +531,6 @@ hkir_V-27854,hkir_V-27854-H-3-35,35,Tallinn városrész - Üteg utca - Kőrösi 
 hkir_V-27854,hkir_V-27854-H-3-36,36,"Tallinn városrész - Tiszaliget, Campus",3,,1A3236,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-37,37,Tallinn városrész - Repülőtér - Tallinn városrész,3,,1A3236,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-41,41,Repülőtér - Hild Viktor utca,3,,1A3236,FFFFFF,local
-hkir_V-27854,hkir_V-27854-H-3-45,45,Szolnok Temetői járat,3,,1A3236,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-5,5,Tallinn városrész - Rákóczi út - Cukorgyári lakótelep,3,,1A3236,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-6,6,Vasútállomás - Alamand dűlő,3,,1A3236,FFFFFF,local
 hkir_V-27854,hkir_V-27854-H-3-6Y,6Y,Vasútállomás - Holt-Tiszapart,3,,1A3236,FFFFFF,local
@@ -552,7 +546,6 @@ hkir_V-30766,hkir_V-30766-H-3-1Y,1Y,Volán telep - Volán telep,3,,1A3236,FFFFFF
 hkir_V-30933,hkir_V-30933-H-3-10,10,"Kalmár utca - Bagola - Nagyfakos, alsó",3,,1A3236,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-10A,10A,Autóbusz-áll.- Bagola forduló,3,,1A3236,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-10Y,10Y,"Kalmár utca - Bagolai elágazó - Nagyfakos, alsó",3,,1A3236,FFFFFF,local
-hkir_V-30933,hkir_V-30933-H-3-14C,14C,Városkapu körút - Köztemető (temetői járat),3,,1A3236,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-15,15,Vasút - Kalmár - Hevesi - Kalmár,3,,1A3236,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-16,16,"Autóbusz-állomás - Kiskanizsa, temető - Bajcsa, vízmű",3,,1A3236,FFFFFF,local
 hkir_V-30933,hkir_V-30933-H-3-16A,16A,"Autóbusz-állomás - Kiskanizsa, temető",3,,1A3236,FFFFFF,local
@@ -629,7 +622,6 @@ hkir_V-32054,hkir_V-32054-H-3-2E,2E,Ganz Ábrahám Szakközépiskola - Autóbusz
 hkir_V-32054,hkir_V-32054-H-3-3,3,"Vasútállomás - (Nekeresd -) Pózva, Külsőkórház",3,,1A3236,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-4,4,Vasútállomás (- Bartók Béla utca) (- Zalabesenyő) - Botfa,3,,1A3236,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-5,5,Autóbusz-állomás - Új köztemető (- Neszele) - Ságod,3,,1A3236,FFFFFF,local
-hkir_V-32054,hkir_V-32054-H-3-5T,5T,Kovács Károly tér - Új köztemető,3,,1A3236,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-6,6,Autóbusz-állomás/Körmendi út - Hűtőipari Zrt. - Szenterzsébethegy,3,,1A3236,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-7,7,Autóbusz-állomás - Bazita - Kökényesmindszent,3,,1A3236,FFFFFF,local
 hkir_V-32054,hkir_V-32054-H-3-9,9,Kovács Károly tér - Páterdomb - Széchenyi tér,3,,1A3236,FFFFFF,local
@@ -679,7 +671,6 @@ hkir_V-33367,hkir_V-33367-H-3-84,84,"Újszeged, Gabonakutató - Makkosháza",3,,
 hkir_V-33367,hkir_V-33367-H-3-90,90,"Újszeged, Gabonakutató - Szeged vasútállomás",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-90F,90F,"Petőfitelep, Fő tér - Vadaspark (Textilgyári út)",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-90H,90H,90H Lugas utca - Szegedi Ipari Logisztikai Központ - Rheinmetall - BYD,3,,1A3236,FFFFFF,local
-hkir_V-33367,hkir_V-33367-H-3-90T,90T,90T Temetői járat,3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-91E,91E,"Széchenyi tér - Szőreg, Malom - Mars tér",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-92E,92E,"Széchenyi tér - Tarján, Víztorony tér - Petőfitelep, Fő tér - Új-Petőfitelep - Tarján, Víztorony",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-93E,93E,"Széchenyi tér - Makkosházi krt. - Rókusi krt. - Kiskundorozsma, Czékus utca",3,,1A3236,FFFFFF,local
@@ -1119,7 +1110,6 @@ hkir_V,hkir_V-R-200-3604,3604,Eger - Parádfürdő - Gyöngyös - Hatvan - Pető
 hkir_V,hkir_V-R-200-3605,3605,Hatvan - Lőrinci - Ecseg,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3605,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3607,3607,Hatvan - Apc - Pásztó( - Szentkút),200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3607,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3608,3608,Hatvan - Vörösmajor - Petőfibánya - R.sz.márton - Gyöngyös,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3608,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3609,3609,"Apc - Petőfibánya - Lőrinci, temető",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3609,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-361,361,Vác - Balassagyarmat - Szécsény - Salgótarján,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2000,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3610,3610,Hatvan-Ecséd-Rózsaszentmárton-Szücsi-Gyöngyöspata-Gyöngyös,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3610,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3612,3612,Gyöngyös - Csány - Hatvan,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3612,F6AC00,152B32,regional
