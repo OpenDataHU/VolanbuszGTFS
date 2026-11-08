@@ -55374,7 +55374,6 @@ hkir_773521_26,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,
 hkir_773521_27,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,27
 hkir_773521_28,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,28
 hkir_773521_29,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,29
-hkir_773521_3,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,3
 hkir_773521_4,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,4
 hkir_773521_5,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,5
 hkir_773521_8,"Budapest, Népliget autóbusz-pályaudvar",47.474469,19.098611,,hkir_773521,8
