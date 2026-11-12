@@ -7824,7 +7824,6 @@ hkir_213324_4,"Edelény, autóbusz-állomás",48.295289,20.743271,,hkir_213324,4
 hkir_213324_5,"Edelény, autóbusz-állomás",48.295393,20.743030,,hkir_213324,5
 hkir_213324_6,"Edelény, autóbusz-állomás",48.295653,20.742906,,hkir_213324,6
 hkir_213324_7,"Edelény, autóbusz-állomás",48.295778,20.742850,,hkir_213324,7
-hkir_213324_99,"Edelény, autóbusz-állomás",48.295575,20.743044,,hkir_213324,
 hkir_213325,"Edelény, bányász lakótelep",48.284495,20.718513,1,,
 hkir_213325_1,"Edelény, bányász lakótelep",48.284937,20.718497,,hkir_213325,
 hkir_213325_2,"Edelény, bányász lakótelep",48.284060,20.718525,,hkir_213325,
