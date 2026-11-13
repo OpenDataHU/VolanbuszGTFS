@@ -666,8 +666,11 @@ hkir_V-33367,hkir_V-33367-H-3-77A,77A,"Baktó, Völgyérhát utca - Mars tér",3
 hkir_V-33367,hkir_V-33367-H-3-78,78,Mars tér - Béketelep - Rókusi körút - Mars tér (körjárat),3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-78A,78A,78  Mars tér - Rókusi körút - Béketelep - Mars tér (körjáratt,3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-79,79,79 Mars tér - ELI lézeres kutatóközpont - Rheinmetall,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-79B,79B,79 Mars tér - ELI lézeres kutatóközpont - Rheinmetall,3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-7F,7F,"Mars tér - Kiskundorozsma, Sziksósfürdő",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-84,84,"Újszeged, Gabonakutató - Makkosháza",3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-88,88,88 Dér István u. - Kisteleki u. / Auchan,3,,1A3236,FFFFFF,local
+hkir_V-33367,hkir_V-33367-H-3-88A,88A,88A Kisteleki utca - Béketelep - Auchan - Kisteéleki utca,3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-90,90,"Újszeged, Gabonakutató - Szeged vasútállomás",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-90F,90F,"Petőfitelep, Fő tér - Vadaspark (Textilgyári út)",3,,1A3236,FFFFFF,local
 hkir_V-33367,hkir_V-33367-H-3-90H,90H,90H Lugas utca - Szegedi Ipari Logisztikai Központ - Rheinmetall - BYD,3,,1A3236,FFFFFF,local
@@ -1367,7 +1370,7 @@ hkir_V,hkir_V-R-200-404,404,Gödöllő - Aszód - Bag - Tura - Hatvan,200,https:
 hkir_V,hkir_V-R-200-4040,4040,Kazincbarcika - Múcsony - Edelény,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4040,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4041,4041,Kazincbarcika-Edelény-Meszes-Viszló,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4041,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4043,4043,Kazincbarcika-Edelény-Balajt-Abod-Galvács,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4043,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4044,4044,Miskolc - Sajókeresztúr - Sajóecseg - Borsodszirák - Edelény - Balajt,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4044,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-4044,4044,Kazincbarcika - Edelény - Hangács,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4044,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4045,4045,Kazincbarcika - Berente (Hőerőmű),200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4045,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4046,4046,Kazincbarcika - Berente,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4046,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4047,4047,Kazincbarcika - Berente,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4047,F6AC00,152B32,regional
