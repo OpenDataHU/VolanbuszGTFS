@@ -786,7 +786,7 @@ hkir_V,hkir_V-O-200-1503,1503,Szeged - Baja - Pécs - Kaposvár - Zalaegerszeg,2
 hkir_V,hkir_V-O-200-1504,1504,Szeged - Baja - Mohács/M6 - Pécs,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1504,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1506,1506,Szeged - Baja - Szekszárd - Siófok - Hévíz,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1506,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1507,1507,Szeged - Kiskunhalas - Solt - Dunaföldvár/M8 - Dunaújváros - Székesfehérvár - Győr,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1507,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1510,1510,Szeged - Solt - M8 - Dunaújváros - Székesfehérvár - Veszprém,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1510,F6AC00,152B32,national
+hkir_V,hkir_V-O-200-1510,1510,Szeged-Kiskunhalas-Solt-M8 autópálya-Dunaújváros-Veszprém,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1510,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1513,1513,Szeged-Kiskunhalas-Solt-Dunaföldvár-Veszprém,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1513,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1515,1515,Szeged - Szolnok - Jászberény - Gyöngyös - Parádfürdő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1515,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1516,1516,Szeged - Szarvas - Kisújszállás - Tiszafüred,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1516,F6AC00,152B32,national
@@ -800,6 +800,7 @@ hkir_V,hkir_V-O-200-1562,1562,Pécs - Nagyatád - Zalaegerszeg,200,https://www.m
 hkir_V,hkir_V-O-200-1563,1563,Siófok - Székesfehérvár - Mór - Győr,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1563,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1564,1564,Pécs - Dombóvár - Veszprém - Pápa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1564,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1566,1566,Pécs - Kalocsa - Kecskemét,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1566,F6AC00,152B32,national
+hkir_V,hkir_V-O-200-1567,1567,Pécs-Fonyód,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1567,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1568,1568,Pécs - Szekszárd - Dunaföldvár - Kiskőrös,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1568,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1569,1569,Pécs - Kaposvár - Ajka,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1569,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1577,1577,Pécs - Baja - Kiskunfélegyháza - Csongrád - Szentes,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1577,F6AC00,152B32,national
@@ -836,7 +837,8 @@ hkir_V,hkir_V-O-200-1740,1740,Balatonfüred - Veszprém - Siófok - Dombóvár -
 hkir_V,hkir_V-O-200-1742,1742,Veszprém - Siófok - Kaposvár - Pécs,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1742,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1758,1758,Balatonfüred - Veszprém - Tatabánya,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1758,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1794,1794,Győr - Pápa - Sümeg - Hévíz - Keszthely - Nagykanizsa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1794,F6AC00,152B32,national
-hkir_V,hkir_V-O-200-1803,1803,Székesfehérvár - Dunaújváros - Solt - Kalocsa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1803,F6AC00,152B32,national
+hkir_V,hkir_V-O-200-1801,1801,Szombathely-Körmend-Zalaegerszeg-Hévíz-Keszthely-Badacsony,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1801,F6AC00,152B32,national
+hkir_V,hkir_V-O-200-1803,1803,Székesfehérvár-Mezőfalva-Dunaújváros-Solt-Kalocsa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1803,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1804,1804,Székesfehérvár - Siófok - Dombóvár - Komló,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1804,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1806,1806,Veszprém - Balatonfüred - Keszthely - Zalaegerszeg - Szombathely,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1806,F6AC00,152B32,national
 hkir_V,hkir_V-O-200-1808,1808,Székesfehérvár - Veszprém - Balatonfüred - Keszthely - Zalaegerszeg,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1808,F6AC00,152B32,national
@@ -878,6 +880,7 @@ hkir_V,hkir_V-R-200-1626,1626,Zalaegerszeg-Keszthely-Veszprém-Székesfehérvár
 hkir_V,hkir_V-R-200-1636,1636,Tapolca - Keszthely - Vasvár - Szombathely - Bükfürdő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1636,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1658,1658,Lenti - Zalaegerszeg - Keszthely - Balatonfüred - Veszprém,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1658,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1660,1660,Szombathely - Kőszeg - Sopron,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1660,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-1661,1661,Szombathely-Sárvár-Sümeg-Tapolca-Badacsony,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1661,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1662,1662,Szombathely - Csepreg - Sopron,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1662,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1664,1664,Szombathely - Sárvár - Sümeg - Tapolca,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1664,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-1666,1666,Szombathely - Hévíz - Keszthely - Pacsa - Nagykanizsa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/1666,F6AC00,152B32,regional
@@ -925,7 +928,7 @@ hkir_V,hkir_V-R-200-3065,3065,Salgótarján - Bátonyterenye - Mátraszőlős - 
 hkir_V,hkir_V-R-200-3066,3066,Salgótarján - Bátonyterenye - Mátraverebély(Szentkút),200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3066,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3067,3067,Salgótarján - Bátonyterenye - Pásztó - Csécse,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3067,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3070,3070,Salgótarján - Lucfalva - Kisbárkány - Tar - Pásztó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3070,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3072,3072,Salgótarján-Ságújfalu-Szécsény-Hollókő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3072,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-3072,3072,Hollókő - Szécsény - Salgótarján,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3072,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3075,3075,Salgótarján - Nógrádmegyer - Szécsény,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3075,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-308,308,Budapest - Dunakeszi - Fót - Budapest,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2010,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3080,3080,Salgótarján - Ságújfalu - Szécsény - Balassagyarmat,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3080,F6AC00,152B32,regional
@@ -966,7 +969,7 @@ hkir_V,hkir_V-R-200-3241,3241,Pásztó - Csécse - Ecseg - Kozárd - Pásztó,20
 hkir_V,hkir_V-R-200-325,325,Dunakeszi - Fót - Mogyoród - Gödöllő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2026,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3254,3254,Pásztó-Mátrakeresztes-Mátraszentimre-Galyatető,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3254,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3255,3255,Pásztó-Mátraszentimre-Mátraháza-Kékestető,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3255,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3258,3258,Becske - Galgaguta,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3258,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-3258,3258,Magyarnándor - Galgaguta - Bercel,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3258,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3259,3259,Szécsénke - Nógrádkövesd - Galgaguta - Bercel,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3259,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-326,326,Dunakeszi - Fót - Mogyoród - Gödöllő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2026,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3261,3261,Pásztó - Szurdokpüspöki - Buják,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3261,F6AC00,152B32,regional
@@ -974,7 +977,7 @@ hkir_V,hkir_V-R-200-3262,3262,Pásztó-Szarvasgede-Szirák-Vanyarc-Erdőkürt-Er
 hkir_V,hkir_V-R-200-3263,3263,Pásztó - Kisbágyon - Bér - Vanyarc,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3263,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3264,3264,Pásztó - Jobbágyi - Csécse - Alsótold,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3264,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3265,3265,Pásztó-Mátraszőlős,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3265,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3266,3266,Pásztó-Csécse-Palotás-Kálló-Erdőkürt-Vanyarc-Bercel-Nógrádsáp,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3266,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-3266,3266,Pásztó - Csécse - Palotás - Kálló - Erdőkürt - Vanyarc - Bercel,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3266,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-327,327,Fót - Mogyoród - Szada - Gödöllő,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2027,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3271,3271,Budapest - Vác - Balassagyarmat - Szécsény,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3271,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3272,3272,Pásztó - Hollókő - Szécsény,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3272,F6AC00,152B32,regional
@@ -1061,7 +1064,7 @@ hkir_V,hkir_V-R-200-3442,3442,Eger - Kápolna - Heves,200,https://www.mavcsoport
 hkir_V,hkir_V-R-200-3443,3443,Eger - Kápolna - Heves - Jászapáti - Jászberény,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3443,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3444,3444,Eger - Kápolna - Tarnabod - Boconád - Heves,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3444,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3445,3445,Eger - Kápolna - Gyöngyös,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3445,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-3446,3446,Eger - Kápolna - Tófalu - Verpelét - Egerszalók - Eger,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3446,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-3446,3446,Eger-Kápolna-Tófalu-Verpelét,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3446,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3448,3448,Eger - Gyöngyös - Hatvan - Nagykökényes,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3448,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-345,345,Vác - Göd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2064,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-3450,3450,Eger - Demjén - Kerecsend - Füzesabony,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/3450,F6AC00,152B32,regional
@@ -1781,7 +1784,7 @@ hkir_V,hkir_V-R-200-482,482,Budapest (Cinkota) - Nagytarcsa - Budapest (Rákoscs
 hkir_V,hkir_V-R-200-4820,4820,Békéscsaba - Doboz,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4820,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4824,4824,Békéscsaba - Gyula - Sarkad - Szeghalom/Körösújfalu,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4824,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4825,4825,Békéscsaba - Gyula,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4825,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-4826,4826,Békéscsaba - Gyula - Medgyesegyháza - Kunágota - Mezőkovácsháza,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4826,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-4826,4826,Békéscsaba-Gyula-Medgyesegyháza-Kunágota-Mezőkovácsháza-Battonya,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4826,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4827,4827,Békéscsaba - Gyula - Medgyesegyháza - Battonya,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4827,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4828,4828,Békéscsaba - Elek - Lökösháza - Mezőkovácsháza,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4828,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-4829,4829,Békéscsaba-Pusztaottlaka-Medgyesegyháza-Battonya-Mezőkovácsháza,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/4829,F6AC00,152B32,regional
@@ -1883,13 +1886,13 @@ hkir_V,hkir_V-R-200-5031,5031,Szeged - Röszke - Mórahalom,200,https://www.mavc
 hkir_V,hkir_V-R-200-5032,5032,Szeged - Mórahalom - Zákányszék - Bordány - Üllés - Forráskút - Zsombó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5032,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5033,5033,Szeged - Mórahalom - Kissor - Ásotthalom,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5033,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5034,5034,Szeged - Mórahalom - Ásotthalom - Ásotthalom(Gátsor),200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5034,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5035,5035,Szeged - Ásotthalom - Mélykút - Baja,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5035,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-5035,5035,Szeged-Mórahalom-Mélykút-Baja,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5035,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5036,5036,Mórahalom-Ökoszállás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5036,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-504,504,Kistarcsa - Rákoskeresztúr - Maglód - Gyömrő - Monor,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2212,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5040,5040,Szeged - Mórahalom - Ásotthalom,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5040,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5041,5041,Szeged - Domaszék - Szeged,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5041,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5042,5042,Szeged - Kelebia - Bácsalmás - Bácsbokod - Baja,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5042,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5043,5043,Szeged - Öttömös - Kelebia - Bácsalmás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5043,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-5042,5042,Szeged-Kelebia-Bácsalmás-Bácsbokod/Felsőszentiván-Baja,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5042,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-5043,5043,Szeged-Zákányszék-Öttömös-Kelebia-Bácsalmás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5043,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5044,5044,Szeged - Mórahalom - Zákányszék - Ruzsa - Öttömös - Pusztamérges,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5044,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5045,5045,Szeged - Zákányszék - Ruzsa - Öttömös - Pusztamérges,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5045,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5046,5046,Szeged - Zákányszék - Pusztamérges - Kiskunhalas,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5046,F6AC00,152B32,regional
@@ -1899,7 +1902,7 @@ hkir_V,hkir_V-R-200-5049,5049,Szeged - Üllés - Pusztamérges,200,https://www.m
 hkir_V,hkir_V-R-200-505,505,Budapest - Maglód - Gyömrő - Monor,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2211,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5050,5050,Szeged - Bordány - Üllés,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5050,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5054,5054,"Szeged - Bordány - Üllés - Kiskunmajsa, Gárgyán - Pusztamérges - Kiskunhalas",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5054,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5055,5055,Szeged - Zsombó - Forráskút - Kiskunmajsa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5055,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-5055,5055,Szeged-Zsombó-Forráskút-Csólyospálos-Kiskunmajsa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5055,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5056,5056,Szeged - Kiskunmajsa - Kiskunhalas - Kalocsa,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5056,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5058,5058,Szeged - Kiskunmajsa - Kiskőrös - Kalocsa/Solt,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5058,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5059,5059,"Szeged - Szatymaz - Balástya, Zöldmező aut. ford.",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5059,F6AC00,152B32,regional
@@ -1920,7 +1923,7 @@ hkir_V,hkir_V-R-200-509,509,Budapest - 31 - es út - Maglód - Gyömrő - Monor,
 hkir_V,hkir_V-R-200-510,510,Budapest - 31 - es út - Maglód - Gyömrő - Monor,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2214,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5100,5100,Csongrád - Csongrád - Bokros - Tiszaalpár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5100,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5105,5105,Csongrád - Hódmezővásárhely - Maroslele - Makó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5105,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5107,5107,Csongrád - Kettőshalom,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5107,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-5107,5107,Csongrád-Kettőshalom-Csongrád,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5107,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5109,5109,Szeged - Csongrád - Szentes - Kunszentmárton,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5109,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5110,5110,Szentes - Csongrád - Felgyő - Csanytelek - Tömörkény,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5110,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5111,5111,Csongrád - Felgyő - Maszlaghalom,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5111,F6AC00,152B32,regional
@@ -1933,14 +1936,14 @@ hkir_V,hkir_V-R-200-5123,5123,Szentes - Csongrád - Kiskunfélegyháza - Kiskunm
 hkir_V,hkir_V-R-200-5125,5125,Szentes - Fábiánsebestyén - Árpádhalom,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5125,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5126,5126,Szentes - Fábiánsebestyén - Eperjes - Gádoros - Nagyszénás - Orosháza,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5126,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5127,5127,Szentes - Gádoros - Eperjes,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5127,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5128,5128,Szentes - Derekegyház - Orosháza - Gyula,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5128,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-5128,5128,Szentes-Derekegyház-Orosháza-Békéscsaba-Gyula,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5128,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5129,5129,Szentes - Lapistó - Nagymágocs - Székkutas,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5129,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-513,513,Monor - Gomba - Felsőfarkasd - Úri - Sülysáp,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2226,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5130,5130,Szentes - Derekegyház - Derekegyház(Tompahát),200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5130,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5132,5132,Szentes - Derekegyház - Nagymágocs - Orosháza,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5132,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-514,514,Monor - Gomba - Felsőfarkasd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2219,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5140,5140,Szentes - Csongrád,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5140,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5143,5143,Szentes - Nagymágocs - Árpádhalom,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5143,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-5143,5143,Szentes-Lapistó-Nagymágocs-Árpádhalom,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5143,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-515,515,Monor - Gomba - Pánd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2220,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5150,5150,Hódmezővásárhely - Mártély - Mindszent - Szegvár - Szentes,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5150,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-516,516,Monor - Gomba - Pánd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2220,F6AC00,152B32,regional
@@ -1950,7 +1953,7 @@ hkir_V,hkir_V-R-200-5167,5167,Hódmezővásárhely - Makó - Pitvaros - Tótkoml
 hkir_V,hkir_V-R-200-5169,5169,Hódmezővásárhely - Földeák - Óföldeák - Makó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5169,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-517,517,Monor - Pánd - Nagykáta,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2221,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-518,518,Monor - Pánd - Nagykáta,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2221,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5183,5183,Makó-Igás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5183,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-5183,5183,Makó-Igás-Bogárzó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5183,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5184,5184,Makó - Királyhegyes - Makó(Rákos) - Makó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5184,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5186,5186,Makó-Kövegy-Csanádpalota-Pitvaros-Tótkomlós,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5186,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5187,5187,Szeged - M43 autópálya - Makó - Magyarcsanád - Nagylak,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5187,F6AC00,152B32,regional
@@ -2008,7 +2011,7 @@ hkir_V,hkir_V-R-200-5247,5247,Tiszakécske - Tiszabög - Pereghalom - Tiszakécs
 hkir_V,hkir_V-R-200-5248,5248,Tiszakécske-Tiszaug,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5248,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5249,5249,Tiszakécske - Tiszabög - Tiszajenő - Vezseny - Jászkarajenő - Köröstetétlen,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5249,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-525,525,Cegléd - Tápiószőlős - Újszilvás - Farmos - Nagykáta,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2415,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-5250,5250,Kecskemét-Mercedes 1.kapu-Helvécia-Ballószög,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5250,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-5250,5250,Kecskemét-Mercedes 1. kapu-Helvécia-Ballószög,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5250,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5251,5251,"Kiskunfélegyháza - Kiskunfélegyháza, Kőrösi út",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5251,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5252,5252,Kiskunfélegyháza - Tiszaalpár - Tiszakécske,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5252,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-5253,5253,Kiskunfélegyháza - Tiszaalpár - Lakitelek,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/5253,F6AC00,152B32,regional
@@ -2874,7 +2877,7 @@ hkir_V,hkir_V-R-200-7038,7038,Győr - Koroncó - Tét/Mórichida,200,https://www
 hkir_V,hkir_V-R-200-7039,7039,"Győr,Audi-gyár - Győrújbarát-hegy/Kajárpéc",200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7039,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-704,704,Százhalombatta - Ercsi - Martonvásár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8189,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7040,7040,Győr - Tényő - Sokorópátka - Gic - Pápateszér,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7040,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-7041,7041,Győr-Felpéc-Kajárpéc-Gyömöre-Tét,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7041,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-7041,7041,Győr-Felpéc-Kajárpéc-Gyömöre / Tét,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7041,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7042,7042,Győr - Tét - Mórichida/Csikvánd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7042,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7043,7043,Győr - Koroncó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7043,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-7044,7044,Győr-Felpéc-Kajárpéc-Lovászpatona,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/7044,F6AC00,152B32,regional
@@ -3326,8 +3329,8 @@ hkir_V,hkir_V-R-200-8201,8201,Dunaújváros - Kisapostag,200,https://www.mavcsop
 hkir_V,hkir_V-R-200-8202,8202,Dunaújváros - Dunavecse - Dunaegyháza - Dunaföldvár,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8202,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-8203,8203,Dunaújváros - Dunaföldvár - Solt - Dunavecse,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8203,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-8205,8205,Dunaújváros - Dunaföldvár - Solt,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8205,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-8206,8206,Dunaújváros - Solt - Újsolt,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8206,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-8207,8207,Dunaújváros - Solt - Akasztó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8207,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-8206,8206,Dunaújváros-Dunaföldvár-Solt-Nagymajor/Újsolt,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8206,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-8207,8207,Dunaújváros-Dunaföldvár-Solt-Akasztó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8207,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-821,821,Budapest - Pilisvörösvár - Pilisszántó,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/2865,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-8211,8211,Dunaújváros - Bölcske - Paks,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8211,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-8216,8216,Dunaújváros - Dunaföldvár - Nagykarácsony,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8216,F6AC00,152B32,regional
@@ -3335,7 +3338,7 @@ hkir_V,hkir_V-R-200-8217,8217,Dunaújváros - Daruszentmiklós - Előszállás,2
 hkir_V,hkir_V-R-200-8219,8219,Dunaújváros - Baracs - Dunaújváros,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8219,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-822,822,Tatabánya - Tarján - Szomor - Bajna - Epöl - Esztergom,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8422,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-8220,8220,Dunaújváros - Nagyvenyim - Mezőfalva - Nagysismánd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8220,F6AC00,152B32,regional
-hkir_V,hkir_V-R-200-8221,8221,Dunaújváros - Mezőfalva - Előszállás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8221,F6AC00,152B32,regional
+hkir_V,hkir_V-R-200-8221,8221,Dunaújváros-Mezőfalva-Nagykarácsony/Daruszentmiklós-Előszállás,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8221,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-8226,8226,Dunaújváros - Mezőfalva - Sárbogárd - Dég - Szabadhidvég,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8226,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-8227,8227,Dunaújváros - Mezőfalva - Kislók - Sárbogárd,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8227,F6AC00,152B32,regional
 hkir_V,hkir_V-R-200-8228,8228,Dunaújváros - Sárbogárd - Enying - Siófok,200,https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/vonali-menetrendek/8228,F6AC00,152B32,regional
